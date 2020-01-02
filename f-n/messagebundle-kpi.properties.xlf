@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-kpi.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="75abbf5de0c60e0372bdb9d75526bb2a" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:16:00Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONS" maxwidth="30" resname="ACTIONS" sap:sc="XBUT" size-unit="char">
+        <source>Pin to ...</source>
+        <note annotates="source" from="Developer">Button that opens the action menu  KEY=ACTIONS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CREATE_NEW_DB" maxwidth="30" resname="CREATE_NEW_DB" sap:sc="XMIT" size-unit="char">
+        <source>Pin to new dashboard ...</source>
+        <note annotates="source" from="Developer">Button in action menu that allows pinning to a new dashboard. opens popup for entering the dashboard details  KEY=CREATE_NEW_DB</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PUBLISH_TO" maxwidth="30" resname="PUBLISH_TO" sap:sc="XMIT" size-unit="char">
+        <source>Pin to <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Button in action menu that allows pinning to a given dashboard  KEY=PUBLISH_TO</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLISH_TO_HS" maxwidth="30" resname="PUBLISH_TO_HS" sap:sc="XMIT" size-unit="char">
+        <source>Pin to Home</source>
+        <note annotates="source" from="Developer">Button in action menu that allows pinning to the home screen  KEY=PUBLISH_TO_HS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_FAIL_TO_ADD_TILE_TO_HS" maxwidth="100" resname="ERROR_FAIL_TO_ADD_TILE_TO_HS" sap:sc="XMSG" size-unit="char">
+        <source>Failed to pin to home screen.</source>
+        <note annotates="source" from="Developer">shown to user if sharing a chart to the homescreen failed.  KEY=ERROR_FAIL_TO_ADD_TILE_TO_HS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SUCCESS_ADDED_TILE_SUCCESSFULLY_TO_HS" maxwidth="100" resname="SUCCESS_ADDED_TILE_SUCCESSFULLY_TO_HS" sap:sc="XMSG" size-unit="char">
+        <source>Pinned to home screen successfully.</source>
+        <note annotates="source" from="Developer">shown to user if a chart was shared successfully to the homescreen  KEY=SUCCESS_ADDED_TILE_SUCCESSFULLY_TO_HS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ERROR_INVALID_DATA_SET_USERMSG" maxwidth="100" resname="ERROR_INVALID_DATA_SET_USERMSG" sap:sc="XMSG" size-unit="char">
+        <source>Sorry, we cannot provide a <ph id="1">{0}</ph> visualization for your current selection!</source>
+        <note annotates="source" from="Developer">warning in visualization pane that the selected chart cannot render the selected data  KEY=ERROR_INVALID_DATA_SET_USERMSG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_INVALID_DATA_SET_CHART_USERMSG" maxwidth="100" resname="ERROR_INVALID_DATA_SET_CHART_USERMSG" sap:sc="XMSG" size-unit="char">
+        <source>Sorry, we cannot provide a chart for your current selection!</source>
+        <note annotates="source" from="Developer">warning in visualization pane that the selected data returns no data and thus cannot be rendered with any chart.  KEY=ERROR_INVALID_DATA_SET_CHART_USERMSG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_RETRIEVE_DATA" maxwidth="100" resname="ERROR_RETRIEVE_DATA" sap:sc="XMSG" size-unit="char">
+        <source>No data could be retrieved from the server.</source>
+        <note annotates="source" from="Developer">detail hint that says that no data could be retrieved. Reason for why no chart could be rendered  KEY=ERROR_RETRIEVE_DATA</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DEFAULT_HINT" maxwidth="100" resname="DEFAULT_HINT" sap:sc="XMSG" size-unit="char">
+        <source>Please change the data selection.</source>
+        <note annotates="source" from="Developer">default hint in visualization pane that indicates what the user can change for making the chart render  KEY=DEFAULT_HINT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_HINT" resname="TABLE_HINT" sap:sc="XMSG">
+        <source>Please select a valid data set.</source>
+        <note annotates="source" from="Developer">hint in visualization pane that indicates what the user has to change to make the table render  KEY=TABLE_HINT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PER" maxwidth="10" resname="PER" sap:sc="XTIT" size-unit="char">
+        <source>per</source>
+        <note annotates="source" from="Developer">used in generated chart title to connect dimension and measures, e.g., "Revenue per Year"  KEY=PER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FOR" maxwidth="10" resname="FOR" sap:sc="XTIT" size-unit="char">
+        <source>for</source>
+        <note annotates="source" from="Developer">used in generated chart title to connect dimension members and measures, e.g., "Revenue for 2014"  KEY=FOR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IN" maxwidth="10" resname="IN" sap:sc="XTIT" size-unit="char">
+        <source>in</source>
+        <note annotates="source" from="Developer">used in generated chart sub title to indicate that the values are in a certain unit, e.g., "in $"  KEY=IN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="AND_X_MORE" maxwidth="20" resname="AND_X_MORE" sap:sc="XTIT" size-unit="char">
+        <source>and <ph id="1">{0}</ph> more</source>
+        <note annotates="source" from="Developer">used in generated KPI title to abbreviate the list of measures and dimensions  KEY=AND_X_MORE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="AND_OTHERS" maxwidth="20" resname="AND_OTHERS" sap:sc="XTIT" size-unit="char">
+        <source>and others</source>
+        <note annotates="source" from="Developer">used in generated chart title to abbreviate the list of measures and dimensions  KEY=AND_OTHERS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_ERROR_SELECTION" maxwidth="70" resname="KPI_ERROR_SELECTION" sap:sc="XMSG" size-unit="char">
+        <source>Error: Please select cells of an account to create a KPI.</source>
+        <note annotates="source" from="Developer">shown if the selection in grid does not contain an account so that no KPIs can be defined and the dialog for that cannot be opened  KEY=KPI_ERROR_SELECTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_ERROR_MULTIPLE_ACCOUNTS_SELECTION" maxwidth="80" resname="KPI_ERROR_MULTIPLE_ACCOUNTS_SELECTION" sap:sc="XMSG" size-unit="char">
+        <source>Error: KPI spanning multiple accounts are not supported</source>
+        <note annotates="source" from="Developer">shown if the selection in grid spans multiple accounts. this is not supported. the KPI modeler dialog cannot be opened  KEY=KPI_ERROR_MULTIPLE_ACCOUNTS_SELECTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_ERROR_MULTIPLE_UNITS_SELECTION" maxwidth="150" resname="KPI_ERROR_MULTIPLE_UNITS_SELECTION" sap:sc="XMSG" size-unit="char">
+        <source>Error: KPIs spanning over dimensions with different units are not supported</source>
+        <note annotates="source" from="Developer">shown if the selection in grid spans multiple accounts. this is not supported. the KPI modeler dialog cannot be opened  KEY=KPI_ERROR_MULTIPLE_UNITS_SELECTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_ERROR_MULTI_MEMBER_FILTER" maxwidth="80" resname="KPI_ERROR_MULTI_MEMBER_FILTER" sap:sc="XMSG" size-unit="char">
+        <source>Error: KPI with filters by more than one member are not supported</source>
+        <note annotates="source" from="Developer">shown if a dimension of the report has been filtered to more than one dimension members, which is not supported by the KPI implementation.  KEY=KPI_ERROR_MULTI_MEMBER_FILTER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_NON_DISJOINT_OR_EQUAL_SELECTION" maxwidth="80" resname="KPI_NON_DISJOINT_OR_EQUAL_SELECTION" sap:sc="XMSG" size-unit="char">
+        <source>Error: The selection overlaps with already defined KPIs</source>
+        <note annotates="source" from="Developer">shown if the selection in grid overlaps with cells that have already KPIs defined. This is not supported, the KPI modeler dialog cannot be opened  KEY=KPI_NON_DISJOINT_OR_EQUAL_SELECTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="KPI_OVERLAP_SELECTION" maxwidth="200" resname="KPI_OVERLAP_SELECTION" sap:sc="XMSG" size-unit="char">
+        <source>The selection overlaps with the already existing KPI: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Info shown in a special dialog if the selection in grid overlaps with cells that have already a KPI defined.  KEY=KPI_OVERLAP_SELECTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="KPI_INCLUDE_SELECTION" maxwidth="80" resname="KPI_INCLUDE_SELECTION" sap:sc="XMSG" size-unit="char">
+        <source>The selection includes the already existing KPI: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Info shown in a special dialog if the selection in grid includes cells that have already a KPI defined.  KEY=KPI_INCLUDE_SELECTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="KPI_INCLUDED_BY_SELECTION" maxwidth="80" resname="KPI_INCLUDED_BY_SELECTION" sap:sc="XMSG" size-unit="char">
+        <source>The selection is included by an already existing KPI: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Info shown in a special dialog if the selection in grid is included by cells that have already a KPI defined.  KEY=KPI_INCLUDED_BY_SELECTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_OVERLAP" maxwidth="40" resname="KPI_OVERLAP" sap:sc="XTIT" size-unit="char">
+        <source>Overlapping Selection</source>
+        <note annotates="source" from="Developer">Dialog title of the KPI modeler dialog for overlapping cases  KEY=KPI_OVERLAP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_OVERLAP_OPTION_CHOOSE" maxwidth="70" resname="KPI_OVERLAP_OPTION_CHOOSE" sap:sc="XMSG" size-unit="char">
+        <source>Please choose an option:</source>
+        <note annotates="source" from="Developer">Info shown to the user indicating that he should select an option.  KEY=KPI_OVERLAP_OPTION_CHOOSE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_OVERLAP_OPTION_EDIT" maxwidth="50" resname="KPI_OVERLAP_OPTION_EDIT" sap:sc="XMSG" size-unit="char">
+        <source>Edit existing KPI</source>
+        <note annotates="source" from="Developer">Label of the radio button for the option to edit the existing KPI in overlap case  KEY=KPI_OVERLAP_OPTION_EDIT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_OVERLAP_OPTION_EDIT_HELP" maxwidth="150" resname="KPI_OVERLAP_OPTION_EDIT_HELP" sap:sc="XMSG" size-unit="char">
+        <source>Opens edit dialog for the existing KPI.</source>
+        <note annotates="source" from="Developer">Help Info for the option to edit the existing KPI in overlap case (presented next to KPI_OVERLAP_OPTION_EDIT)  KEY=KPI_OVERLAP_OPTION_EDIT_HELP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_OVERLAP_OPTION_CHANGE" maxwidth="50" resname="KPI_OVERLAP_OPTION_CHANGE" sap:sc="XMSG" size-unit="char">
+        <source>Change scope of existing KPI</source>
+        <note annotates="source" from="Developer">Label of the radio button for the option to change the existing KPI in overlap case  KEY=KPI_OVERLAP_OPTION_CHANGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_OVERLAP_OPTION_CHANGE_HELP" maxwidth="150" resname="KPI_OVERLAP_OPTION_CHANGE_HELP" sap:sc="XMSG" size-unit="char">
+        <source>Changes the scope of the existing KPI to your selection and then opens the edit dialog.</source>
+        <note annotates="source" from="Developer">Help Info for the option to change the existing KPI in overlap case (presented next to KPI_OVERLAP_OPTION_CHANGE)  KEY=KPI_OVERLAP_OPTION_CHANGE_HELP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="KPI_CONFIRM_CHANGE_SCOPE" maxwidth="150" resname="KPI_CONFIRM_CHANGE_SCOPE" sap:sc="XMSG" size-unit="char">
+        <source>Do you really want to change the scope of the already defined KPI '<ph id="1">{0}</ph>'?</source>
+        <note annotates="source" from="Developer">Question to the user to ask him to confirm the change of the scope the specific KPI applies to  KEY=KPI_CONFIRM_CHANGE_SCOPE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_DEFINITION" maxwidth="20" resname="KPI_DEFINITION" sap:sc="XTIT" size-unit="char">
+        <source>KPI Definition</source>
+        <note annotates="source" from="Developer">Dialog title of the KPI modeler dialog. used when creating a new KPI  KEY=KPI_DEFINITION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_NAME" maxwidth="20" resname="KPI_NAME" sap:sc="XTIT" size-unit="char">
+        <source>KPI Name</source>
+        <note annotates="source" from="Developer">Section title of the KPI modeler dialog. used when creating a new KPI  KEY=KPI_NAME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_THRESHOLDS" maxwidth="20" resname="KPI_THRESHOLDS" sap:sc="XTIT" size-unit="char">
+        <source>Thresholds</source>
+        <note annotates="source" from="Developer">Section title of the KPI modeler dialog. used when creating a new KPI  KEY=KPI_THRESHOLDS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_ADD_KPI" maxwidth="20" resname="KPI_ADD_KPI" sap:sc="XTIT" size-unit="char">
+        <source>+ Add KPI</source>
+        <note annotates="source" from="Developer">Button text to add new KPI.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_EDITING" maxwidth="20" resname="KPI_EDITING" sap:sc="XTIT" size-unit="char">
+        <source>Edit KPI</source>
+        <note annotates="source" from="Developer">Dialog title of the KPI modeler dialog. used when editing a new KPI  KEY=KPI_EDITING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_APPLY" maxwidth="20" resname="KPI_APPLY" sap:sc="XBUT" size-unit="char">
+        <source>Apply Changes</source>
+        <note annotates="source" from="Developer">apply button in the KPI modeler dialog. apply the changes and return to grid  KEY=KPI_APPLY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_SAVE_AND_APPLY" maxwidth="30" resname="KPI_SAVE_AND_APPLY" sap:sc="XBUT" size-unit="char">
+        <source>Save Report &amp; Apply Changes</source>
+        <note annotates="source" from="Developer">Button in Create/Edit-KPI dialog box shown for initial reports that trigger a report-save-as action when a KPI threshold is created  KEY=KPI_SAVE_AND_APPLY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_MISSING_UPDATE_RIGHTS" maxwidth="100" resname="KPI_MISSING_UPDATE_RIGHTS" sap:sc="XMSG" size-unit="char">
+        <source>Error: Missing update permissions for KPIs</source>
+        <note annotates="source" from="Developer">shown when the user makes an overlapping selection with existing KPIs, but does not have update rights  KEY=KPI_MISSING_UPDATE_RIGHTS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_MISSING_CREATE_RIGHTS" maxwidth="100" resname="KPI_MISSING_CREATE_RIGHTS" sap:sc="XMSG" size-unit="char">
+        <source>Error: Missing create permissions for KPIs</source>
+        <note annotates="source" from="Developer">shown when the user does not make an overlapping selection with existing KPIs, but does not have create rights  KEY=KPI_MISSING_CREATE_RIGHTS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_MISSING_DELETE_RIGHTS" maxwidth="100" resname="KPI_MISSING_DELETE_RIGHTS" sap:sc="XMSG" size-unit="char">
+        <source>Error: Missing delete permissions for KPIs</source>
+        <note annotates="source" from="Developer">shown when the user attempts to delete a kpi, but does not have delete rights  KEY=KPI_MISSING_DELETE_RIGHTS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_MULTIPLE_LEVEL_DIMENSTION_MEMBERS" maxwidth="110" resname="KPI_MULTIPLE_LEVEL_DIMENSTION_MEMBERS" sap:sc="XMSG" size-unit="char">
+        <source>Warning: multiple level dimension members are selected: KPI will be created only on lowest level members</source>
+        <note annotates="source" from="Developer">shown when the user select multiple level dimension members when creating a KPI</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_DELETE" maxwidth="10" resname="KPI_DELETE" sap:sc="XBUT" size-unit="char">
+        <source>Delete</source>
+        <note annotates="source" from="Developer">delete button in the KPI modeler dialog. Delete the KPI and return to Grid.  KEY=KPI_DELETE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_CANCEL" maxwidth="10" resname="KPI_CANCEL" sap:sc="XBUT" size-unit="char">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">Cancel button in the KPI modeler dialog. Cancel editing / creation and return to grid  KEY=KPI_CANCEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_OK" maxwidth="12" resname="KPI_OK" sap:sc="XSEL" size-unit="char">
+        <source>OK</source>
+        <note annotates="source" from="Developer">Status for a KPI to be on Normal/ok level or green. used for selection in the KPI modeler dialog  KEY=KPI_OK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_WARNING" maxwidth="12" resname="KPI_WARNING" sap:sc="XSEL" size-unit="char">
+        <source>Warning</source>
+        <note annotates="source" from="Developer">Status for a KPI to be on Warning level or yellow. used for selection in the KPI modeler dialog  KEY=KPI_WARNING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_CRITICAL" maxwidth="12" resname="KPI_CRITICAL" sap:sc="XSEL" size-unit="char">
+        <source>Critical</source>
+        <note annotates="source" from="Developer">Status for a KPI to be on Critical level or red. used for selection in the KPI modeler dialog  KEY=KPI_CRITICAL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_SAVE_ERROR" maxwidth="45" resname="KPI_SAVE_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Error: the KPI could not be saved</source>
+        <note annotates="source" from="Developer">shown after the user pressed save KPI but that failed  KEY=KPI_SAVE_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_UNIT_MITMATCH" maxwidth="60" resname="KPI_UNIT_MITMATCH" sap:sc="XMSG" size-unit="char">
+        <source>KPI with different unit already defined here</source>
+        <note annotates="source" from="Developer">shown when a user tries to create a KPI on cells for which there are already KPIs defined that are currently not visible, as they are defined for another unit / currency  KEY=KPI_UNIT_MITMATCH</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_MIN_VALUE_PLACEHOLDER" maxwidth="16" resname="KPI_MIN_VALUE_PLACEHOLDER" sap:sc="XTIT" size-unit="char">
+        <source>lower bound</source>
+        <note annotates="source" from="Developer">placeholder for the KPI lower value fields in the KPI modeler dialog. shown if it does not contain any value  KEY=KPI_MIN_VALUE_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_MAX_VALUE_PLACEHOLDER" maxwidth="16" resname="KPI_MAX_VALUE_PLACEHOLDER" sap:sc="XTIT" size-unit="char">
+        <source>upper bound</source>
+        <note annotates="source" from="Developer">placeholder for the KPI upper value fields in the KPI modeler dialog. shown if it does not contain any value  KEY=KPI_MAX_VALUE_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_NAME_PLACEHOLDER" maxwidth="20" resname="KPI_NAME_PLACEHOLDER" sap:sc="XTIT" size-unit="char">
+        <source>optional name</source>
+        <note annotates="source" from="Developer">placeholder for the KPI interval name fields in the KPI modeler dialog. shown if it does not contain any value  KEY=KPI_NAME_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_DELETE_INTERVAL" maxwidth="20" resname="KPI_DELETE_INTERVAL" sap:sc="XFLD" size-unit="char">
+        <source>Delete interval</source>
+        <note annotates="source" from="Developer">Tooltip on button to delete an interval in the KPI modeler dialog  KEY=KPI_DELETE_INTERVAL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_ADD_INTERVAL" maxwidth="20" resname="KPI_ADD_INTERVAL" sap:sc="XFLD" size-unit="char">
+        <source>Add interval</source>
+        <note annotates="source" from="Developer">Tooltip on button to add an interval in the KPI modeler dialog  KEY=KPI_ADD_INTERVAL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="KPI_CUSTOM_CELL_NAME" maxwidth="10" resname="KPI_CUSTOM_CELL_NAME" sap:sc="XTIT" size-unit="char">
+        <source>KPI <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">KPI placeholder name, e.g. KPI 1, KPI 2  KEY = KPI_CUSTOM_CELL_NAME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BAR" maxwidth="30" resname="BAR" sap:sc="XTIT" size-unit="char">
+        <source>Bar</source>
+        <note annotates="source" from="Developer">name of bar chart. used in various places like the visualization type selection popup  KEY=BAR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COLUMN" maxwidth="30" resname="COLUMN" sap:sc="XTIT" size-unit="char">
+        <source>Column</source>
+        <note annotates="source" from="Developer">name of column chart. used in various places like the visualization type selection popup  KEY=COLUMN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STACKED_BAR" maxwidth="30" resname="STACKED_BAR" sap:sc="XTIT" size-unit="char">
+        <source>Stacked bar</source>
+        <note annotates="source" from="Developer">name of stacked bar chart. used in various places like the visualization type selection popup  KEY=STACKED_BAR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STACKED_COLUMN" maxwidth="30" resname="STACKED_COLUMN" sap:sc="XTIT" size-unit="char">
+        <source>Stacked column</source>
+        <note annotates="source" from="Developer">name of stacked column chart. used in various places like the visualization type selection popup  KEY=STACKED_COLUMN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GAUGE" maxwidth="30" resname="GAUGE" sap:sc="XTIT" size-unit="char">
+        <source>Gauge</source>
+        <note annotates="source" from="Developer">name of gauge chart. used in various places like the visualization type selection popup  KEY=GAUGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DRILL_COLUMN" maxwidth="30" resname="DRILL_COLUMN" sap:sc="XTIT" size-unit="char">
+        <source>Drill column</source>
+        <note annotates="source" from="Developer">name of drill column chart  KEY=DRILL_COLUMN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPORT_CSV" maxwidth="50" resname="EXPORT_CSV" sap:sc="XFLD" size-unit="char">
+        <source>Export as CSV</source>
+        <note annotates="source" from="Developer">tooltip for export as csv button KEY=EXPORT_CSV</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NON_SPECIFIED_INTERVAL_ENDS_MESSAGE" maxwidth="100" resname="NON_SPECIFIED_INTERVAL_ENDS_MESSAGE" sap:sc="XMSG" size-unit="char">
+        <source>At least one interval end must be specified</source>
+        <note annotates="source" from="Developer">displayed next to one of the interval ends input field to show that it contains invalid content in KPI modeler dialog  KEY=NON_SPECIFIED_INTERVAL_ENDS_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_INTERVAL_ENDS_MESSAGE" maxwidth="100" resname="INVALID_INTERVAL_ENDS_MESSAGE" sap:sc="XMSG" size-unit="char">
+        <source>Intervals must not overlap</source>
+        <note annotates="source" from="Developer">displayed next to one of the interval ends input field to show that it contains invalid content in KPI modeler dialog  KEY=INVALID_INTERVAL_ENDS_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_INTERVAL_FORMAT_MESSAGE" maxwidth="100" resname="INVALID_INTERVAL_FORMAT_MESSAGE" sap:sc="XMSG" size-unit="char">
+        <source>Only numbers are allowed as interval ends</source>
+        <note annotates="source" from="Developer">displayed next to one of the interval ends input field to show that it contains invalid content in KPI modeler dialog  KEY=INVALID_INTERVAL_FORMAT_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MAX_BEFORE_MIN_INTERVAL_ENDS_MESSAGE" maxwidth="100" resname="MAX_BEFORE_MIN_INTERVAL_ENDS_MESSAGE" sap:sc="XMSG" size-unit="char">
+        <source>Left interval end must be lower than right interval end</source>
+        <note annotates="source" from="Developer">displayed next to one of the interval ends input field to show that it contains invalid content in KPI modeler dialog  KEY=MAX_BEFORE_MIN_INTERVAL_ENDS_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_CHARACTERS_IN_NAME_MESSAGE" maxwidth="100" resname="INVALID_CHARACTERS_IN_NAME_MESSAGE" sap:sc="XMSG" size-unit="char">
+        <source>Only alphanumeric characters, spaces and the "_" symbols are allowed</source>
+        <note annotates="source" from="Developer">displayed next to the interval name input field to show that it contains invalid content in KPI modeler dialog  KEY=INVALID_CHARACTERS_IN_NAME_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="CHART_PERSPECTIVE_LEVEL" maxwidth="20" resname="CHART_PERSPECTIVE_LEVEL" sap:sc="XTIT" size-unit="char">
+        <source>(Level <ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Suffix for dimension names in the visualization that have been created artificially  KEY=CHART_PERSPECTIVE_LEVEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TITLE" maxwidth="50" resname="TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Title</source>
+        <note annotates="source" from="Developer">label for input field for editing the chart title  KEY=TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SUBTITLE" maxwidth="50" resname="SUBTITLE" sap:sc="XFLD" size-unit="char">
+        <source>Subtitle</source>
+        <note annotates="source" from="Developer">label for input field for editing the chart subtitle  KEY=SUBTITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NEW_TITLE" maxwidth="50" resname="NEW_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>New title</source>
+        <note annotates="source" from="Developer">placeholder for input field for chart title if nothing is set yet  KEY=NEW_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTUAL" maxwidth="20" resname="ACTUAL" sap:sc="XTIT" size-unit="char">
+        <source>ACTUAL</source>
+        <note annotates="source" from="Developer">showing that a number in the gauge bar chart is the actual value (compared to target). upper case is by design  KEY=ACTUAL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VALIDATION_HINT_NO_THRESHOLD" maxwidth="200" resname="VALIDATION_HINT_NO_THRESHOLD" sap:sc="XMSG" size-unit="char">
+        <source>Create a threshold.</source>
+        <note annotates="source" from="Developer">hint for the user that no thresholds are defined  KEY=VALIDATION_HINT_NO_THRESHOLD</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VALIDATION_HINT_TOO_MANY_INTERVALS" maxwidth="200" resname="VALIDATION_HINT_TOO_MANY_INTERVALS" sap:sc="XMSG" size-unit="char">
+        <source>Reduce the amount of intervals until you have only two that intersect in one value</source>
+        <note annotates="source" from="Developer">hint for the user to reduce the amount of intervals, because there are too many of them  KEY=VALIDATION_HINT_TOO_MANY_INTERVALS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VALIDATION_HINT_INTERVALS_HAVE_GAP" maxwidth="200" resname="VALIDATION_HINT_INTERVALS_HAVE_GAP" sap:sc="XMSG" size-unit="char">
+        <source>Change the two intervals so that that there is no gap to the left, the right, or in between.</source>
+        <note annotates="source" from="Developer">hint for the user to make the two intervals intersecting</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VALIDATION_HINT_TOO_FEW_INTERVALS" maxwidth="200" resname="VALIDATION_HINT_TOO_FEW_INTERVALS" sap:sc="XMSG" size-unit="char">
+        <source>Create another interval that intersects in one value with the existing interval.</source>
+        <note annotates="source" from="Developer">hint for the user to create another interval, because there are too few (only 1)  KEY=VALIDATION_HINT_TOO_FEW_INTERVALS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VALIDATION_HINT_CREATE_TWO_INTERVALS" maxwidth="200" resname="VALIDATION_HINT_CREATE_TWO_INTERVALS" sap:sc="XMSG" size-unit="char">
+        <source>Create two gapless intervals.</source>
+        <note annotates="source" from="Developer">hint for the user to create intervals, because there are none at the moment  KEY=VALIDATION_HINT_CREATE_TWO_INTERVALS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VALIDATION_HINT_EXACT_VALUE" maxwidth="200" resname="VALIDATION_HINT_EXACT_VALUE" sap:sc="XMSG" size-unit="char">
+        <source>Make sure that you have exactly <ph id="1">{0}</ph> value(s) selected.</source>
+        <note annotates="source" from="Developer">hint for the user to select an exact amount of values in the grid  KEY=VALIDATION_HINT_EXACT_VALUE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VALIDATION_HINT_RANGE_VALUE" maxwidth="200" resname="VALIDATION_HINT_RANGE_VALUE" sap:sc="XMSG" size-unit="char">
+        <source>Make sure that you have between <ph id="1">{0}</ph> and <ph id="2">{1}</ph> values selected.</source>
+        <note annotates="source" from="Developer">hint for the user to select an amount of values between min and max in the grid  KEY=VALIDATION_HINT_RANGE_VALUE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VALIDATION_HINT_EXACT_MEASURE" maxwidth="200" resname="VALIDATION_HINT_EXACT_MEASURE" sap:sc="XMSG" size-unit="char">
+        <source>Make sure that you have exactly <ph id="1">{0}</ph> accounts selected.</source>
+        <note annotates="source" from="Developer">hint for the user to select an exact amount of measures in the grid  KEY=VALIDATION_HINT_EXACT_MEASURE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VALIDATION_HINT_RANGE_MEASURE" maxwidth="200" resname="VALIDATION_HINT_RANGE_MEASURE" sap:sc="XMSG" size-unit="char">
+        <source>Make sure that you have between <ph id="1">{0}</ph> and <ph id="2">{1}</ph> accounts selected.</source>
+        <note annotates="source" from="Developer">hint for the user to select an amount of measures between min and max in the grid  KEY=VALIDATION_HINT_RANGE_MEASURE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VALIDATION_HINT_CREATE_INTERVALS" maxwidth="200" resname="VALIDATION_HINT_CREATE_INTERVALS" sap:sc="XMSG" size-unit="char">
+        <source>Create some intervals.</source>
+        <note annotates="source" from="Developer">hint for the user to create any amount of intervals, because there are none at the moment  KEY=VALIDATION_HINT_CREATE_INTERVALS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_LIST_INTERVALS_OVERVIEW_TITLE" maxwidth="15" resname="KPI_LIST_INTERVALS_OVERVIEW_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Thresholds</source>
+        <note annotates="source" from="Developer">label used as a header in the KPIs overview panel to indicate that the section containing the KPIs tree starts  KEY=KPI_LIST_INTERVALS_OVERVIEW_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_LIST_KPIS_OVERVIEW_TITLE" maxwidth="20" resname="KPI_LIST_KPIS_OVERVIEW_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Defined KPIs</source>
+        <note annotates="source" from="Developer">label used as a header in KPIs overview panel to indicate that the section containing the KPI's intervals starts  KEY=KPI_LIST_KPIS_OVERVIEW_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_LIST_EDIT_KPI" maxwidth="25" resname="KPI_LIST_EDIT_KPI" sap:sc="XFLD" size-unit="char">
+        <source>Edit KPI</source>
+        <note annotates="source" from="Developer">tooltip used for the KPI edit icon in the KPIs overview panel  KEY=KPI_LIST_EDIT_KPI</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_LIST_NO_RIGHTS_TO_EDIT_KPI" maxwidth="25" resname="KPI_LIST_NO_RIGHTS_TO_EDIT_KPI" sap:sc="XFLD" size-unit="char">
+        <source>No edit rights for KPI</source>
+        <note annotates="source" from="Developer">tooltip used for the KPI edit icon in the KPIs overview panel  KEY=KPI_LIST_NO_RIGHTS_TO_EDIT_KPI</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_LIST_DELETE_KPI" maxwidth="25" resname="KPI_LIST_DELETE_KPI" sap:sc="XFLD" size-unit="char">
+        <source>Delete KPI</source>
+        <note annotates="source" from="Developer">tooltip used for the KPI delete icon in the KPIs overview panel  KEY=KPI_LIST_DELETE_KPI</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_LIST_NO_RIGHTS_TO_DELETE_KPI" maxwidth="30" resname="KPI_LIST_NO_RIGHTS_TO_DELETE_KPI" sap:sc="XFLD" size-unit="char">
+        <source>No delete rights for KPI</source>
+        <note annotates="source" from="Developer">tooltip used for the KPI delete icon in the KPIs overview panel  KEY=KPI_LIST_NO_RIGHTS_TO_DELETE_KPI</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_LIST_CONFIRM_KPI_DELETION_MESSAGE" maxwidth="60" resname="KPI_LIST_CONFIRM_KPI_DELETION_MESSAGE" sap:sc="XMSG" size-unit="char">
+        <source>Do you want to delete the selected KPI?</source>
+        <note annotates="source" from="Developer">message shown in the confirmation dialog open at the deletion of a KPI  KEY=KPI_LIST_CONFIRM_KPI_DELETION_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_THRESHOLDS_LIST_EMPTY_MESSAGE" maxwidth="200" resname="KPI_THRESHOLDS_LIST_EMPTY_MESSAGE" sap:sc="XMSG" size-unit="char">
+        <source>You have to select a KPI to see its Threshold.</source>
+        <note annotates="source" from="Developer">hint for the user that the variance chart needs the version dimension  KEY=KPI_THRESHOLDS_LIST_EMPTY_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VARIANCE_SELECT_VERSION_PERSPECTIVE" maxwidth="200" resname="VARIANCE_SELECT_VERSION_PERSPECTIVE" sap:sc="XMSG" size-unit="char">
+        <source>Include the version dimension in your selection.</source>
+        <note annotates="source" from="Developer">hint for the user that the variance chart needs the version dimension  KEY=VARIANCE_SELECT_VERSION_PERSPECTIVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VARIANCE_SELECT_TIME_PERSPECTIVE" maxwidth="200" resname="VARIANCE_SELECT_TIME_PERSPECTIVE" sap:sc="XMSG" size-unit="char">
+        <source>Include the time dimension in your selection.</source>
+        <note annotates="source" from="Developer">hint for the user that the variance chart needs the time dimension  KEY=VARIANCE_SELECT_TIME_PERSPECTIVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VARIANCE_SELECT_MORE_PERSPECTIVES" maxwidth="200" resname="VARIANCE_SELECT_MORE_PERSPECTIVES" sap:sc="XMSG" size-unit="char">
+        <source>Select more dimensions.</source>
+        <note annotates="source" from="Developer">hint for the user that there are too few dimensions selected for the variance chart  KEY=VARIANCE_SELECT_MORE_PERSPECTIVES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGINATION_NEXT" maxwidth="50" resname="PAGINATION_NEXT" sap:sc="XTOL" size-unit="char">
+        <source>Next page</source>
+        <note annotates="source" from="Developer">tooltip for next button on pagination  KEY=PAGINATION_NEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGINATION_PREV" maxwidth="50" resname="PAGINATION_PREV" sap:sc="XTOL" size-unit="char">
+        <source>Previous page</source>
+        <note annotates="source" from="Developer">tooltip for previous button on pagination  KEY=PAGINATION_PREV</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CHART_SELECT_NON_NULL_MEASURE" maxwidth="200" resname="CHART_SELECT_NON_NULL_MEASURE" sap:sc="XMSG" size-unit="char">
+        <source>Do not include only blank values in your selection.</source>
+        <note annotates="source" from="Developer">hint for the user that the chart needs the measure to contain non-null data  KEY=CHART_SELECT_NON_NULL_MEASURE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VARIANCE" maxwidth="20" resname="VARIANCE" sap:sc="XTIT" size-unit="char">
+        <source>Variance line</source>
+        <note annotates="source" from="Developer">label for the variance part of the variance chart  KEY=VARIANCE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VARIANCE2" maxwidth="20" resname="VARIANCE2" sap:sc="XTIT" size-unit="char">
+        <source>Variance bar</source>
+        <note annotates="source" from="Developer">label for the variance part of the variance chart  KEY=VARIANCE2</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="AMOUNT" maxwidth="20" resname="AMOUNT" sap:sc="XTIT" size-unit="char">
+        <source>Amount</source>
+        <note annotates="source" from="Developer">label for the amount part of the variance chart  KEY=AMOUNT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BASELINE" maxwidth="20" resname="BASELINE" sap:sc="XFLD" size-unit="char">
+        <source>Baseline</source>
+        <note annotates="source" from="Developer">dialog label for selecting the base line  KEY=BASELINE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REFERENCE" maxwidth="20" resname="REFERENCE" sap:sc="XFLD" size-unit="char">
+        <source>Reference</source>
+        <note annotates="source" from="Developer">dialog label for selecting the base line  KEY=REFERENCE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VARIANCE_TYPE" maxwidth="20" resname="VARIANCE_TYPE" sap:sc="XFLD" size-unit="char">
+        <source>Variance type</source>
+        <note annotates="source" from="Developer">dialog label for selecting the variance type  KEY=VARIANCE_TYPE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ABSOLUTE" maxwidth="20" resname="ABSOLUTE" sap:sc="XFLD" size-unit="char">
+        <source>Absolute</source>
+        <note annotates="source" from="Developer">option label for selecting variance type "absolute"  KEY=ABSOLUTE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE" maxwidth="20" resname="RELATIVE" sap:sc="XFLD" size-unit="char">
+        <source>Relative</source>
+        <note annotates="source" from="Developer">option label for selecting variance type "relative"  KEY=RELATIVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VARIANCE_TITLE" maxwidth="200" resname="VARIANCE_TITLE" sap:sc="XTIT" size-unit="char">
+        <source><ph id="1">{0}</ph> for <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">title for variance charts, result will be something like "Revenue for 2013, 2014"  KEY=VARIANCE_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VDT_SELECT_SINGLE_CELL" maxwidth="100" resname="VDT_SELECT_SINGLE_CELL" sap:sc="XTIT" size-unit="char">
+        <source>Select only single account member dimension for value driver tree</source>
+        <note annotates="source" from="Developer">Value driver tree validation, only single select cell shoud be allowed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CHANGE_ORIENTATION" maxwidth="50" resname="CHANGE_ORIENTATION" sap:sc="XTIT" size-unit="char">
+        <source>Change Orientation</source>
+        <note annotates="source" from="Developer">Text on change chart orientation option</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

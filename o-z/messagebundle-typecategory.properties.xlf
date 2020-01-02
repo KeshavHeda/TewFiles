@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-typecategory.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="8dfd865b4c5959f4b224c7f4dec3a741" form="base64">H4sIAAAAAAAAAH2VzXbaMBCF93kKn5N1cghpfrrIQsiCuAhLlWSSdMMxRiFujEVlO2369B1IAINEt/Z3NdLMnZnTQAkUS4oUOTkNJpNilp/XNi2rIq1zU543TT67u728urruTC/Pul+ep2cXF/rq7Pb65vmsc9vpdDud7GvavTk5Af3jSA5OmLonYqKeOJlgOHbAxFNwF7D6RdsNEkYjEsuIxQ4W5gtdVhC52rA46REHG5mZLrYIpyiOo3jgRXmRlmVezg80KEb0SUXYq0FlWrzXeXagucc8RApJlgjsiiTiAS5MM1uFrJ+NXQRhWqeVaWymq73s/OeUdZ58QgGMQ+PGWl1m+Q4bsZBQhyN8dPCWRHqKlFTa7rIqWD+iRJERp77YKq1eA6UXS3itPlQ5tDDFDlIEjdzzdLrYlScJI+XWJavzt7x+D6iZb9FVMv34KosBfknLud5TCMKZcHGhl8bWW2rIIweBb6248r7HkAg9cauXqUntbMtKBX9cx9TGtkrHet8IVhOZ9Nbg8cQf5vyBiWGfsgeHfDD29bkwv7ckjfoEP2FPfUK9LMw7NN8uAWRMYrVBXEu9ARtguMd87xVrFbgAEymPiLg1YOzqQOOHd55Bcuj14O6UR0UEtDVmcQyJ9I0XbMpSZ3V7vowjmSAa/UBewTivmrTI/6Z7GkQpw2uBVIS7Ni0Kk60VUGK99MiO5aeldJL0AIN6QGHMffrEKTaM7XmxmnRs+hMeeSD0tPuHotXy5JFTJjwk+QPusC2yT8jqKjTBQ9caHEADI/SjAVH2q8mrfC+B0EehiMZEKEFcL8LfILT5GwxCZbV25rzX6+O0aLRXhhLFRgCGYSQxg6AR8WS+qc0CzDyDFVRlBg4BT2+PGBB2fGfRTcnc5cUFkWBtv7e41RU4fN9ahEkkJfHMvs+dVAX3zTRA4Iy6LZJKJFgl4vgy+xDK2jZZ3Vjtv+O461nJ87yGYvZWE80aswiWvov3GQ09zumbYtZeKp8llOR7QmLP/vu0zH67cU4j7E/i5nVwQbRcFvlHKdq7AXpuCBH9kaB2r9Ay/wB+zyAlBwkAAA==</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:57Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OTHER_TYPE_CATEGORY" resname="OTHER_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Other</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIMENSION_TYPE_CATEGORY" resname="DIMENSION_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Dimensions</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CUBE_TYPE_CATEGORY" resname="CUBE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Models</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNINGCUBE_TYPE_CATEGORY" resname="PLANNINGCUBE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Planning Models</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTICCUBE_TYPE_CATEGORY" resname="ANALYTICCUBE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Analytic Models</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HCPDATASOURCE_TYPE_CATEGORY" resname="HCPDATASOURCE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>SAP Cloud Platform Datasources</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OTHERDATASOURCE_TYPE_CATEGORY" resname="OTHERDATASOURCE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Other Datasources</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RATE_TYPE_CATEGORY" resname="RATE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Currencies</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_TYPE_CATEGORY" resname="MODEL_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>EPM Models</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="USER_TYPE_CATEGORY" resname="USER_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Users</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROFILETEMPLATE_TYPE_CATEGORY" resname="PROFILETEMPLATE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Task Templates</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROFILE_TYPE_CATEGORY" resname="PROFILE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Roles</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TEAM_TYPE_CATEGORY" resname="TEAM_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Teams</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="AUDIT_TYPE_CATEGORY" resname="AUDIT_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Activity Logs</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATAAUDIT_TYPE_CATEGORY" resname="DATAAUDIT_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Data Change Logs</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REPORT_TYPE_CATEGORY" resname="REPORT_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Reports</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI_TYPE_CATEGORY" resname="KPI_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>KPIs</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASHBOARD_TYPE_CATEGORY" resname="DASHBOARD_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Dashboards</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_TYPE_CATEGORY" resname="STORY_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Stories</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OBJECT_SUBTYPE_TEMPLATE_TYPE_CATEGORY" resname="OBJECT_SUBTYPE_TEMPLATE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Templates</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WORKFLOW_TYPE_CATEGORY" resname="WORKFLOW_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Workflows</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIFECYCLE_TYPE_CATEGORY" resname="LIFECYCLE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Deployments</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EVENTCATEGORY_TYPE_CATEGORY" resname="EVENTCATEGORY_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Event Categories</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EVENTPROCESS_TYPE_CATEGORY" resname="EVENTPROCESS_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Event Processes</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EVENT_TYPE_CATEGORY" resname="EVENT_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Events</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TASK_TYPE_CATEGORY" resname="TASK_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Tasks</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXTERNALCONNECTION_TYPE_CATEGORY" resname="EXTERNALCONNECTION_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Connections</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VISUALIZATION_TYPE_CATEGORY" resname="VISUALIZATION_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Visualizations</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOCATIONSTEP_TYPE_CATEGORY" resname="ALLOCATIONSTEP_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Allocation Steps</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOCATIONPROCESS_TYPE_CATEGORY" resname="ALLOCATIONPROCESS_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Allocation Processes</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WRANGLINGOBJECT_TYPE_CATEGORY" resname="WRANGLINGOBJECT_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Wrangling Objects</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WRANGLER_TYPE_CATEGORY" resname="WRANGLER_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Wranglers</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_TYPE_CATEGORY" resname="EXPLORER_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Explorers</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FEELINGLUCKY_TYPE_CATEGORY" resname="FEELINGLUCKY_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Personal Data Acquisitions</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPIDRIVERTREE_TYPE_CATEGORY" resname="KPIDRIVERTREE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>KPI Driver Trees</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNINGFLOW_TYPE_CATEGORY" resname="PLANNINGFLOW_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Value Driver Trees</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="AUTOMATEDDISCOVERIES_TYPE_CATEGORY" resname="AUTOMATEDDISCOVERIES_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Automated Discoveriess</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GEODIMENSION_TYPE_CATEGORY" resname="GEODIMENSION_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Location Dimensions</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TYPE_CATEGORY" resname="PRESENTATION_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Presentations</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EOSASSET_TYPE_CATEGORY" resname="EOSASSET_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Analytics Hub Assets</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EOSSTRUCTURE_TYPE_CATEGORY" resname="EOSSTRUCTURE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Analytics Hub Structures</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_V2_TYPE_CATEGORY" resname="PRESENTATION_V2_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Digital Boardroom presentations</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FOLDER_TYPE_CATEGORY" resname="FOLDER_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Folders</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNINGSEQUENCE_TYPE_CATEGORY" resname="PLANNINGSEQUENCE_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Data Actions</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="APPLICATION_TYPE_CATEGORY" resname="APPLICATION_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Analytical Application</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATALOCKING_TYPE_CATEGORY" resname="DATALOCKING_TYPE_CATEGORY" sap:sc="XMSG">
+        <source>Data Locking</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-dataLocking.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="025df5d7b12acf98c885f9b2dc350d33" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:56Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_CONFIGURE_TOOLBAR" resname="SHOW_CONFIGURE_TOOLBAR" sap:sc="XTOL">
+        <source>Show toolbar</source>
+        <note annotates="source" from="Developer">Tooltip of a "down" arrow that makes a toolbar visible, KEY=SHOW_CONFIGURE_TOOLBAR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HIDE_CONFIGURE_TOOLBAR" resname="HIDE_CONFIGURE_TOOLBAR" sap:sc="XTOL">
+        <source>Hide toolbar</source>
+        <note annotates="source" from="Developer">Tooltip of an "up" arrow that makes a toolbar invisible, KEY=SHOW_CONFIGURE_TOOLBAR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADD_DRIVING_DIMENSION" resname="ADD_DRIVING_DIMENSION" sap:sc="XLNK">
+        <source>+ Add a new Driving Dimension</source>
+        <note annotates="source" from="Developer">Link text to add new driving dimensions  KEY=ADD_DRIVING_DIMENSION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FINISH_EDIT_DRIVING_DIM" maxwidth="26" resname="FINISH_EDIT_DRIVING_DIM" sap:sc="XFLD" size-unit="char">
+        <source>Finish Editing</source>
+        <note annotates="source" from="Developer">Text of button that finished editing driving dimensions KEY=FINISH_EDIT_DRIVING_DIM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CLOSE_DL_DIALOG" maxwidth="30" resname="CLOSE_DL_DIALOG" sap:sc="XBUT" size-unit="char">
+        <source>Close</source>
+        <note annotates="source" from="Developer">button for closing the dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CANCEL_DL_DIALOG" maxwidth="30" resname="CANCEL_DL_DIALOG" sap:sc="XBUT" size-unit="char">
+        <source>Close</source>
+        <note annotates="source" from="Developer">button for canceling the dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_DL_DIALOG" maxwidth="30" resname="SELECT_DL_DIALOG" sap:sc="XBUT" size-unit="char">
+        <source>Add Slice</source>
+        <note annotates="source" from="Developer">button to select the current data lock slice and close the dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATALOCKING_TOOLS" maxwidth="100" resname="DATALOCKING_TOOLS" sap:sc="XTXT" size-unit="char">
+        <source>Data Locking Tools</source>
+        <note annotates="source" from="Developer">header for the toolbar in data lock configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EDIT_DRIVING_DIMENSIONS_HEADER_TEXT" resname="EDIT_DRIVING_DIMENSIONS_HEADER_TEXT" sap:sc="XTXT">
+        <source>Edit Driving Dimensions</source>
+        <note annotates="source" from="Developer">Header of the edit driving dimensions section KEY=EDIT_DRIVING_DIMENSIONS_HEADER_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DRIVING_DIMENSIONS_HEADER_TEXT" resname="DRIVING_DIMENSIONS_HEADER_TEXT" sap:sc="XTXT">
+        <source>Driving Dimensions</source>
+        <note annotates="source" from="Developer">Header of driving dimensions section KEY=DRIVING_DIMENSIONS_HEADER_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENABLE_DATALOCKING_OWNERSHIP_HEADER_TEXT" resname="ENABLE_DATALOCKING_OWNERSHIP_HEADER_TEXT" sap:sc="XTXT">
+        <source>Data Locking Owners</source>
+        <note annotates="source" from="Developer">Text of Form Info Item describing data locking ownership KEY=ENABLE_DATALOCKING_OWNERSHIP_HEADER_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENABLE_DATALOCKING_OWNERSHIP_INFO_TIP" resname="ENABLE_DATALOCKING_OWNERSHIP_INFO_TIP" sap:sc="XTOL">
+        <source>Enable data locking ownership for one or more driving dimensions. You can then choose to set the responsible users for that dimension as the data locking owners.</source>
+        <note annotates="source" from="Developer">Tooltip explaining enablement of Data Locking owners and the ability to copy them from Responsibles KEY=ENABLE_DATALOCKING_OWNERSHIP_INFO_TIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MAX_DRIVING_DIMENSION_REACHED" resname="MAX_DRIVING_DIMENSION_REACHED" sap:sc="XTOL">
+        <source>You cannot have more than <ph id="1">{0}</ph> Driving Dimensions.</source>
+        <note annotates="source" from="Developer">Tooltip explaining that the user has reached the maximum allowed number of driving dimensions. Parameter 0: Maximum number of Driving Dimensions allowed, KEY=MAX_DRIVING_DIMENSION_REACHED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DRIVING_DIMENSION_COLUMN_HEADER" maxwidth="70" resname="DRIVING_DIMENSION_COLUMN_HEADER" sap:sc="XFLD" size-unit="char">
+        <source>Driving Dimension</source>
+        <note annotates="source" from="Developer">Table header for Driving Dimension, KEY= DRIVING_DIMENSION_COLUMN_HEADER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENABLE_OWNERSHIP_COLUMN_HEADER" maxwidth="70" resname="ENABLE_OWNERSHIP_COLUMN_HEADER" sap:sc="XFLD" size-unit="char">
+        <source>Enable Ownership</source>
+        <note annotates="source" from="Developer">Table header for data locking ownership, KEY= ENABLE_OWNERSHIP_COLUMN_HEADER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COPY_RESPONSIBLES_COLUMN_HEADER" maxwidth="70" resname="COPY_RESPONSIBLES_COLUMN_HEADER" sap:sc="XFLD" size-unit="char">
+        <source>Copy Responsible Users</source>
+        <note annotates="source" from="Developer">Table header for copying responsible to owner, KEY= COPY_RESPONSIBLES_COLUMN_HEADER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_LOCKING" maxwidth="44" resname="DATA_LOCKING" sap:sc="XTXT" size-unit="char">
+        <source>Data Locking</source>
+        <note annotates="source" from="Developer">The name of Data Locking feature  KEY=DATA_LOCKING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_SLICE" maxwidth="44" resname="SELECT_SLICE" sap:sc="XTXT" size-unit="char">
+        <source>Select Slice</source>
+        <note annotates="source" from="Developer">Title of the Dialog when a slice can be selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OPEN" maxwidth="24" resname="OPEN" sap:sc="XMIT" size-unit="char">
+        <source>Open</source>
+        <note annotates="source" from="Developer">The translation of Lock State "OPEN"  KEY=OPEN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOCKED" maxwidth="24" resname="LOCKED" sap:sc="XMIT" size-unit="char">
+        <source>Locked</source>
+        <note annotates="source" from="Developer">The translation of Lock State "LOCKED"  KEY=LOCKED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RESTRICTED" maxwidth="24" resname="RESTRICTED" sap:sc="XMIT" size-unit="char">
+        <source>Restricted</source>
+        <note annotates="source" from="Developer">The translation of Lock State "RESTRICTED"  KEY=RESTRICTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MIXED" maxwidth="24" resname="MIXED" sap:sc="XMIT" size-unit="char">
+        <source>Mixed State</source>
+        <note annotates="source" from="Developer">The translation of Lock State "MIXED"  KEY=MIXED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UNDEFINED" maxwidth="24" resname="UNDEFINED" sap:sc="XMIT" size-unit="char">
+        <source>Unknown</source>
+        <note annotates="source" from="Developer">The translation of an undefined Lock State  KEY=UNDEFINED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PENDING" maxwidth="24" resname="PENDING" sap:sc="XMIT" size-unit="char">
+        <source>Pending State</source>
+        <note annotates="source" from="Developer">The translation of a pending Lock State  KEY=PENDING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAVE_FAIL" resname="SAVE_FAIL" sap:sc="XMSG">
+        <source>An error occured while saving data locking configuration</source>
+        <note annotates="source" from="Developer">Error message that is displayed when saving the Data Locking failed KEY=SAVE_FAIL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOAD_ERROR" resname="LOAD_ERROR" sap:sc="XMSG">
+        <source>An error occured while loading data locking configuration</source>
+        <note annotates="source" from="Developer">Error message that is displayed when loading the Data Locking failed KEY=LOAD_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_GRID_TEXT" resname="NO_GRID_TEXT" sap:sc="XFLD">
+        <source>Start by setting filters and drill levels for your driving dimensions.</source>
+        <note annotates="source" from="Developer">Text describing that locks table is not displayed yet and that user may set filters KEY=NO_GRID_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_GRID" resname="SHOW_GRID" sap:sc="XFLD">
+        <source>Show Grid</source>
+        <note annotates="source" from="Developer">Text of button that will make the grid visible KEY=SHOW_GRID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DRIVING_DIM_GROUP_TITLE" resname="DRIVING_DIM_GROUP_TITLE" sap:sc="XFLD">
+        <source>Driving Dimensions</source>
+        <note annotates="source" from="Developer">Title of the toolbar group 'Driving Dimensions' KEY=DRIVING_DIM_GROUP_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRID_GROUP_TITLE" resname="GRID_GROUP_TITLE" sap:sc="XFLD">
+        <source>Grid</source>
+        <note annotates="source" from="Developer">Title of the toolbar group 'Grid' KEY=GRID_GROUP_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DRIVING_DIM_VISIBILITY_TOL" resname="DRIVING_DIM_VISIBILITY_TOL" sap:sc="XTOL">
+        <source>Show / Hide Driving Dimensions</source>
+        <note annotates="source" from="Developer">Tooltip of the button that enables the user to show / hide driving dimensions KEY=DRIVING_DIM_VISIBILITY_TOL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EDIT_DRIVING_DIM_TOL" resname="EDIT_DRIVING_DIM_TOL" sap:sc="XTOL">
+        <source>Edit Driving Dimensions</source>
+        <note annotates="source" from="Developer">Tooltip of button that will allow the user to edit driving dimensions KEY=EDIT_DRIVING_DIM_TOL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SET_SLICE_OWNER_TOL" resname="SET_SLICE_OWNER_TOL" sap:sc="XTOL">
+        <source>Select owners of the selected slice</source>
+        <note annotates="source" from="Developer">Tooltip of enabled button that allows user to select owners for a restricted slice. KEY=SET_SLICE_OWNER_TOL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SET_SLICE_OWNER_NODIMS_TOL" resname="SET_SLICE_OWNER_NODIMS_TOL" sap:sc="XTOL">
+        <source>There are no dimensions with Data Locking owners</source>
+        <note annotates="source" from="Developer">Tooltip of disabled button that allows user to select owners for a restricted slice. User must configure Data Locking owners for some dimensions in order for this button to work. KEY=SET_SLICE_OWNER_NODIMS_TOL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SET_SLICE_OWNER_PERM_TOL" resname="SET_SLICE_OWNER_PERM_TOL" sap:sc="XTOL">
+        <source>You are not allowed to set Data Locking owners</source>
+        <note annotates="source" from="Developer">Tooltip of disabled button that allows user to select owners for a restricted slice when the user has no permissions to update all ownership-enabled dimensions. KEY=SET_SLICE_OWNER_PERM_TOL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SET_SLICE_OWNER_USER_PERM_TOL" resname="SET_SLICE_OWNER_USER_PERM_TOL" sap:sc="XTOL">
+        <source>You are not allowed to read users information</source>
+        <note annotates="source" from="Developer">Tooltip of disabled button that allows user to select owners for a restricted slice when the user has no permissions to read the information details of the users registered in the system</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SET_SLICE_OWNER_NOTRESTRICTED_TOL" resname="SET_SLICE_OWNER_NOTRESTRICTED_TOL" sap:sc="XTOL">
+        <source>Restrict a slice to select owners</source>
+        <note annotates="source" from="Developer">Tooltip of disabled button that allows user to select owners for a restricted slice. User must select a restricted slice in order for this button to work. KEY=SET_SLICE_OWNER_NOTRESTRICTED_TOL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SET_SLICE_OWNER_DIMHIDDEN_TOL" resname="SET_SLICE_OWNER_DIMHIDDEN_TOL" sap:sc="XTOL">
+        <source>Selecting owners is only possible if all dimensions with Data Locking owners are visible</source>
+        <note annotates="source" from="Developer">Tooltip of disabled button that allows user to select owners for a restricted slice. User must put all ownership-enabled dimensions on axes in order for this button to work. KEY=SET_SLICE_OWNER_NONLEAF_TOL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SET_SLICE_OWNER_NONLEAF_TOL" resname="SET_SLICE_OWNER_NONLEAF_TOL" sap:sc="XTOL">
+        <source>Selecting owners for level-based hierarchies is only possible for leaf members</source>
+        <note annotates="source" from="Developer">Tooltip of disabled button that allows user to select owners for a restricted slice. User must select leaf members for level-based hierarchies in order for this button to work. KEY=SET_SLICE_OWNER_NONLEAF_TOL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONFIG_DESCRIPTION_TEXT" resname="CONFIG_DESCRIPTION_TEXT" sap:sc="XFLD">
+        <source>Select driving dimensions to define data slices that you can lock or restrict, and decide whether to enable data locking owners for each slice. Data locking owners can edit values in a slice that is set to restricted.</source>
+        <note annotates="source" from="Developer">Text describing that user may select driving dimensions and enable ownership KEY=CONFIG_DESCRIPTION_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FINISH_EDIT_DISABLED_TIP" resname="FINISH_EDIT_DISABLED_TIP" sap:sc="XTOL">
+        <source>Please remove driving dimensions in order to save current Data Locking configuration.</source>
+        <note annotates="source" from="Developer">Tooltip explaining that the 'Finish Edit' button is disabled because there are too many driving dimensions KEY=FINISH_EDIT_DISABLED_TIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UPDATE_DRIVING_DIMENSIONS_DIALOG_TEXT" resname="UPDATE_DRIVING_DIMENSIONS_DIALOG_TEXT" sap:sc="XTXT">
+        <source>Updating the driving dimensions will delete all your locks and restrictions.</source>
+        <note annotates="source" from="Developer">Text of confirm dialog when user adds and deletes driving dimensions at the same time KEY=UPDATE_DRIVING_DIMENSIONS_DIALOG_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UPDATE_DRIVING_DIMENSIONS_DIALOG_OK" resname="UPDATE_DRIVING_DIMENSIONS_DIALOG_OK" sap:sc="XTXT">
+        <source>Update</source>
+        <note annotates="source" from="Developer">OK button text of confirm dialog when user adds and deletes driving dimensions at the same time KEY=UPDATE_DRIVING_DIMENSIONS_DIALOG_OK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADD_DRIVING_DIMENSIONS_DIALOG_TEXT" resname="ADD_DRIVING_DIMENSIONS_DIALOG_TEXT" sap:sc="XTXT">
+        <source>Adding a driving dimension will delete all your locks and restrictions.</source>
+        <note annotates="source" from="Developer">Text of confirm dialog when user adds driving dimensions KEY=ADD_DRIVING_DIMENSIONS_DIALOG_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADD_DRIVING_DIMENSIONS_DIALOG_OK" resname="ADD_DRIVING_DIMENSIONS_DIALOG_OK" sap:sc="XTXT">
+        <source>Add</source>
+        <note annotates="source" from="Developer">OK button text of confirm dialog when user adds driving dimensions KEY=ADD_DRIVING_DIMENSIONS_DIALOG_OK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DELETE_DRIVING_DIMENSIONS_DIALOG_TEXT" resname="DELETE_DRIVING_DIMENSIONS_DIALOG_TEXT" sap:sc="XTXT">
+        <source>Deleting a driving dimension will delete all your locks and restrictions.</source>
+        <note annotates="source" from="Developer">Text of confirm dialog when user delete driving dimensions KEY=DELETE_DRIVING_DIMENSIONS_DIALOG_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DELETE_DRIVING_DIMENSIONS_DIALOG_OK" resname="DELETE_DRIVING_DIMENSIONS_DIALOG_OK" sap:sc="XTXT">
+        <source>Delete</source>
+        <note annotates="source" from="Developer">OK button text of confirm dialog when user delete driving dimensions KEY=DELETE_DRIVING_DIMENSIONS_DIALOG_OK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FILTER_MEMBER_DIALOG_TITLE" resname="FILTER_MEMBER_DIALOG_TITLE" sap:sc="XTIT">
+        <source>Set Filter for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Title of member selector for filters of the 'Configure Data Locks' dialog. Parameter 0: the dimension display name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_ALL_MEMBERS" resname="FILTER_ALL_MEMBERS" sap:sc="XTXT">
+        <source>All</source>
+        <note annotates="source" from="Developer">The display name of the 'All members' filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MENU_DRILL_LEVEL_ITEM" resname="MENU_DRILL_LEVEL_ITEM" sap:sc="XTXT">
+        <source>Level <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Menu entry for the drill menu when clicking a dimension item. Parameter 0: the drill level of the item</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FILTER_DRIVING_DIM_TOL" resname="FILTER_DRIVING_DIM_TOL" sap:sc="XTOL">
+        <source>Set filter for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Tooltip of the button of a driving dimension to filter members. Parameter 0: the dimension display name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DRILL_DRIVING_DIM_TOL" resname="DRILL_DRIVING_DIM_TOL" sap:sc="XTOL">
+        <source>Drill dimension</source>
+        <note annotates="source" from="Developer">Tooltip of drill button of a driving dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_OWNERSHIP_DIMENSIONS" resname="NO_OWNERSHIP_DIMENSIONS" sap:sc="XMSG">
+        <source>No dimensions with Data Locking ownership were found, please refresh</source>
+        <note annotates="source" from="Developer">Error message shown when the dialog to select owners for a slice could not be opened, because no dimensions with ownership exist anymore</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OWNER_RETRIEVAL_ERROR" resname="OWNER_RETRIEVAL_ERROR" sap:sc="XMSG">
+        <source>Error when retrieving Data Locking owners</source>
+        <note annotates="source" from="Developer">Error message shown when the dialog to select owners for a slice could not be opened because owners could not be retrieved</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIMENSIONS_INCOMPLETE" resname="DIMENSIONS_INCOMPLETE" sap:sc="XMSG">
+        <source>Some dimensions are hidden because they do not have Data Locking ownership enabled anymore</source>
+        <note annotates="source" from="Developer">Message shown when the dialog to select owners for a slice was opened but some dimensions do not have ownership enabled anymore</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_OWNERS" resname="SELECT_OWNERS" sap:sc="XTXT">
+        <source>Set Owners</source>
+        <note annotates="source" from="Developer">Title of the dialog to select owners for a slice</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_OWNERS_INFO" resname="SELECT_OWNERS_INFO" sap:sc="XMSG">
+        <source>Assign owners to the driving dimensions you enabled for ownership. Your changes will update the respective dimension in the modeler.</source>
+        <note annotates="source" from="Developer">Info message shown when hovering over the info icon in the title of the dialog to select owners for a slice</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_DISPLAY_NAME" resname="SHOW_DISPLAY_NAME" sap:sc="XTXT">
+        <source>Display Name</source>
+        <note annotates="source" from="Developer">Entry in the display type combo box to show Display Name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_ID" resname="SHOW_ID" sap:sc="XTXT">
+        <source>ID</source>
+        <note annotates="source" from="Developer">Entry in the display type combo box to show ID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_ID_DISPLAY_NAME" resname="SHOW_ID_DISPLAY_NAME" sap:sc="XTXT">
+        <source>ID and Display Name</source>
+        <note annotates="source" from="Developer">Entry in the display type combo box to show both ID and Display Name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_DISPLAY_NAME_DESC" resname="SHOW_DISPLAY_NAME_DESC" sap:sc="XTXT">
+        <source>Show Display Name</source>
+        <note annotates="source" from="Developer">Description text when Display Name is shown</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_ID_DESC" resname="SHOW_ID_DESC" sap:sc="XTXT">
+        <source>Show ID</source>
+        <note annotates="source" from="Developer">Description text when ID is shown</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_ID_DISPLAY_NAME_DESC" resname="SHOW_ID_DISPLAY_NAME_DESC" sap:sc="XTXT">
+        <source>Show ID and Display Name</source>
+        <note annotates="source" from="Developer">Description text when both ID and Display Name is shown</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_ID" resname="TOOLTIP_ID" sap:sc="XTOL">
+        <source>ID</source>
+        <note annotates="source" from="Developer">Part of the tooltip of a user/team to indicate that the following is the ID of the user/team</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_DISPLAY_NAME" resname="TOOLTIP_DISPLAY_NAME" sap:sc="XTOL">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Part of the tooltip of a user/team to indicate that the following is the Display Name / Description of the user/team</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OWNERS_PER_DIMENSION" resname="OWNERS_PER_DIMENSION" sap:sc="XTXT">
+        <source>Owners per Dimension</source>
+        <note annotates="source" from="Developer">Title of the part showing the owners per dimension in the select owners dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="OWNERS_PER_DIMENSION_SECTION" resname="OWNERS_PER_DIMENSION_SECTION" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> (<ph id="2">{1}</ph>)</source>
+        <note annotates="source" from="Developer">Title of the part showing the owners of a dimension for a specific member. Parameter 0: the dimension description, Parameter 1: the member description</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EFFECTIVE_OWNERS" resname="EFFECTIVE_OWNERS" sap:sc="XTXT">
+        <source>Effective Owners</source>
+        <note annotates="source" from="Developer">Title of the part showing the effective owners of a slice in the select owners dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADD_OWNER" maxwidth="30" resname="ADD_OWNER" sap:sc="XBUT" size-unit="char">
+        <source>+ Add Owner</source>
+        <note annotates="source" from="Developer">button for adding a owner for a dimension member of a slice in the select owners dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TEAMS" resname="TEAMS" sap:sc="XTXT">
+        <source>TEAMS</source>
+        <note annotates="source" from="Developer">header of the tree-part in the popover showing the available teams</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="USERS" resname="USERS" sap:sc="XTXT">
+        <source>USERS</source>
+        <note annotates="source" from="Developer">header of the tree-part in the popover showing the available users</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTRIES_INCOMPLETE" maxwidth="48" resname="ENTRIES_INCOMPLETE" sap:sc="XTXT" size-unit="char">
+        <source>Specify your search to show more results</source>
+        <note annotates="source" from="Developer">Message shown in the drop down for selecting users and teams when not all users/teams are shown</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTRY_RETRIEVAL_ERROR" resname="ENTRY_RETRIEVAL_ERROR" sap:sc="XMSG">
+        <source>Error when retrieving results</source>
+        <note annotates="source" from="Developer">Error message shown when users/teams could not be retrieved</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OWNER_SAVE_INCOMPLETE" resname="OWNER_SAVE_INCOMPLETE" sap:sc="XMSG">
+        <source>Some dimensions could not be updated because they do not have Data Locking ownership enabled anymore</source>
+        <note annotates="source" from="Developer">Error message shown when configured owners could not be saved for some dimension, since Data Lockign ownership is no longer enabled for them</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OWNER_SAVE_ERROR" resname="OWNER_SAVE_ERROR" sap:sc="XMSG">
+        <source>Owners could not be saved</source>
+        <note annotates="source" from="Developer">Error message shown when configured owners could not be saved</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SET_LOCK_STATE_FAIL" resname="SET_LOCK_STATE_FAIL" sap:sc="XMSG">
+        <source>An error occured while saving locks on slices.</source>
+        <note annotates="source" from="Developer">Error message that is displayed when setting lock state failed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GET_LOCK_STATES_STORY_FAIL" resname="GET_LOCK_STATES_STORY_FAIL" sap:sc="XMSG">
+        <source>An error occured while retrieving the data locks for the visible cells.</source>
+        <note annotates="source" from="Developer">Error message that is displayed when retrieving the lock state for the story grid cells failed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EDIT_LOCK_STATES_DISABLED_TIP" resname="EDIT_LOCK_STATES_DISABLED_TIP" sap:sc="XTOL">
+        <source>Maximum number of driving dimensions exceeded. Please reduce the number of driving dimensions or contact your system administrator.</source>
+        <note annotates="source" from="Developer">Tooltip explaining that editing lock states is not possible because there are too many driving dimensions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CALC_ACCOUNT_NOT_EDITABLE_TIP" resname="CALC_ACCOUNT_NOT_EDITABLE_TIP" sap:sc="XTOL">
+        <source>Calculated accounts do not have an explicit lock state and they are ignored when calculating the parent's lock state</source>
+        <note annotates="source" from="Developer">Tooltip explaining that the cells corresponding to this account are not editable since it is a calculated account</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DIMENSION_SAVE_FAILED_ON_FINISH_EDITING" resname="DIMENSION_SAVE_FAILED_ON_FINISH_EDITING" sap:sc="XTXT">
+        <source>Dimension <ph id="1">{0}</ph> could not be saved. Please refresh the model and try again.</source>
+        <note annotates="source" from="Developer">Error message shown when the user clicks finish editing in the data locking dialog and the saving of one of the updated dimensions fails.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_UPDATE_PRIVILEGE" resname="NO_UPDATE_PRIVILEGE" sap:sc="XTOL">
+        <source>You are not allowed to change this dimension</source>
+        <note annotates="source" from="Developer">Tooltip stating that a check box is disabled because the user has no permissions to change the dimension.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_RESPONSIBLES_AVAILABLE_TOL" resname="NO_RESPONSIBLES_AVAILABLE_TOL" sap:sc="XTOL">
+        <source>Responsibility is not enabled for this dimension</source>
+        <note annotates="source" from="Developer">Tooltip stating that "Copy Responsible" check box is disabled because the dimension has no responsible column; note: "Responsibility" is the same word used in translation of DIALOG_RESPONSIBLE in modeller translation bundle</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUICKACTION_SHOWHIDE_ICONS" resname="QUICKACTION_SHOWHIDE_ICONS" sap:sc="XTXT">
+        <source>Data Locks</source>
+        <note annotates="source" from="Developer">Label of the Show/Hide menu entry to show Data Locking icons</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INCOMPLETE_DATALOCKING_CONFIG" resname="INCOMPLETE_DATALOCKING_CONFIG" sap:sc="XMSG">
+        <source>Data Locking configuration is incomplete. Please activate data locking in model preferences to use this feature.</source>
+        <note annotates="source" from="Developer">Error message shown when the data locking configuration is incomplete and the data locking configuration dialog cannot be opened</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUICKACTION_IGNORELOCKS" resname="QUICKACTION_IGNORELOCKS" sap:sc="XTXT">
+        <source>Ignore Data Locks</source>
+        <note annotates="source" from="Developer">Text of the quick actions menu item to ignore data locks in a grid</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUICKACTION_ENFORCELOCKS" resname="QUICKACTION_ENFORCELOCKS" sap:sc="XTXT">
+        <source>Enforce Data Locks</source>
+        <note annotates="source" from="Developer">Text of the quick actions menu item to enforce data locks in a grid</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IGNORELOCKS_MESSAGE" resname="IGNORELOCKS_MESSAGE" sap:sc="XMSG">
+        <source>You can now freely edit the cells previously locked by Data Locking but you might not be able to publish your work if lock violations are detected.</source>
+        <note annotates="source" from="Developer">Warning message shown when Data Locks are ignored by pressing the Ignore Data Locks button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NOT_SUPPORTED_FILTERS" resname="NOT_SUPPORTED_FILTERS" sap:sc="XMSG">
+        <source>Data locks visualization is disabled as some of the active filters are not supported: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Warning message shown in the header of the data region when non-supported filters are present</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_DL_READ_PERMISSION" resname="NO_DL_READ_PERMISSION" sap:sc="XMSG">
+        <source>You do not have the necessary permissions to visualize the defined data locks</source>
+        <note annotates="source" from="Developer">Warning message shown as tooltip for the quick  menus "Enforce/Ignore Data Locks" and "Show/Hide -&gt; Data Locks" when the user does not have READ permissions for the Data Locking objects.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NOT_SUPPORTED_DISPLAY_HIERARCHY" resname="NOT_SUPPORTED_DISPLAY_HIERARCHY" sap:sc="XMSG">
+        <source>Data locks visualization is disabled as <ph id="1">{0}</ph> uses a non default hierarchy as display hierarchy</source>
+        <note annotates="source" from="Developer">Warning message shown as tooltip for the quick  menus "Enforce/Ignore Data Locks" and "Show/Hide -&gt; Data Locks" when a non-default parent child hierarchy is being used as a display hierarchy for a driving dimensions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOT_SUPPORTED_BLENDED_MODEL" resname="NOT_SUPPORTED_BLENDED_MODEL" sap:sc="XMSG">
+        <source>Data locks visualization is not supported for blended models.</source>
+        <note annotates="source" from="Developer">Warning message shown as tooltip for the quick  menus "Enforce/Ignore Data Locks" and "Show/Hide -&gt; Data Locks" when a model was blended</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONF_NOT_SUPPORTED_BLENDED_MODEL" resname="CONF_NOT_SUPPORTED_BLENDED_MODEL" sap:sc="XMSG">
+        <source>Data locks configuration is not supported for blended models.</source>
+        <note annotates="source" from="Developer">Warning message shown as tooltip for the quick menu "Configure Data Locks" when a model was blended</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONF_NOT_SUPPORTED_INPUT_SCHEDULE" resname="CONF_NOT_SUPPORTED_INPUT_SCHEDULE" sap:sc="XMSG">
+        <source>Data locks configuration is not supported when in input schedule mode.</source>
+        <note annotates="source" from="Developer">Warning message shown as tooltip for the quick menu "Configure Data Locks" when the data region uses an input schedule mode version.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MULTIPLE_ISSUES_FOUND" resname="MULTIPLE_ISSUES_FOUND" sap:sc="XMSG">
+        <source>Data locks visualization is disabled due to multiple issues - see the warning section for more details</source>
+        <note annotates="source" from="Developer">Warning message shown as tooltip for the quick  menus "Enforce/Ignore Data Locks" and "Show/Hide -&gt; Data Locks" when more than one of the following issues have been detected: not supported filters (NOT_SUPPORTED_FILTERS), no data locking read permissions (NO_DL_READ_PERMISSION) or not  supported display hierarchy (NOT_SUPPORTED_DISPLAY_HIERARCHY)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADVANCED_FILTERS" resname="ADVANCED_FILTERS" sap:sc="XMSG">
+        <source>Advanced Filters</source>
+        <note annotates="source" from="Developer">Test to be added at the end of the NOT_SUPPORTED_FILTERS denoting the filters that are present and not supported (i.e. Advance Filters)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CALCULATED_DIMENSION_FILTERS" resname="CALCULATED_DIMENSION_FILTERS" sap:sc="XMSG">
+        <source>Calculated Dimension or Measure Based Filters</source>
+        <note annotates="source" from="Developer">Test to be added at the end of the NOT_SUPPORTED_FILTERS denoting the filters that are present and not supported (i.e. Calculated Dimension or Measure Based filters)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_OWNERSHIP_FILTERS" resname="NO_OWNERSHIP_FILTERS" sap:sc="XTOL">
+        <source>There are no driving dimensions with data locking ownership enabled or there are no members owned by this user</source>
+        <note annotates="source" from="Developer">Tooltip explaining why the button in the Grid section of the Data Locks Editor, used to toggle the filtering by ownership, is disabled. The button is disabled if none of the driving dimensions have the ownership column turned on or if there are no owned members by the logged-in user</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="APPLY_OWNERSHIP_FILTERS" resname="APPLY_OWNERSHIP_FILTERS" sap:sc="XTOL">
+        <source>Apply the ownership-based filters</source>
+        <note annotates="source" from="Developer">Tooltip indicating that when the user clicks the ownership-based filtering button while in the toggle OFF state, the ownership -based filter will be applied. This is a toggle button placed in the in the Grid section of the Data Locks Editor.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REMOVE_OWNERSHIP_FILTERS" resname="REMOVE_OWNERSHIP_FILTERS" sap:sc="XTOL">
+        <source>Remove the ownership-based filters</source>
+        <note annotates="source" from="Developer">Tooltip indicating that when the user clicks the ownership-based filtering button while in the toggle ON state, the ownership -based filter will be removed. This is a toggle button placed in the in the Grid section of the Data Locks Editor.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CLOSE_DIALOG_WARNING" resname="CLOSE_DIALOG_WARNING" sap:sc="XMSG">
+        <source>You have changed the data locking configuration dialog. When you close the dialog the changes will not be applied.</source>
+        <note annotates="source" from="Developer">Warning shown when the data locking configuration was changed and the user closes the dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONFIRM_CLOSE" maxwidth="50" resname="CONFIRM_CLOSE" sap:sc="XBUT" size-unit="char">
+        <source>Discard Changes</source>
+        <note annotates="source" from="Developer">Text of the button in the warning dialog that there are unsaved changes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_GLOBAL_CONTEXT_INVALID_FILTERS" resname="NO_GLOBAL_CONTEXT_INVALID_FILTERS" sap:sc="XTOL">
+        <source>The dialog's context has not been restricted due to not-supported filters or use of a non-default hierarchy.</source>
+        <note annotates="source" from="Developer">Tooltip indicating that the dialog's context is not restricted, because either not-supported filters are used or one dimension in the table is using a non-default hierarchy.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GLOBAL_CONTEXT_USED" resname="GLOBAL_CONTEXT_USED" sap:sc="XTOL">
+        <source>The dialog's context has been restricted to the table's context.</source>
+        <note annotates="source" from="Developer">Tooltip indicating that the datalocking dialog's context is restricted to the context that is shown in the table.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOCKS_ONLY_ON_PUBLIC_VERSIONS" resname="LOCKS_ONLY_ON_PUBLIC_VERSIONS" sap:sc="XTOL">
+        <source>Data locks can only be configured for public versions.</source>
+        <note annotates="source" from="Developer">Tooltip indicating that this column is deactivated because data locks can only be edited for public versions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NO_CONTEXT_FOR_DIMENSION" resname="NO_CONTEXT_FOR_DIMENSION" sap:sc="XTOL">
+        <source>The dialog's context has not been restricted for dimensions '<ph id="1">{0}</ph>' as they use a non-default hierarchy in the story table.</source>
+        <note annotates="source" from="Developer">Tooltip indicating that the dialog's context is not restricted for a given dimension due to the fact that in the table it is using a non-default hierarchy.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

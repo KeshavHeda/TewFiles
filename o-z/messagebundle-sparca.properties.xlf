@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-sparca.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="21d554ac8c3b3fe0e9aae62300c6be82" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:56Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="busydialog.publishing_start" resname="busydialog.publishing_start" sap:sc="XMSG">
+        <source>Creating the model...</source>
+        <note annotates="source" from="Developer">text for busy dialog on publishing model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="toast.transform_failed" resname="toast.transform_failed" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> failed.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toast.server_unavailable" resname="toast.server_unavailable" sap:sc="XMSG">
+        <source>The server is temporarily not available. Please try again later.</source>
+        <note annotates="source" from="Developer">message for unavailable server</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toast.schedule_success" resname="toast.schedule_success" sap:sc="XMSG">
+        <source>Validation complete. No data errors found!</source>
+        <note annotates="source" from="Developer">message for successful publishing of model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toast.no_errors_full_data_validation" resname="toast.no_errors_full_data_validation" sap:sc="XMSG">
+        <source>Validation complete. No new issues were added to your sampled data.</source>
+        <note annotates="source" from="Developer">message for successful full data validation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toast.schedule_with_issues" resname="toast.schedule_with_issues" sap:sc="XMSG">
+        <source>Validation has determined data errors.</source>
+        <note annotates="source" from="Developer">message for unsuccessful publishing of model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toast.schedule_with_model_issues" resname="toast.schedule_with_model_issues" sap:sc="XMSG">
+        <source>Validation has determined model issues. Please refer to Model Requirements.</source>
+        <note annotates="source" from="Developer">message for unsuccessful validation because of model issues</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="toast.schedule_with_issues_and_n_rows_to_be_fixed" resname="toast.schedule_with_issues_and_n_rows_to_be_fixed" sap:sc="XMSG">
+        <source>Validation has detected issues in your full data set that cannot be solved automatically. <ph id="1">{0}</ph> rows with issues have been added to the sample for review.</source>
+        <note annotates="source" from="Developer">message for scheduling with issues when hitting validation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="toast.validation_blocked_transforms" resname="toast.validation_blocked_transforms" sap:sc="XMSG">
+        <source>Full data validation cannot be performed before fixing the data type of <ph id="1">{0}</ph>.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="toast.validation_blocked_modeling" resname="toast.validation_blocked_modeling" sap:sc="XMSG">
+        <source>Full data validation cannot be performed before fixing the relationships of <ph id="1">{0}</ph>.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="toast.validation_blocked_modeling_cols" resname="toast.validation_blocked_modeling_cols" sap:sc="XMSG">
+        <source>Full data validation cannot be performed before fixing the model quality issues for <ph id="1">{0}</ph>.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="spinner.data_loading" resname="spinner.data_loading" sap:sc="XMSG">
+        <source>Loading Data</source>
+        <note annotates="source" from="Developer">message for loading data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="spinner.validation_started" resname="spinner.validation_started" sap:sc="XMSG">
+        <source>Validating data and checking for errors in your full data set. Please wait while the data is processing.</source>
+        <note annotates="source" from="Developer">message displayed on top of the spinner during full data validation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.transformBar_tooltip" resname="toolbar.transformBar_tooltip" sap:sc="XACT">
+        <source>Create Transform</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.focus" resname="toolbar.focus" sap:sc="XBUT">
+        <source>Focus</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.show_hide_columns" resname="toolbar.show_hide_columns" sap:sc="XBUT">
+        <source>Show / Hide Columns</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.search_column" resname="toolbar.search_column" sap:sc="XBUT">
+        <source>Search</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.show_all" resname="toolbar.show_all" sap:sc="XBUT">
+        <source>Show All</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort" resname="toolbar.sort" sap:sc="XMIT">
+        <source>Sort</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort.sort_cards_by" resname="toolbar.sort.sort_cards_by" sap:sc="XMIT">
+        <source>Sort cards by:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort.sort_by" resname="toolbar.sort.sort_by" sap:sc="XMIT">
+        <source>Sort columns by:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort.sort_by_original" resname="toolbar.sort.sort_by_original" sap:sc="XMIT">
+        <source>Original Order</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort.sort_by_alphabetical_ascending" resname="toolbar.sort.sort_by_alphabetical_ascending" sap:sc="XMIT">
+        <source>A-Z</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort.sort_by_alphabetical_descending" resname="toolbar.sort.sort_by_alphabetical_descending" sap:sc="XMIT">
+        <source>Z-A</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort.sort_by_model" resname="toolbar.sort.sort_by_model" sap:sc="XMIT">
+        <source>Model Structure</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort.sort_by_dimension" resname="toolbar.sort.sort_by_dimension" sap:sc="XMIT">
+        <source>Dimension Structure</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort.sort_by_error_count" resname="toolbar.sort.sort_by_error_count" sap:sc="XMIT">
+        <source>Error Count</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort.sort_by_mapped" resname="toolbar.sort.sort_by_mapped" sap:sc="XMIT">
+        <source>Mapped First</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.sort.sort_by_unmapped" resname="toolbar.sort.sort_by_unmapped" sap:sc="XMIT">
+        <source>Unmapped First</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.details" resname="toolbar.details" sap:sc="XBUT">
+        <source>Details</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="toolbar.undo_tooltip" resname="toolbar.undo_tooltip" sap:sc="XACT">
+        <source>Undo <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.undo_tooltip_nothing" resname="toolbar.undo_tooltip_nothing" sap:sc="XACT">
+        <source>Nothing to undo</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="toolbar.redo_tooltip" resname="toolbar.redo_tooltip" sap:sc="XACT">
+        <source>Redo <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="toolbar.redo_tooltip_nothing" resname="toolbar.redo_tooltip_nothing" sap:sc="XACT">
+        <source>Nothing to redo</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="details_panel.sample_size_sampled" resname="details_panel.sample_size_sampled" sap:sc="XFLD">
+        <source>Sampled Rows</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="details_panel.sample_size" resname="details_panel.sample_size" sap:sc="XFLD">
+        <source>Rows</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="details_panel.box_plot_right_outlier" resname="details_panel.box_plot_right_outlier" sap:sc="XCAP">
+        <source>Less common values, data to the right are potential outliers</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="details_panel.box_plot_left_outlier" resname="details_panel.box_plot_left_outlier" sap:sc="XCAP">
+        <source>Less common values, data to the left are potential outliers</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="details_panel.box_plot_common_range" resname="details_panel.box_plot_common_range" sap:sc="XMSG">
+        <source>Common data value range</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform_panel.no_transform_performed" resname="transform_panel.no_transform_performed" sap:sc="XMSG">
+        <source>No transforms have been performed.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform_panel.no_transform_contributed" resname="transform_panel.no_transform_contributed" sap:sc="XMSG">
+        <source>No transformations or actions have been performed in this column.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="modeling.type" resname="modeling.type" sap:sc="XFLD">
+        <source>Column Type</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="modeling.attribute_hierarchy" resname="modeling.attribute_hierarchy" sap:sc="XGLS">
+        <source>Parent-Child Hierarchy</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="modeling.attribute_location" resname="modeling.attribute_location" sap:sc="XGLS">
+        <source>Geo Location</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform_panel.history_result_not_all_shown" resname="transform_panel.history_result_not_all_shown" sap:sc="XMSG">
+        <source>results not all shown</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform_panel.history_result_not_shown" resname="transform_panel.history_result_not_shown" sap:sc="XMSG">
+        <source>results not shown</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform_panel.all_transforms" resname="transform_panel.all_transforms" sap:sc="XMSG">
+        <source>Transformation Log for Model</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform_panel.all_transforms_master_data" resname="transform_panel.all_transforms_master_data" sap:sc="XMSG">
+        <source>Transformation Log for Dimension</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform_panel.all_transforms_rate_data" resname="transform_panel.all_transforms_rate_data" sap:sc="XMSG">
+        <source>Transformation Log for Currency</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform_panel.transforms_affecting" resname="transform_panel.transforms_affecting" sap:sc="XMSG">
+        <source>Transformation Log for Column: <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform_panel.showModelHistory" resname="transform_panel.showModelHistory" sap:sc="XCAP">
+        <source>Click here to view transform history by model</source>
+        <note annotates="source" from="Developer">Tooltip to shown transform history by model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform_panel.showColumnHistory" resname="transform_panel.showColumnHistory" sap:sc="XCAP">
+        <source>Click here to view transform history by column</source>
+        <note annotates="source" from="Developer">Tooltip to shown transform history by column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="card_view.remove_card_from_dimetions" resname="card_view.remove_card_from_dimetions" sap:sc="XACT">
+        <source>remove card from dimension</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="card_view.mean" resname="card_view.mean" sap:sc="XMSG">
+        <source>mean: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">mean of measure column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="card_view.invalid_mean" resname="card_view.invalid_mean" sap:sc="XMSG">
+        <source>Invalid mean</source>
+        <note annotates="source" from="Developer">when mean cannot be calculated because of bad data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="card_view.invalid_time_range" resname="card_view.invalid_time_range" sap:sc="XMSG">
+        <source>Invalid time range</source>
+        <note annotates="source" from="Developer">when time range cannot be calculated because of bad data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="card_view.invalid_percentage" resname="card_view.invalid_percentage" sap:sc="XMSG">
+        <source>Invalid percentage</source>
+        <note annotates="source" from="Developer">when percentage cannot be calculated because of bad data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="card_view.number_of_unique_values" resname="card_view.number_of_unique_values" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> unique values</source>
+        <note annotates="source" from="Developer">number of unique values for plural</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="card_view.number_of_unique_values_singular" resname="card_view.number_of_unique_values_singular" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> unique value</source>
+        <note annotates="source" from="Developer">number of unique values for singular</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="card_view.percent_true" resname="card_view.percent_true" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph>% true</source>
+        <note annotates="source" from="Developer">percentage of true values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="card_view.percent_false" resname="card_view.percent_false" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph>% false</source>
+        <note annotates="source" from="Developer">percentage of false values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.rename.column_name_cannot_be_blank" resname="transform.rename.column_name_cannot_be_blank" sap:sc="XMSG">
+        <source>Column name cannot be blank</source>
+        <note annotates="source" from="Developer">transform error message indicating new column name is blank</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.rename.column_name_too_long" resname="transform.rename.column_name_too_long" sap:sc="XMSG">
+        <source>Column name cannot be longer than 200 characters</source>
+        <note annotates="source" from="Developer">transform error message indicating new column name is too long</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.rename.column_name_cannot_be_keyword" resname="transform.rename.column_name_cannot_be_keyword" sap:sc="XMSG">
+        <source>Column name cannot be "column"</source>
+        <note annotates="source" from="Developer">transform error message indicating column name cannot be "column"</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.rename.column_name_cannot_be_duplicated" resname="transform.rename.column_name_cannot_be_duplicated" sap:sc="XMSG">
+        <source>Column names must be unique</source>
+        <note annotates="source" from="Developer">transform error message indicating column names must be unique</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.rename_column_history" resname="transform.rename_column_history" sap:sc="XMSG">
+        <source>Rename <ph id="1">{0}</ph> to <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">rename transform on history panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.other_tooltip" resname="transform.other_tooltip" sap:sc="XCAP">
+        <source>Quick Actions</source>
+        <note annotates="source" from="Developer">tooltip for a button which when clicked, opens the Quick Actions submenu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.smart_transformations_tooltip" resname="transform.smart_transformations_tooltip" sap:sc="XCAP">
+        <source>Smart Transformations</source>
+        <note annotates="source" from="Developer">tooltip for a button which when clicked, opens the Smart Transformations submenu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.edit_formula_tooltip" resname="transform.edit_formula_tooltip" sap:sc="XCAP">
+        <source>Edit Formula</source>
+        <note annotates="source" from="Developer">tooltip for a button which when clicked, opens the Formula Editor dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.delete_rows" resname="transform.delete_rows" sap:sc="XCAP">
+        <source>Delete Rows</source>
+        <note annotates="source" from="Developer">context menu item for deleting rows. When clicked, submenu opens for options on how to delete rows</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.delete_rows_ellipses" resname="transform.delete_rows_ellipses" sap:sc="XCAP">
+        <source>Delete Rows...</source>
+        <note annotates="source" from="Developer">context menu item for deleting rows. Shown with elipses: When clicked, user is prompted for more details about what to delete</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.transformIcon_tooltip" resname="transform.transformIcon_tooltip" sap:sc="XCAP">
+        <source>Use the transformation bar to create or edit a transformation</source>
+        <note annotates="source" from="Developer">Tooltip for transform icon in transform bar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.no_smart_transformations_tooltip" resname="transform.no_smart_transformations_tooltip" sap:sc="XCAP">
+        <source>Switch to grid view create a transform</source>
+        <note annotates="source" from="Developer">Tooltip for transform icon when no suggested transformations in cardview</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.cancelIcon_tooltip" resname="transform.cancelIcon_tooltip" sap:sc="XCAP">
+        <source>Clear all</source>
+        <note annotates="source" from="Developer">Tooltip for cancel icon in transform bar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.delete_by_value" resname="transform.delete_by_value" sap:sc="XMSG">
+        <source>Delete rows by value...</source>
+        <note annotates="source" from="Developer">context menu item for deleting rows by value. When clicked, user is prompted form more details about what to delete</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.delete_selected_rows" resname="transform.delete_selected_rows" sap:sc="XMSG">
+        <source>Delete Selected Rows</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.keep_selected_rows" resname="transform.keep_selected_rows" sap:sc="XMSG">
+        <source>Keep Selected Rows</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.delete_by_range" resname="transform.delete_by_range" sap:sc="XMSG">
+        <source>Keep rows within selected range...</source>
+        <note annotates="source" from="Developer">context menu item for deleting rows by range. When clicked, user is prompted form more details about what range of values to delete</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.duplicate" resname="transform.duplicate" sap:sc="XCAP">
+        <source>Duplicate</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.concatenate" resname="transform.concatenate" sap:sc="XCAP">
+        <source>Concatenate</source>
+        <note annotates="source" from="Developer">To join one to the other.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.split" resname="transform.split" sap:sc="XCAP">
+        <source>Split</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.convert" resname="transform.convert" sap:sc="XCAP">
+        <source>Convert</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.replace" resname="transform.replace" sap:sc="XCAP">
+        <source>Replace</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.extract" resname="transform.extract" sap:sc="XCAP">
+        <source>Extract</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.set" resname="transform.set" sap:sc="XCAP">
+        <source>Set</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.combine" resname="transform.combine" sap:sc="XCAP">
+        <source>Combine</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.change" resname="transform.change" sap:sc="XCAP">
+        <source>Change</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.unpivot" resname="transform.unpivot" sap:sc="XCAP">
+        <source>Unpivot</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.trim_column" resname="transform.trim_column" sap:sc="XCAP">
+        <source>Trim column</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.fiscal" resname="transform.fiscal" sap:sc="XCAP">
+        <source>Fiscal Year</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.duplicate_col" resname="transform.duplicate_col" sap:sc="XMSG">
+        <source>Duplicate column</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.hide_col" resname="transform.hide_col" sap:sc="XMSG">
+        <source>Hide Selected</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.duplicate_column_history" resname="transform.duplicate_column_history" sap:sc="XMSG">
+        <source>Duplicate <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.duplicate_complete" resname="transform.duplicate_complete" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> has been duplicated</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.concatenate_cols" resname="transform.concatenate_cols" sap:sc="XMSG">
+        <source>Concatenate columns with "<ph id="1">{0}</ph>"</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.concatenate_history" resname="transform.concatenate_history" sap:sc="XMSG">
+        <source>Concatenate <ph id="1">{0}</ph> and <ph id="2">{1}</ph> using <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">concatenate on history panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.concatenate_three_cols_history" resname="transform.concatenate_three_cols_history" sap:sc="XMSG">
+        <source>Concatenate <ph id="1">{0}</ph>, and <ph id="2">{1}</ph> using <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">concatenate multiple columns on history panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.merge_history" resname="transform.merge_history" sap:sc="XMSG">
+        <source>Concatenate <ph id="1">{0}</ph> and <ph id="2">{1}</ph> into <ph id="3">{2}</ph> using <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">merge on history panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.concatenate_cols_completed" resname="transform.concatenate_cols_completed" sap:sc="XMSG">
+        <source>Concatenated <ph id="1">{0}</ph> columns</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.concatenate_warning" resname="transform.concatenate_warning" sap:sc="XMSG">
+        <source>Merge complete. <ph id="1">{0}</ph> errors.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.split_on" resname="transform.split_on" sap:sc="XMSG">
+        <source>Split on ''<ph id="1">{0}</ph>''</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.split_on_create_cols" resname="transform.split_on_create_cols" sap:sc="XMSG">
+        <source>Split on ''<ph id="1">{0}</ph>'', making <ph id="2">{1}</ph> columns.</source>
+        <note annotates="source" from="Developer">this is added on to the string above and below(transform.split_on) and (transform.split_on_description)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.split_history" resname="transform.split_history" sap:sc="XMSG">
+        <source>Split <ph id="1">{0}</ph> into <ph id="2">{1}</ph> new columns on <ph id="3">{2}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.split_complete" resname="transform.split_complete" sap:sc="XMSG">
+        <source>Split complete. <ph id="1">{0}</ph> errors.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_val" resname="transform.replace_val" sap:sc="XMSG">
+        <source>Replace <ph id="1">{0}</ph> with ''<ph id="2">{1}</ph>''</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_all_val" resname="transform.replace_all_val" sap:sc="XMSG">
+        <source>Replace all values with ''<ph id="1">{0}</ph>''</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_includingWhere_val" resname="transform.replace_includingWhere_val" sap:sc="XMSG">
+        <source>Replace <ph id="1">{0}</ph> with <ph id="2">{1}</ph> in <ph id="3">{4}</ph> where <ph id="4">{2}</ph> is <ph id="5">{3}</ph></source>
+        <note annotates="source" from="Developer">Replace x with y where 'column z' is t</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_all_includingWhere_val" resname="transform.replace_all_includingWhere_val" sap:sc="XMSG">
+        <source>Replace all values with <ph id="1">{0}</ph> in <ph id="2">{3}</ph> where <ph id="3">{1}</ph> is <ph id="4">{2}</ph></source>
+        <note annotates="source" from="Developer">Replace all values with y where 'column z' is t</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_includingWhere_dot" resname="transform.replace_includingWhere_dot" sap:sc="XMSG">
+        <source>Replace <ph id="1">{0}</ph> with ... in <ph id="2">{4}</ph> where <ph id="3">{2}</ph> is <ph id="4">{3}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_all_includingWhere_dot" resname="transform.replace_all_includingWhere_dot" sap:sc="XMSG">
+        <source>Replace all values with ... in <ph id="1">{3}</ph> where <ph id="2">{1}</ph> is <ph id="3">{2}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.replace_with_dot" resname="transform.replace_with_dot" sap:sc="XMSG">
+        <source>Replace value with ...</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_history" resname="transform.replace_history" sap:sc="XMSG">
+        <source>Replace <ph id="1">{0}</ph> with <ph id="2">{1}</ph> in <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">Replace x with y in column x</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_all_history" resname="transform.replace_all_history" sap:sc="XMSG">
+        <source>Replace all values with <ph id="1">{0}</ph> in <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Replace all values with y in column x</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_includingWhere_history" resname="transform.replace_includingWhere_history" sap:sc="XMSG">
+        <source>Replace <ph id="1">{0}</ph> with <ph id="2">{1}</ph> in <ph id="3">{2}</ph> where <ph id="4">{3}</ph> is <ph id="5">{4}</ph></source>
+        <note annotates="source" from="Developer">Replace 'x' with 'y' in 'column x' where 'column z' is 't'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_all_includingWhere_history" resname="transform.replace_all_includingWhere_history" sap:sc="XMSG">
+        <source>Replace all values with <ph id="1">{0}</ph> in <ph id="2">{1}</ph> where <ph id="3">{2}</ph> is <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">Replace all values with 'y' in 'column x' where 'column z' is 't'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.before.first" resname="transform.extract.before.first" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> before first <ph id="2">{1}</ph> from [<ph id="3">{2}</ph>]</source>
+        <note annotates="source" from="Developer">Extract 'number' before first 'value' from ['column_A']</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.before.last" resname="transform.extract.before.last" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> before last <ph id="2">{1}</ph> from [<ph id="3">{2}</ph>]</source>
+        <note annotates="source" from="Developer">Extract 'word' before last 'value' from ['column_A']</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.before.occurrence" resname="transform.extract.before.occurrence" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> before occurrence <ph id="2">{1}</ph> of <ph id="3">{2}</ph> from [<ph id="4">{3}</ph>]</source>
+        <note annotates="source" from="Developer">Extract 'everything' before occurrence '5' of 'value' from ['column_A']</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.before.first.include" resname="transform.extract.before.first.include" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> before first <ph id="2">{1}</ph> from [<ph id="3">{2}</ph>] include <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">Extract 'number' before first 'value' from ['column_A'] include 'value'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.before.last.include" resname="transform.extract.before.last.include" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> before last <ph id="2">{1}</ph> from [<ph id="3">{2}</ph>] include <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">Extract 'word' before last 'value' from ['column_A'] include 'value'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.before.occurrence.include" resname="transform.extract.before.occurrence.include" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> before occurrence <ph id="2">{1}</ph> of <ph id="3">{2}</ph> from [<ph id="4">{3}</ph>] include <ph id="5">{4}</ph></source>
+        <note annotates="source" from="Developer">Extract 'number' before occurrence '3' of 'value' from ['column_A'] include 'value'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.after.first" resname="transform.extract.after.first" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> after first <ph id="2">{1}</ph> from [<ph id="3">{2}</ph>]</source>
+        <note annotates="source" from="Developer">Extract 'everything' after first 'value' from ['column_A']</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.after.last" resname="transform.extract.after.last" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> after last <ph id="2">{1}</ph> from [<ph id="3">{2}</ph>]</source>
+        <note annotates="source" from="Developer">Extract 'word' after last 'value' from ['column_A']</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.after.occurrence" resname="transform.extract.after.occurrence" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> after occurrence <ph id="2">{1}</ph> of <ph id="3">{2}</ph> from [<ph id="4">{3}</ph>]</source>
+        <note annotates="source" from="Developer">Extract 'number' after occurrence '7' of 'value' from ['column_A']</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.after.first.include" resname="transform.extract.after.first.include" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> after first <ph id="2">{1}</ph> from [<ph id="3">{2}</ph>] include <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">Extract 'everthing' after first 'value' from ['column_A'] include 'value'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.after.last.include" resname="transform.extract.after.last.include" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> after last <ph id="2">{1}</ph> from [<ph id="3">{2}</ph>] include <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">Extract 'word' after last 'value' from ['column_A'] include 'value'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.after.occurrence.include" resname="transform.extract.after.occurrence.include" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> after occurrence <ph id="2">{1}</ph> of <ph id="3">{2}</ph> from [<ph id="4">{3}</ph>] include <ph id="5">{4}</ph></source>
+        <note annotates="source" from="Developer">Extract 'number' after occurrence '11' of 'value' from ['column_A'] include 'value'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.between" resname="transform.extract.between" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> between <ph id="2">{1}</ph> and <ph id="3">{2}</ph> from [<ph id="4">{3}</ph>]</source>
+        <note annotates="source" from="Developer">Extract 'everything' between 'value1' and 'value2' from ['column_A']</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.between.include" resname="transform.extract.between.include" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> between <ph id="2">{1}</ph> and <ph id="3">{2}</ph> from [<ph id="4">{3}</ph>] include <ph id="5">{4}</ph></source>
+        <note annotates="source" from="Developer">Extract 'number' between 'value1' and 'value2' from ['column_A'] include 'value'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.between.include.include" resname="transform.extract.between.include.include" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> between <ph id="2">{1}</ph> and <ph id="3">{2}</ph> from [<ph id="4">{3}</ph>] include <ph id="5">{4}</ph> and <ph id="6">{5}</ph></source>
+        <note annotates="source" from="Developer">Extract 'word' between 'value1' and 'value2' from ['column_A'] include 'value1' and 'value2'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.contains" resname="transform.extract.contains" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> containing <ph id="2">{1}</ph> from [<ph id="3">{2}</ph>]</source>
+        <note annotates="source" from="Developer">Extract 'number' containing 'value' from ['column_A']</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.equals" resname="transform.extract.equals" sap:sc="XMSG">
+        <source>Extract <ph id="1">{0}</ph> equal to <ph id="2">{1}</ph> from [<ph id="3">{2}</ph>]</source>
+        <note annotates="source" from="Developer">Extract 'word' equal to 'value' from ['column_A']</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.toastDescription" resname="transform.extract.toastDescription" sap:sc="XMSG">
+        <source>Extracted <ph id="1">{0}</ph> from [<ph id="2">{1}</ph>]</source>
+        <note annotates="source" from="Developer">Extract 'word' from ['column_A']</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.extract.warning" resname="transform.extract.warning" sap:sc="XMSG">
+        <source>Extract complete. <ph id="1">{0}</ph> errors.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.set_val" resname="transform.set_val" sap:sc="XMSG">
+        <source>Set <ph id="1">{0}</ph> to <ph id="2">{1}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.combine_msg" resname="transform.combine_msg" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> and <ph id="2">{1}</ph> have been successfully combined.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.combine_history" resname="transform.combine_history" sap:sc="XMSG">
+        <source>Combine <ph id="1">{0}</ph> with <ph id="2">{1}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.set_includingWhere_val" resname="transform.set_includingWhere_val" sap:sc="XMSG">
+        <source>Set <ph id="1">{0}</ph> to <ph id="2">{1}</ph> where <ph id="3">{2}</ph> is <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">Set column x to y where column z is a</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.set_history" resname="transform.set_history" sap:sc="XMSG">
+        <source>Set <ph id="1">{0}</ph> to <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Set column x to y</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.set_includingWhere_history" resname="transform.set_includingWhere_history" sap:sc="XMSG">
+        <source>Set <ph id="1">{0}</ph> to <ph id="2">{1}</ph> where <ph id="3">{2}</ph> is <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">Set column w to x where column y is z</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.set_done" resname="transform.set_done" sap:sc="XMSG">
+        <source>Set <ph id="1">{0}</ph> to <ph id="2">{1}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.setExpression.toastDescription" resname="transform.setExpression.toastDescription" sap:sc="XMSG">
+        <source>Calculated column '<ph id="1">{0}</ph>' is successfully created</source>
+        <note annotates="source" from="Developer">Calculated column 'column_A' is succefully created.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.setExpression.updateToastDescription" resname="transform.setExpression.updateToastDescription" sap:sc="XMSG">
+        <source>Calculated column '<ph id="1">{0}</ph>' is successfully updated</source>
+        <note annotates="source" from="Developer">Calculated column 'column_A' is succefully updated.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.setExpression.description" resname="transform.setExpression.description" sap:sc="XMSG">
+        <source>Set formula of <ph id="1">{0}</ph> to <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Set formula of 'column_A' to FORMULA</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.unpivot.history" resname="transform.unpivot.history" sap:sc="XMSG">
+        <source>Transpose <ph id="1">{0}</ph> columns</source>
+        <note annotates="source" from="Developer">Unpivot 'number' columns</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.unpivot.toastDescription" resname="transform.unpivot.toastDescription" sap:sc="XMSG">
+        <source>Successfully transposed columns</source>
+        <note annotates="source" from="Developer">Unpivot transform successful.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.setExpression" resname="transform.setExpression" sap:sc="XMSG">
+        <source>Set Expression</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_value_instances_in_column" resname="transform.replace_value_instances_in_column" sap:sc="XMSG">
+        <source>Replaced "<ph id="1">{0}</ph>" with "<ph id="2">{1}</ph>" in <ph id="3">{2}</ph>.</source>
+        <note annotates="source" from="Developer">Toast message to let user know action was succesfull in replacing values in a column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_all_instances_in_column" resname="transform.replace_all_instances_in_column" sap:sc="XMSG">
+        <source>Replaced all values with "<ph id="1">{0}</ph>" in <ph id="2">{1}</ph>.</source>
+        <note annotates="source" from="Developer">Toast message to let user know action was succesfull in setting all values in the column to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_all_instances_in_column_with_where" resname="transform.replace_all_instances_in_column_with_where" sap:sc="XMSG">
+        <source>Replaced all values with "<ph id="1">{0}</ph>" in <ph id="2">{1}</ph> where <ph id="3">{2}</ph> is "<ph id="4">{3}</ph>".</source>
+        <note annotates="source" from="Developer">Toast message to let user know action was succesfull in setting all values in the column to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_value_with_where" resname="transform.replace_value_with_where" sap:sc="XMSG">
+        <source>Replaced "<ph id="1">{0}</ph>" with "<ph id="2">{1}</ph>" in <ph id="3">{2}</ph> where <ph id="4">{3}</ph> is "<ph id="5">{4}</ph>".</source>
+        <note annotates="source" from="Developer">Toast message to let user know action was succesfull in setting all values in the column to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.replace_cell_simple" resname="transform.replace_cell_simple" sap:sc="XMSG">
+        <source>Replaced the selected cell</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.replace_complete" resname="transform.replace_complete" sap:sc="XMSG">
+        <source>Replace complete. <ph id="1">{0}</ph> errors.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.replace_empty" resname="transform.replace_empty" sap:sc="XMSG">
+        <source>empty</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.include" resname="transform.include" sap:sc="XMSG">
+        <source>Keep rows with <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.exclude" resname="transform.exclude" sap:sc="XMSG">
+        <source>Delete rows with <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.include_col_history" resname="transform.include_col_history" sap:sc="XMSG">
+        <source>Keep only rows with <ph id="1">{0}</ph> in <ph id="2">{1}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.exclude_col_history" resname="transform.exclude_col_history" sap:sc="XMSG">
+        <source>Delete all rows with <ph id="1">{0}</ph> in <ph id="2">{1}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.deleted_x_rows" resname="transform.deleted_x_rows" sap:sc="XMSG">
+        <source>Deleted <ph id="1">{0}</ph> rows.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.change_to" resname="transform.change_to" sap:sc="XMSG">
+        <source>Change to <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Change to LowerCase,UpperCase or TitleCase</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.convert_col_to" resname="transform.convert_col_to" sap:sc="XMSG">
+        <source>Changed <ph id="1">{0}</ph> to <ph id="2">{1}</ph>.</source>
+        <note annotates="source" from="Developer">Changed x to LowerCase,UpperCase or titlecase</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.change_case_history" resname="transform.change_case_history" sap:sc="XMSG">
+        <source>Change case to <ph id="1">{0}</ph> in <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">change case in history panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.change_to.lowercase" resname="transform.change_to.lowercase" sap:sc="XMSG">
+        <source>lowercase</source>
+        <note annotates="source" from="Developer">Represents lower casing</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.change_to.uppercase" resname="transform.change_to.uppercase" sap:sc="XMSG">
+        <source>UPPERCASE</source>
+        <note annotates="source" from="Developer">Represents uppercasing data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.change_to.titlecase" resname="transform.change_to.titlecase" sap:sc="XMSG">
+        <source>TitleCase</source>
+        <note annotates="source" from="Developer">Represents TitleCasing (please translate as one word)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.trim_whitespace" resname="transform.trim_whitespace" sap:sc="XMSG">
+        <source>Trim Whitespace</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.trim_history" resname="transform.trim_history" sap:sc="XMSG">
+        <source>Trim all whitespaces in <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.trim_whitespace_completed" resname="transform.trim_whitespace_completed" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> has been trimmed.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.empty_cells" resname="transform.empty_cells" sap:sc="XMSG">
+        <source>empty cells</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.whitespaces" resname="transform.whitespaces" sap:sc="XMSG">
+        <source>"<ph id="1">{0}</ph>"</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.range_col_history" resname="transform.range_col_history" sap:sc="XMSG">
+        <source>Delete rows outside <ph id="1">{0}</ph> and <ph id="2">{1}</ph> in <ph id="3">{2}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.delete_column" resname="transform.delete_column" sap:sc="XCAP">
+        <source>Delete Column</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.delete_columns" resname="transform.delete_columns" sap:sc="XCAP">
+        <source>Delete Columns</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.delete_column_history" resname="transform.delete_column_history" sap:sc="XCAP">
+        <source>Delete <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.history_row_id" resname="transform.history_row_id" sap:sc="XCAP">
+        <source>row ID</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.deleted_col" resname="transform.deleted_col" sap:sc="XMSG">
+        <source>Column has been deleted</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.deleted_columns" resname="transform.deleted_columns" sap:sc="XMSG">
+        <source>Columns have been deleted</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.replace_tooltip" resname="transform.replace_tooltip" sap:sc="XCAP">
+        <source>Replace a value with a new value</source>
+        <note annotates="source" from="Developer">Tooltip for replace in menu item of transform bar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.extract_tooltip" resname="transform.extract_tooltip" sap:sc="XCAP">
+        <source>Extract a value from a column</source>
+        <note annotates="source" from="Developer">Tooltip for extract in menu item of transform bar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.setExpression_tooltip" resname="transform.setExpression_tooltip" sap:sc="XCAP">
+        <source>Create calculated column using formula expression</source>
+        <note annotates="source" from="Developer">Tooltip for expression in menu item of transform bar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.set_tooltip" resname="transform.set_tooltip" sap:sc="XCAP">
+        <source>Set a column to a value</source>
+        <note annotates="source" from="Developer">Tooltip for set in menu item of transform bar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.split_tooltip" resname="transform.split_tooltip" sap:sc="XCAP">
+        <source>Split a column on a text character or space</source>
+        <note annotates="source" from="Developer">Tooltip for split in menu item of transform bar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.merge_tooltip" resname="transform.merge_tooltip" sap:sc="XCAP">
+        <source>Join two or more columns into one</source>
+        <note annotates="source" from="Developer">Tooltip for merge in menu item of transform bar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.convertCase_tooltip" resname="transform.convertCase_tooltip" sap:sc="XCAP">
+        <source>Change character case to lowercase, uppercase, or title case</source>
+        <note annotates="source" from="Developer">Tooltip for change case in menu item of transform bar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transform.fiscal_col" resname="transform.fiscal_col" sap:sc="XMSG">
+        <source>Fiscal Year Column</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transform.fiscal_complete" resname="transform.fiscal_complete" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> has been converted to a fiscal year</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="filter.number_range_filter_dialog_title" resname="filter.number_range_filter_dialog_title" sap:sc="XMSG">
+        <source>Set number range for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">title for number range filter dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="filter.set_date_range_for" resname="filter.set_date_range_for" sap:sc="XMSG">
+        <source>Set date range for <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="filter.label_select_all" resname="filter.label_select_all" sap:sc="XMSG">
+        <source>Select All</source>
+        <note annotates="source" from="Developer">selected members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="filter.delete_rows_for" resname="filter.delete_rows_for" sap:sc="XMSG">
+        <source>Delete rows for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">delete rows for [column]</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="filter.tooltip_clear_selection" resname="filter.tooltip_clear_selection" sap:sc="XCAP">
+        <source>Clear Selection</source>
+        <note annotates="source" from="Developer">tool tip for clearing selection on advanced filter dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="filter.delete_values" resname="filter.delete_values" sap:sc="XMSG">
+        <source>Delete Values</source>
+        <note annotates="source" from="Developer">filter selected members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="filter.keep_only_values" resname="filter.keep_only_values" sap:sc="XMSG">
+        <source>Keep Only Values</source>
+        <note annotates="source" from="Developer">filter selected members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="filter.keep_selected_values" resname="filter.keep_selected_values" sap:sc="XCKL">
+        <source>Keep selected values</source>
+        <note annotates="source" from="Developer">Changes a dialog to keep the selected values instead of deleting them</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="filter.available_values" resname="filter.available_values" sap:sc="XMSG">
+        <source>Available Values</source>
+        <note annotates="source" from="Developer">selected text for advanced filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="filter.search_placeholder" resname="filter.search_placeholder" sap:sc="XMSG">
+        <source>Search</source>
+        <note annotates="source" from="Developer">placeholder for search field</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="auto_complete.smart_formats" resname="auto_complete.smart_formats" sap:sc="XMSG">
+        <source>Smart Formats</source>
+        <note annotates="source" from="Developer">Smart formats are formats that come from analysing the data and seeing a format that makes the most sense</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="context_menu_item.create_transform" resname="context_menu_item.create_transform" sap:sc="XMSG">
+        <source>Create a Transform...</source>
+        <note annotates="source" from="Developer">context menu item text for changing focus to the transformation bar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="context_menu_item.convert_case" resname="context_menu_item.convert_case" sap:sc="XMSG">
+        <source>Change Case</source>
+        <note annotates="source" from="Developer">context menu item text for opening the case conversion sub menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_INVALID_VALUES_IN_N_COLUMNS" maxwidth="70" resname="DI_IMPORT_INVALID_VALUES_IN_N_COLUMNS" sap:sc="XFLD" size-unit="char">
+        <source>Non-number or out-of range values in <ph id="1">{0}</ph> Measure column(s)</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_INVALID_VALUES_IN_N_COLUMNS display the number of columns with values that are not numbers</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="dialog.sample_loaded_heading" resname="dialog.sample_loaded_heading" sap:sc="XHED">
+        <source>Data Sample</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="dialog.sample_loaded_message" resname="dialog.sample_loaded_message" sap:sc="YMSI">
+        <source>Your data was successfully uploaded. Because there are a large number of rows in your data set, we have selected a sample for you to work with. \n\nAny work done on the sample will be applied to the full data set <ph id="1">{0}</ph>.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="dialog.sample_loaded_message_dataset" resname="dialog.sample_loaded_message_dataset" sap:sc="YMSI">
+        <source>Your data was successfully uploaded. Because there are a large number of rows in your data set, we have selected a sample for you to work with.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="dialog.sample_loaded_message_in_create_model" resname="dialog.sample_loaded_message_in_create_model" sap:sc="YMSI">
+        <source>at model creation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="dialog.sample_loaded_message_in_import_data" resname="dialog.sample_loaded_message_in_import_data" sap:sc="YMSI">
+        <source>on data import</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="dialog.confirm" resname="dialog.confirm" sap:sc="XBUT">
+        <source>OK</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="general.between" resname="general.between" sap:sc="XFLD">
+        <source>Between </source>
+        <note annotates="source" from="Developer">white spaces enforced by unicode value \u0020</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="general.to" resname="general.to" sap:sc="XFLD">
+        <source> to </source>
+        <note annotates="source" from="Developer">leading and trailing white spaces enforced by unicode value \u0020</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="general.and" resname="general.and" sap:sc="XFLD">
+        <source> and </source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="general.ok" resname="general.ok" sap:sc="XBUT">
+        <source>Ok</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="general.cancel" resname="general.cancel" sap:sc="XBUT">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="general.measures" resname="general.measures" sap:sc="XCAP">
+        <source>Measures</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="general.time" resname="general.time" sap:sc="XCAP">
+        <source>Time</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="general.dimensions" resname="general.dimensions" sap:sc="XCAP">
+        <source>Dimensions</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_INVALID_MEMBER_ID_IN_N_COLUMNS" maxwidth="50" resname="DI_IMPORT_INVALID_MEMBER_ID_IN_N_COLUMNS" sap:sc="XFLD" size-unit="char">
+        <source>Invalid values in <ph id="1">{0}</ph> ID column(s)</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_INVALID_MEMBER_ID_IN_N_COLUMNS display the number of ID columns with invalid characters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_EMPTY_MEMBER_ID_IN_N_COLUMNS" maxwidth="50" resname="DI_IMPORT_EMPTY_MEMBER_ID_IN_N_COLUMNS" sap:sc="XFLD" size-unit="char">
+        <source>Empty values in <ph id="1">{0}</ph> ID column(s)</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_EMPTY_MEMBER_ID_IN_N_COLUMNS display the number of ID columns with with empty members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_DUPLICATE_MEMBER_ID_IN_N_COLUMNS" maxwidth="60" resname="DI_IMPORT_DUPLICATE_MEMBER_ID_IN_N_COLUMNS" sap:sc="XFLD" size-unit="char">
+        <source>Duplicate ID dependencies in <ph id="1">{0}</ph> Property column(s)</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_DUPLICATE_MEMBER_ID_IN_N_COLUMNS display the number of property columns with duplicate member id values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_CIRCULAR_HIERARCHY_IN_N_COLUMNS" maxwidth="50" resname="DI_IMPORT_CIRCULAR_HIERARCHY_IN_N_COLUMNS" sap:sc="XFLD" size-unit="char">
+        <source>Circular hierarchy in <ph id="1">{0}</ph> column(s)</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_CIRCULAR_HIERARCHY_IN_N_COLUMNS display the number of hierarchical columns with circular dependencies</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_EXCEED_MAX_LENGTH_IN_N_COLUMNS" maxwidth="50" resname="DI_IMPORT_EXCEED_MAX_LENGTH_IN_N_COLUMNS" sap:sc="XFLD" size-unit="char">
+        <source>Maximum member length exceeded in <ph id="1">{0}</ph> column(s)</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_EXCEED_MAX_LENGTH_IN_N_COLUMNS display the number of columns with members exceeding their maximum length limits</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_TYPE_MISMATCH_ID_IN_N_COLUMNS" maxwidth="50" resname="DI_IMPORT_TYPE_MISMATCH_ID_IN_N_COLUMNS" sap:sc="XFLD" size-unit="char">
+        <source>Type mismatch is present in <ph id="1">{0}</ph> column(s)</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_TYPE_MISMATCH_ID_IN_N_COLUMNS display the number of columns with members with type mismatch</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_PARENT_MEMBER_ID_IN_N_COLUMNS" maxwidth="60" resname="DI_IMPORT_PARENT_MEMBER_ID_IN_N_COLUMNS" sap:sc="XFLD" size-unit="char">
+        <source>Non-leaf member nodes in <ph id="1">{0}</ph> column(s) with hierarchy</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_PARENT_MEMBER_ID_IN_N_COLUMNS display the number of hierarchical columns with non-leaf members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_TIME_FORMAT_INVALID_IN_N_COLUMNS" maxwidth="50" resname="DI_IMPORT_TIME_FORMAT_INVALID_IN_N_COLUMNS" sap:sc="XFLD" size-unit="char">
+        <source>Invalid time format in <ph id="1">{0}</ph> column(s)</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_TIME_FORMAT_INVALID_IN_N_COLUMNS display the number of time columns with invalid formats</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_INVALID_ST_POINT_IN_N_COLUMNS" maxwidth="50" resname="DI_IMPORT_INVALID_ST_POINT_IN_N_COLUMNS" sap:sc="XFLD" size-unit="char">
+        <source>Invalid geo point in <ph id="1">{0}</ph> column(s)</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_INVALID_ST_POINT_IN_N_COLUMNS display the number of ST Point columns with invalid geo points</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DI_IMPORT_EVALUATING_MODEL" maxwidth="50" resname="DI_IMPORT_EVALUATING_MODEL" sap:sc="XFLD" size-unit="char">
+        <source>Evaluating the model</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_EVALUATING_MODEL indicate to the user that the model is being evaluated</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_N_ROWS_TO_BE_DROPPED" maxwidth="50" resname="DI_IMPORT_N_ROWS_TO_BE_DROPPED" sap:sc="XFLD" size-unit="char">
+        <source><ph id="1">{0}</ph> rows will be discarded</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_N_ROWS_TO_BE_DROPPED indicate the number of rows that will be discarded</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_N_ROWS_TO_BE_DROPPED_SINGULAR" maxwidth="50" resname="DI_IMPORT_N_ROWS_TO_BE_DROPPED_SINGULAR" sap:sc="XFLD" size-unit="char">
+        <source><ph id="1">{0}</ph> row will be discarded</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_N_ROWS_TO_BE_DROPPED_SINGULAR indicate one row will be discarded singular version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_IMPORT_INVALID_DEFAULT_MEMBER" maxwidth="100" resname="DI_IMPORT_INVALID_DEFAULT_MEMBER" sap:sc="XFLD" size-unit="char">
+        <source>Invalid default member (#) description in <ph id="1">{0}</ph> columns</source>
+        <note annotates="source" from="Developer">KEY=DI_IMPORT_INVALID_DEFAULT_MEMBER display the number of columns with members with invalid default member description</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.search" resname="summary_panel.search" sap:sc="XMSG">
+        <source>Search column values...</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.histogram" resname="summary_panel.histogram" sap:sc="XMSG">
+        <source>Data Distribution</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.show_histogram_slider" resname="summary_panel.show_histogram_slider" sap:sc="XBUT">
+        <source>Bars</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.num_of_clusters" resname="summary_panel.num_of_clusters" sap:sc="XCAP">
+        <source>Number of Bars</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.histogram_show_outliers" resname="summary_panel.histogram_show_outliers" sap:sc="XCAP">
+        <source>Show Outliers</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.histogram_min" resname="summary_panel.histogram_min" sap:sc="XCAP">
+        <source>Min</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.histogram_max" resname="summary_panel.histogram_max" sap:sc="XCAP">
+        <source>Max</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.histogram_median" resname="summary_panel.histogram_median" sap:sc="XCAP">
+        <source>Median</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.histogram_do_data_found" resname="summary_panel.histogram_do_data_found" sap:sc="XMSG">
+        <source>No data values are found.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="summary_panel.histogram_invalid_value" resname="summary_panel.histogram_invalid_value" sap:sc="XMSG">
+        <source>Invalid value for property <ph id="1">{0}</ph>: <ph id="2">{1}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.showModelInformation" resname="summary_panel.showModelInformation" sap:sc="XCAP">
+        <source>Click here to view model details</source>
+        <note annotates="source" from="Developer">Tooltip to show model information</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.showColumnInformation" resname="summary_panel.showColumnInformation" sap:sc="XCAP">
+        <source>Click here to view column details</source>
+        <note annotates="source" from="Developer">Tooltip to show model information</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="summary_panel.histogram_not_enough_data_points" resname="summary_panel.histogram_not_enough_data_points" sap:sc="XMSG">
+        <source>Selected column does not contain enough data points to generate a histogram.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.transform_error" resname="metadata.transform_error" sap:sc="XMSG">
+        <source>Invalid value</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_level_hiearchy" resname="metadata.invalid_level_hiearchy" sap:sc="XMSG">
+        <source>Empty value in hierarchy</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_default_member_unassigned" resname="metadata.invalid_default_member_unassigned" sap:sc="XMSG">
+        <source>Must be 'Unassigned'</source>
+        <note annotates="source" from="Developer">'Unassigned' is a keyword, do not translate the 'Unassigned'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="metadata.column_name_too_long" resname="metadata.column_name_too_long" sap:sc="XMSG">
+        <source>Column name too long for <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.column_name_reserved" resname="metadata.column_name_reserved" sap:sc="XMSG">
+        <source>Column name cannot be "column"</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="metadata.column_name_not_unique" resname="metadata.column_name_not_unique" sap:sc="XMSG">
+        <source>Column name not unique for <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.only_one_time_dim" resname="metadata.only_one_time_dim" sap:sc="XMSG">
+        <source>Please select only one time dimension</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.only_one_organization_dim" resname="metadata.only_one_organization_dim" sap:sc="XMSG">
+        <source>Please select only one organization dimension</source>
+        <note annotates="source" from="Developer">Note: "organization" must be translated to the same word used for "modeling.type_organization"</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.only_one_version_dim" resname="metadata.only_one_version_dim" sap:sc="XMSG">
+        <source>Please select only one version dimension</source>
+        <note annotates="source" from="Developer">Note: "version" must be translated to the same word used for "modeling.type_versions"</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.only_one_account_dim" resname="metadata.only_one_account_dim" sap:sc="XMSG">
+        <source>Please select only one account dimension</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.no_measure_in_model" resname="metadata.no_measure_in_model" sap:sc="XMSG">
+        <source>Please select at least one measure</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.account_dimension_atmost_one_measure" resname="metadata.account_dimension_atmost_one_measure" sap:sc="XMSG">
+        <source>Account dimension must be defined with at most one measure</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="metadata.dimension_at_most_one_attribute" resname="metadata.dimension_at_most_one_attribute" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> dimension can have at most one <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">e.g. "Account" dimension can have at most one "Parent-Child Hierarchy"</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="metadata.incomplete_attribute" resname="metadata.incomplete_attribute" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> is incomplete in column(s): <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Example: Geo Location is incomplete in column(s) "A", "B"</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.time_dim_out_of_extended_range" resname="metadata.time_dim_out_of_extended_range" sap:sc="XMSG">
+        <source>Year not between 1900 and 2050</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.time_dim_out_of_model_range" resname="metadata.time_dim_out_of_model_range" sap:sc="XMSG">
+        <source>Not in current model's time range</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_fiscal_time" resname="metadata.invalid_fiscal_time" sap:sc="XMSG">
+        <source>Fiscal time out of range</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_timestamp_format" resname="metadata.invalid_timestamp_format" sap:sc="XMSG">
+        <source>Invalid timestamp format</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_account_type" resname="metadata.invalid_account_type" sap:sc="XMSG">
+        <source>Must be INC, EXP, AST, LEQ, or NFIN</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_rate_type" resname="metadata.invalid_rate_type" sap:sc="XMSG">
+        <source>Invalid value for respective Account Type value</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_unitype_values" resname="metadata.invalid_unitype_values" sap:sc="XMSG">
+        <source>Must be Currency or Unit</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_measureunit_values" resname="metadata.invalid_measureunit_values" sap:sc="XMSG">
+        <source>Over 30 characters</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_scale_values" resname="metadata.invalid_scale_values" sap:sc="XMSG">
+        <source>Must be between 0 and 7</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_shiftnum_values" resname="metadata.invalid_shiftnum_values" sap:sc="XMSG">
+        <source>Must be Billion, Million, Thousand, or Percent</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_formula" resname="metadata.invalid_formula" sap:sc="XMSG">
+        <source>Invalid value</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_data_type" resname="metadata.invalid_data_type" sap:sc="XMSG">
+        <source>Invalid data type</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_chars" resname="metadata.invalid_chars" sap:sc="XMSG">
+        <source>Invalid characters</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_values" resname="metadata.invalid_values" sap:sc="XMSG">
+        <source>Invalid Values</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.empty_member_id" resname="metadata.empty_member_id" sap:sc="XMSG">
+        <source>Empty member ID</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.type_mismatch" resname="metadata.type_mismatch" sap:sc="XMSG">
+        <source>Type mismatch</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.parent_member_id" resname="metadata.parent_member_id" sap:sc="XMSG">
+        <source>Not a leaf node</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.parent_member_id_import" resname="metadata.parent_member_id_import" sap:sc="XMSG">
+        <source>Not a leaf node</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.parent_member_id_update" resname="metadata.parent_member_id_update" sap:sc="XMSG">
+        <source>Becomes a non-leaf node</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.additional_member_id" resname="metadata.additional_member_id" sap:sc="XMSG">
+        <source>Not matched</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.duplicate_description" resname="metadata.duplicate_description" sap:sc="XMSG">
+        <source>Multiple matched values</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.calculated_measure_member" resname="metadata.calculated_measure_member" sap:sc="XMSG">
+        <source>Is calculated member</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.calculated_measure_member.tooltip" resname="metadata.calculated_measure_member.tooltip" sap:sc="XMSG">
+        <source>Cannot import data into calculated member</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.num_out_range" resname="metadata.num_out_range" sap:sc="XMSG">
+        <source>Numeric data out of range</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.dupe_member_id" resname="metadata.dupe_member_id" sap:sc="XMSG">
+        <source>Non-unique property</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.two_parent_child" resname="metadata.two_parent_child" sap:sc="XMSG">
+        <source>Child nodes cannot have two parents</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.dupe_geolocation" resname="metadata.dupe_geolocation" sap:sc="XMSG">
+        <source>Ambiguous geolocation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.circular_hierarchy" resname="metadata.circular_hierarchy" sap:sc="XMSG">
+        <source>Part of a circular hierarchy</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.out_of_range_latitude" resname="metadata.out_of_range_latitude" sap:sc="XMSG">
+        <source>Latitude out of range</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.out_of_range_longitude" resname="metadata.out_of_range_longitude" sap:sc="XMSG">
+        <source>Longitude out of range</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_coordinate" resname="metadata.invalid_coordinate" sap:sc="XMSG">
+        <source>Invalid coordinate</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.no_location_found" resname="metadata.no_location_found" sap:sc="XMSG">
+        <source>Invalid geolocation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.no_state_found" resname="metadata.no_state_found" sap:sc="XMSG">
+        <source>No state found</source>
+        <note annotates="source" from="Developer">message shown to the user when they have entered an incorrect state name (For example, 'Mishigun' instead of 'Michigan')</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.data_value_too_long" resname="metadata.data_value_too_long" sap:sc="XMSG">
+        <source>Over 255 characters</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_currency" resname="metadata.invalid_currency" sap:sc="XMSG">
+        <source>Invalid currency</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_rate_table_dateformat" resname="metadata.invalid_rate_table_dateformat" sap:sc="XMSG">
+        <source>Invalid date format</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_rate_table_ratevalue" resname="metadata.invalid_rate_table_ratevalue" sap:sc="XMSG">
+        <source>Invalid rate value</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_rate_table_category" resname="metadata.invalid_rate_table_category" sap:sc="XMSG">
+        <source>Invalid category</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_rate_table_ratetype" resname="metadata.invalid_rate_table_ratetype" sap:sc="XMSG">
+        <source>Invalid rate type</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_measureunit_currency" resname="metadata.invalid_measureunit_currency" sap:sc="XMSG">
+        <source>Must be USD or EUR</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_measureunit_currency.tooltip" resname="metadata.invalid_measureunit_currency.tooltip" sap:sc="XMSG">
+        <source>Must be USD or EUR if unit type is Currency</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.blank_measureunit" resname="metadata.blank_measureunit" sap:sc="XMSG">
+        <source>Empty measure unit</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.blank_measureunit.tooltip" resname="metadata.blank_measureunit.tooltip" sap:sc="XMSG">
+        <source>Empty measure unit but unit type is not empty</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.blank_unittype" resname="metadata.blank_unittype" sap:sc="XMSG">
+        <source>Empty unit type</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.blank_unittype.tooltip" resname="metadata.blank_unittype.tooltip" sap:sc="XMSG">
+        <source>Empty unit type but measure unit is not empty</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.unmapped_version" resname="metadata.unmapped_version" sap:sc="XMSG">
+        <source>Unmapped version</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="metadata.too_many_dimension_values" resname="metadata.too_many_dimension_values" sap:sc="XMSG">
+        <source>Column <ph id="1">{0}</ph> cannot have more than <ph id="2">{1}</ph> unique values</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.planning_requires_time" resname="metadata.planning_requires_time" sap:sc="XMSG">
+        <source>Planning requires a time dimension</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.invalid_user_id_format" resname="metadata.invalid_user_id_format" sap:sc="XMSG">
+        <source>Invalid User ID(s)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.exceed_max_user_dac" resname="metadata.exceed_max_user_dac" sap:sc="XMSG">
+        <source>Exceed maximum number of users supported</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="metadata.exceed_max_user_owner" resname="metadata.exceed_max_user_owner" sap:sc="XMSG">
+        <source>Exceed maximum of 1 user supported</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="histogram.plus_more" resname="histogram.plus_more" sap:sc="XCAP">
+        <source>  +<ph id="1">{0}</ph> more...</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="histogram.values" resname="histogram.values" sap:sc="XCAP">
+        <source>Values</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="histogram.issues" resname="histogram.issues" sap:sc="XCAP">
+        <source>Issues</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="histogram.count" resname="histogram.count" sap:sc="XCAP">
+        <source>Count</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="histogram.records" resname="histogram.records" sap:sc="XCAP">
+        <source>Records</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="histogram.invalid_chart_container" resname="histogram.invalid_chart_container" sap:sc="XMSG">
+        <source>Invalid chart container</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="histogram.invalid_chart_properties" resname="histogram.invalid_chart_properties" sap:sc="XMSG">
+        <source>Invalid chart properties or data.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="histogram.more_not_shown" resname="histogram.more_not_shown" sap:sc="XCAP">
+        <source>(<ph id="1">{0}</ph> more not shown)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="clustering.entries_out_of_order" resname="clustering.entries_out_of_order" sap:sc="XMSG">
+        <source>Entries out of order: list[<ph id="1">{0}</ph>]=<ph id="2">{1}</ph> and list[<ph id="3">{2}</ph>]=<ph id="4">{3}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="clustering.histogram_entry_list" resname="clustering.histogram_entry_list" sap:sc="XMSG">
+        <source>Histogram entry list. <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="clustering.histogram_gap_list" resname="clustering.histogram_gap_list" sap:sc="XMSG">
+        <source>Histogram gap list. <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="clustering.incorrect_gaps" resname="clustering.incorrect_gaps" sap:sc="XMSG">
+        <source>Incorrect number of gaps</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="clustering.gap_no_id" resname="clustering.gap_no_id" sap:sc="XMSG">
+        <source>Gap has id of nonexistent entry: <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="clustering.gap_no_entry" resname="clustering.gap_no_entry" sap:sc="XMSG">
+        <source>Gap has id of nonexistent entry: <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="clustering.wrong_id_gap" resname="clustering.wrong_id_gap" sap:sc="XMSG">
+        <source>Entry with id= <ph id="1">{0}</ph> references wrong gap."</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="table.preview" resname="table.preview" sap:sc="XTXT">
+        <source>Preview</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="table.preview_delete" resname="table.preview_delete" sap:sc="XTXT">
+        <source>Delete</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="table.undo" resname="table.undo" sap:sc="XTXT">
+        <source>Undo</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.split" resname="transformbar.split" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> [<ph id="2">{1}</ph>] <ph id="3">{2}</ph> <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">Formula used to split a column using a delimiter a specified number of times, do not translate square braces #{transform.split} [{transformbar.placeholder.column}] {transformbar.split.delimiter.pair} {transformbar.split.delimiter.repeat}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.split_new" resname="transformbar.split_new" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph> <ph id="3">{2}</ph> <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">Formula used to split a column using a delimiter a specified number of times. #{transform.split} {transformbar.placeholder.column} {transformbar.split.delimiter.pair} {transformbar.split.delimiter.repeat}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.split.delimiter.pair_new" resname="transformbar.split.delimiter.pair_new" sap:sc="XGLS">
+        <source>on <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Part of split formula where a user specifies the delimiter character to split, translate as using.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.split.delimiter" resname="transformbar.split.delimiter" sap:sc="XGLS">
+        <source>delimiter</source>
+        <note annotates="source" from="Developer">Placeholder for the delimiter that specifies how to split a piece of data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.split.delimiter.repeat" resname="transformbar.split.delimiter.repeat" sap:sc="XGLS">
+        <source>repeat "<ph id="1">{0}</ph>"</source>
+        <note annotates="source" from="Developer">Part of split formula indicating the number of times to repeat the action, do not translate double quotes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.split.delimiter.repeat_new" resname="transformbar.split.delimiter.repeat_new" sap:sc="XGLS">
+        <source>repeat <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Part of split formula indicating the number of times to repeat the action.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.split.delimiter.repeat.placeholder" resname="transformbar.split.delimiter.repeat.placeholder" sap:sc="XGLS">
+        <source>times</source>
+        <note annotates="source" from="Developer">A placeholder for the number of times the user wants to repeat their action</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.replace" resname="transformbar.replace" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> "<ph id="2">{1}</ph>" <ph id="3">{2}</ph> <ph id="4">{3}</ph> <ph id="5">{4}</ph></source>
+        <note annotates="source" from="Developer">Formula used to replace a value in a column with another value, Do not translate square braces.  Do not translate double quotes. #{transform.replace} "{transformbar.replace.type.placeholder}" {transformbar.replace.column} {transformbar.replace.searchTerms} {transformbar.replace.replaceValue}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.replace_new" resname="transformbar.replace_new" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph> <ph id="3">{2}</ph> <ph id="4">{3}</ph> <ph id="5">{4}</ph></source>
+        <note annotates="source" from="Developer">Formula used to replace a value in a column with another value. #{transform.replace} {transformbar.replace.type.placeholder} {transformbar.replace.column} {transformbar.replace.searchTerms} {transformbar.replace.replaceValue}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.replace_all" resname="transformbar.replace_all" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph> <ph id="3">{2}</ph> <ph id="4">{3}</ph></source>
+        <note annotates="source" from="Developer">Formula used to replace a value in a column with another value. #{transform.replace} {transformbar.replace.type.placeholder} {transformbar.replace.column} {transformbar.replace.replaceValue}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.replace.where" resname="transformbar.replace.where" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Formula added to the end of replace transform, adding an extra condition. #{transformbar.replace.where.literal} {transformbar.replace.where.clause}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.replace.where.literal" resname="transformbar.replace.where.literal" sap:sc="XGLS">
+        <source>where</source>
+        <note annotates="source" from="Developer">The word "where" which is used to describe a condition. It is followed by {transformbar.replace.where.clause}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.replace.where.clause" resname="transformbar.replace.where.clause" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> is <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Formula which describes a condition. For example: "Column is Empty" #{transformbar.replace.column} {transformbar.replace.searchTerms}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.replace.content" resname="transformbar.replace.content" sap:sc="XGLS">
+        <source>content</source>
+        <note annotates="source" from="Developer">Represents the option to replace any content within a cell</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.replace.all" resname="transformbar.replace.all" sap:sc="XGLS">
+        <source>all values</source>
+        <note annotates="source" from="Developer">Represents the option to replace all values in a column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.replace.cell" resname="transformbar.replace.cell" sap:sc="XGLS">
+        <source>cell</source>
+        <note annotates="source" from="Developer">Represents the option to replace only entire values of a cell</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.replace.column_new" resname="transformbar.replace.column_new" sap:sc="XGLS">
+        <source>in <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Selection of which column the action will apply to.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.replace.replaceSearch_new" resname="transformbar.replace.replaceSearch_new" sap:sc="XGLS">
+        <source>matching <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Specifies which value the user wants to replace.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.replace.replaceValue_new" resname="transformbar.replace.replaceValue_new" sap:sc="XGLS">
+        <source>with <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Specifies the result value of the replace.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.type.word" resname="transformbar.extract.type.word" sap:sc="XGLS">
+        <source>word</source>
+        <note annotates="source" from="Developer">Represents the option to extract a word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.type.number" resname="transformbar.extract.type.number" sap:sc="XGLS">
+        <source>number</source>
+        <note annotates="source" from="Developer">Represents the option to extract a number</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.type.everything" resname="transformbar.extract.type.everything" sap:sc="XGLS">
+        <source>everything</source>
+        <note annotates="source" from="Developer">Represents the option to extract a everything</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.condition.before" resname="transformbar.extract.condition.before" sap:sc="XGLS">
+        <source>before</source>
+        <note annotates="source" from="Developer">Represents the condition of being before a specified value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.condition.after" resname="transformbar.extract.condition.after" sap:sc="XGLS">
+        <source>after</source>
+        <note annotates="source" from="Developer">Represents the condition of being after a specified value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.condition.between" resname="transformbar.extract.condition.between" sap:sc="XGLS">
+        <source>between</source>
+        <note annotates="source" from="Developer">Represents the condition of being between two specified values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.condition.contains" resname="transformbar.extract.condition.contains" sap:sc="XGLS">
+        <source>containing</source>
+        <note annotates="source" from="Developer">Represents the condition of containing a specified value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.condition.equals" resname="transformbar.extract.condition.equals" sap:sc="XGLS">
+        <source>equal to</source>
+        <note annotates="source" from="Developer">Represents the condition of equaling a specified value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.occurrenceType.first" resname="transformbar.extract.occurrenceType.first" sap:sc="XGLS">
+        <source>first</source>
+        <note annotates="source" from="Developer">Refers to the first instance of a specified value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.occurrenceType.last" resname="transformbar.extract.occurrenceType.last" sap:sc="XGLS">
+        <source>last</source>
+        <note annotates="source" from="Developer">Refers to the last instance of a specified value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.extract.occurrenceType.occurrence" resname="transformbar.extract.occurrenceType.occurrence" sap:sc="XGLS">
+        <source>occurrence</source>
+        <note annotates="source" from="Developer">Refers to a specific occurrence of a</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.extract.column_new" resname="transformbar.extract.column_new" sap:sc="XGLS">
+        <source>from <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Selection of which column the action will apply to.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.extract.occurrenceNum_new" resname="transformbar.extract.occurrenceNum_new" sap:sc="XGLS">
+        <source>occurence <ph id="1">{1}</ph> of</source>
+        <note annotates="source" from="Developer">Specify a specific occurrence of something</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.extract.twoValues_new" resname="transformbar.extract.twoValues_new" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> and <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Specify to values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.extract.includeValue" resname="transformbar.extract.includeValue" sap:sc="XGLS">
+        <source>include <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Include a value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.extract_new" resname="transformbar.extract_new" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph> <ph id="3">{2}</ph> <ph id="4">{3}</ph> <ph id="5">{4}</ph></source>
+        <note annotates="source" from="Developer">Formula used to extract a value from a column. #{transform.extract} {transformbar.extract.type} {transformbar.extract.condition} {transformbar.extract.conditionValue}{transformbar.extract.column_new}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.extract_new.include" resname="transformbar.extract_new.include" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph> <ph id="3">{2}</ph> <ph id="4">{3}</ph> <ph id="5">{4}</ph> <ph id="6">{5}</ph></source>
+        <note annotates="source" from="Developer">Formula used to extract a value from a column. #{transform.extract} {transformbar.extract.type} {transformbar.extract.condition} {transformbar.extract.conditionValue}{transformbar.extract.column_new}{transformbar.extract.includeValue}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.extract_new.include.include" resname="transformbar.extract_new.include.include" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph> <ph id="3">{2}</ph> <ph id="4">{3}</ph> <ph id="5">{4}</ph> <ph id="6">{5}</ph> <ph id="7">{6}</ph></source>
+        <note annotates="source" from="Developer">Formula used to extract a value from a column. #{transform.extract} {transformbar.extract.type} {transformbar.extract.condition} {transformbar.extract.conditionValue}{transformbar.extract.column_new}{transformbar.extract.includeValue}{transformbar.extract.includeValue}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.extract_new.occurrence.include" resname="transformbar.extract_new.occurrence.include" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph> <ph id="3">{2}</ph> <ph id="4">{3}</ph> <ph id="5">{4}</ph> <ph id="6">{5}</ph> <ph id="7">{6}</ph></source>
+        <note annotates="source" from="Developer">Formula used to extract a value from a column. #{transform.extract} {transformbar.extract.type} {transformbar.extract.condition} {transformbar.extract.occurenceType} {transformbar.extract.conditionValue}{transformbar.extract.column_new}{transformbar.extract.includeValue}{transformbar.extract.includeValue}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.extract_new.occurrence.of.include" resname="transformbar.extract_new.occurrence.of.include" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph> <ph id="3">{2}</ph> <ph id="4">{3}</ph> <ph id="5">{4}</ph> of <ph id="6">{5}</ph> <ph id="7">{6}</ph> <ph id="8">{7}</ph></source>
+        <note annotates="source" from="Developer">Formula used to extract a value from a column. #{transform.extract} {transformbar.extract.type} {transformbar.extract.condition} {transformbar.extract.occurenceNum_new} {transformbar.extract.conditionValue}{transformbar.extract.column_new}{transformbar.extract.includeValue}{transformbar.extract.includeValue}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.convertCase" resname="transformbar.convertCase" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> [<ph id="2">{1}</ph>] <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">Formula used to change the casing of the specified column to TitleCase/LowerCase/UpperCase #{transform.change} [{transformbar.placeholder.column}] {transformbar.change.format}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.convertCase_new" resname="transformbar.convertCase_new" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph> <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">Formula used to change the casing of the specified column to TitleCase/LowerCase/UpperCase #{transform.change} {transformbar.placeholder.column} {transformbar.change.format}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.convertCase.format_new" resname="transformbar.convertCase.format_new" sap:sc="XGLS">
+        <source>to <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">The format the user wants to change the column to, either TitleCase/LowerCase/UpperCase.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.concatenate" resname="transformbar.concatenate" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> [<ph id="2">{1}</ph>] <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">Formula that takes a list of columns to concatenate together, using a glue character #{transform.concatenate} [{transformbar.placeholder.columns}] {transformbar.concatenate.glue}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.concatenate_new" resname="transformbar.concatenate_new" sap:sc="XGLS">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph> <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">Formula that takes a list of columns to concatenate together, using a glue character #{transform.concatenate} {transformbar.placeholder.columns} {transformbar.concatenate.glue}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.concatenate.glue_new" resname="transformbar.concatenate.glue_new" sap:sc="XGLS">
+        <source>using <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">The character that will be stuck between any concatenated columns values, the glue character.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.placeholder.column" resname="transformbar.placeholder.column" sap:sc="XGLS">
+        <source>Column</source>
+        <note annotates="source" from="Developer">Placeholder where a user should input a column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.placeholder.value" resname="transformbar.placeholder.value" sap:sc="XGLS">
+        <source>value</source>
+        <note annotates="source" from="Developer">A placeholder for a value the user must enter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.validation.invalidcolumn" resname="transformbar.validation.invalidcolumn" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> is not a valid column in the dataset.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when they fail to enter a column name from the data set</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.validation.multipleoccurances" resname="transformbar.validation.multipleoccurances" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> cannot be used more than once in a transform.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when they try to perform the transform with the same column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.validation.nocolumn" resname="transformbar.validation.nocolumn" sap:sc="XMSG">
+        <source>Please enter valid column names.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when they have entered no column names and left it blank</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.validation.novalue" resname="transformbar.validation.novalue" sap:sc="XMSG">
+        <source>Transform is incomplete. Please enter valid values.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when they have entered no value and left it blank</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.validation.invalidlistoption" resname="transformbar.validation.invalidlistoption" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> is invalid, please enter one of <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Validation error shown to user when enter an invalid option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.validation.invalidDataValue" resname="transformbar.validation.invalidDataValue" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> is not a valid value for this column</source>
+        <note annotates="source" from="Developer">Validation error shown to user when they fail to enter a valid data value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.validation.mustBeANumber" resname="transformbar.validation.mustBeANumber" sap:sc="XMSG">
+        <source>"<ph id="1">{0}</ph>" must be a number.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when they enter an invalid value that must be a number</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.validation.outOfRangeValue" resname="transformbar.validation.outOfRangeValue" sap:sc="XMSG">
+        <source>Please enter a value between <ph id="1">{0}</ph> and <ph id="2">{1}</ph>.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when the entered value is out of the supported range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.validation.notCompatibleTransformForColumn" resname="transformbar.validation.notCompatibleTransformForColumn" sap:sc="XMSG">
+        <source>This transform is not supported for Version, Location or Level-based hierarchy columns.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when the transform is not compatible to the column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.validation.notCompatibleTransformForCalculatedColumn" resname="transformbar.validation.notCompatibleTransformForCalculatedColumn" sap:sc="XMSG">
+        <source>Calculated columns cannot be transformed. Please enter a valid column.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when the transform is not compatible to the calculated column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.validation.notCompatibleTransform" resname="transformbar.validation.notCompatibleTransform" sap:sc="XMSG">
+        <source>This transform is not supported for that data type.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when the transform is not compatible to the column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.validation.invalidDateValue" resname="transformbar.validation.invalidDateValue" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> is not a valid date. Expected format: <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Validation error shown to user when a date can't be formatted</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.validation.invalidTimestampValue" resname="transformbar.validation.invalidTimestampValue" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> is not a valid timestamp. Expected format: <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Validation error shown to user when a timestamp can't be formatted</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="transformbar.validation.valueTooLong" resname="transformbar.validation.valueTooLong" sap:sc="XMSG">
+        <source>"<ph id="1">{0}</ph>" is too long. Please enter a value of <ph id="2">{1}</ph> characters or less.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when a value is too long</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="transformbar.validation.reachedMaximumTitleCase" resname="transformbar.validation.reachedMaximumTitleCase" sap:sc="XMSG">
+        <source>You have reached the maximum number of TitleCase transforms.</source>
+        <note annotates="source" from="Developer">Validation error shown to user when they have already used the maximum number of TitleCase transforms.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="session_timeout" resname="session_timeout" sap:sc="XMSG">
+        <source>Modeling Session Timed Out</source>
+        <note annotates="source" from="Developer">Heading for dialog informing user that the session has timed out</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="operations.session_timeout" resname="operations.session_timeout" sap:sc="XMSG">
+        <source>Modeling Session Timed Out</source>
+        <note annotates="source" from="Developer">Heading for dialog informing user that the session has timed out</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="operations.session_timeout_message" resname="operations.session_timeout_message" sap:sc="XMSG">
+        <source>Due to inactivity, your modeling session has expired. You will now be re-directed to the models list page.</source>
+        <note annotates="source" from="Developer">Message for dialog informing user about session timeout.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="operations.continue" resname="operations.continue" sap:sc="XMSG">
+        <source>Continue</source>
+        <note annotates="source" from="Developer">Confirm message for user to refresh the browser.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="operations.system_failure" resname="operations.system_failure" sap:sc="XMSG">
+        <source>System Interruption</source>
+        <note annotates="source" from="Developer">Heading for dialog informing user about an unrecoverable system error</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="operations.internal_server_error" resname="operations.internal_server_error" sap:sc="XMSG">
+        <source>Something unexpected happened. You will be re-directed to the models list page.</source>
+        <note annotates="source" from="Developer">Message for dialog informing about Internal server errors</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="operations.network_failure" resname="operations.network_failure" sap:sc="XMSG">
+        <source>Please wait, system processing</source>
+        <note annotates="source" from="Developer">Spinner message in case of network interrupt</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="more_cards" resname="more_cards" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> more cards</source>
+        <note annotates="source" from="Developer">The number of cards that have been collapsed.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-planningFmwk.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="10a8380be41826b03ab7b2cf4095abea" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:58Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_GRID_PROVIDER_FAILED_GET_VERSION_MEMBERS" maxwidth="255" resname="ANALYTIC_GRID_PROVIDER_FAILED_GET_VERSION_MEMBERS" sap:sc="XMSG" size-unit="char">
+        <source>Get version members failed</source>
+        <note annotates="source" from="Developer">When you want to do version management, the backend will retrieve all version members, if there is something wrong this error message will show.  KEY=ANALYTIC_GRID_PROVIDER_FAILED_GET_VERSION_MEMBERS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_GRID_PROVIDER_FAILED_INITNEWVERSION" maxwidth="255" resname="ANALYTIC_GRID_PROVIDER_FAILED_INITNEWVERSION" sap:sc="XMSG" size-unit="char">
+        <source>Create a new version failed. Please try it again later.</source>
+        <note annotates="source" from="Developer">When you want to creat a version but something wrong, then it failed to create a new version.  KEY=ANALYTIC_GRID_PROVIDER_FAILED_INITNEWVERSION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_GRID_PROVIDER_FAILED_POPULATESINGLEVERSION" maxwidth="255" resname="ANALYTIC_GRID_PROVIDER_FAILED_POPULATESINGLEVERSION" sap:sc="XMSG" size-unit="char">
+        <source>PopulateSingleVersion failed</source>
+        <note annotates="source" from="Developer">Some wrong happend when populate data to a single version after init a version.  KEY=ANALYTIC_GRID_PROVIDER_FAILED_POPULATESINGLEVERSION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_GRID_PROVIDER_ILLEGAL_PLANNINGCONTEXT" maxwidth="255" resname="ANALYTIC_GRID_PROVIDER_ILLEGAL_PLANNINGCONTEXT" sap:sc="XMSG" size-unit="char">
+        <source>Illegal planning context. Maybe you do not have authority.</source>
+        <note annotates="source" from="Developer">If you do not have the authority but you try to init version version privilege and share version, this error message will show.  KEY=ANALYTIC_GRID_PROVIDER_ILLEGAL_PLANNINGCONTEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_GRID_PROVIDER_NO_VERSIONPRIVILEGESSUPPORT" maxwidth="255" resname="ANALYTIC_GRID_PROVIDER_NO_VERSIONPRIVILEGESSUPPORT" sap:sc="XMSG" size-unit="char">
+        <source>Backend does not support version privileges.Please contact the DBA.</source>
+        <note annotates="source" from="Developer">The version privilege that you try to share has some problem.  KEY=ANALYTIC_GRID_PROVIDER_NO_VERSIONPRIVILEGESSUPPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_GRID_PROVIDER_ERROR_INUPDATEVERSIONPRIVILEGES" maxwidth="255" resname="ANALYTIC_GRID_PROVIDER_ERROR_INUPDATEVERSIONPRIVILEGES" sap:sc="XMSG" size-unit="char">
+        <source>Error in return code of update version privileges command</source>
+        <note annotates="source" from="Developer">The version privilege that you try to share has some problem.  KEY=ANALYTIC_GRID_PROVIDER_ERROR_INUPDATEVERSIONPRIVILEGES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_GRID_PROVIDER_FAILED_INITVERSIONPRIVILEGE" maxwidth="255" resname="ANALYTIC_GRID_PROVIDER_FAILED_INITVERSIONPRIVILEGE" sap:sc="XMSG" size-unit="char">
+        <source>Init the Version privilege failed. Please try it again later.</source>
+        <note annotates="source" from="Developer">The version's privilege should be init when share the version.  KEY=ANALYTIC_GRID_PROVIDER_FAILED_INITVERSIONPRIVILEGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_GRID_PROVIDER_FAILED_SHAREVERSION" maxwidth="255" resname="ANALYTIC_GRID_PROVIDER_FAILED_SHAREVERSION" sap:sc="XMSG" size-unit="char">
+        <source>Failed to share Version. Please try it again later.</source>
+        <note annotates="source" from="Developer">KEY=ANALYTIC_GRID_PROVIDER_FAILED_SHAREVERSION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_GRID_PROVIDER_JSONSTR_NOTSTRUCTURE" maxwidth="255" resname="ANALYTIC_GRID_PROVIDER_JSONSTR_NOTSTRUCTURE" sap:sc="XMSG" size-unit="char">
+        <source>JSON string is not a structure</source>
+        <note annotates="source" from="Developer">KEY=ANALYTIC_GRID_PROVIDER_JSONSTR_NOTSTRUCTURE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_GRID_PROVIDER_ERROR_INPLANNINGACTION" maxwidth="255" resname="ANALYTIC_GRID_PROVIDER_ERROR_INPLANNINGACTION" sap:sc="XMSG" size-unit="char">
+        <source>Error in return code of planning action</source>
+        <note annotates="source" from="Developer">KEY=ANALYTIC_GRID_PROVIDER_ERROR_INPLANNINGACTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MANAGEMENT_DOUBLE_INIT_ERROR" maxwidth="255" resname="VERSION_MANAGEMENT_DOUBLE_INIT_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>The table was already edited in another browser tab or window and has been updated.</source>
+        <note annotates="source" from="Developer">Error message is shown when the same user tries to start a public version edit on the same public version in different windows</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MGMT_FAIL_DROP" maxwidth="255" resname="VERSION_MGMT_FAIL_DROP" sap:sc="XMSG" size-unit="char">
+        <source>Version delete failed.</source>
+        <note annotates="source" from="Developer">When deleting version fails, this message will show to user.  KEY=VERSION_MGMT_FAIL_DROP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MGMT_ERR" maxwidth="255" resname="VERSION_MGMT_ERR" sap:sc="XMSG" size-unit="char">
+        <source>Revert or publish failed for at least one version</source>
+        <note annotates="source" from="Developer">Error message when publishing or reverting public versions in edit mode and some error occured.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MGMT_COPY_ERR" maxwidth="255" resname="VERSION_MGMT_COPY_ERR" sap:sc="XMSG" size-unit="char">
+        <source>Error while copying version</source>
+        <note annotates="source" from="Developer">Error message when copying a version and some error occured.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MGMT_UNDO_NOCHANGE" maxwidth="255" resname="VERSION_MGMT_UNDO_NOCHANGE" sap:sc="XMSG" size-unit="char">
+        <source>Nothing to Undo</source>
+        <note annotates="source" from="Developer">When there is nothing to be undone in a private version. KEY=VERSION_MGMT_UNDO_NOCHANGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MGMT_REDO_NOCHANGE" maxwidth="255" resname="VERSION_MGMT_REDO_NOCHANGE" sap:sc="XMSG" size-unit="char">
+        <source>Nothing to Redo</source>
+        <note annotates="source" from="Developer">When there is nothing to be redone in a private version. KEY=VERSION_MGMT_REDO_NOCHANGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MGMT_UNDO_SESSION_MISSING" maxwidth="255" resname="VERSION_MGMT_UNDO_SESSION_MISSING" sap:sc="XMSG" size-unit="char">
+        <source>The session is missing. Please try again later.</source>
+        <note annotates="source" from="Developer">When the session is missing, we show this message. KEY=VERSION_MGMT_UNDO_SESSION_MISSING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MGMT_SUCCESS_PUBLISH" maxwidth="255" resname="VERSION_MGMT_SUCCESS_PUBLISH" sap:sc="XMSG" size-unit="char">
+        <source>You've successfully published the version.</source>
+        <note annotates="source" from="Developer">When publishing private version succeed, this message will show to user.  KEY=VERSION_MGMT_SUCCESS_PUBLISH</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MANAGEMENT_REVERT_SUCCESS" resname="VERSION_MANAGEMENT_REVERT_SUCCESS" sap:sc="XMSG">
+        <source>You've successfully reverted the version.</source>
+        <note annotates="source" from="Developer">Toast message shown when the user has successfully Reverted a public edit version.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MGMT_SUCCESS_COPY" maxwidth="255" resname="VERSION_MGMT_SUCCESS_COPY" sap:sc="XMSG" size-unit="char">
+        <source>Version has been copied successfully.</source>
+        <note annotates="source" from="Developer">When copying version succeed, this message will show to user.  KEY=VERSION_MGMT_SUCCESS_COPY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MANAGEMENT_SRC_VRS_CURRENCY" maxwidth="40" resname="VERSION_MANAGEMENT_SRC_VRS_CURRENCY" sap:sc="XFLD" size-unit="char">
+        <source>Source version currency</source>
+        <note annotates="source" from="Developer">Tooltip for dropdown box in 'version management'  KEY=VERSION_MANAGEMENT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_IN_USE_TITLE" maxwidth="20" resname="VERSION_IN_USE_TITLE" sap:sc="XMSG" size-unit="char">
+        <source>Version in Use</source>
+        <note annotates="source" from="Developer">Title of version in use dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VERSION_IN_USE_DIALOG_MESSAGE" resname="VERSION_IN_USE_DIALOG_MESSAGE" sap:sc="XMSG">
+        <source>The version '<ph id="1">{0}</ph>' is currently in use since <ph id="2">{1}</ph>.\n Your action was not completed. You will need to try again after the current process ends.\n Do you want to stop the current process or wait until it is finished?\n Please be aware that there may be long running processes.</source>
+        <note annotates="source" from="Developer">Content version in use dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_UNLOCK_FAILED" maxwidth="220" resname="VERSION_UNLOCK_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Could not stop the running process. Please try again later.</source>
+        <note annotates="source" from="Developer">Content version in use dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STOP" maxwidth="10" resname="STOP" sap:sc="XMSG" size-unit="char">
+        <source>Stop</source>
+        <note annotates="source" from="Developer">Stop button in kill planning sequence dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WAIT" maxwidth="10" resname="WAIT" sap:sc="XMSG" size-unit="char">
+        <source>Wait</source>
+        <note annotates="source" from="Developer">Wait button in kill planning sequence dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MANAGEMENT_UNDO_HISTORY_FAILED" maxwidth="255" resname="VERSION_MANAGEMENT_UNDO_HISTORY_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Failed to fetch undo history</source>
+        <note annotates="source" from="Developer">Shown when we fail to fetch the undo history</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MANAGEMENT_UNDO_REDO_FAILED" maxwidth="255" resname="VERSION_MANAGEMENT_UNDO_REDO_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Failed to undo/redo multiple times</source>
+        <note annotates="source" from="Developer">Shown when we fail to undo/redo multiple times</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VERSION_MANAGEMENT_SAVE_BPC_LIVE_ERROR" maxwidth="255" resname="VERSION_MANAGEMENT_SAVE_BPC_LIVE_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Could not save data to BPC for model <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">Shown when the user had an error when saving data to a BPC model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VERSION_MANAGEMENT_REVERT_BPC_LIVE_ERROR" maxwidth="255" resname="VERSION_MANAGEMENT_REVERT_BPC_LIVE_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Could not revert data from BPC for model <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">Shown when the user had an error when reverting data from a BPC model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MANAGEMENT_BATCH_DELETE_FAILED" maxwidth="255" resname="VERSION_MANAGEMENT_BATCH_DELETE_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Failed to perform batch delete</source>
+        <note annotates="source" from="Developer">Shown when we fail to perform a batch delete</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STATUS_ACTIVE" maxwidth="10" resname="STATUS_ACTIVE" sap:sc="XFLD" size-unit="char">
+        <source>active</source>
+        <note annotates="source" from="Developer">Status of Version when it is Active</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_CONFLICT_RESOLUTION_VERSIONS" maxwidth="200" resname="PUBLIC_CONFLICT_RESOLUTION_VERSIONS" sap:sc="XTOL" size-unit="char">
+        <source>Affected Versions:</source>
+        <note annotates="source" from="Developer">Label to be shown before the list of affected version in the conflict resolution dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_VERSION_CONFLICT_RESOLUTION_CONFIRM" maxwidth="100" resname="PUBLIC_VERSION_CONFLICT_RESOLUTION_CONFIRM" sap:sc="XTOL" size-unit="char">
+        <source>Do you want to publish everything else?</source>
+        <note annotates="source" from="Developer">Text to be shown on private version public conflict resolution asking the user to confirm the partial publish of data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_VERSION_CONFLICT_RESOLUTION" maxwidth="100" resname="PUBLIC_VERSION_CONFLICT_RESOLUTION" sap:sc="XTOL" size-unit="char">
+        <source>Your data changes can't be published because of limited access rights.</source>
+        <note annotates="source" from="Developer">Message for private version public conflict resolution</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_DL_ACCESS_CONFLICT_RESOLUTION_SAVE" maxwidth="200" resname="PUBLIC_DL_ACCESS_CONFLICT_RESOLUTION_SAVE" sap:sc="XTOL" size-unit="char">
+        <source>Some of your data changes can't be published because of limited access rights and the existing data locks. Those changes will be lost.</source>
+        <note annotates="source" from="Developer">Message for private version public conflict resolution due to both limited access rights and existing data locks</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_CONFLICT_RESOLUTION_SAVE" maxwidth="150" resname="PUBLIC_CONFLICT_RESOLUTION_SAVE" sap:sc="XTOL" size-unit="char">
+        <source>Some of your data changes can't be published because of limited access rights. Those changes will be lost.</source>
+        <note annotates="source" from="Developer">Message for private version public conflict resolution</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_DL_CONFLICT_RESOLUTION_SAVE" maxwidth="200" resname="PUBLIC_DL_CONFLICT_RESOLUTION_SAVE" sap:sc="XTOL" size-unit="char">
+        <source>Some of your data changes can't be published because of the existing data locks. Those changes will be lost.</source>
+        <note annotates="source" from="Developer">Message for private version public conflict resolution due to existing data locks</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_CONFLICT_RESOLUTION_UNKNOWN_MASTER_DATA" maxwidth="200" resname="PUBLIC_CONFLICT_RESOLUTION_UNKNOWN_MASTER_DATA" sap:sc="XTOL" size-unit="char">
+        <source>Some of your data changes can't be published because of unknown master data. Those changes will be lost.</source>
+        <note annotates="source" from="Developer">Message for private version public conflict resolution due to unknown master data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_CONFLICT_REVERT" maxwidth="100" resname="PUBLIC_CONFLICT_REVERT" sap:sc="XTIT" size-unit="char">
+        <source>Revert</source>
+        <note annotates="source" from="Developer">Revert button in the public conflict resolution dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_SAVE_CONFLICT_TITLE" maxwidth="100" resname="PUBLIC_SAVE_CONFLICT_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Public Version Deleted</source>
+        <note annotates="source" from="Developer">Title in the publish conflict dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PUBLIC_SAVE_CONFLICT_TEXT" maxwidth="200" resname="PUBLIC_SAVE_CONFLICT_TEXT" sap:sc="XTOL" size-unit="char">
+        <source>The public version '<ph id="1">{0}</ph>' was deleted by another user.\n You can still publish the version with all your changes by copying\n it to a private version before you revert or leave the story.</source>
+        <note annotates="source" from="Developer">Message for dialog that appears when the user tries to publish changes to a public version which does not exist anymore</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_SAVE_CONFLICT_REVERT_HEAD" maxwidth="200" resname="PUBLIC_SAVE_CONFLICT_REVERT_HEAD" sap:sc="XTOL" size-unit="char">
+        <source>The following public versions were deleted by another user:\n\n</source>
+        <note annotates="source" from="Developer">Message for dialog that appears when the user tries to publish changes to a public version which does not exist anymore in the revert or publish dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_SAVE_CONFLICT_REVERT_TEXT" maxwidth="200" resname="PUBLIC_SAVE_CONFLICT_REVERT_TEXT" sap:sc="XTOL" size-unit="char">
+        <source>You can still publish the version with all your changes by copying\n it to a private version before you revert or leave the story.</source>
+        <note annotates="source" from="Developer">Message for dialog that appears when the user tries to publish changes to a public version which does not exist anymore in the revert or publish dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_SAVE_CONFLICT_SAVE" maxwidth="50" resname="PUBLIC_SAVE_CONFLICT_SAVE" sap:sc="XTIT" size-unit="char">
+        <source>Publish</source>
+        <note annotates="source" from="Developer">Button text for the publish conflict dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRIVATE_VERSION_RESTORED_TIME" maxwidth="100" resname="PRIVATE_VERSION_RESTORED_TIME" sap:sc="XTOL" size-unit="char">
+        <source>Version '<ph id="1">{0}</ph>' restored from '<ph id="2">{1}</ph>'</source>
+        <note annotates="source" from="Developer">Message for private version restore timestamp</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_TO_DATE_YTD" resname="GRANULARITY_TO_DATE_YTD" sap:sc="XFLD">
+        <source>Current Year</source>
+        <note annotates="source" from="Developer">A date range that is year-to-date (from the start of the current year to today)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_TO_DATE_QTD" resname="GRANULARITY_TO_DATE_QTD" sap:sc="XFLD">
+        <source>Current Quarter</source>
+        <note annotates="source" from="Developer">A date range that is quarter-to-date (from the start of the current quarter to today)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_TO_DATE_MTD" resname="GRANULARITY_TO_DATE_MTD" sap:sc="XFLD">
+        <source>Current Month</source>
+        <note annotates="source" from="Developer">A date range that is month-to-date (from the start of the current month to today)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_TO_DATE_FISCAL_YTD" resname="GRANULARITY_TO_DATE_FISCAL_YTD" sap:sc="XFLD">
+        <source>Current Year</source>
+        <note annotates="source" from="Developer">A date range that is fiscal-year-to-date (from the start of the current fiscal year to today)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_TO_DATE_FISCAL_QTD" resname="GRANULARITY_TO_DATE_FISCAL_QTD" sap:sc="XFLD">
+        <source>Current Quarter</source>
+        <note annotates="source" from="Developer">A date range that is fiscal-quarter-to-date (from the start of the current fiscal quarter to today)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_TO_DATE_FISCAL_PTD" resname="GRANULARITY_TO_DATE_FISCAL_PTD" sap:sc="XFLD">
+        <source>Current Period</source>
+        <note annotates="source" from="Developer">A date range that is fiscal-period-to-date (from the start of the current fiscal period to today)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXECUTION_FAILED_SESSION_IN_USE" resname="EXECUTION_FAILED_SESSION_IN_USE" sap:sc="XMSG">
+        <source>Another operation is currently being executed on this version. Please try again later.</source>
+        <note annotates="source" from="Developer">error toast indicating that an operation could not be executed because the target version is already in use (locked).</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_YEAR" resname="RELATIVE_DP_GRANULARITY_YEAR" sap:sc="XFLD">
+        <source>Year</source>
+        <note annotates="source" from="Developer">Title for year granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_FISCAL_YEAR" resname="RELATIVE_DP_GRANULARITY_FISCAL_YEAR" sap:sc="XFLD">
+        <source>Year</source>
+        <note annotates="source" from="Developer">Title for fiscal year granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_HALF_YEAR" resname="RELATIVE_DP_GRANULARITY_HALF_YEAR" sap:sc="XFLD">
+        <source>Half Year</source>
+        <note annotates="source" from="Developer">Title for half year granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_QUARTER" resname="RELATIVE_DP_GRANULARITY_QUARTER" sap:sc="XFLD">
+        <source>Quarter</source>
+        <note annotates="source" from="Developer">Title for quarter granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_MONTH" resname="RELATIVE_DP_GRANULARITY_MONTH" sap:sc="XFLD">
+        <source>Month</source>
+        <note annotates="source" from="Developer">Title for month granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_PERIOD" resname="RELATIVE_DP_GRANULARITY_PERIOD" sap:sc="XFLD">
+        <source>Period</source>
+        <note annotates="source" from="Developer">Title for period (fiscal month) granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_WEEK" resname="RELATIVE_DP_GRANULARITY_WEEK" sap:sc="XFLD">
+        <source>Week</source>
+        <note annotates="source" from="Developer">Title for week granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_DAY" resname="RELATIVE_DP_GRANULARITY_DAY" sap:sc="XFLD">
+        <source>Day</source>
+        <note annotates="source" from="Developer">Title for day granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_HOUR" resname="RELATIVE_DP_GRANULARITY_HOUR" sap:sc="XFLD">
+        <source>Hour</source>
+        <note annotates="source" from="Developer">Title for hour granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_MINUTE" resname="RELATIVE_DP_GRANULARITY_MINUTE" sap:sc="XFLD">
+        <source>Minute</source>
+        <note annotates="source" from="Developer">Title for minute granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_SECOND" resname="RELATIVE_DP_GRANULARITY_SECOND" sap:sc="XFLD">
+        <source>Second</source>
+        <note annotates="source" from="Developer">Title for second granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_GRANULARITY_MILLISECOND" resname="RELATIVE_DP_GRANULARITY_MILLISECOND" sap:sc="XFLD">
+        <source>Millisecond</source>
+        <note annotates="source" from="Developer">Title for millisecond granularity</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

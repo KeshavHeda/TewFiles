@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-timezone.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="58bdf42d1124368df1cf40daaf2d3b3e" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:56Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AFRICA_ALGIERS" resname="TIMEZONE_AFRICA_ALGIERS" sap:sc="XFLD">
+        <source>Algiers</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AFRICA_CAIRO" resname="TIMEZONE_AFRICA_CAIRO" sap:sc="XFLD">
+        <source>Cairo</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AFRICA_CASABLANCA" resname="TIMEZONE_AFRICA_CASABLANCA" sap:sc="XFLD">
+        <source>Casablanca</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AFRICA_HARARE" resname="TIMEZONE_AFRICA_HARARE" sap:sc="XFLD">
+        <source>Harare</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AFRICA_JOHANNESBURG" resname="TIMEZONE_AFRICA_JOHANNESBURG" sap:sc="XFLD">
+        <source>Johannesburg</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AFRICA_MONROVIA" resname="TIMEZONE_AFRICA_MONROVIA" sap:sc="XFLD">
+        <source>Monrovia</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AFRICA_NAIROBI" resname="TIMEZONE_AFRICA_NAIROBI" sap:sc="XFLD">
+        <source>Nairobi</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_ARGENTINA_BUENOS_AIRES" resname="TIMEZONE_AMERICA_ARGENTINA_BUENOS_AIRES" sap:sc="XFLD">
+        <source>Buenos Aires</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_BOGOTA" resname="TIMEZONE_AMERICA_BOGOTA" sap:sc="XFLD">
+        <source>Bogota</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_CARACAS" resname="TIMEZONE_AMERICA_CARACAS" sap:sc="XFLD">
+        <source>Caracas</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_CHICAGO" resname="TIMEZONE_AMERICA_CHICAGO" sap:sc="XFLD">
+        <source>Central Time (US &amp; Canada)</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_CHIHUAHUA" resname="TIMEZONE_AMERICA_CHIHUAHUA" sap:sc="XFLD">
+        <source>Chihuahua</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_DENVER" resname="TIMEZONE_AMERICA_DENVER" sap:sc="XFLD">
+        <source>Mountain Time (US &amp; Canada)</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_GODTHAB" resname="TIMEZONE_AMERICA_GODTHAB" sap:sc="XFLD">
+        <source>Godthab</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_GUATEMALA" resname="TIMEZONE_AMERICA_GUATEMALA" sap:sc="XFLD">
+        <source>Guatemala</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_GUYANA" resname="TIMEZONE_AMERICA_GUYANA" sap:sc="XFLD">
+        <source>Guyana</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_HALIFAX" resname="TIMEZONE_AMERICA_HALIFAX" sap:sc="XFLD">
+        <source>Halifax</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_INDIANA_INDIANAPOLIS" resname="TIMEZONE_AMERICA_INDIANA_INDIANAPOLIS" sap:sc="XFLD">
+        <source>Indiana (East)</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_JUNEAU" resname="TIMEZONE_AMERICA_JUNEAU" sap:sc="XFLD">
+        <source>Alaska</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_LA_PAZ" resname="TIMEZONE_AMERICA_LA_PAZ" sap:sc="XFLD">
+        <source>La Paz</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_LIMA" resname="TIMEZONE_AMERICA_LIMA" sap:sc="XFLD">
+        <source>Lima</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_LOS_ANGELES" resname="TIMEZONE_AMERICA_LOS_ANGELES" sap:sc="XFLD">
+        <source>Pacific Time (US &amp; Canada)</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_MAZATLAN" resname="TIMEZONE_AMERICA_MAZATLAN" sap:sc="XFLD">
+        <source>Mazatlan</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_MEXICO_CITY" resname="TIMEZONE_AMERICA_MEXICO_CITY" sap:sc="XFLD">
+        <source>Mexico City</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_MONTERREY" resname="TIMEZONE_AMERICA_MONTERREY" sap:sc="XFLD">
+        <source>Monterrey</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_MONTEVIDEO" resname="TIMEZONE_AMERICA_MONTEVIDEO" sap:sc="XFLD">
+        <source>Montevideo</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_NEW_YORK" resname="TIMEZONE_AMERICA_NEW_YORK" sap:sc="XFLD">
+        <source>Eastern Time (US &amp; Canada)</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_PHOENIX" resname="TIMEZONE_AMERICA_PHOENIX" sap:sc="XFLD">
+        <source>Arizona</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_REGINA" resname="TIMEZONE_AMERICA_REGINA" sap:sc="XFLD">
+        <source>Regina</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_SANTIAGO" resname="TIMEZONE_AMERICA_SANTIAGO" sap:sc="XFLD">
+        <source>Santiago</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_SAO_PAULO" resname="TIMEZONE_AMERICA_SAO_PAULO" sap:sc="XFLD">
+        <source>Sao Paulo</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_ST_JOHNS" resname="TIMEZONE_AMERICA_ST_JOHNS" sap:sc="XFLD">
+        <source>Newfoundland</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AMERICA_TIJUANA" resname="TIMEZONE_AMERICA_TIJUANA" sap:sc="XFLD">
+        <source>Tijuana</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_ALMATY" resname="TIMEZONE_ASIA_ALMATY" sap:sc="XFLD">
+        <source>Almaty</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_BAGHDAD" resname="TIMEZONE_ASIA_BAGHDAD" sap:sc="XFLD">
+        <source>Baghdad</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_BAKU" resname="TIMEZONE_ASIA_BAKU" sap:sc="XFLD">
+        <source>Baku</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_BANGKOK" resname="TIMEZONE_ASIA_BANGKOK" sap:sc="XFLD">
+        <source>Bangkok</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_CHONGQING" resname="TIMEZONE_ASIA_CHONGQING" sap:sc="XFLD">
+        <source>Chongqing</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_COLOMBO" resname="TIMEZONE_ASIA_COLOMBO" sap:sc="XFLD">
+        <source>Colombo</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_DHAKA" resname="TIMEZONE_ASIA_DHAKA" sap:sc="XFLD">
+        <source>Dhaka</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_HONG_KONG" resname="TIMEZONE_ASIA_HONG_KONG" sap:sc="XFLD">
+        <source>Hong Kong</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_IRKUTSK" resname="TIMEZONE_ASIA_IRKUTSK" sap:sc="XFLD">
+        <source>Irkutsk</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_JAKARTA" resname="TIMEZONE_ASIA_JAKARTA" sap:sc="XFLD">
+        <source>Jakarta</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_JERUSALEM" resname="TIMEZONE_ASIA_JERUSALEM" sap:sc="XFLD">
+        <source>Jerusalem</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_KABUL" resname="TIMEZONE_ASIA_KABUL" sap:sc="XFLD">
+        <source>Kabul</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_KAMCHATKA" resname="TIMEZONE_ASIA_KAMCHATKA" sap:sc="XFLD">
+        <source>Kamchatka</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_KARACHI" resname="TIMEZONE_ASIA_KARACHI" sap:sc="XFLD">
+        <source>Karachi</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_KATHMANDU" resname="TIMEZONE_ASIA_KATHMANDU" sap:sc="XFLD">
+        <source>Kathmandu</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_KOLKATA" resname="TIMEZONE_ASIA_KOLKATA" sap:sc="XFLD">
+        <source>Kolkata</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_KRASNOYARSK" resname="TIMEZONE_ASIA_KRASNOYARSK" sap:sc="XFLD">
+        <source>Krasnoyarsk</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_KUALA_LUMPUR" resname="TIMEZONE_ASIA_KUALA_LUMPUR" sap:sc="XFLD">
+        <source>Kuala Lumpur</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_KUWAIT" resname="TIMEZONE_ASIA_KUWAIT" sap:sc="XFLD">
+        <source>Kuwait</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_MAGADAN" resname="TIMEZONE_ASIA_MAGADAN" sap:sc="XFLD">
+        <source>Magadan</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_MUSCAT" resname="TIMEZONE_ASIA_MUSCAT" sap:sc="XFLD">
+        <source>Muscat</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_NOVOSIBIRSK" resname="TIMEZONE_ASIA_NOVOSIBIRSK" sap:sc="XFLD">
+        <source>Novosibirsk</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_RANGOON" resname="TIMEZONE_ASIA_RANGOON" sap:sc="XFLD">
+        <source>Rangoon</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_RIYADH" resname="TIMEZONE_ASIA_RIYADH" sap:sc="XFLD">
+        <source>Riyadh</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_SEOUL" resname="TIMEZONE_ASIA_SEOUL" sap:sc="XFLD">
+        <source>Seoul</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_SHANGHAI" resname="TIMEZONE_ASIA_SHANGHAI" sap:sc="XFLD">
+        <source>Shanghai</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_SINGAPORE" resname="TIMEZONE_ASIA_SINGAPORE" sap:sc="XFLD">
+        <source>Singapore</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_SREDNEKOLYMSK" resname="TIMEZONE_ASIA_SREDNEKOLYMSK" sap:sc="XFLD">
+        <source>Srednekolymsk</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_TAIPEI" resname="TIMEZONE_ASIA_TAIPEI" sap:sc="XFLD">
+        <source>Taipei</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_TASHKENT" resname="TIMEZONE_ASIA_TASHKENT" sap:sc="XFLD">
+        <source>Tashkent</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_TBILISI" resname="TIMEZONE_ASIA_TBILISI" sap:sc="XFLD">
+        <source>Tbilisi</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_TEHRAN" resname="TIMEZONE_ASIA_TEHRAN" sap:sc="XFLD">
+        <source>Tehran</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_TOKYO" resname="TIMEZONE_ASIA_TOKYO" sap:sc="XFLD">
+        <source>Tokyo</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_ULAANBAATAR" resname="TIMEZONE_ASIA_ULAANBAATAR" sap:sc="XFLD">
+        <source>Ulaanbaatar</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_URUMQI" resname="TIMEZONE_ASIA_URUMQI" sap:sc="XFLD">
+        <source>Urumqi</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_VLADIVOSTOK" resname="TIMEZONE_ASIA_VLADIVOSTOK" sap:sc="XFLD">
+        <source>Vladivostok</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_YAKUTSK" resname="TIMEZONE_ASIA_YAKUTSK" sap:sc="XFLD">
+        <source>Yakutsk</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_YEKATERINBURG" resname="TIMEZONE_ASIA_YEKATERINBURG" sap:sc="XFLD">
+        <source>Yekaterinburg</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ASIA_YEREVAN" resname="TIMEZONE_ASIA_YEREVAN" sap:sc="XFLD">
+        <source>Yerevan</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ATLANTIC_AZORES" resname="TIMEZONE_ATLANTIC_AZORES" sap:sc="XFLD">
+        <source>Azores</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ATLANTIC_CAPE_VERDE" resname="TIMEZONE_ATLANTIC_CAPE_VERDE" sap:sc="XFLD">
+        <source>Cape Verde</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ATLANTIC_SOUTH_GEORGIA" resname="TIMEZONE_ATLANTIC_SOUTH_GEORGIA" sap:sc="XFLD">
+        <source>South Georgia</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AUSTRALIA_ADELAIDE" resname="TIMEZONE_AUSTRALIA_ADELAIDE" sap:sc="XFLD">
+        <source>Adelaide</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AUSTRALIA_BRISBANE" resname="TIMEZONE_AUSTRALIA_BRISBANE" sap:sc="XFLD">
+        <source>Brisbane</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AUSTRALIA_DARWIN" resname="TIMEZONE_AUSTRALIA_DARWIN" sap:sc="XFLD">
+        <source>Darwin</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AUSTRALIA_HOBART" resname="TIMEZONE_AUSTRALIA_HOBART" sap:sc="XFLD">
+        <source>Hobart</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AUSTRALIA_MELBOURNE" resname="TIMEZONE_AUSTRALIA_MELBOURNE" sap:sc="XFLD">
+        <source>Melbourne</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AUSTRALIA_PERTH" resname="TIMEZONE_AUSTRALIA_PERTH" sap:sc="XFLD">
+        <source>Perth</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_AUSTRALIA_SYDNEY" resname="TIMEZONE_AUSTRALIA_SYDNEY" sap:sc="XFLD">
+        <source>Sydney</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_ETC_UTC" resname="TIMEZONE_ETC_UTC" sap:sc="XFLD">
+        <source>UTC</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_AMSTERDAM" resname="TIMEZONE_EUROPE_AMSTERDAM" sap:sc="XFLD">
+        <source>Amsterdam</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_ATHENS" resname="TIMEZONE_EUROPE_ATHENS" sap:sc="XFLD">
+        <source>Athens</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_BELGRADE" resname="TIMEZONE_EUROPE_BELGRADE" sap:sc="XFLD">
+        <source>Belgrade</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_BERLIN" resname="TIMEZONE_EUROPE_BERLIN" sap:sc="XFLD">
+        <source>Berlin</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_BRATISLAVA" resname="TIMEZONE_EUROPE_BRATISLAVA" sap:sc="XFLD">
+        <source>Bratislava</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_BRUSSELS" resname="TIMEZONE_EUROPE_BRUSSELS" sap:sc="XFLD">
+        <source>Brussels</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_BUCHAREST" resname="TIMEZONE_EUROPE_BUCHAREST" sap:sc="XFLD">
+        <source>Bucharest</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_BUDAPEST" resname="TIMEZONE_EUROPE_BUDAPEST" sap:sc="XFLD">
+        <source>Budapest</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_COPENHAGEN" resname="TIMEZONE_EUROPE_COPENHAGEN" sap:sc="XFLD">
+        <source>Copenhagen</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_DUBLIN" resname="TIMEZONE_EUROPE_DUBLIN" sap:sc="XFLD">
+        <source>Dublin</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_HELSINKI" resname="TIMEZONE_EUROPE_HELSINKI" sap:sc="XFLD">
+        <source>Helsinki</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_ISTANBUL" resname="TIMEZONE_EUROPE_ISTANBUL" sap:sc="XFLD">
+        <source>Istanbul</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_KALININGRAD" resname="TIMEZONE_EUROPE_KALININGRAD" sap:sc="XFLD">
+        <source>Kaliningrad</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_KIEV" resname="TIMEZONE_EUROPE_KIEV" sap:sc="XFLD">
+        <source>Kiev</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_LISBON" resname="TIMEZONE_EUROPE_LISBON" sap:sc="XFLD">
+        <source>Lisbon</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_LJUBLJANA" resname="TIMEZONE_EUROPE_LJUBLJANA" sap:sc="XFLD">
+        <source>Ljubljana</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_LONDON" resname="TIMEZONE_EUROPE_LONDON" sap:sc="XFLD">
+        <source>London</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_MADRID" resname="TIMEZONE_EUROPE_MADRID" sap:sc="XFLD">
+        <source>Madrid</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_MINSK" resname="TIMEZONE_EUROPE_MINSK" sap:sc="XFLD">
+        <source>Minsk</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_MOSCOW" resname="TIMEZONE_EUROPE_MOSCOW" sap:sc="XFLD">
+        <source>Moscow</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_PARIS" resname="TIMEZONE_EUROPE_PARIS" sap:sc="XFLD">
+        <source>Paris</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_PRAGUE" resname="TIMEZONE_EUROPE_PRAGUE" sap:sc="XFLD">
+        <source>Prague</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_RIGA" resname="TIMEZONE_EUROPE_RIGA" sap:sc="XFLD">
+        <source>Riga</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_ROME" resname="TIMEZONE_EUROPE_ROME" sap:sc="XFLD">
+        <source>Rome</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_SAMARA" resname="TIMEZONE_EUROPE_SAMARA" sap:sc="XFLD">
+        <source>Samara</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_SARAJEVO" resname="TIMEZONE_EUROPE_SARAJEVO" sap:sc="XFLD">
+        <source>Sarajevo</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_SKOPJE" resname="TIMEZONE_EUROPE_SKOPJE" sap:sc="XFLD">
+        <source>Skopje</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_SOFIA" resname="TIMEZONE_EUROPE_SOFIA" sap:sc="XFLD">
+        <source>Sofia</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_STOCKHOLM" resname="TIMEZONE_EUROPE_STOCKHOLM" sap:sc="XFLD">
+        <source>Stockholm</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_TALLINN" resname="TIMEZONE_EUROPE_TALLINN" sap:sc="XFLD">
+        <source>Tallinn</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_VIENNA" resname="TIMEZONE_EUROPE_VIENNA" sap:sc="XFLD">
+        <source>Vienna</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_VILNIUS" resname="TIMEZONE_EUROPE_VILNIUS" sap:sc="XFLD">
+        <source>Vilnius</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_VOLGOGRAD" resname="TIMEZONE_EUROPE_VOLGOGRAD" sap:sc="XFLD">
+        <source>Volgograd</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_WARSAW" resname="TIMEZONE_EUROPE_WARSAW" sap:sc="XFLD">
+        <source>Warsaw</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_ZAGREB" resname="TIMEZONE_EUROPE_ZAGREB" sap:sc="XFLD">
+        <source>Zagreb</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_EUROPE_ZURICH" resname="TIMEZONE_EUROPE_ZURICH" sap:sc="XFLD">
+        <source>Zurich</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_APIA" resname="TIMEZONE_PACIFIC_APIA" sap:sc="XFLD">
+        <source>Apia</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_AUCKLAND" resname="TIMEZONE_PACIFIC_AUCKLAND" sap:sc="XFLD">
+        <source>Auckland</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_CHATHAM" resname="TIMEZONE_PACIFIC_CHATHAM" sap:sc="XFLD">
+        <source>Chatham</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_FAKAOFO" resname="TIMEZONE_PACIFIC_FAKAOFO" sap:sc="XFLD">
+        <source>Fakaofo</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_FIJI" resname="TIMEZONE_PACIFIC_FIJI" sap:sc="XFLD">
+        <source>Fiji</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_GUADALCANAL" resname="TIMEZONE_PACIFIC_GUADALCANAL" sap:sc="XFLD">
+        <source>Guadalcanal</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_GUAM" resname="TIMEZONE_PACIFIC_GUAM" sap:sc="XFLD">
+        <source>Guam</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_HONOLULU" resname="TIMEZONE_PACIFIC_HONOLULU" sap:sc="XFLD">
+        <source>Hawaii</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_MAJURO" resname="TIMEZONE_PACIFIC_MAJURO" sap:sc="XFLD">
+        <source>Majuro</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_MIDWAY" resname="TIMEZONE_PACIFIC_MIDWAY" sap:sc="XFLD">
+        <source>Midway</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_NOUMEA" resname="TIMEZONE_PACIFIC_NOUMEA" sap:sc="XFLD">
+        <source>Noumea</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_PAGO_PAGO" resname="TIMEZONE_PACIFIC_PAGO_PAGO" sap:sc="XFLD">
+        <source>Pago Pago</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_PORT_MORESBY" resname="TIMEZONE_PACIFIC_PORT_MORESBY" sap:sc="XFLD">
+        <source>Port Moresby</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMEZONE_PACIFIC_TONGATAPU" resname="TIMEZONE_PACIFIC_TONGATAPU" sap:sc="XFLD">
+        <source>Tongatapu</source>
+        <note annotates="source" from="Developer">Localized timezone for the selected location.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

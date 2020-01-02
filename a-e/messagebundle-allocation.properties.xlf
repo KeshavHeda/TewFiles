@@ -1,0 +1,1667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-allocation.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="e52e71ed294c83b8c639b8e7db09409b" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:58Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_HISTORY" maxwidth="50" resname="PLANNING_PANEL_HISTORY" sap:sc="XTIT" size-unit="char">
+        <source>Execute Ad-hoc Planning</source>
+        <note annotates="source" from="Developer">Description of the state in the version undo/redo history after executing an operation with the planning panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_TITLE" maxwidth="50" resname="PLANNING_PANEL_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Ad-hoc Planning</source>
+        <note annotates="source" from="Developer">the title/header of the planning panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_APPLY" maxwidth="30" resname="PLANNING_PANEL_APPLY" sap:sc="XBUT" size-unit="char">
+        <source>Apply</source>
+        <note annotates="source" from="Developer">Caption for the apply button of the planning panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_CANCEL" maxwidth="30" resname="PLANNING_PANEL_CANCEL" sap:sc="XBUT" size-unit="char">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">Caption for the cancel button of the planning panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_SOURCE_HEADER" resname="PLANNING_PANEL_SOURCE_HEADER" sap:sc="XFLD">
+        <source>What amount?</source>
+        <note annotates="source" from="Developer">header for source section of planning panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_KEEP_SOURCE" resname="PLANNING_PANEL_KEEP_SOURCE" sap:sc="XFLD">
+        <source>Keep Source</source>
+        <note annotates="source" from="Developer">label of the keep source checkbox</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_SELECT_SOURCE_TTIP" resname="PLANNING_PANEL_SELECT_SOURCE_TTIP" sap:sc="XTOL">
+        <source>Select source cell</source>
+        <note annotates="source" from="Developer">Tooltip for toggle button that toggles the source cell selection mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_TARGET_HEADER" resname="PLANNING_PANEL_TARGET_HEADER" sap:sc="XFLD">
+        <source>Where to?</source>
+        <note annotates="source" from="Developer">header for the target section of planning panel (targets are data cells)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_TARGET_CELL" resname="PLANNING_PANEL_TARGET_CELL" sap:sc="XCOL">
+        <source>Cell</source>
+        <note annotates="source" from="Developer">header of the target cell column. This column holds the write mode (append/overwrite) and the coordinates of the target cells in the tabular target section of the planning panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_DRIVER" resname="PLANNING_PANEL_DRIVER" sap:sc="XCOL">
+        <source>Driver</source>
+        <note annotates="source" from="Developer">header of the driver column. This column holds the driver mode (e.g., weights, input values) and the driver values in the tabular target section of the planning panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_WRITEMODE_OVERWRITE" resname="PLANNING_PANEL_WRITEMODE_OVERWRITE" sap:sc="XLST">
+        <source>Overwrite</source>
+        <note annotates="source" from="Developer">write mode option: overwrite target values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_WRITEMODE_APPEND" resname="PLANNING_PANEL_WRITEMODE_APPEND" sap:sc="XLST">
+        <source>Append</source>
+        <note annotates="source" from="Developer">write mode option: append to target values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_OPERATION_MODE_DISTRIBUTE" resname="PLANNING_PANEL_OPERATION_MODE_DISTRIBUTE" sap:sc="XLST">
+        <source>Distribute</source>
+        <note annotates="source" from="Developer">Name of the menu entry for the different operation modes of the planning panel. This entry is for distributing the source amount to the targets</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_OPERATION_MODE_REDISTRIBUTE" resname="PLANNING_PANEL_OPERATION_MODE_REDISTRIBUTE" sap:sc="XLST">
+        <source>Re-distribute targets</source>
+        <note annotates="source" from="Developer">Name of the menu entry for the different operation modes of the planning panel. This entry is for re-distributing the sum of the target amounts among the targets</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_INPUTMODE_PROPORTIONAL" resname="PLANNING_PANEL_INPUTMODE_PROPORTIONAL" sap:sc="XLST">
+        <source>Proportionally</source>
+        <note annotates="source" from="Developer">driver mode option: allocate the source value proportionally to the current values of the target cells</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_INPUTMODE_EQUAL" resname="PLANNING_PANEL_INPUTMODE_EQUAL" sap:sc="XLST">
+        <source>Equally</source>
+        <note annotates="source" from="Developer">driver mode option: allocate the source value equally to all targets</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_INPUTMODE_VALUES" resname="PLANNING_PANEL_INPUTMODE_VALUES" sap:sc="XLST">
+        <source>Input Values</source>
+        <note annotates="source" from="Developer">driver mode option: handle input as amounts to be allocated</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_INPUTMODE_WEIGHTS" resname="PLANNING_PANEL_INPUTMODE_WEIGHTS" sap:sc="XLST">
+        <source>Input Weights</source>
+        <note annotates="source" from="Developer">driver mode option: handle input as weight that determines the fraction of the overall amount to be allocated</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_INPUTMODE_PROPORTIONAL_DISABLED" resname="PLANNING_PANEL_INPUTMODE_PROPORTIONAL_DISABLED" sap:sc="XLST">
+        <source>Proportionally (disabled due to conflicting targets)</source>
+        <note annotates="source" from="Developer">driver mode option: allocate the source value proportionally to the current values of the target cells. This menu entry is shown if PLANNING_PANEL_INPUTMODE_PROPORTIONAL is disabled due to conflicting targets. E.g., if one target is Europe and another target is Germany.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_INPUTMODE_EQUAL_DISABLED" resname="PLANNING_PANEL_INPUTMODE_EQUAL_DISABLED" sap:sc="XLST">
+        <source>Equally (disabled due to conflicting targets)</source>
+        <note annotates="source" from="Developer">driver mode option: allocate the source value equally to all targets. This menu entry is shown if PLANNING_PANEL_INPUTMODE_EQUAL is disabled due to conflicting targets. E.g., if one target is Europe and another target is Germany.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_INPUTMODE_CONTEXT" resname="PLANNING_PANEL_INPUTMODE_CONTEXT" sap:sc="XLST">
+        <source>Configure Context</source>
+        <note annotates="source" from="Developer">driver mode option: the user can define a context that is then used as weights. Weights determine the fraction of the overall amount to be allocated</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_SELECT_TARGET_TTIP" resname="PLANNING_PANEL_SELECT_TARGET_TTIP" sap:sc="XTOL">
+        <source>Add target</source>
+        <note annotates="source" from="Developer">Tooltip for toggle button that toggles the target members selection mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_SELECT_TARGET_INFO" resname="PLANNING_PANEL_SELECT_TARGET_INFO" sap:sc="XFLD">
+        <source>Use the table to choose your target cells.</source>
+        <note annotates="source" from="Developer">label for the empty target section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_REMOVE_TARGET_TTIP" resname="PLANNING_PANEL_REMOVE_TARGET_TTIP" sap:sc="XTOL">
+        <source>Remove target</source>
+        <note annotates="source" from="Developer">Tooltip for the button to remove existing target members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_AVAILABLE_AMOUNT" resname="PLANNING_PANEL_AVAILABLE_AMOUNT" sap:sc="XFLD">
+        <source>Available Amount</source>
+        <note annotates="source" from="Developer">label for the available amount</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_TOTAL_AMOUNT" resname="PLANNING_PANEL_TOTAL_AMOUNT" sap:sc="XFLD">
+        <source>Total</source>
+        <note annotates="source" from="Developer">label for the total amount</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_SHOULD_BE_ZERO" resname="PLANNING_PANEL_SHOULD_BE_ZERO" sap:sc="XFLD">
+        <source>You did not assign the total amount.</source>
+        <note annotates="source" from="Developer">tooltip for warning that the total amount assigned should match source amount</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_AMOUNT_LEFT" resname="PLANNING_PANEL_AMOUNT_LEFT" sap:sc="XFLD">
+        <source>You assigned more than the source amount.</source>
+        <note annotates="source" from="Developer">tooltip for warning that the total amount assigned should not be larger than the source amount</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_REDISTRIBUTE" resname="PLANNING_PANEL_REDISTRIBUTE" sap:sc="XTOL">
+        <source>Re-distribute the total amount of the target cells among the target cells.</source>
+        <note annotates="source" from="Developer">Tooltip for the operation mode menu button if it shows the "spreading" icon. Tell the user, that now the total amount of all target cells is re-distributed among the target cells.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_DISTRIBUTE" resname="PLANNING_PANEL_DISTRIBUTE" sap:sc="XTOL">
+        <source>Distribute the given amount along the target cells.</source>
+        <note annotates="source" from="Developer">Tooltip for the operation mode menu button if it shows the "distribute" icon. Tell the user, that now the given source amount is distributed along the target cells.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_OPEN_ILLEGAL_FILTERS" resname="PLANNING_PANEL_OPEN_ILLEGAL_FILTERS" sap:sc="XMSG">
+        <source>The planning panel cannot be used with complex filters.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if the planning panel can't be opened due to complex filters being defined</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_OPEN_LOCKED_CELLS" resname="PLANNING_PANEL_OPEN_LOCKED_CELLS" sap:sc="XMSG">
+        <source>The planning panel cannot be used when locked cells are present in the grid.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if the planning panel can't be opened due to locked cells existing in the grid</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_OPEN_NO_EDITABLE_CELLS" resname="PLANNING_PANEL_OPEN_NO_EDITABLE_CELLS" sap:sc="XMSG">
+        <source>There are no editable cells in the grid.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if the planning panel can't be opened due to all cells in the grid being non-editable</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_MULTIPLE_SOURCE_CELLS" resname="PLANNING_PANEL_MULTIPLE_SOURCE_CELLS" sap:sc="XMSG">
+        <source>Please select a single source cell.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he selects multiple source cells</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_SOMETHING_WENT_WRONG" resname="PLANNING_PANEL_SOMETHING_WENT_WRONG" sap:sc="XMSG">
+        <source>Sorry, something went wrong.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if some unknown technical error occurred</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_NEGATIVE_WEIGHT" resname="PLANNING_PANEL_NEGATIVE_WEIGHT" sap:sc="XMSG">
+        <source>Please enter a positive number as weight.</source>
+        <note annotates="source" from="Developer">Validation message shown at the target input field when the user enters a negative number while input mode "Weights" is selected. Here, only positive numbers are supported.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_DELETE_NOT_SUPP" resname="PLANNING_PANEL_DELETE_NOT_SUPP" sap:sc="XMSG">
+        <source>Please close the planning panel for deleting facts.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he tries to delete facts while the planning panel is open</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PLANNING_PANEL_INV_INPUT_MODE" resname="PLANNING_PANEL_INV_INPUT_MODE" sap:sc="XMSG">
+        <source>Please select '<ph id="1">{0}</ph>' as <ph id="2">{1}</ph> to change values directly in the table</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he changes cell values in grid while the planning panel is open and the selected driver (input mode) is not PLANNING_PANEL_INPUTMODE_VALUES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_SET_PICK_TARGET" resname="PLANNING_PANEL_SET_PICK_TARGET" sap:sc="XMSG">
+        <source>While picking source cells you can't change cell values. Start picking targets or change already selected targets instead.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he changes the cell values in grid while the planning panel is open and the picking source mode is enabled.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_TARGET_NOT_EDITABLE" resname="PLANNING_PANEL_TARGET_NOT_EDITABLE" sap:sc="XMSG">
+        <source>Please select editable cells as target cells.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he is picking target cells but only selects invalid cells including a non-editable cell.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_TARGET_OUTSIDE_RESTRICTION" resname="PLANNING_PANEL_TARGET_OUTSIDE_RESTRICTION" sap:sc="XMSG">
+        <source>The cells you've selected have conflicting filters.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he is picking target cells but only selects invalid cells including cells with conflicting filters.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_TARGET_INCOMPATIBLE_ACCOUNT_TYPE" resname="PLANNING_PANEL_TARGET_INCOMPATIBLE_ACCOUNT_TYPE" sap:sc="XMSG">
+        <source>The account type of the cells you've selected is not compatible with that of the source cell.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he is picking a target cell whose account type does not match that of the source cell.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_TARGET_CALCULATED" resname="PLANNING_PANEL_TARGET_CALCULATED" sap:sc="XMSG">
+        <source>Some cells you've selected are calculated.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he is picking target cells that belong to a calculated account.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_TARGET_PRECONVERTED" resname="PLANNING_PANEL_TARGET_PRECONVERTED" sap:sc="XMSG">
+        <source>Some cells you've selected belong to a version with preconverted actuals.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he is picking target cells that belong to a version with preconverted actuals.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_TARGET_INVALID_SKIPPED" resname="PLANNING_PANEL_TARGET_INVALID_SKIPPED" sap:sc="XMSG">
+        <source>Invalid target cells have been skipped. Please select the individual target cells to see the reason.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he is picking target cells but selects both valid and invalid target cells. It tells that invalid target cells have been skipped</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_SOURCE_MIXED_CURRENCIES_OR_UNITS" resname="PLANNING_PANEL_SOURCE_MIXED_CURRENCIES_OR_UNITS" sap:sc="XMSG">
+        <source>The cell cannot be used as source cell as it aggregates other cells with different currencies or units.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he opens the planning panel on a single source cell but the cell is not editable as its a non-leaf cell that aggregates other cells that have different currencies or units. In that case the cell cannot be used as source cell.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_COPYPASTE_NOT_SUPP" resname="PLANNING_PANEL_COPYPASTE_NOT_SUPP" sap:sc="XMSG">
+        <source>Please close the planning panel to copy data.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if he tries to copy data while the planning panel is open</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_WEIGHTS_CONVERTED" resname="PLANNING_PANEL_WEIGHTS_CONVERTED" sap:sc="XMSG">
+        <source>Some input values have been converted to match the expected sign.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if negative input values have been converted to positive as they are used as weights.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_REDISTRIBUTE_TARGET_EMPTY" resname="PLANNING_PANEL_REDISTRIBUTE_TARGET_EMPTY" sap:sc="XMSG">
+        <source>For re-distribution all target cells should contain a value.</source>
+        <note annotates="source" from="Developer">Info message shown to the user if the uses re-distribution but has target cells selected and no value assigned. It tells that he should fill all inputs, but is allowed to not do so</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_DL_LOCKED_NOT_ENFORCED" resname="PLANNING_PANEL_DL_LOCKED_NOT_ENFORCED" sap:sc="XTOL">
+        <source>This member is locked. The assigned amount might be later on rejected during version publishing.</source>
+        <note annotates="source" from="Developer">tooltip explaining that a member is locked due to data locks and although the user can assign there a value this could generate problems later on when publishing the version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_DL_MIXED_NOT_ENFORCED" resname="PLANNING_PANEL_DL_MIXED_NOT_ENFORCED" sap:sc="XTOL">
+        <source>This member is partially locked. The assigned amount might be later on rejected during version publishing.</source>
+        <note annotates="source" from="Developer">tooltip explaining that a member has a mixed locked state and although the user can assign there a value this could generate problems later on when publishing the version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_BLOCKED_DEPENDENCIES" resname="PLANNING_PANEL_BLOCKED_DEPENDENCIES" sap:sc="XTOL">
+        <source>An amount cannot be assigned to this cell due to overlapping dependencies with other target cells.</source>
+        <note annotates="source" from="Developer">tooltip explaining that an input is blocked by another input due to overlapping dependencies</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_KEEP_SOURCE_DISABLED_ACCOUNT_TYPE" resname="PLANNING_PANEL_KEEP_SOURCE_DISABLED_ACCOUNT_TYPE" sap:sc="XTOL">
+        <source>Please remove targets with account types that are incompatible to the account type of the source cell first.</source>
+        <note annotates="source" from="Developer">Tooltip that is shown at the "keep source" check box in case it's disabled since the account type of the source cell is not compatible with the account type of a target cell</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_KEEP_SOURCE_DISABLED_SOURCE_CELL" resname="PLANNING_PANEL_KEEP_SOURCE_DISABLED_SOURCE_CELL" sap:sc="XTOL">
+        <source>Please select an editable source cell first.</source>
+        <note annotates="source" from="Developer">Tooltip that is shown at the "keep source" check box in case it's disabled since the source cell is not editable</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_DIFFERING_CURRENCY_AMONG_TARGETS" resname="PLANNING_PANEL_DIFFERING_CURRENCY_AMONG_TARGETS" sap:sc="XMSG">
+        <source>Please be aware that you are distributing values between differing currencies.</source>
+        <note annotates="source" from="Developer">Message explaining that a target cell has another currency as another target cell which could lead to distributing mixed currency values. This tooltip is only shown if no source cell is present.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_NONFINANCIAL_FINANCIAL_MIX_AMONG_TARGETS" resname="PLANNING_PANEL_NONFINANCIAL_FINANCIAL_MIX_AMONG_TARGETS" sap:sc="XMSG">
+        <source>Please be aware that you are distributing values between financial and non-financial account types.</source>
+        <note annotates="source" from="Developer">Message explaining that there are target cells that have a non-financial account type and target cells that have a financial account type. Distributing among both might not be wanted by the user.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_DIFFERING_CURRENCY_BETWEEN_SOURCE_AND_TARGET" resname="PLANNING_PANEL_DIFFERING_CURRENCY_BETWEEN_SOURCE_AND_TARGET" sap:sc="XMSG">
+        <source>Please be aware that the currency of the source cell differs from the currency of one or more target cells.</source>
+        <note annotates="source" from="Developer">Message explaining that a target cell has another currency as the source cell which could lead to distributing mixed currency values. This tooltip is only shown if a source cell is present.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_PANEL_NONFINANCIAL_FINANCIAL_MIX_BETWEEN_SOURCE_AND_TARGET" resname="PLANNING_PANEL_NONFINANCIAL_FINANCIAL_MIX_BETWEEN_SOURCE_AND_TARGET" sap:sc="XMSG">
+        <source>Please be aware that the account type of the source cell differs from the account type of one or more target cells with regard to financial/non-financial account type.</source>
+        <note annotates="source" from="Developer">Message explaining that there are target cells that have a non-financial account type though the source cell has a financial account type and vice versa</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_NEW_TTL" maxwidth="50" resname="ALOC_STEP_NEW_TTL" sap:sc="XTIT" size-unit="char">
+        <source>Create Step</source>
+        <note annotates="source" from="Developer">Title for Allocation Step Dialog in Create mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_EDIT_TTL" maxwidth="50" resname="ALOC_STEP_EDIT_TTL" sap:sc="XTIT" size-unit="char">
+        <source>Edit Step</source>
+        <note annotates="source" from="Developer">Title for Allocation Step Dialog in Edit mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_NEW_OK_CAPT" maxwidth="30" resname="ALOC_STEP_NEW_OK_CAPT" sap:sc="XBUT" size-unit="char">
+        <source>Create</source>
+        <note annotates="source" from="Developer">Caption for the ok button in Create Mode in the Allocation Step Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_EDIT_OK_CAPT" maxwidth="30" resname="ALOC_STEP_EDIT_OK_CAPT" sap:sc="XBUT" size-unit="char">
+        <source>Save</source>
+        <note annotates="source" from="Developer">Caption for the ok button in Edit Mode in the Allocation Step Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOCATION_STEP_NAME_TITLE" maxwidth="50" resname="ALLOCATION_STEP_NAME_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Allocation Step Name</source>
+        <note annotates="source" from="Developer">Label for the Allocation Step Name in the Allocation Step Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_DESC_TTL" maxwidth="50" resname="ALOC_STEP_DESC_TTL" sap:sc="XFLD" size-unit="char">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Label for the Allocation Step Description in the Allocation Step Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_MODEL_TTL" maxwidth="50" resname="ALOC_STEP_MODEL_TTL" sap:sc="XFLD" size-unit="char">
+        <source>Model</source>
+        <note annotates="source" from="Developer">Label for the Model Selection dropdown in the Allocation Step Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_ADD_SRC_TTIP" maxwidth="50" resname="ALOC_STEP_ADD_SRC_TTIP" sap:sc="XFLD" size-unit="char">
+        <source>Add a new Source Dimension</source>
+        <note annotates="source" from="Developer">Tooltip for the add source dimension button in the Allocation Step Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_SRC_DIM_SCTN_TTL" maxwidth="30" resname="ALOC_STEP_SRC_DIM_SCTN_TTL" sap:sc="XFLD" size-unit="char">
+        <source>Source</source>
+        <note annotates="source" from="Developer">Heading for the Source Dimension section in the Allocation Step Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_FLTR_INFO" resname="ALOC_STEP_FLTR_INFO" sap:sc="XFLD">
+        <source>The account filters can be used to limit the range of accounts on which the allocation is performed.</source>
+        <note annotates="source" from="Developer">Information Text explaining the usage of the account filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ALOC_ACC_FLTR_TITLE" resname="ALOC_ACC_FLTR_TITLE" sap:sc="XTIT">
+        <source>Select Filter for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Title of Allocation Account Filter member selection dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_STEP_ACC_FILTER_CLEAR" resname="ALLOC_STEP_ACC_FILTER_CLEAR" sap:sc="XTOL">
+        <source>Clear Filter</source>
+        <note annotates="source" from="Developer">Tooltip shown on clear filter button of filter token</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_ADD_TGT_TTIP" maxwidth="50" resname="ALOC_STEP_ADD_TGT_TTIP" sap:sc="XFLD" size-unit="char">
+        <source>Add a new Target Dimension</source>
+        <note annotates="source" from="Developer">Tooltip for the add target dimension button in the Allocation Step Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_TGT_DIM_SCTN_TTL" maxwidth="30" resname="ALOC_STEP_TGT_DIM_SCTN_TTL" sap:sc="XFLD" size-unit="char">
+        <source>Target</source>
+        <note annotates="source" from="Developer">Heading for the Target Dimensions Section in the Allocation Step Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_ADD_REF_TTIP" maxwidth="50" resname="ALOC_STEP_ADD_REF_TTIP" sap:sc="XFLD" size-unit="char">
+        <source>Add a new Reference Dimension.</source>
+        <note annotates="source" from="Developer">Tooltip for the add reference dimension button in the allocation step dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_ADD_REF_INFO" resname="ALOC_STEP_ADD_REF_INFO" sap:sc="XFLD">
+        <source>Allocate along the weights broken down for the members of the selected dimensions.</source>
+        <note annotates="source" from="Developer">Information Text explaining the usage of the reference dimensions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_REPETITIONS" maxwidth="16" resname="ALOC_STEP_REPETITIONS" sap:sc="XFLD" size-unit="char">
+        <source>Repetitions</source>
+        <note annotates="source" from="Developer">label indicating how many repetitions of an allocation step should be done when doing re-allocation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_OVERWRITE_TARGET" maxwidth="50" resname="ALOC_STEP_OVERWRITE_TARGET" sap:sc="XFLD" size-unit="char">
+        <source>Overwrite Target</source>
+        <note annotates="source" from="Developer">label of checkbox to enable the option to overwrite the target</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OVERWRITE_TARGET_TTIP" maxwidth="200" resname="OVERWRITE_TARGET_TTIP" sap:sc="XTOL" size-unit="char">
+        <source>All target values will be cleared before allocating values.</source>
+        <note annotates="source" from="Developer">tooltip explaining the option 'overwrite target'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_KEEP_SOURCE" maxwidth="50" resname="ALOC_STEP_KEEP_SOURCE" sap:sc="XFLD" size-unit="char">
+        <source>Keep Source</source>
+        <note annotates="source" from="Developer">label of checkbox to enable the option to keep the source</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KEEP_SOURCE_TTIP" maxwidth="200" resname="KEEP_SOURCE_TTIP" sap:sc="XTOL" size-unit="char">
+        <source>The source cells will keep their values, which will be copied and allocated to the targets.</source>
+        <note annotates="source" from="Developer">tooltip explaining the option 'keep source'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KSOT_TRACING_TTIP" maxwidth="200" resname="KSOT_TRACING_TTIP" sap:sc="XTOL" size-unit="char">
+        <source>Allocation tracing cannot be used while 'Keep Source' or 'Overwrite Target' are enabled.</source>
+        <note annotates="source" from="Developer">tooltip explaining why tracing is disabled while one of the options 'keep source' or 'overwrite target' are enabled</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KSOT_DISABLED_TTIP" maxwidth="200" resname="KSOT_DISABLED_TTIP" sap:sc="XTOL" size-unit="char">
+        <source>Disable Allocation Tracing to use 'Keep Source' and 'Overwrite Target'.</source>
+        <note annotates="source" from="Developer">tooltip asking the user to disable allocation tracing to use the options 'keep source' or 'overwrite target'</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_OPTIONS" maxwidth="30" resname="ALOC_STEP_OPTIONS" sap:sc="XFLD" size-unit="char">
+        <source>Options</source>
+        <note annotates="source" from="Developer">header for the options section in the create allocation step dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_SEL_PUBLIC_VERSIONS" maxwidth="50" resname="ALOC_STEP_SEL_PUBLIC_VERSIONS" sap:sc="XTXT" size-unit="char">
+        <source>Public Versions</source>
+        <note annotates="source" from="Developer">text of divider item in the allocation step selection dialog for public versions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_SEL_PRIVATE_VERSIONS" maxwidth="50" resname="ALOC_STEP_SEL_PRIVATE_VERSIONS" sap:sc="XTXT" size-unit="char">
+        <source>Private Versions</source>
+        <note annotates="source" from="Developer">text of divider item in the allocation step selection dialog for private versions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_MODEL_NAME_PLACEHOLDER" maxwidth="120" resname="ALLOC_MODEL_NAME_PLACEHOLDER" sap:sc="XTXT" size-unit="char">
+        <source>Model not found</source>
+        <note annotates="source" from="Developer">Placeholder for a model name if the model couldn't be retrieved (e.g. because it was deleted or the user doesn't have the required privileges)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BA_TRACING_TTIP" resname="BA_TRACING_TTIP" sap:sc="XTOL">
+        <source>Allocation tracing cannot be used when a Booking Account is selected.</source>
+        <note annotates="source" from="Developer">tooltip explaining why tracing is disabled while a booking account for cross account is selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BA_DISABLED_TTIP" resname="BA_DISABLED_TTIP" sap:sc="XTOL">
+        <source>Disable Allocation Tracing to use a Booking Account.</source>
+        <note annotates="source" from="Developer">tooltip explaining why across account/booking account is disabled while tracing is activated</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BA_SECTION_TITLE" maxwidth="100" resname="BA_SECTION_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Booking Account</source>
+        <note annotates="source" from="Developer">Title of Booking Account section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BA_SELECTOR_TITLE" maxwidth="100" resname="BA_SELECTOR_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Select a Booking Account</source>
+        <note annotates="source" from="Developer">Title of the member selector for the booking account</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BA_SECTION_TTIP" resname="BA_SECTION_TTIP" sap:sc="XTOL">
+        <source>Write all allocation results to the defined account and leave the source accounts unchanged.</source>
+        <note annotates="source" from="Developer">Tooltip of the section explaining the booking account</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SPREAD_AMOUNT_TITLE" maxwidth="30" resname="SPREAD_AMOUNT_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Spread <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Title to be shown in the spreading dialog. Indicates the amount that is to be spread.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DISTRIBUTE_TITLE" maxwidth="30" resname="DISTRIBUTE_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Distribute up to <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADV_SPRD_TITLE" maxwidth="30" resname="ADV_SPRD_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Assign</source>
+        <note annotates="source" from="Developer">Title to be shown in the assignment dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADV_SPRD_OVERWRITE" maxwidth="15" resname="ADV_SPRD_OVERWRITE" sap:sc="XTIT" size-unit="char">
+        <source>Overwrite</source>
+        <note annotates="source" from="Developer">title for switch where user can toggle between overwrite and append mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_BY" maxwidth="15" resname="SPREAD_BY" sap:sc="XTIT" size-unit="char">
+        <source>Assign by</source>
+        <note annotates="source" from="Developer">title for switch where user can toggle between using inputs as weights or as amount</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_BY_WEIGHTS" maxwidth="12" resname="SPREAD_BY_WEIGHTS" sap:sc="XTIT" size-unit="char">
+        <source>Weights</source>
+        <note annotates="source" from="Developer">label of spread by switch if user selected spread by weights mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_BY_AMOUNT" maxwidth="12" resname="SPREAD_BY_AMOUNT" sap:sc="XTIT" size-unit="char">
+        <source>Amount</source>
+        <note annotates="source" from="Developer">label of spread by switch if user selected spread by amount mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="AMOUNT_TO_SPREAD_LBL" maxwidth="30" resname="AMOUNT_TO_SPREAD_LBL" sap:sc="XFLD" size-unit="char">
+        <source>Amount to assign</source>
+        <note annotates="source" from="Developer">label for the amount to assign input</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ASSIGN_MEMBER_BLOCKED_TT" resname="ASSIGN_MEMBER_BLOCKED_TT" sap:sc="XMSG">
+        <source>An amount cannot be assigned to this calculation due to overlapping calculations</source>
+        <note annotates="source" from="Developer">tooltip explaining that an input is blocked by another input due to overlapping calculations</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ASSIGN_MEMBER_BLOCKED_DL_LOCKED" resname="ASSIGN_MEMBER_BLOCKED_DL_LOCKED" sap:sc="XMSG">
+        <source>An amount cannot be assigned to this member as it is locked.</source>
+        <note annotates="source" from="Developer">tooltip explaining that an input is blocked due to data locks and therefore nothing can be assigned to this member</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ASSIGN_MEMBER_DL_LOCKED_NOT_ENFORCED" resname="ASSIGN_MEMBER_DL_LOCKED_NOT_ENFORCED" sap:sc="XMSG">
+        <source>This member is locked. The assigned ammount might be later on rejected during version publishing.</source>
+        <note annotates="source" from="Developer">tooltip explaining that a member is locked due to data locks and although the user can assign there a value this could generate problems later on when publishing the version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ASSIGN_MEMBER_BLOCKED_DL_MIXED" resname="ASSIGN_MEMBER_BLOCKED_DL_MIXED" sap:sc="XMSG">
+        <source>An amount cannot be assigned to this member as it is partially locked.</source>
+        <note annotates="source" from="Developer">tooltip explaining that an input is blocked due to data locks and therefore nothing can be assigned to this member</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ASSIGN_MEMBER_DL_MIXED_NOT_ENFORCED" resname="ASSIGN_MEMBER_DL_MIXED_NOT_ENFORCED" sap:sc="XMSG">
+        <source>This member is partially locked. The assigned ammount might be later on rejected during version publishing.</source>
+        <note annotates="source" from="Developer">tooltip explaining that a member has a mixed locked state and although the user can assign there a value this could generate problems later on when publishing the version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIALOG_MEMBER_INFO_DL_UNKNOWN" resname="DIALOG_MEMBER_INFO_DL_UNKNOWN" sap:sc="XMSG">
+        <source>The lock state for this member is unknown.</source>
+        <note annotates="source" from="Developer">tooltip used within distribute and assign dialogs explaining that the lock state for a member is unknown (e.g., lock state retrieval failed). The user can assign/distribute to this member, but it might be that publishing this data finally will fail due to existing data locks.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DISTRIBUTE_MEMBER_BLOCKED_DL_LOCKED" resname="DISTRIBUTE_MEMBER_BLOCKED_DL_LOCKED" sap:sc="XMSG">
+        <source>An amount cannot be distributed to this member as it is locked.</source>
+        <note annotates="source" from="Developer">tooltip explaining that an input is blocked due to data locks and therefore nothing can be distributed to this member</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DISTRIBUTE_MEMBER_DL_LOCKED_NOT_ENFORCED" resname="DISTRIBUTE_MEMBER_DL_LOCKED_NOT_ENFORCED" sap:sc="XMSG">
+        <source>This member is locked. The ammount distributed to this member might be later on rejected during version publishing.</source>
+        <note annotates="source" from="Developer">tooltip explaining that a member is locked due to data locks and although the user can distribute an amount to it this could generate problems later on when publishing the version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DISTRIBUTE_MEMBER_BLOCKED_DL_MIXED" resname="DISTRIBUTE_MEMBER_BLOCKED_DL_MIXED" sap:sc="XMSG">
+        <source>An amount cannot be distributed to this member as it is partially locked.</source>
+        <note annotates="source" from="Developer">tooltip explaining that an input is blocked due to data locks and therefore nothing can be distributed to this member</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DISTRIBUTE_MEMBER_DL_MIXED_NOT_ENFORCED" resname="DISTRIBUTE_MEMBER_DL_MIXED_NOT_ENFORCED" sap:sc="XMSG">
+        <source>This member is partially locked. The ammount distributed to this member might be later on rejected during version publishing.</source>
+        <note annotates="source" from="Developer">tooltip explaining that a member has a mixed locked state and although the user can distribute an amount to it this could generate problems later on when publishing the version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_MEMBER_DL_LOCKED_NOT_ENFORCED" resname="SPRD_MEMBER_DL_LOCKED_NOT_ENFORCED" sap:sc="XMSG">
+        <source>This member is locked. The ammount spreaded to this member might be later on rejected during version publishing.</source>
+        <note annotates="source" from="Developer">tooltip explaining that a member is locked due to data locks and although the user can spread an amount to it this could generate problems later on when publishing the version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_MEMBER_DL_MIXED_NOT_ENFORCED" resname="SPRD_MEMBER_DL_MIXED_NOT_ENFORCED" sap:sc="XMSG">
+        <source>This member is partially locked. The ammount spreaded to this member might be later on rejected during version publishing.</source>
+        <note annotates="source" from="Developer">tooltip explaining that a member has a mixed locked state and although the user can spread an amount to it this could generate problems later on when publishing the version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DISTRIBUTE_CHOOSE_AMOUNT" maxwidth="60" resname="DISTRIBUTE_CHOOSE_AMOUNT" sap:sc="XFLD" size-unit="char">
+        <source>Choose Level &amp; Amount</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIST_MEMBER_TITLE" maxwidth="15" resname="DIST_MEMBER_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Member</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIST_AMOUNT_TITLE" maxwidth="15" resname="DIST_AMOUNT_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Amount</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIST_PREVIEW_TITLE" maxwidth="15" resname="DIST_PREVIEW_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Preview</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIST_TOTAL" maxwidth="15" resname="DIST_TOTAL" sap:sc="XFLD" size-unit="char">
+        <source>Total</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIST_AVAILABLE_AMOUNT" maxwidth="30" resname="DIST_AVAILABLE_AMOUNT" sap:sc="XFLD" size-unit="char">
+        <source>Available Amount</source>
+        <note annotates="source" from="Developer">label for the row containing the remaining amount to be distributed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TARGET_PERSPECTIVE" maxwidth="30" resname="TARGET_PERSPECTIVE" sap:sc="XFLD" size-unit="char">
+        <source>Target Dimension</source>
+        <note annotates="source" from="Developer">Label for the target dimension drop down</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN" maxwidth="30" resname="SPRD_PATTERN" sap:sc="XFLD" size-unit="char">
+        <source>Auto-fill pattern</source>
+        <note annotates="source" from="Developer">Label for the spreading pattern drop down</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN_STRAIGHT" maxwidth="30" resname="SPRD_PATTERN_STRAIGHT" sap:sc="XTIT" size-unit="char">
+        <source>Equally</source>
+        <note annotates="source" from="Developer">menu entry of the equal spreading pattern</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN_445" maxwidth="30" resname="SPRD_PATTERN_445" sap:sc="XTIT" size-unit="char">
+        <source>4-4-5 (over months)</source>
+        <note annotates="source" from="Developer">menu entry of the 4-4-5 spreading pattern</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN_454" maxwidth="30" resname="SPRD_PATTERN_454" sap:sc="XTIT" size-unit="char">
+        <source>4-5-4 (over months)</source>
+        <note annotates="source" from="Developer">menu entry of the 4-5-4 spreading pattern</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN_544" maxwidth="30" resname="SPRD_PATTERN_544" sap:sc="XTIT" size-unit="char">
+        <source>5-4-4 (over months)</source>
+        <note annotates="source" from="Developer">menu entry of the 5-4-4 spreading pattern</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NONE_PATTERN_DESC" resname="NONE_PATTERN_DESC" sap:sc="YINF">
+        <source>There is currently no auto-fill pattern selected.</source>
+        <note annotates="source" from="Developer">info message that there is no auto-fill pattern selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN_STRAIGHT_DESC" resname="SPRD_PATTERN_STRAIGHT_DESC" sap:sc="YINF">
+        <source>This pattern distributes the available amount equally among all members.</source>
+        <note annotates="source" from="Developer">info message telling that this pattern distributes equally among the members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN_445_DESC" resname="SPRD_PATTERN_445_DESC" sap:sc="YINF">
+        <source>This pattern assigns 4/13 of the available amount to the first and second month of each quarter, and 5/13 to the third month of each quarter.</source>
+        <note annotates="source" from="Developer">info message telling that this pattern assigns 4/13 of the available amount to the first and second month of the quarter, and 5/13 to the third month of the quarter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN_454_DESC" resname="SPRD_PATTERN_454_DESC" sap:sc="YINF">
+        <source>This pattern assigns 4/13 of the available amount to the first and third month of each quarter, and 5/13 to the second month of each quarter.</source>
+        <note annotates="source" from="Developer">info message telling that this pattern assigns 4/13 of the available amount to the first and third month of the quarter, and 5/13 to the second month of the quarter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN_544_DESC" resname="SPRD_PATTERN_544_DESC" sap:sc="YINF">
+        <source>This pattern assigns 5/13 of the available amount to the first month of each quarter, and 4/13 to the second and third month of each quarter.</source>
+        <note annotates="source" from="Developer">info message telling that this pattern assigns 5/13 of the available amount to the first month of the quarter, and 4/13 to the second and third month of the quarter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN_DISABLED" resname="SPRD_PATTERN_DISABLED" sap:sc="YINF">
+        <source>Auto-fill patterns are disabled due to overlapping calculations.</source>
+        <note annotates="source" from="Developer">info message telling that auto-fill patterns are disabled due to overlapping target members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PATTERN_WEIGHTS_ERROR" resname="SPRD_PATTERN_WEIGHTS_ERROR" sap:sc="XMSG">
+        <source>A technical error occurred while computing the member weights for this pattern</source>
+        <note annotates="source" from="Developer">an error message shown to the user when the weights for the members could not be computed due to a technical error</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_CREATE_HIDDEN" maxwidth="150" resname="ERROR_CREATE_HIDDEN" sap:sc="XTXT" size-unit="char">
+        <source>Could not edit public version</source>
+        <note annotates="source" from="Developer">Message banner indicating that something went wrong while preparing an editable version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_PICKWEIGHT" resname="SPREAD_PICKWEIGHT" sap:sc="XTOL">
+        <source>Use the values of the selected cells as weights for the spreading</source>
+        <note annotates="source" from="Developer">Tooltip for the button in the spreading dialog to set the spreading weights in the spreading panel after selecting cells in the grid</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADV_SPRD_PICKINPUT_DISABLED" resname="ADV_SPRD_PICKINPUT_DISABLED" sap:sc="XTOL">
+        <source>Picking cell values is disabled due to overlapping calculations</source>
+        <note annotates="source" from="Developer">Tooltip for picker button if it is disabled due to overlapping calculations (restricted measures)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADV_SPRD_PICKINPUT" resname="ADV_SPRD_PICKINPUT" sap:sc="XTOL">
+        <source>Use the values of the selected cells as input values for the assignment</source>
+        <note annotates="source" from="Developer">Tooltip for the picker button in the assign dialog. When pressed/active, selecting cells in the grid will set input values for the assignment</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_PICKAMOUNT" resname="SPREAD_PICKAMOUNT" sap:sc="XTOL">
+        <source>Use the values of the selected cell as total amount to assign</source>
+        <note annotates="source" from="Developer">Tooltip for the picker button in the assignment dialog to set the total amount to assign after a selecting cell in the grid</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_PICK_ERROR" resname="SPREAD_PICK_ERROR" sap:sc="XMSG">
+        <source>An unexpected technical error occurred during value picking</source>
+        <note annotates="source" from="Developer">An error message shown to the user when an error occurred during value picking</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_PICK_NON_NUMERIC" resname="SPREAD_PICK_NON_NUMERIC" sap:sc="XMSG">
+        <source>Only numeric values can be picked</source>
+        <note annotates="source" from="Developer">An error message shown to the user when he tries to pick non numeric values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_SHOW_HIDE" resname="SPREAD_SHOW_HIDE" sap:sc="XTOL">
+        <source>Show or hide additional options</source>
+        <note annotates="source" from="Developer">Tooltip for the button in the dialog to show or hide further options for the assignment dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREADING_WEIGHT" maxwidth="30" resname="SPREADING_WEIGHT" sap:sc="XFLD" size-unit="char">
+        <source>Weight</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREADING_LEVEL" maxwidth="30" resname="SPREADING_LEVEL" sap:sc="XFLD" size-unit="char">
+        <source>Level</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREADING_PREVIEW" maxwidth="30" resname="SPREADING_PREVIEW" sap:sc="XFLD" size-unit="char">
+        <source>Preview</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREADING_APPLY" maxwidth="30" resname="SPREADING_APPLY" sap:sc="XBUT" size-unit="char">
+        <source>Spread</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DISTRIBUTION_APPLY" maxwidth="30" resname="DISTRIBUTION_APPLY" sap:sc="XBUT" size-unit="char">
+        <source>Distribute</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADV_SPRD_APPLY" maxwidth="30" resname="ADV_SPRD_APPLY" sap:sc="XBUT" size-unit="char">
+        <source>Assign</source>
+        <note annotates="source" from="Developer">Title of the button to execute the assignment</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTER_VALID_NUMBER" maxwidth="50" resname="ENTER_VALID_NUMBER" sap:sc="XMSG" size-unit="char">
+        <source>Please enter a valid number</source>
+        <note annotates="source" from="Developer">ask the user to enter a valid number</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTER_WEIGHT" maxwidth="50" resname="ENTER_WEIGHT" sap:sc="XMSG" size-unit="char">
+        <source>Please enter a value</source>
+        <note annotates="source" from="Developer">ask the user to enter a number</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="USE_SAME_SIGN" resname="USE_SAME_SIGN" sap:sc="XMSG">
+        <source>Use the same sign (positive or negative) as the total amount.</source>
+        <note annotates="source" from="Developer">a warning to the user why the entered data in a field is not valid</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NEGATIVE_WEIGHTS" resname="NEGATIVE_WEIGHTS" sap:sc="XMSG">
+        <source>Only positive weights are allowed</source>
+        <note annotates="source" from="Developer">a warning to the user that negative weights are not supported</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_NONZERO_WEIGHT_PROVIDED" resname="NO_NONZERO_WEIGHT_PROVIDED" sap:sc="XMSG">
+        <source>Please provide at least one nonzero weight</source>
+        <note annotates="source" from="Developer">a warning to the user that at least one nonzero weight must be provided</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOT_ALL_AMOUNT_ASSIGNED" maxwidth="100" resname="NOT_ALL_AMOUNT_ASSIGNED" sap:sc="XMSG" size-unit="char">
+        <source>Please assign the complete amount</source>
+        <note annotates="source" from="Developer">warning to the user that the the entered amount was not completely assigned</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ZERO_AMOUNT" maxwidth="100" resname="ZERO_AMOUNT" sap:sc="XMSG" size-unit="char">
+        <source>There is nothing to assign</source>
+        <note annotates="source" from="Developer">warning to the user that the amount to assign is zero</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOTAL_EXCEEDS_DISTR_AMOUNT" maxwidth="100" resname="TOTAL_EXCEEDS_DISTR_AMOUNT" sap:sc="XMSG" size-unit="char">
+        <source>The total amount exceeds the amount to be distributed</source>
+        <note annotates="source" from="Developer">warning to the user that the total amount exceeds the amount to be distributed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOTAL_EXCEEDS_ASSIGN_AMOUNT" maxwidth="100" resname="TOTAL_EXCEEDS_ASSIGN_AMOUNT" sap:sc="XMSG" size-unit="char">
+        <source>The total amount exceeds the amount to be assigned</source>
+        <note annotates="source" from="Developer">warning to the user that the total amount exceeds the amount to be assigned</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_AMOUNT_NO_DISTR_APPLIED" maxwidth="100" resname="NO_AMOUNT_NO_DISTR_APPLIED" sap:sc="XMSG" size-unit="char">
+        <source>No numbers to be distributed have been entered, thus no distribution was applied</source>
+        <note annotates="source" from="Developer">warning to the user that he/she has entered no numbers to be distributed, thus no distribution was applied</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROC_SELECTION_FORM_TITLE" maxwidth="50" resname="PROC_SELECTION_FORM_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Execute Allocation</source>
+        <note annotates="source" from="Developer">Title for Execute Allocation Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROC_NO_ALLOC_DEFINED" maxwidth="100" resname="PROC_NO_ALLOC_DEFINED" sap:sc="XTXT" size-unit="char">
+        <source>There are no allocation processes</source>
+        <note annotates="source" from="Developer">text shown in the combo box when no allocation processes are available for this model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_SELECTION_INFO_TEXT" maxwidth="300" resname="VERSION_SELECTION_INFO_TEXT" sap:sc="XFLD" size-unit="char">
+        <source>Select a version on which to run the Allocation. To run the Allocation on a new private version, select a public version to copy and type a name for the private copy.</source>
+        <note annotates="source" from="Developer">Instruction about the operation of the Allocation Process Selection Dialog with ad-hoc creation of private versions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_CREATION_TITLE" maxwidth="50" resname="VERSION_CREATION_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Create Private Version</source>
+        <note annotates="source" from="Developer">Label for the private version name input field</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROC_SELECTION_ERROR" maxwidth="100" resname="PROC_SELECTION_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Select an Allocation Process</source>
+        <note annotates="source" from="Developer">validation message shown to the user to indicate that a process must be chosen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_SELECTION_ERROR" maxwidth="100" resname="VERSION_SELECTION_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Select an existing version</source>
+        <note annotates="source" from="Developer">validation message shown to the user to indicate that a version must be chosen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_NAME_EMPTY_ERROR" maxwidth="100" resname="VERSION_NAME_EMPTY_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Version name contains only whitespace</source>
+        <note annotates="source" from="Developer">validation message shown to the user to indicate that version name must be non-blank</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_NON_EDITABLE_PUBLIC_ERROR" maxwidth="100" resname="VERSION_NON_EDITABLE_PUBLIC_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Create a private version, the selected public version is not editable.</source>
+        <note annotates="source" from="Developer">validation message shown to the user to indicate that a private version is required because the selected public one is not editable</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_NAME_ILLEGAL_ERROR" maxwidth="100" resname="VERSION_NAME_ILLEGAL_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Characters \\ : ; ' " = [ ] are not allowed and the length of the name should be less than 255</source>
+        <note annotates="source" from="Developer">validation message shown to the user to indicate that the entered name is invalid</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_NAME_DUP_ERROR" maxwidth="100" resname="VERSION_NAME_DUP_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Version with same name exists</source>
+        <note annotates="source" from="Developer">validation message shown to the user to indicate that a version with the same name exists</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VRSN_SEL_ITM_TTL" maxwidth="50" resname="VRSN_SEL_ITM_TTL" sap:sc="XFLD" size-unit="char">
+        <source>Version</source>
+        <note annotates="source" from="Developer">Label for the version selection drop down box in the Allocation Process Selection Dialog KEY=VERSION_SELECTION_ITEM_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROC_SELECTION_ITEM_TITLE" maxwidth="50" resname="PROC_SELECTION_ITEM_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Allocation Process</source>
+        <note annotates="source" from="Developer">Label for the process selection drop down box in the Execute Allocation Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STEP_SELECTION_OK_CAPTION" maxwidth="30" resname="STEP_SELECTION_OK_CAPTION" sap:sc="XBUT" size-unit="char">
+        <source>Execute</source>
+        <note annotates="source" from="Developer">Caption for the OK button of the Allocation Step Selection Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRIVATE_VERSION" maxwidth="30" resname="PRIVATE_VERSION" sap:sc="XFLD" size-unit="char">
+        <source>Private version</source>
+        <note annotates="source" from="Developer">suffix in allocation step selection dialog to indicate a private version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EDIT_MODE" maxwidth="30" resname="EDIT_MODE" sap:sc="XFLD" size-unit="char">
+        <source>Edit Mode</source>
+        <note annotates="source" from="Developer">suffix in allocation step selection dialog to indicate edit mode version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLIC_VERSION" maxwidth="30" resname="PUBLIC_VERSION" sap:sc="XFLD" size-unit="char">
+        <source>Public version</source>
+        <note annotates="source" from="Developer">suffix in allocation step selection dialog to indicate a public version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VERSION_SHARED_BY" maxwidth="30" resname="VERSION_SHARED_BY" sap:sc="XFLD" size-unit="char">
+        <source>shared by <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">suffix in allocation step selection dialog to indicate a shared version and its owner</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOCATION_PROCESSES" maxwidth="30" resname="ALLOCATION_PROCESSES" sap:sc="XBUT" size-unit="char">
+        <source>Allocation Processes</source>
+        <note annotates="source" from="Developer">Tab name in the allocation processes overview pointing to the list of allocation processes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOCATION_STEPS" maxwidth="30" resname="ALLOCATION_STEPS" sap:sc="XBUT" size-unit="char">
+        <source>Allocation Steps</source>
+        <note annotates="source" from="Developer">Tab name in the allocation processes overview pointing to the list of allocation steps</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOCATION_JOBS" maxwidth="30" resname="ALLOCATION_JOBS" sap:sc="XBUT" size-unit="char">
+        <source>Allocation Jobs</source>
+        <note annotates="source" from="Developer">Tab name in the allocation processes overview pointing to the list of allocation jobs</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOCATION_JOB_NAME" maxwidth="80" resname="ALLOCATION_JOB_NAME" sap:sc="XTXT" size-unit="char">
+        <source>Allocation</source>
+        <note annotates="source" from="Developer">Job name for column header above allocation name in allocation job list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOCATION_STEP_NOT_FOUND" maxwidth="80" resname="ALLOCATION_STEP_NOT_FOUND" sap:sc="XTXT" size-unit="char">
+        <source>Allocation step not found</source>
+        <note annotates="source" from="Developer">Error denoting that an allocation step was unavailable during an allocation execution</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EDIT_ALLOC_STEPS" maxwidth="120" resname="EDIT_ALLOC_STEPS" sap:sc="YINF" size-unit="char">
+        <source>Select allocation step</source>
+        <note annotates="source" from="Developer">Tooltip of the edit button of the allocation steps button in the report.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_ALLOC_PROCESS" maxwidth="100" resname="SELECT_ALLOC_PROCESS" sap:sc="YINF" size-unit="char">
+        <source>Select allocation process</source>
+        <note annotates="source" from="Developer">Hint in the item picker to select an allocation process</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_PROCESS_RUN_IN_BACKGROUND" maxwidth="80" resname="ALLOC_PROCESS_RUN_IN_BACKGROUND" sap:sc="XBUT" size-unit="char">
+        <source>Run in Background</source>
+        <note annotates="source" from="Developer">button for moving a running allocation process to background processing</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ALLOC_PROCESS_BACKGROUND_DIALOG_MSG" resname="ALLOC_PROCESS_BACKGROUND_DIALOG_MSG" sap:sc="XMSG">
+        <source>Allocation Process '<ph id="1">{0}</ph>' was added to the Job List.</source>
+        <note annotates="source" from="Developer">message for dialog which indicates that the allocation process is running in the background</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_PROCESS_BACKGROUND_DIALOG_LINK" maxwidth="80" resname="ALLOC_PROCESS_BACKGROUND_DIALOG_LINK" sap:sc="XFLD" size-unit="char">
+        <source>Go to Job List</source>
+        <note annotates="source" from="Developer">link in the running in background dialog to the joblist</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_IGNORING_FLAT_TIME_RANGE_FILTERS" resname="ALLOC_IGNORING_FLAT_TIME_RANGE_FILTERS" sap:sc="XMSG">
+        <source>Point of View ignores the flat time range filter. Disable the option Unrestricted Drilling for this filter.</source>
+        <note annotates="source" from="Developer">message that allocation ignores the set flat time range filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_PROCESS_RUNNING_INFO" maxwidth="300" resname="ALLOC_PROCESS_RUNNING_INFO" sap:sc="YINF" size-unit="char">
+        <source>Please wait while the allocation is running.</source>
+        <note annotates="source" from="Developer">Info text informing about a (long) running allocation process</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_DELETE_TOOLTIP" maxwidth="120" resname="PROCESS_DELETE_TOOLTIP" sap:sc="YINF" size-unit="char">
+        <source>Delete Selected Process</source>
+        <note annotates="source" from="Developer">Tooltip for the creation of a new process in the Allocation Process Overview</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_NEW_TOOLTIP" maxwidth="120" resname="PROCESS_NEW_TOOLTIP" sap:sc="YINF" size-unit="char">
+        <source>Create New Process</source>
+        <note annotates="source" from="Developer">Tooltip for the creation of a new process in the Allocation Process Overview</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STEP_CREATE_NEW_TOOLTIP" maxwidth="120" resname="STEP_CREATE_NEW_TOOLTIP" sap:sc="YINF" size-unit="char">
+        <source>Create New Step</source>
+        <note annotates="source" from="Developer">Tooltip for the creation of a new step in the Allocation Step Overview</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UTILITY_REFRESH_TOOLTIP" maxwidth="120" resname="UTILITY_REFRESH_TOOLTIP" sap:sc="YINF" size-unit="char">
+        <source>Refresh</source>
+        <note annotates="source" from="Developer">Tooltip for reloading the Allocation Process Overview</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_TYPE" maxwidth="10" resname="PROCESS_TYPE" sap:sc="XTXT" size-unit="char">
+        <source>Type</source>
+        <note annotates="source" from="Developer">Column header above 'type' icon in process list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_NAME" maxwidth="120" resname="PROCESS_NAME" sap:sc="XTXT" size-unit="char">
+        <source>Allocation Process Name</source>
+        <note annotates="source" from="Developer">Column header above allocation process name in process list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_USED_MODEL" maxwidth="120" resname="PROCESS_USED_MODEL" sap:sc="XTXT" size-unit="char">
+        <source>Used Model</source>
+        <note annotates="source" from="Developer">Column header above model name in process list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_CREATED" maxwidth="120" resname="PROCESS_CREATED" sap:sc="XTXT" size-unit="char">
+        <source>Created</source>
+        <note annotates="source" from="Developer">Column header above date created column in process list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_LASTCHANGED" maxwidth="120" resname="PROCESS_LASTCHANGED" sap:sc="XTXT" size-unit="char">
+        <source>Last Changed</source>
+        <note annotates="source" from="Developer">Column header above date modified column in process list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_OVERVIEW" maxwidth="120" resname="PROCESS_OVERVIEW" sap:sc="YINF" size-unit="char">
+        <source>Overview</source>
+        <note annotates="source" from="Developer">Tab name in the allocation process view pointing to the overview of the allocation process</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PROCESS_CONFIRM_DEL" maxwidth="150" resname="PROCESS_CONFIRM_DEL" sap:sc="XTXT" size-unit="char">
+        <source>Are you sure you want to delete allocation process <ph id="1">{0}</ph>?</source>
+        <note annotates="source" from="Developer">Message for the dialog used to confirm deletion of an allocation process</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PROCESS_CONFIRM_DEL_MULTI" maxwidth="150" resname="PROCESS_CONFIRM_DEL_MULTI" sap:sc="XTXT" size-unit="char">
+        <source>Are you sure you want to delete the allocation processes <ph id="1">{0}</ph>?</source>
+        <note annotates="source" from="Developer">Message for the dialog used to confirm deletion of multiple allocation processes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_NAME_PLEASE_ENTER" maxwidth="80" resname="PROCESS_NAME_PLEASE_ENTER" sap:sc="XTXT" size-unit="char">
+        <source>Please enter a name for the new process.</source>
+        <note annotates="source" from="Developer">Validation messages shown to the user in a dialog for creation of allocation steps when no name was provided</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROC_NAME_NOT_UNIQUE" maxwidth="50" resname="PROC_NAME_NOT_UNIQUE" sap:sc="XTXT" size-unit="char">
+        <source>The process name already exists.</source>
+        <note annotates="source" from="Developer">Validation messages shown to the user in a dialog for creation of allocation processes when name was not unique</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PROC_NAME_NOT_UNIQUE_TRIMMED" maxwidth="50" resname="PROC_NAME_NOT_UNIQUE_TRIMMED" sap:sc="XTXT" size-unit="char">
+        <source>The process name "<ph id="1">{0}</ph>" already exists.</source>
+        <note annotates="source" from="Developer">Validation messages shown to the user in a dialog for creation of allocation processes when name was not unique</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROC_NAME_NOT_UNIQUE_OTHER" resname="PROC_NAME_NOT_UNIQUE_OTHER" sap:sc="XTXT">
+        <source>The process name is already used by another user.</source>
+        <note annotates="source" from="Developer">Validation messages shown to the user in a dialog for creation of allocation processes when name was already used by another user</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STEP_NAME_NOT_UNIQUE" maxwidth="50" resname="STEP_NAME_NOT_UNIQUE" sap:sc="XTXT" size-unit="char">
+        <source>The step name already exists.</source>
+        <note annotates="source" from="Developer">Validation messages shown to the user in a dialog for creation of allocation steps when name was not unique</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STEP_NAME_NOT_UNIQUE_TRIMMED" maxwidth="50" resname="STEP_NAME_NOT_UNIQUE_TRIMMED" sap:sc="XTXT" size-unit="char">
+        <source>The step name "<ph id="1">{0}</ph>" already exists.</source>
+        <note annotates="source" from="Developer">Validation messages shown to the user in a dialog for creation of allocation steps when name was not unique</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PROCESS_CONFIRM_DEL_STEP" maxwidth="150" resname="PROCESS_CONFIRM_DEL_STEP" sap:sc="XTXT" size-unit="char">
+        <source>Are you sure you want to remove allocation step <ph id="1">{0}</ph>?</source>
+        <note annotates="source" from="Developer">Message for the dialog used to confirm deletion of an allocation step</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_LIST_LOADING" maxwidth="150" resname="PROCESS_LIST_LOADING" sap:sc="XTXT" size-unit="char">
+        <source>Loading Allocation Process list ...</source>
+        <note annotates="source" from="Developer">Text displayed initially in allocation process list before the list has been fetched for the first time</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_HINT_NEW" maxwidth="150" resname="PROCESS_HINT_NEW" sap:sc="XTXT" size-unit="char">
+        <source>No Allocation Processes exist. To create a new one, click the '+' icon in the toolbar.</source>
+        <note annotates="source" from="Developer">Hint for the user when the allocation process table is empty, and that he may create new allocation processes by pressing the Plus-shaped button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_LIST_NONE_MATCH" maxwidth="150" resname="PROCESS_LIST_NONE_MATCH" sap:sc="XTXT" size-unit="char">
+        <source>No Allocation Process matches your search.</source>
+        <note annotates="source" from="Developer">Hint for the user that no process matches the currently entered search term</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STEP_PREFERENCES" maxwidth="100" resname="STEP_PREFERENCES" sap:sc="XMIT" size-unit="char">
+        <source>Edit Step</source>
+        <note annotates="source" from="Developer">Menu item for viewing/editing and allocation step from the allocation process view</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_RULE_ADD_TTIP" maxwidth="120" resname="ALOC_RULE_ADD_TTIP" sap:sc="YINF" size-unit="char">
+        <source>Create new allocation rule</source>
+        <note annotates="source" from="Developer">Tooltip for the creation of a new allocation rule within an allocation process</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_RULE_COPY_TTIP" maxwidth="120" resname="ALOC_RULE_COPY_TTIP" sap:sc="YINF" size-unit="char">
+        <source>Copy allocation rule</source>
+        <note annotates="source" from="Developer">Tooltip for copying of a allocation rule within an allocation process</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_RULE_DEL_TTIP" maxwidth="120" resname="ALOC_RULE_DEL_TTIP" sap:sc="YINF" size-unit="char">
+        <source>Delete allocation rule</source>
+        <note annotates="source" from="Developer">Tooltip for deleting an allocation rule within an allocation process</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_RULE_EDIT_TTIP" maxwidth="120" resname="ALOC_RULE_EDIT_TTIP" sap:sc="YINF" size-unit="char">
+        <source>Edit allocation rule</source>
+        <note annotates="source" from="Developer">Tooltip for editing an allocation rule within an allocation process</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="EXCEEDS_MAX_ROWS_LIMIT" maxwidth="200" resname="EXCEEDS_MAX_ROWS_LIMIT" sap:sc="XMSG" size-unit="char">
+        <source>Allocation execution aborted: Maximum number of reference records (<ph id="1">{0}</ph>) exceeded.</source>
+        <note annotates="source" from="Developer">Shows a warning message to the user when an allocation process exceeded the max. number of result records for the reference table</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RULE_DRIVER_COLUMN_TITLE" maxwidth="100" resname="RULE_DRIVER_COLUMN_TITLE" sap:sc="XCOL" size-unit="char">
+        <source><ph id="1">{0}</ph> (Driver)</source>
+        <note annotates="source" from="Developer">Column heading for Driver Dimension of Allocation Step rules</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RULE_SOURCE_COLUMN_TITLE" maxwidth="100" resname="RULE_SOURCE_COLUMN_TITLE" sap:sc="XCOL" size-unit="char">
+        <source><ph id="1">{0}</ph> (Source)</source>
+        <note annotates="source" from="Developer">Column heading for Source Dimension of Allocation Step rules</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RULE_OVERWRITE_COl_TTL" maxwidth="100" resname="RULE_OVERWRITE_COl_TTL" sap:sc="XCOL" size-unit="char">
+        <source><ph id="1">{0}</ph> (Overwrite)</source>
+        <note annotates="source" from="Developer">Column heading for Overwrite Dimension of Allocation Step rules</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RULE_TARGET_COLUMN_TITLE" maxwidth="100" resname="RULE_TARGET_COLUMN_TITLE" sap:sc="XCOL" size-unit="char">
+        <source><ph id="1">{0}</ph> (Target)</source>
+        <note annotates="source" from="Developer">Column heading for Target Dimension of Allocation Step rules</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_RULE_SAVE_TTIP" maxwidth="120" resname="ALOC_RULE_SAVE_TTIP" sap:sc="YINF" size-unit="char">
+        <source>Save Allocation Rules</source>
+        <note annotates="source" from="Developer">Tooltip for saving the allocation rules within an allocation process</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALL_DIMENSION_MEMBERS" maxwidth="100" resname="ALL_DIMENSION_MEMBERS" sap:sc="XSEL" size-unit="char">
+        <source>All Members</source>
+        <note annotates="source" from="Developer">Value to show in allocation rules grid when the rule encompasses the whole dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MEMBER_NOT_FOUND" maxwidth="100" resname="MEMBER_NOT_FOUND" sap:sc="XSEL" size-unit="char">
+        <source>Member Not Found</source>
+        <note annotates="source" from="Developer">Value to show in allocation rules grid when a dimension member could not be found</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_DRIVER_NAME" maxwidth="100" resname="NO_DRIVER_NAME" sap:sc="XSEL" size-unit="char">
+        <source>No driver</source>
+        <note annotates="source" from="Developer">Value to show in allocation rules grid for the driver of the default rule of a reallocation step</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COPY_DESCRIPTIONS" resname="COPY_DESCRIPTIONS" sap:sc="XMSG">
+        <source>Copy IDs to be able to paste back after editing the Rules.</source>
+        <note annotates="source" from="Developer">Warning that is shown when the user copies rules while descriptions are shown. The user should copy IDs instead.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="JOINED_RULE_TABLE_SIZE_WARNING" maxwidth="200" resname="JOINED_RULE_TABLE_SIZE_WARNING" sap:sc="XMSG" size-unit="char">
+        <source>The defined set of rules unfolds to <ph id="1">{0}</ph> combinations. This exceeds the limit for Overwrite Target. The allocation step will not be executed.</source>
+        <note annotates="source" from="Developer">Warning that is shown if the set of allocation rules defined in the rule editor will lead to a too large number of rows in the joined rule table. Parameters: 0: The number of combinations</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_IDS" resname="PASTE_IDS" sap:sc="XMSG">
+        <source>Paste IDs to create valid Rules.</source>
+        <note annotates="source" from="Developer">Error that is shown when the user pastes allocation rules with unknown members. There are likely descriptions pasted while IDs should be pasted</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FIX_BEFORE_SAVE" resname="FIX_BEFORE_SAVE" sap:sc="XMSG">
+        <source>Please fix the errors indicated in the tooltips of the highlighed rows.</source>
+        <note annotates="source" from="Developer">Error toast that is shown when the user tries to save the allocation process, but there are steps with invalid rules.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KEEP_TARGET_NAME" maxwidth="100" resname="KEEP_TARGET_NAME" sap:sc="XSEL" size-unit="char">
+        <source>Keep original member</source>
+        <note annotates="source" from="Developer">Value to show in allocation rules grid for the targets of the default rule of a reallocation step</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULES_SAVED_SUCCESS" resname="RULES_SAVED_SUCCESS" sap:sc="XMSG">
+        <source>The rules have been saved successfully.</source>
+        <note annotates="source" from="Developer">Notification message shown to user when the rules have been successfully saved to the database</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DIALOG_CREATE_TITLE" maxwidth="50" resname="RULE_DIALOG_CREATE_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Create Allocation Rule</source>
+        <note annotates="source" from="Developer">Title for Allocation Rule Creation Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RULE_DIALOG_NODE_TOOLTIP" resname="RULE_DIALOG_NODE_TOOLTIP" sap:sc="XTOL">
+        <source>ID: <ph id="1">{0}</ph>\nDescription: <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Tooltip for members of member trees and list of allocation rule modeler dialog. Parameters: 0: id of the member, 1: description of the member KEY=RULE_DIALOG_NODE_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DIALOG_EDIT_TITLE" maxwidth="50" resname="RULE_DIALOG_EDIT_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Edit Allocation Rule</source>
+        <note annotates="source" from="Developer">Title for Allocation Rule Dialog in Edit mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DIALOG_COPY_TITLE" maxwidth="50" resname="RULE_DIALOG_COPY_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Copy Allocation Rule</source>
+        <note annotates="source" from="Developer">Title for Allocation Rule Dialog in Edit mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DLG_OK_CAPT_CREATE" maxwidth="30" resname="RULE_DLG_OK_CAPT_CREATE" sap:sc="XBUT" size-unit="char">
+        <source>Create</source>
+        <note annotates="source" from="Developer">Caption for the ok button in Create Mode in the Allocation Rule Modeler Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DLG_OK_CAPT_EDIT" maxwidth="30" resname="RULE_DLG_OK_CAPT_EDIT" sap:sc="XBUT" size-unit="char">
+        <source>Save</source>
+        <note annotates="source" from="Developer">Caption for the ok button in Edit Mode in the Allocation Rule Modeler Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DIALOG_SELECTED" maxwidth="50" resname="RULE_DIALOG_SELECTED" sap:sc="XTIT" size-unit="char">
+        <source>Selected Allocation Rules</source>
+        <note annotates="source" from="Developer">Title of the section for presenting the selected rules in rule creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DIALOG_SOURCE" maxwidth="50" resname="RULE_DIALOG_SOURCE" sap:sc="XTXT" size-unit="char">
+        <source>Source</source>
+        <note annotates="source" from="Developer">Column header for the source-selection in rule creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DIALOG_OVERWRITE" maxwidth="50" resname="RULE_DIALOG_OVERWRITE" sap:sc="XTXT" size-unit="char">
+        <source>Overwrite</source>
+        <note annotates="source" from="Developer">Column header for the overwrite-selection in rule creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DIALOG_DRIVER" maxwidth="50" resname="RULE_DIALOG_DRIVER" sap:sc="XTXT" size-unit="char">
+        <source>Driver</source>
+        <note annotates="source" from="Developer">Column header for the driver-selection in rule creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DIALOG_TARGET" maxwidth="50" resname="RULE_DIALOG_TARGET" sap:sc="XTXT" size-unit="char">
+        <source>Target</source>
+        <note annotates="source" from="Developer">Column header for the target-selection in rule creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DIALOG_SOURCE_MEMBER" maxwidth="50" resname="RULE_DIALOG_SOURCE_MEMBER" sap:sc="XTXT" size-unit="char">
+        <source>Source Member</source>
+        <note annotates="source" from="Developer">Column header for the selected source/overwrite members in rule creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RULE_DIALOG_DRIVER_MEMBER" maxwidth="50" resname="RULE_DIALOG_DRIVER_MEMBER" sap:sc="XTXT" size-unit="char">
+        <source>Driver Member</source>
+        <note annotates="source" from="Developer">Column header for the selected driver member in rule creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_CREATE_STEP_TITLE" maxwidth="20" resname="ALOC_CREATE_STEP_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Create Step</source>
+        <note annotates="source" from="Developer">Title for the 'Create Step' tile in the process overview screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_CREATE_STEP_DESC" maxwidth="250" resname="ALOC_CREATE_STEP_DESC" sap:sc="XTXT" size-unit="char">
+        <source>Start from scratch and set up your first step for the process. You need to choose a source and target dimension and then you are ready to create rules for your allocation. You can organize your process in multiple steps.</source>
+        <note annotates="source" from="Developer">Description for the 'Create Step' tile in the process overview screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_LOAD_STEPS_TITLE" maxwidth="20" resname="ALOC_LOAD_STEPS_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Load Steps</source>
+        <note annotates="source" from="Developer">Title for the 'Load Steps' tile in the process overview screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_LOAD_STEPS_DESC" resname="ALOC_LOAD_STEPS_DESC" sap:sc="XTXT">
+        <source>Reuse your existing steps and copy them into your process. Please consider that the loaded step(s) need to be based on the same model as your process.</source>
+        <note annotates="source" from="Developer">Description for the 'Load Step' tile in the process overview screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ALOC_CONFIRM_DEL_MSG" maxwidth="150" resname="ALOC_CONFIRM_DEL_MSG" sap:sc="XTXT" size-unit="char">
+        <source>Are you sure you want to delete allocation step <ph id="1">{0}</ph>?</source>
+        <note annotates="source" from="Developer">Message for the dialog used to confirm deletion of an allocation step</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ALOC_CONFIRM_MULT_DEL_MSG" maxwidth="150" resname="ALOC_CONFIRM_MULT_DEL_MSG" sap:sc="XTXT" size-unit="char">
+        <source>Are you sure you want to delete the allocation steps <ph id="1">{0}</ph>?</source>
+        <note annotates="source" from="Developer">Message for the dialog used to confirm deletion of multiple allocation steps</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIRECT_DRIVER_NAME" maxwidth="100" resname="DIRECT_DRIVER_NAME" sap:sc="XSEL" size-unit="char">
+        <source>Direct Assignment</source>
+        <note annotates="source" from="Developer">Direct Assignment Driver Name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_SOURCE_SELECTED" resname="NO_SOURCE_SELECTED" sap:sc="XTOL">
+        <source>No source member has been selected</source>
+        <note annotates="source" from="Developer">Tooltip for source selection warning icon in rule modeller dialog, shown when validation fails because no source member has been selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MULTI_SOURCE_WARN" resname="MULTI_SOURCE_WARN" sap:sc="XTOL">
+        <source>Multiple Sources are selected, please choose only one</source>
+        <note annotates="source" from="Developer">Tooltip for source selection warning icon in rule modeller dialog, shown when validation fails because multiple source members have been selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NO_MEMBER_SELECTED" resname="NO_MEMBER_SELECTED" sap:sc="XTOL">
+        <source>No member has been selected for "<ph id="1">{0}</ph>"</source>
+        <note annotates="source" from="Developer">Tooltip for overwrite or target selection warning icon in rule modeller dialog, shown when validation fails because a member for the specified dimension has not been selection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DUPL_SOURCE_WARN" resname="DUPL_SOURCE_WARN" sap:sc="XTOL">
+        <source>Selected source member is used by another rule already</source>
+        <note annotates="source" from="Developer">Tooltip for source selction warning icon in rule modeller dialog, shown when the chosen source member is already used by another rule</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DUPL_OVERWRITE_WARN" resname="DUPL_OVERWRITE_WARN" sap:sc="XTOL">
+        <source>Selected combination of source member and overwrite members is used by another rule already</source>
+        <note annotates="source" from="Developer">Tooltip for source selction warning icon in rule modeller dialog, shown when the chosen combination of source member and overwrites is already used by another rule</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MULTI_OVERWRITE_WARN" resname="MULTI_OVERWRITE_WARN" sap:sc="XTOL">
+        <source>Multiple members are selected for "<ph id="1">{0}</ph>", please choose only one</source>
+        <note annotates="source" from="Developer">Tooltip for source selection warning icon in rule modeller dialog, shown when validation fails because multiple source members have been selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_DRIVER_SELECTED" resname="NO_DRIVER_SELECTED" sap:sc="XTOL">
+        <source>No driver has been selected</source>
+        <note annotates="source" from="Developer">Tooltip for driver selection warning icon in rule modeller dialog, shown when validation fails because no driver member has been selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MULTI_DRIVER_WARN" resname="MULTI_DRIVER_WARN" sap:sc="XTOL">
+        <source>Multiple drivers have been selected</source>
+        <note annotates="source" from="Developer">Tooltip for driver selection warning icon in rule modeller dialog, shown when validation fails because multiple driver members have been selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DIRECT_MULTI_TARGETS" resname="DIRECT_MULTI_TARGETS" sap:sc="XTOL">
+        <source>Multiple members of "<ph id="1">{0}</ph>" have been chosen for a direct assignment. Only a single leaf member per dimension is allowed.</source>
+        <note annotates="source" from="Developer">Tooltip for target selection warning icon in rule modeller dialog, shown when validation fails because multiple targets are selected for a direct assignment (should be a single member)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DIRECT_NON_LEAF_TARGET" resname="DIRECT_NON_LEAF_TARGET" sap:sc="XTOL">
+        <source>A non-leaf member of '<ph id="1">{0}</ph>' has been chosen for a direct assignment. Only a single leaf member per dimension is allowed.</source>
+        <note annotates="source" from="Developer">Tooltip for target selection warning icon in rule modeller dialog, shown when validation fails because a parent target member has been selected when only leaves are allowed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CURRENCY_WARNING_TARGET" resname="CURRENCY_WARNING_TARGET" sap:sc="XTOL">
+        <source>Using the currency dimension as target may book across different currencies.</source>
+        <note annotates="source" from="Developer">Tooltip for target selection warning icon in rule modeller dialog, shown after opening the dialog when the currency dimension is a target dimension.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PASTE_MEMBER_UNKNOWN" resname="PASTE_MEMBER_UNKNOWN" sap:sc="XTOL">
+        <source>Member with ID '<ph id="1">{0}</ph>' does not exist</source>
+        <note annotates="source" from="Developer">Tooltip for invalid cell of rule modeler grid, that is invalid because the pasted member ID is unknown</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_NO_SOURCE_SELECTED" resname="PASTE_NO_SOURCE_SELECTED" sap:sc="XTOL">
+        <source>No source member ID pasted</source>
+        <note annotates="source" from="Developer">Tooltip for invalid cell of rule modeler grid, that is invalid because no source member has been pasted</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_MULTI_SOURCE_WARN" resname="PASTE_MULTI_SOURCE_WARN" sap:sc="XTOL">
+        <source>Multiple source member IDs pasted</source>
+        <note annotates="source" from="Developer">Tooltip for invalid cell of rule modeler grid, that is invalid because multiple source members have been pasted</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_NO_MEMBER_SELECTED" resname="PASTE_NO_MEMBER_SELECTED" sap:sc="XTOL">
+        <source>No member ID pasted</source>
+        <note annotates="source" from="Developer">Tooltip for invalid cell of rule modeler grid, that is invalid because no member has been pasted</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_DUPL_SOURCE_WARN" resname="PASTE_DUPL_SOURCE_WARN" sap:sc="XTOL">
+        <source>Source member is used by another rule already</source>
+        <note annotates="source" from="Developer">Tooltip for invalid row of rule modeler grid, that is invalid because pasted source has already been used as condition for a another rule</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_DUPL_OVERWRITE_WARN" resname="PASTE_DUPL_OVERWRITE_WARN" sap:sc="XTOL">
+        <source>Combination of source and overwrite members is used by another rule already</source>
+        <note annotates="source" from="Developer">Tooltip for invalid row of rule modeler grid, that is invalid because pasted combination of source and overwrite members is already used by another rule</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_MULTI_OVERWRITE_WARN" resname="PASTE_MULTI_OVERWRITE_WARN" sap:sc="XTOL">
+        <source>Multiple members IDs pasted</source>
+        <note annotates="source" from="Developer">Tooltip for invalid cell of rule modeler grid, that is invalid because multiple source members have been pasted</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_NO_DRIVER_SELECTED" resname="PASTE_NO_DRIVER_SELECTED" sap:sc="XTOL">
+        <source>No driver has been pasted</source>
+        <note annotates="source" from="Developer">Tooltip for invalid cell of rule modeler grid, that is invalid because no driver member has been pasted</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_MULTI_DRIVER_WARN" resname="PASTE_MULTI_DRIVER_WARN" sap:sc="XTOL">
+        <source>Multiple drivers have been pasted</source>
+        <note annotates="source" from="Developer">Tooltip for invalid cell of rule modeler grid, that is invalid because multiple driver members have been pasted</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_DIRECT_MULTI_TARGETS" resname="PASTE_DIRECT_MULTI_TARGETS" sap:sc="XTOL">
+        <source>Multiple target members have been pasted for a direct assignment. Only a single leaf member per dimension is allowed.</source>
+        <note annotates="source" from="Developer">Tooltip for invalid cell of rule modeler grid, that is invalid because multiple targets have been pasted for a direct assignment (should be a single member)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASTE_DIRECT_NON_LEAF_TARGET" resname="PASTE_DIRECT_NON_LEAF_TARGET" sap:sc="XTOL">
+        <source>A non-leaf member has been pasted for a direct assignment. Only a single leaf member per dimension is allowed.</source>
+        <note annotates="source" from="Developer">Tooltip for invalid cell of rule modeler grid, that is invalid because a parent target member has been pasted when only leaves are allowed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_STEPS_MODEL_DIFERS" resname="ALLOC_STEPS_MODEL_DIFERS" sap:sc="XTXT">
+        <source>Steps do not share the same cube id</source>
+        <note annotates="source" from="Developer">Error message shown when opening an allocation process if steps in the process are not associated with the same model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEPS_DRIVERDIM_DIFF" resname="ALOC_STEPS_DRIVERDIM_DIFF" sap:sc="XTXT">
+        <source>Steps do not share the same driver dimension</source>
+        <note annotates="source" from="Developer">Error message shown when opening an allocation process if steps in the process do not use the same driver</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOT_ALL_MEMBERS_DISPLAYED" resname="NOT_ALL_MEMBERS_DISPLAYED" sap:sc="XTOL">
+        <source>Too many members to display. Please use the search to find specific members.</source>
+        <note annotates="source" from="Developer">Tooltip that is displayed when not all dimension members can be displayed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STEP_DELETE_TOOLTIP" maxwidth="120" resname="STEP_DELETE_TOOLTIP" sap:sc="YINF" size-unit="char">
+        <source>Delete Selected Step</source>
+        <note annotates="source" from="Developer">Tooltip for the deletion of a step in the Allocation Steps screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STEP_NEW_TOOLTIP" maxwidth="120" resname="STEP_NEW_TOOLTIP" sap:sc="YINF" size-unit="char">
+        <source>Add allocation step</source>
+        <note annotates="source" from="Developer">Tooltip for the menu that offers the user to create a new step or load an existing step into the process</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STEP_REMOVE_TOOLTIP" maxwidth="120" resname="STEP_REMOVE_TOOLTIP" sap:sc="YINF" size-unit="char">
+        <source>Remove the Selected Step from the Process</source>
+        <note annotates="source" from="Developer">Tooltip for the removal of a step from a process in the Allocation Process screen (the step still exists but outside the process)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STEP_NAME_PLEASE_ENTER" resname="STEP_NAME_PLEASE_ENTER" sap:sc="XTXT">
+        <source>Please enter a name for the step.</source>
+        <note annotates="source" from="Developer">Validation messages shown to the user in a dialog for creation of allocation steps when no name was provided</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_SELECT_DIM" resname="ALOC_STEP_SELECT_DIM" sap:sc="XMSG">
+        <source>Please select a dimension</source>
+        <note annotates="source" from="Developer">validation message shown to the user in a dialog for creation of allocation steps when no dimension has been selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_SRC_DIM_TITLE" resname="ALOC_STEP_SRC_DIM_TITLE" sap:sc="XTXT">
+        <source>Source Dimension</source>
+        <note annotates="source" from="Developer">Caption shown above 1st combo box in the source section of the allocation step creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_SRC_DIM_TTIP" resname="ALOC_STEP_SRC_DIM_TTIP" sap:sc="XTOL">
+        <source>Select the dimension that holds the values to be allocated</source>
+        <note annotates="source" from="Developer">Tooltip for the Source dimension in the Allocation Step creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_OWRITE_DIM_TITLE" resname="ALOC_STEP_OWRITE_DIM_TITLE" sap:sc="XTXT">
+        <source>Overwrite Dimension</source>
+        <note annotates="source" from="Developer">Caption shown above subsequent combo box in the source section of the allocation step creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_OWRITE_DIM_TTIP" resname="ALOC_STEP_OWRITE_DIM_TTIP" sap:sc="XTOL">
+        <source>Select a dimension that could provide additional information for defining allocation rules</source>
+        <note annotates="source" from="Developer">Tooltip for each Overwrite dimension in the Allocation Step creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_TGT_DIM_TTIP" resname="ALOC_STEP_TGT_DIM_TTIP" sap:sc="XTOL">
+        <source>Select a dimension that will receive the allocated values</source>
+        <note annotates="source" from="Developer">Tooltip for each Target dimension in the Allocation Step creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_TGT_DIM_TITLE" resname="ALOC_STEP_TGT_DIM_TITLE" sap:sc="XTXT">
+        <source>Target Dimension</source>
+        <note annotates="source" from="Developer">Caption shown above combo boxes in the target section of the allocation step creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_REF_DIM_TITLE" resname="ALOC_STEP_REF_DIM_TITLE" sap:sc="XTXT">
+        <source>Reference Dimension</source>
+        <note annotates="source" from="Developer">Caption shown above combo boxes in the reference section of the allocation step creation dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_LIST_LOADING" maxwidth="150" resname="ALOC_STEP_LIST_LOADING" sap:sc="XTXT" size-unit="char">
+        <source>Loading Allocation Step list ...</source>
+        <note annotates="source" from="Developer">Text displayed initially in allocation step list before the list has been fetched for the first time</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_HINT_NEW" maxwidth="150" resname="ALOC_STEP_HINT_NEW" sap:sc="XTXT" size-unit="char">
+        <source>No Allocation Steps exist. To create a new one, click the '+' icon in the toolbar.</source>
+        <note annotates="source" from="Developer">Hint for the user when the allocation step table is empty, and that he may create new allocation steps by pressing the Plus-shaped button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_NONE_MATCH" maxwidth="150" resname="ALOC_STEP_NONE_MATCH" sap:sc="XTXT" size-unit="char">
+        <source>No Allocation Step matches your search.</source>
+        <note annotates="source" from="Developer">Hint for the user that no step matches the currently entered search term</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_SELECTED_MEMBER_OVERWRITE" resname="ALOC_SELECTED_MEMBER_OVERWRITE" sap:sc="XMSG">
+        <source>One or more previously selected members for this rule were not found; either you no longer have access rights for them, or they have been deleted. Saving the rule will remove these members.</source>
+        <note annotates="source" from="Developer">warning message shown if saving an allocation rule would lead to deletion of selected but invisible members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_NODES_PLACEHOLDER" maxwidth="30" resname="FILTER_NODES_PLACEHOLDER" sap:sc="XTXT" size-unit="char">
+        <source>Search</source>
+        <note annotates="source" from="Developer">Placeholder for search field</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TREE_EMPTY" maxwidth="50" resname="TREE_EMPTY" sap:sc="XTXT" size-unit="char">
+        <source>There are no results matching your search.</source>
+        <note annotates="source" from="Developer">Informs the user that the tree is empty</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SOURCE_NOCELLS" maxwidth="200" resname="SOURCE_NOCELLS" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell. Please select a cell containing data values.</source>
+        <note annotates="source" from="Developer">user selected an invalid cell as spreading or distribution source, user did not provide a cell containing data values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_LAYOUT" maxwidth="255" resname="NOTSUPP_LAYOUT" sap:sc="XMSG" size-unit="char">
+        <source>This feature is not supported for this type of layout.</source>
+        <note annotates="source" from="Developer">spreading or distribution operation is not supported for the current layout</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_EXCL_FILTER" maxwidth="255" resname="NOTSUPP_EXCL_FILTER" sap:sc="XMSG" size-unit="char">
+        <source>This feature is currently not supported in combination with exclude selected members filter. Remove the exclude filter to enable the feature.</source>
+        <note annotates="source" from="Developer">Message to show when a feature is currently not supported in combination with exclude filters.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_COMPLEX_FILTER" maxwidth="255" resname="NOTSUPP_COMPLEX_FILTER" sap:sc="XMSG" size-unit="char">
+        <source>This feature is currently not supported in combination with advanced filtering. Remove the advanced filter to enable the feature.</source>
+        <note annotates="source" from="Developer">Message to show when a feature is currently not supported in combination with complex filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_MULTIDIM_FILTER" maxwidth="255" resname="NOTSUPP_MULTIDIM_FILTER" sap:sc="XMSG" size-unit="char">
+        <source>This feature is currently not supported in combination with multi-dimensional filters. Remove the multi-dimensional filter to enable the feature.</source>
+        <note annotates="source" from="Developer">Message to show when a feature is currently not supported in combination with multi-dimensional filters (a filter having conditions on multiple dimensions, e.g., (Product=Shoes)&amp;(Region=US) )</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_NONCARTESIAN_FILTER" maxwidth="255" resname="NOTSUPP_NONCARTESIAN_FILTER" sap:sc="XMSG" size-unit="char">
+        <source>There is an incongruity in the multi-dimensional filter. To use this feature, select the same member for all chosen dimensions within the filter.</source>
+        <note annotates="source" from="Developer">Message to show when a feature is currently not supported in combination with multi-dimensional filters as they are non-cartesian (e.g., Shoes&amp;US, Shoes&amp;Canada, Shirts&amp;US --&gt; Shirts&amp;Canda is missing to form a cartesian filter)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_VIS_FILTER" maxwidth="255" resname="NOTSUPP_VIS_FILTER" sap:sc="XMSG" size-unit="char">
+        <source>This feature is currently not supported in combination with visibility filters. Remove the visibility filters to use this feature.</source>
+        <note annotates="source" from="Developer">Message to show when a feature is currently not supported in combination with visibility filters.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_CONVCUR" maxwidth="255" resname="NOTSUPP_CONVCUR" sap:sc="XMSG" size-unit="char">
+        <source>This feature is not supported on this version for models with pre-converted currencies</source>
+        <note annotates="source" from="Developer">Message to show when a feature is not supported on actuals for models with pre-converted currencies</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_TOTALS" resname="NOTSUPP_TOTALS" sap:sc="XMSG">
+        <source>Please select a cell that is not showing totals in any dimension.</source>
+        <note annotates="source" from="Developer">Message that is shown if the user wants to open spreading, distribution or assign on a cell that shows the "Totals" for any dimension.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_CALCULATIONS" maxwidth="255" resname="NOTSUPP_CALCULATIONS" sap:sc="XMSG" size-unit="char">
+        <source>This feature is currently not supported on calculations.</source>
+        <note annotates="source" from="Developer">Message to show when a feature is currently not supported on calculations</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_LOCKS" maxwidth="255" resname="NOTSUPP_LOCKS" sap:sc="XMSG" size-unit="char">
+        <source>The operation is not supported on tables with locked cells.</source>
+        <note annotates="source" from="Developer">Message shown when user tries to invoke spreading or distribution in a grid containing locked cells.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CALCULATED_DIMENSIONS" maxwidth="50" resname="CALCULATED_DIMENSIONS" sap:sc="XTXT" size-unit="char">
+        <source>calculated dimensions</source>
+        <note annotates="source" from="Developer">Term 'calculated dimensions' (plural), used as parameter in some toasts, e.g. in NOTSUPP_INVALID_DIM_GRID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NAVIGATIONAL_ATTRIBUTES" maxwidth="50" resname="NAVIGATIONAL_ATTRIBUTES" sap:sc="XTXT" size-unit="char">
+        <source>navigational attributes</source>
+        <note annotates="source" from="Developer">Term 'navigational attributes' (plural), used as parameter in some toasts, e.g. in NOTSUPP_INVALID_DIM_GRID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NOTSUPP_INVALID_DIM_GRID" maxwidth="255" resname="NOTSUPP_INVALID_DIM_GRID" sap:sc="XMSG" size-unit="char">
+        <source>This feature is currently not supported with <ph id="1">{0}</ph> in the grid. Please remove all <ph id="2">{0}</ph> from the grid.</source>
+        <note annotates="source" from="Developer">Message to show when a feature is currently not supported in combination with invalid dimensions in the layout.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NOTSUPP_INVALID_DIM_FILTER" maxwidth="255" resname="NOTSUPP_INVALID_DIM_FILTER" sap:sc="XMSG" size-unit="char">
+        <source>This feature is currently not supported with filters on <ph id="1">{0}</ph>. Please remove those filters first.</source>
+        <note annotates="source" from="Developer">Message to show when a feature is currently not supported in combination with filters on invalid dimensions.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NOTSUPP_INVALID_DIM_RESTR" maxwidth="255" resname="NOTSUPP_INVALID_DIM_RESTR" sap:sc="XMSG" size-unit="char">
+        <source>This feature is currently not supported for restricted measures or accounts on <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">Message to show when a feature is currently not supported in combination with restrictions on invalid dimensions.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTSUPP_DYN_TIME_RESTR" maxwidth="255" resname="NOTSUPP_DYN_TIME_RESTR" sap:sc="XMSG" size-unit="char">
+        <source>This feature is currently not supported for restricted measures or accounts with dynamic time filters.</source>
+        <note annotates="source" from="Developer">Message to show when a feature is currently not supported in combination with restricted measures or accounts using dynamic time filters.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SOURCE_NONDATA" maxwidth="200" resname="SOURCE_NONDATA" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell(s). Please only select cells containing data values.</source>
+        <note annotates="source" from="Developer">user selected invalid cells as spreading or distribution source, user selected cells that does not contain data value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PICK_SOMEINVALID" maxwidth="200" resname="SPRD_PICK_SOMEINVALID" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell(s) for spreading: Some picked cells do not contain data values and have not been used.</source>
+        <note annotates="source" from="Developer">user picked cells from the grid. Some of them do not contain a number, thus those cells have not been used</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PICK_ALLINVALID" maxwidth="200" resname="SPRD_PICK_ALLINVALID" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell(s): no picked cell contained a data value.</source>
+        <note annotates="source" from="Developer">user picked cells from the grid. None of them contained a number, thus none of the cells have been used</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PICK_THECELLINVALID" maxwidth="200" resname="SPRD_PICK_THECELLINVALID" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell for spreading. Please select cell containing a data value.</source>
+        <note annotates="source" from="Developer">user picked exactly one from the grid. It does not contain a number, thus it is not used</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SOURCE_ZEROVALUE" maxwidth="200" resname="SOURCE_ZEROVALUE" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell(s). Please only select cells containing non-zero values.</source>
+        <note annotates="source" from="Developer">user selected invalid cells as spreading or distribution source, user selected cells that contain zero values that can not be distributed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_SOURCE_ALLLEAVES" maxwidth="200" resname="SPRD_SOURCE_ALLLEAVES" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell(s) for spreading. Please select cells that are not already on leaf level.</source>
+        <note annotates="source" from="Developer">user selected invalid cells as spreading source, user selected cells that are already on leaf level</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_SRC_GRP_ACCT" maxwidth="200" resname="SPREAD_SRC_GRP_ACCT" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell(s) for spreading. Please select cells that are at a group level for a dimension other than the account dimension.</source>
+        <note annotates="source" from="Developer">user selected invalid cells as spreading source, all dimensions are at leaf level except account</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SOURCE_MULTI" maxwidth="200" resname="SOURCE_MULTI" sap:sc="XMSG" size-unit="char">
+        <source>Please select only a single cell.</source>
+        <note annotates="source" from="Developer">user selected invalid cells as spreading or distribution source, user selected multiple cells</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SOURCE_EMPTY_INTERSECTION" maxwidth="200" resname="SOURCE_EMPTY_INTERSECTION" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell. The cell is outside of the filters and/or restrictions set.</source>
+        <note annotates="source" from="Developer">User selected invalid cells as spreading, distribution or assign source, the cell is outside of the current filters and/or restrictions.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SOURCE_EMPTY_VISIBILITY" maxwidth="200" resname="SOURCE_EMPTY_VISIBILITY" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell. The cell has a visibility filter that hides all members.</source>
+        <note annotates="source" from="Developer">User selected invalid cells as distribution or assign source, the cell has a visibility filter that makes everything below invisible.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SOURCE_AGGTYPE" maxwidth="200" resname="SOURCE_AGGTYPE" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell(s). Aggregation type <ph id="1">{0}</ph> is not supported.</source>
+        <note annotates="source" from="Developer">user selected invalid cells as spreading or distribution source, aggregation type is not supported</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SOURCE_LAST_AGG_NO_LEAF" maxwidth="200" resname="SOURCE_LAST_AGG_NO_LEAF" sap:sc="XMSG" size-unit="char">
+        <source>Please select a leaf-level cell for dimension '<ph id="1">{0}</ph>' due to its aggregation type 'LAST'.</source>
+        <note annotates="source" from="Developer">user selected an invalid cell as spreading or distribution source, user must select a leaf member for dimension with LAST exception aggregation of the account</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SOURCE_LAST_AGG_DIM" maxwidth="200" resname="SOURCE_LAST_AGG_DIM" sap:sc="XMSG" size-unit="char">
+        <source>Please add dimension '<ph id="1">{0}</ph>' to the table due to its aggregation type 'LAST'.</source>
+        <note annotates="source" from="Developer">user selected an invalid cell as spreading or distribution source, dimension with LAST exception aggregation of the account must be on columns or rows</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NONE" maxwidth="20" resname="NONE" sap:sc="XMSG" size-unit="char">
+        <source>NONE</source>
+        <note annotates="source" from="Developer">NOP aggregation type, called "NONE" in English in the modeler; appearing as part of an error message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SOURCE_NONEDIT" maxwidth="200" resname="SOURCE_NONEDIT" sap:sc="XMSG" size-unit="char">
+        <source>Invalid source cell. At least one cell is not editable.</source>
+        <note annotates="source" from="Developer">user selected an invalid cell as spreading or distribution source, user selected at least one non-editable cell</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PICK_SOMECONV" maxwidth="200" resname="SPRD_PICK_SOMECONV" sap:sc="XMSG" size-unit="char">
+        <source>Some picked values have been converted to match the expected sign.</source>
+        <note annotates="source" from="Developer">user picked values from the grid. Some, but not all, of them have had an invalid sign and have been sign-flipped.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_PICK_ALLCONV" maxwidth="200" resname="SPRD_PICK_ALLCONV" sap:sc="XMSG" size-unit="char">
+        <source>All picked values have been converted to match the expected sign.</source>
+        <note annotates="source" from="Developer">user picked values from the grid. All of them have had an invalid sign and have been sign-flipped.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_INVALID_VERSION" maxwidth="220" resname="SPRD_INVALID_VERSION" sap:sc="XMSG" size-unit="char">
+        <source>Invalid version selected. The version might not exist anymore.</source>
+        <note annotates="source" from="Developer">user selected invalid version for spreading destination.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_OPEN_TECHNICAL_ERROR" maxwidth="200" resname="SPRD_OPEN_TECHNICAL_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Opening the dialog failed due to a technical error.</source>
+        <note annotates="source" from="Developer">Notification that opening the Assign/ Spreading or Distribute dialog failed for an unkown/technical reason.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_UPDATE_TECHNICAL_ERROR" maxwidth="200" resname="SPRD_UPDATE_TECHNICAL_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Updating the dialog failed due to a technical error.</source>
+        <note annotates="source" from="Developer">Notification that updating the Assign dialog failed for an unkown/technical reason.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_INVALID_WEIGHTS" maxwidth="220" resname="SPRD_INVALID_WEIGHTS" sap:sc="XMSG" size-unit="char">
+        <source>The entered values are too small or too large to be processed.</source>
+        <note annotates="source" from="Developer">the combination of values the user provided is too large or too small</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_TOO_MANY_TUPLES" maxwidth="220" resname="SPRD_TOO_MANY_TUPLES" sap:sc="XMSG" size-unit="char">
+        <source>Spreading cannot be performed due to a too wide filter on the spreading dimension. Please remove the filter or define a more strict one.</source>
+        <note annotates="source" from="Developer">The spreading cannot be performed as the backend delivered not all tuples that are needed for the spreading
+operation. This happens if the user applied a filter that includes too many members. The backend only delivers
+a maximum number of tuples and if the total tuple count exceeds this limit, we might miss needed tuples.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_DLG" resname="SPRD_DLG" sap:sc="XTXT">
+        <source>Spread</source>
+        <note annotates="source" from="Developer">Menu item in drop-down for allocation/spreading triggering to select a change in spreading</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_ROLLUP" resname="SPRD_ROLLUP" sap:sc="XTOL">
+        <source>Roll up one level</source>
+        <note annotates="source" from="Developer">Tooltip for the button to roll up one level for the spreading destination</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_DRILLDOWN" resname="SPRD_DRILLDOWN" sap:sc="XTOL">
+        <source>Drill down one level</source>
+        <note annotates="source" from="Developer">Tooltip for the button to drill down one level for the spreading destination</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_TOLEAF" resname="SPRD_TOLEAF" sap:sc="XTOL">
+        <source>Set to leaf level</source>
+        <note annotates="source" from="Developer">Tooltip for the button to jump to leaf level for the spreading destination</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_LEVELWEIGHTS" maxwidth="50" resname="SPRD_LEVELWEIGHTS" sap:sc="XTIT" size-unit="char">
+        <source>Choose Level &amp; Weights</source>
+        <note annotates="source" from="Developer">Title that tells that level and weights have to be chosen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_LVL_AND_WEIGHT" maxwidth="50" resname="SPRD_LVL_AND_WEIGHT" sap:sc="XTIT" size-unit="char">
+        <source>Choose Level &amp; Weights</source>
+        <note annotates="source" from="Developer">Sub title in spreading dialog above values and weights section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_DISTRIBUTE" resname="SPRD_DISTRIBUTE" sap:sc="XTXT">
+        <source>Distribute</source>
+        <note annotates="source" from="Developer">Menu item in drop-down for allocation/spreading triggering to select a distribution of an amount</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADV_SPRD_DLG" resname="ADV_SPRD_DLG" sap:sc="XTXT">
+        <source>Assign</source>
+        <note annotates="source" from="Developer">Menu item in drop-down for allocation/spreading triggering to select the assign dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_EXECUTE" resname="ALOC_EXECUTE" sap:sc="XTXT">
+        <source>Execute Allocation</source>
+        <note annotates="source" from="Developer">Menu item in drop-down for allocation/spreading triggering to select an execution of a defined allocation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_DISABLED_MEASURE_MODEL" resname="ALLOC_DISABLED_MEASURE_MODEL" sap:sc="XTOL">
+        <source>Please select a table based on an account model. Allocation processes are not supported for measure models.</source>
+        <note annotates="source" from="Developer">Text to display for tooltip for the disabled 'Execute Allocation' menu item of the 'Allocate Values' menu in the story toolbar, if the selected model is a measure model, telling the user that allocation processes are not supported for measure models</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TECHNICAL_ERROR" maxwidth="200" resname="TECHNICAL_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Execution failed due to a technical error.</source>
+        <note annotates="source" from="Developer">Notification that executing the Assign/ Spreading or Distribute failed for an unkown/technical reason.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_PUBLIC_VERSION" maxwidth="200" resname="SELECT_PUBLIC_VERSION" sap:sc="XMSG" size-unit="char">
+        <source>You have selected a non-existing private version. Please select a public version to base your new private version on.</source>
+        <note annotates="source" from="Developer">Hint for the user that a public version should be selected to create the new private version based on.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_PUBLIC_VERSION_TIT" maxwidth="50" resname="SELECT_PUBLIC_VERSION_TIT" sap:sc="XTIT" size-unit="char">
+        <source>Select public version</source>
+        <note annotates="source" from="Developer">title for dialog that asks the user to select a public version to base the new private version on</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_MEM_RETRIEVAL_FAIL" maxwidth="300" resname="VERSION_MEM_RETRIEVAL_FAIL" sap:sc="XMSG" size-unit="char">
+        <source>A new private version cannot be created because the public versions could not be retrieved from the backend. They are needed to copy the private version from.</source>
+        <note annotates="source" from="Developer">error message posted to the user if version members could not be retrieved and thus, a new private version could not be created</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NEW_PROCESS_TITLE" maxwidth="50" resname="NEW_PROCESS_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Create Process</source>
+        <note annotates="source" from="Developer">Title for Allocation Process Dialog in Create mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NEW_PROCESS_OK_CAPTION" maxwidth="30" resname="NEW_PROCESS_OK_CAPTION" sap:sc="XBUT" size-unit="char">
+        <source>Create</source>
+        <note annotates="source" from="Developer">Caption for the ok button in Create Mode in the Allocation Process Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_NAME_TITLE" maxwidth="50" resname="PROCESS_NAME_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Allocation Process Name</source>
+        <note annotates="source" from="Developer">Label for the process name text box in the Allocation Process Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_DESCRIPTION_TITLE" maxwidth="50" resname="PROCESS_DESCRIPTION_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Label for the process description text box in the Allocation Process Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_MODEL_TITLE" maxwidth="50" resname="PROCESS_MODEL_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Underlying Model</source>
+        <note annotates="source" from="Developer">Label for the process model dropdown in the Allocation Process Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROCESS_MODEL_SELECTOR" maxwidth="90" resname="PROCESS_MODEL_SELECTOR" sap:sc="XTXT" size-unit="char">
+        <source>Select a model ...</source>
+        <note annotates="source" from="Developer">Placeholder for the model selector link in the Allocation Process Dialog and Allocation Step Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXEC_PROCESS_FAILURE" resname="EXEC_PROCESS_FAILURE" sap:sc="XMSG">
+        <source>Allocation could not be executed successfully.</source>
+        <note annotates="source" from="Developer">Toast notification that is given to the user to indicate that the execution of the allocation process was not successful</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TECHNICAL_ALLOCATION_FAILURE" resname="TECHNICAL_ALLOCATION_FAILURE" sap:sc="XMSG">
+        <source>A technical allocation error occurred.</source>
+        <note annotates="source" from="Developer">Toast notification that is given to the user to indicate that a technical error occurred but no detailed information about the error is available</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOAD_STEP_FAILURE" resname="LOAD_STEP_FAILURE" sap:sc="XMSG">
+        <source>Error during loading the allocation step.</source>
+        <note annotates="source" from="Developer">Toast notification that is given to the user to indicate that a technical error occurred during loading the allocation steps from backend</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERR_FORMULA_ACC" resname="ERR_FORMULA_ACC" sap:sc="YMSG">
+        <source>This feature is not supported on this cell as there is a formula defined for this account or one of its sub-accounts.</source>
+        <note annotates="source" from="Developer">Notification that data entry on cells is not supported as there is a formula defined on this account or its sub-accounts</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SPREADING_WARNING_CONFIRM" resname="SPREADING_WARNING_CONFIRM" sap:sc="XMSG">
+        <source>This data entry will generate more than <ph id="1">{0}</ph> new database entries. This may take a while. Do you want to continue?</source>
+        <note annotates="source" from="Developer">Text of a confirmation dialog that for data entry on non-leaf cells a lot of members are to be created which may take time</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREADING_BUTTON_CONTINUE" maxwidth="30" resname="SPREADING_BUTTON_CONTINUE" sap:sc="XBUT" size-unit="char">
+        <source>Continue</source>
+        <note annotates="source" from="Developer">Button to continue spreading</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_MULTIPLE_CURRENCIES" resname="SPREAD_MULTIPLE_CURRENCIES" sap:sc="XMSG">
+        <source>Be careful when booking values to a currency dimension - each member can have a different currency.</source>
+        <note annotates="source" from="Developer">Message to show when advanced planning operation is targeted on members with (potentially) different currencies</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SPREAD_ERR_NO_MEMBER" maxwidth="130" resname="SPREAD_ERR_NO_MEMBER" sap:sc="XMSG" size-unit="char">
+        <source>There is no member for dimension(s) <ph id="1">{0}</ph> available.</source>
+        <note annotates="source" from="Developer">Notification that data entry is not supported as there is no member for the dimension available. This e. g. can happen when the user has no access rights due to DAC and the flag for hiding members without access rioghts is set.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_READONLY_VERSION" maxwidth="130" resname="SPREAD_READONLY_VERSION" sap:sc="XMSG" size-unit="char">
+        <source>This feature is not supported on read-only versions.</source>
+        <note annotates="source" from="Developer">Notification that spreading/assign/distribution is not supported on read-only versions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPREAD_MEMBER_NOT_VISIBLE" resname="SPREAD_MEMBER_NOT_VISIBLE" sap:sc="XMSG">
+        <source>Operation not possible: For some dimensions on row or column axis no member is visible.</source>
+        <note annotates="source" from="Developer">Notification that data entry / assign / distribute / spreading is not possible because no members are visible for some dimension on the row or column axis. KEY=SPREAD_MEMBER_NOT_VISIBLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="D_ENTRY_CONF_DLG_INFO" maxwidth="130" resname="D_ENTRY_CONF_DLG_INFO" sap:sc="XMSG" size-unit="char">
+        <source>Your data input will take filters for the dimensions into account. Please make a choice on the filters.</source>
+        <note annotates="source" from="Developer">Information text to be shown in the confirmation dialog for data entry</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="D_ENTRY_CONF_DLG_RB_POV" maxwidth="30" resname="D_ENTRY_CONF_DLG_RB_POV" sap:sc="XFLD" size-unit="char">
+        <source>Use Point of View</source>
+        <note annotates="source" from="Developer">Label for use point of View radio button to be shown in the confirmation dialog for data entry</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="D_ENTRY_CONF_DLG_RB_CNG" maxwidth="35" resname="D_ENTRY_CONF_DLG_RB_CNG" sap:sc="XFLD" size-unit="char">
+        <source>Refine Filters</source>
+        <note annotates="source" from="Developer">Label for refine filters radio button to be shown in the confirmation dialog for data entry</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="D_ENTRY_CONF_DLG_SWITCH" maxwidth="60" resname="D_ENTRY_CONF_DLG_SWITCH" sap:sc="XFLD" size-unit="char">
+        <source>Hide this dialog in future</source>
+        <note annotates="source" from="Developer">Label for the switch button shown in the confirmation dialog for data entry</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="D_ENTRY_CONF_DLG_OK_BTN" maxwidth="30" resname="D_ENTRY_CONF_DLG_OK_BTN" sap:sc="XBUT" size-unit="char">
+        <source>Continue</source>
+        <note annotates="source" from="Developer">Label for the OK button shown in the confirmation dialog for data entry</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="D_ENTRY_CONF_DLG_C_BTN" maxwidth="30" resname="D_ENTRY_CONF_DLG_C_BTN" sap:sc="XBUT" size-unit="char">
+        <source>Close</source>
+        <note annotates="source" from="Developer">Label for the Cancel button shown in the confirmation dialog for data entry</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="D_ENTRY_CONF_DLG_TITLE" maxwidth="50" resname="D_ENTRY_CONF_DLG_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Confirm Data Input</source>
+        <note annotates="source" from="Developer">Title for  confirmation dialog for data entry</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="D_ENTRY_CONF_DLG_POV_WARNING" resname="D_ENTRY_CONF_DLG_POV_WARNING" sap:sc="XMSG">
+        <source>Point of View will only respect filters defined in the Builder Panel. Story or Page filters will be ignored.</source>
+        <note annotates="source" from="Developer">Message shown when the story includes story or page filters and point of view is selected, telling that those filters will be ignored</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXEC_CONF_DLG_INFO" maxwidth="300" resname="EXEC_CONF_DLG_INFO" sap:sc="XMSG" size-unit="char">
+        <source>You can restrict the scope of the allocation by applying filters. Note that filters will not restrict the reference data used for driver-based assignments, except for dimensions defined as reference dimension. Allocation targets will not be affected.</source>
+        <note annotates="source" from="Developer">Information text to be shown in the confirmation dialog for allocation execution, describing that the allocation can be limited by filters and that the user shall choose how to apply those filters. Additionally, the user is informed that the filters will affect the source of the allocation only, but not be applied to restrict the target or the reference data for driver-based assignments.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXEC_CONF_DLG_RB_NONE" maxwidth="35" resname="EXEC_CONF_DLG_RB_NONE" sap:sc="XFLD" size-unit="char">
+        <source>No Filters</source>
+        <note annotates="source" from="Developer">Label for one of the radio buttons to be shown in the confirmation dialog for allocation execution</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXEC_CONF_DLG_TITLE" maxwidth="50" resname="EXEC_CONF_DLG_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Confirm Scope Of Allocation</source>
+        <note annotates="source" from="Developer">Title for confirmation dialog for allocation execution</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_UNBOOKED" maxwidth="15" resname="SHOW_UNBOOKED" sap:sc="XFLD" size-unit="char">
+        <source>Unbooked</source>
+        <note annotates="source" from="Developer">Label for the switch to toggle spreading/distribution/assignment to unbooked members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DISTR_NO_SIBLINGS" maxwidth="200" resname="DISTR_NO_SIBLINGS" sap:sc="XMSG" size-unit="char">
+        <source>Invalid cell selection for distribution. No siblings found for the selected cell.</source>
+        <note annotates="source" from="Developer">Message shown to the user when no siblings were found for distribution</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CHANGE_LAYOUT" maxwidth="200" resname="CHANGE_LAYOUT" sap:sc="XMSG" size-unit="char">
+        <source>This operation cannot be performed. Please add more dimensions to the rows or to the columns.</source>
+        <note annotates="source" from="Developer">Message to the user when the layout contains only the account and the category dimensions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEPS_OVER_PNL_TTL" maxwidth="50" resname="ALOC_STEPS_OVER_PNL_TTL" sap:sc="XTIT" size-unit="char">
+        <source>Steps Overview</source>
+        <note annotates="source" from="Developer">Title in side panel used to display an overview of process steps</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEPS_NEW_STEP_BTN" maxwidth="30" resname="ALOC_STEPS_NEW_STEP_BTN" sap:sc="XBUT" size-unit="char">
+        <source>Create Step</source>
+        <note annotates="source" from="Developer">caption for button to add new step in the panel displaying an overview of process steps</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ALOC_STEPS_OVER_PREFIX" maxwidth="20" resname="ALOC_STEPS_OVER_PREFIX" sap:sc="XTXT" size-unit="char">
+        <source>Step <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">prefix shown next to steps in allocation process overview side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STEP_DETAIL_PVW" maxwidth="30" resname="STEP_DETAIL_PVW" sap:sc="XBUT" size-unit="char">
+        <source>Details</source>
+        <note annotates="source" from="Developer">caption shown in Allocation process screen on button used for toggling step preview panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STEP_DETAIL_TOOLTIP" maxwidth="100" resname="STEP_DETAIL_TOOLTIP" sap:sc="XTXT" size-unit="char">
+        <source>Toggle process overview</source>
+        <note annotates="source" from="Developer">tooltip for button used to toggle step preview panel in allocation process screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_SET_ACCT_FILT" maxwidth="30" resname="ALOC_STEP_SET_ACCT_FILT" sap:sc="XBUT" size-unit="char">
+        <source>Set Filter</source>
+        <note annotates="source" from="Developer">Label for the button used to launch the "account filter" dialog in the create/modify allocation step dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_REF_TEXT" maxwidth="50" resname="ALOC_STEP_REF_TEXT" sap:sc="XTXT" size-unit="char">
+        <source>Break down by dimensions</source>
+        <note annotates="source" from="Developer">Text appearing at the top of reference section in the options section of the allocation step dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_ACCT_FILT_TEXT" maxwidth="50" resname="ALOC_STEP_ACCT_FILT_TEXT" sap:sc="XTXT" size-unit="char">
+        <source>Filter by Accounts</source>
+        <note annotates="source" from="Developer">Text appearing at the top of the account filters section in the options section of the allocation step dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_REMOVE_PERSP" maxwidth="30" resname="ALOC_STEP_REMOVE_PERSP" sap:sc="XTXT" size-unit="char">
+        <source>Remove dimension</source>
+        <note annotates="source" from="Developer">Text in drop down boxes for "New Step" dialog for item used to remove a dimension from either source, target or reference dimension sections</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_DUPL_PERSP" maxwidth="40" resname="ALOC_STEP_DUPL_PERSP" sap:sc="XTXT" size-unit="char">
+        <source>Dimension may only be used once</source>
+        <note annotates="source" from="Developer">Validation text shown when the user has duplicated dimensions within either the source, target or reference sections of the allocation step dialog.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_SRC_AND_TGT" maxwidth="45" resname="ALOC_STEP_SRC_AND_TGT" sap:sc="XTXT" size-unit="char">
+        <source>Dimension cannot be both source and target</source>
+        <note annotates="source" from="Developer">Validation text shown when the user has duplicated dimensions in the source and target sections of the allocation step dialog.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_SRC_AND_REF" maxwidth="50" resname="ALOC_STEP_SRC_AND_REF" sap:sc="XTXT" size-unit="char">
+        <source>Dimension cannot be both target and reference</source>
+        <note annotates="source" from="Developer">Validation text shown when the user has duplicated dimensions in the target and reference sections of the allocation step dialog.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_TIME_AS_TGT" maxwidth="55" resname="ALOC_STEP_TIME_AS_TGT" sap:sc="XTXT" size-unit="char">
+        <source>Set the date dimension as a source dimension, too.</source>
+        <note annotates="source" from="Developer">Validation text shown when the user has selected time as target but not yet time as source in the allocation step dialog.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_RPTCUR_AS_TGT" resname="ALOC_STEP_RPTCUR_AS_TGT" sap:sc="XTXT">
+        <source>The operation will potentially book values across different currencies</source>
+        <note annotates="source" from="Developer">Validation text shown when the user has selected the BPC currency dimension as target.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_STEP_SEL_PERSP" maxwidth="40" resname="ALOC_STEP_SEL_PERSP" sap:sc="XTXT" size-unit="char">
+        <source>Select dimension</source>
+        <note annotates="source" from="Developer">Placeholder text show inside drop down box in allocation dialog before user has selected a dimension.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_STEP_NO_READ" maxwidth="150" resname="ALLOC_STEP_NO_READ" sap:sc="XMSG" size-unit="char">
+        <source>You are not authorized to view allocation steps</source>
+        <note annotates="source" from="Developer">Message shown when the user has no read rights on allocation steps</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_OBJECT_NOT_FOUND" resname="ALLOC_OBJECT_NOT_FOUND" sap:sc="XMSG">
+        <source>The allocation resource you have selected does not exist anymore.</source>
+        <note annotates="source" from="Developer">Error Message to be shown when trying to access an allocation process or step that cannot be found</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALLOC_CROSSCUR" resname="ALLOC_CROSSCUR" sap:sc="XMSG">
+        <source>No currency conversion is applied for allocation to members of the currency dimension. Results may be unexpected.</source>
+        <note annotates="source" from="Developer">Message to show when allocation is performed across currencies</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VALUES_UPDATED" maxwidth="50" resname="VALUES_UPDATED" sap:sc="XTIT" size-unit="char">
+        <source><ph id="1">{0}</ph> value(s) updated.</source>
+        <note annotates="source" from="Developer">When spreading new values successfully</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MULTIPLE_CURRENCIES" resname="MULTIPLE_CURRENCIES" sap:sc="XMSG">
+        <source>This operation is only supported on a single currency.</source>
+        <note annotates="source" from="Developer">Notification that this operation is only supported on a single currency</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_INV_DEP_LOCKS" resname="SPRD_INV_DEP_LOCKS" sap:sc="XMSG">
+        <source>Operation not possible due to depending locked cells.</source>
+        <note annotates="source" from="Developer">Displayed if the user wants to enter data on unbooked where depending cells are locked KEY=SPRD_INV_DEP_LOCKS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_INV_ACCT_TYPE" resname="SPRD_INV_ACCT_TYPE" sap:sc="XMSG">
+        <source>Operation not possible. Cannot spread values to accounts of a differing type.</source>
+        <note annotates="source" from="Developer">Notification for spreading that costs cannot be spread across accounts of differing type.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SPRD_TOO_MANY" maxwidth="150" resname="SPRD_TOO_MANY" sap:sc="XMSG" size-unit="char">
+        <source>This data entry will affect too many database entries. Please adapt your filter or select a different cell.</source>
+        <note annotates="source" from="Developer">Notification that for data entry on non-leaf cells too many members would be created. The user should adapt the filter or change the input cell</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_TRACE_DIRECTION" maxwidth="40" resname="ALOC_TRACE_DIRECTION" sap:sc="XTXT" size-unit="char">
+        <source>Direction</source>
+        <note annotates="source" from="Developer">Caption for the direction tracing dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_TRACING_SECTION_TITLE" maxwidth="40" resname="ALOC_TRACING_SECTION_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>Allocation Tracing</source>
+        <note annotates="source" from="Developer">Caption for the tracing section and trace turn on switch</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_TRACE_INFO_TITLE" maxwidth="200" resname="ALOC_TRACE_INFO_TITLE" sap:sc="XMSG" size-unit="char">
+        <source>Start tracing your allocations! The tracing information will be stored in the selected dimensions.</source>
+        <note annotates="source" from="Developer">Information for what is the allocation tracing</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_TRACE_DIM_SECTION_TITLE" maxwidth="40" resname="ALOC_TRACE_DIM_SECTION_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>SET TRACING DIMENSIONS</source>
+        <note annotates="source" from="Developer">Caption for tracing dimension selector section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_TRACE_MEM_SECTION_TITLE" maxwidth="40" resname="ALOC_TRACE_MEM_SECTION_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>SELECT TRACING MEMBERS</source>
+        <note annotates="source" from="Developer">Caption for tracing dimension member selector section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_TRACE_DIMS_TIP" maxwidth="200" resname="ALOC_TRACE_DIMS_TIP" sap:sc="XMSG" size-unit="char">
+        <source>These dimensions will be filled with tracing information during the allocation execution.</source>
+        <note annotates="source" from="Developer">Tool-tip message for SET TRACING DIMENSIONS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_TRACE_MEMS_TIP" maxwidth="200" resname="ALOC_TRACE_MEMS_TIP" sap:sc="XMSG" size-unit="char">
+        <source>Choose members from your tracing dimensions to be used for allocation tracing.</source>
+        <note annotates="source" from="Developer">Tool-tip message for SET TRACING MEMBERS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_SELECT_STEPNAME_TITLE" maxwidth="40" resname="ALOC_SELECT_STEPNAME_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>Stepname</source>
+        <note annotates="source" from="Developer">Caption for tracing step dimension member selector section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_SELECT_DIRECTION_TITLE" maxwidth="40" resname="ALOC_SELECT_DIRECTION_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>Direct Assignment</source>
+        <note annotates="source" from="Developer">Caption for tracing driver dimension member selector section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_SELECT_DIRECTION_TITLE_IN" maxwidth="40" resname="ALOC_SELECT_DIRECTION_TITLE_IN" sap:sc="XTXT" size-unit="char">
+        <source>In</source>
+        <note annotates="source" from="Developer">Caption for tracing direction dimension member selector section [IN]</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_SELECT_DIRECTION_TITLE_OUT" maxwidth="40" resname="ALOC_SELECT_DIRECTION_TITLE_OUT" sap:sc="XTXT" size-unit="char">
+        <source>Out</source>
+        <note annotates="source" from="Developer">Caption for tracing direction dimension member selector section [OUT]</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_SELECT_MEMBER_LINK_DEFAULT" maxwidth="40" resname="ALOC_SELECT_MEMBER_LINK_DEFAULT" sap:sc="XTXT" size-unit="char">
+        <source>Select....</source>
+        <note annotates="source" from="Developer">Default caption for dimension member selector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_SELECT_DIMENSION" maxwidth="100" resname="ALOC_SELECT_DIMENSION" sap:sc="XMSG" size-unit="char">
+        <source>Please select a dimension first.</source>
+        <note annotates="source" from="Developer">Message when a user didn't select a dimension for member selection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_SELECT_DIMENSION_VALIDATION_TEXT" maxwidth="100" resname="ALOC_SELECT_DIMENSION_VALIDATION_TEXT" sap:sc="XMSG" size-unit="char">
+        <source>Select a member to store the tracing information.</source>
+        <note annotates="source" from="Developer">Message validation fail for a member after a user clicked a create button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_TRACE_DUPLICATED_CAPTION_TARGET" maxwidth="60" resname="ALOC_TRACE_DUPLICATED_CAPTION_TARGET" sap:sc="XTXT" size-unit="char">
+        <source>Target and tracing dimension cannot be identical</source>
+        <note annotates="source" from="Developer">Caption validation fail between target dimension and tracing dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALOC_REMOVE_TRACE_DIMENSION" maxwidth="40" resname="ALOC_REMOVE_TRACE_DIMENSION" sap:sc="XTXT" size-unit="char">
+        <source>Remove a selected tracing dimension.</source>
+        <note annotates="source" from="Developer">Caption for removing a tracing dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ALOC_TRACE_DIMENSION_HEADER" maxwidth="40" resname="ALOC_TRACE_DIMENSION_HEADER" sap:sc="XTXT" size-unit="char">
+        <source>Copy of Source: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Caption for a tracing dimension header</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="AMBIGUOUS_FULL_MEMBER_NAMES" maxwidth="200" resname="AMBIGUOUS_FULL_MEMBER_NAMES" sap:sc="XMSG" size-unit="char">
+        <source>This operation is not possible due to ambiguous names of the selected member(s)</source>
+        <note annotates="source" from="Developer">Error message which is shown if multiple dimension members have the same name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION_DOES_NOT_EXIST" resname="VERSION_DOES_NOT_EXIST" sap:sc="XMSG">
+        <source>The target version does not exist. Please refresh versions.</source>
+        <note annotates="source" from="Developer">Error message which is shown when a user tries to plan on a version that does not exist (anymore)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIALOG_EX_AGG_DESCENDANTS" resname="DIALOG_EX_AGG_DESCENDANTS" sap:sc="XMSG">
+        <source>Target member is not input enabled because selected account has a descendant with an exception aggregation</source>
+        <note annotates="source" from="Developer">Info message which is shown on a spreading/distribute/assign dialog row with an unbooked value when a user opened the dialog on a parent account without an exception aggregation but at least one descendant defines an exception aggregation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CREATING_PRIVATE_VERSION" resname="CREATING_PRIVATE_VERSION" sap:sc="XMSG">
+        <source>Creating private version</source>
+        <note annotates="source" from="Developer">Message that is displayed in the busy dialog telling the user that currently a private version is being created.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="END_SEQUENCE_ERROR" resname="END_SEQUENCE_ERROR" sap:sc="XMSG">
+        <source>The operation could not be finished completely. Please check the versions in the version management.</source>
+        <note annotates="source" from="Developer">Message shown when errors happen during stop of action sequences. Ask the user to manually check the versions in the version management</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

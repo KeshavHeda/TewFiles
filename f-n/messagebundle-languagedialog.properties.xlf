@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-languagedialog.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="a429343a96f3b9eea4ce3cbb5704264d" form="base64">H4sIAAAAAAAAAM1YXW/bNhR9z68gkJcNaAynWbssQDDINm2rliVBopJ1LwIt0xZhRfQkKmk37L/vUpLtNMnGtnLAAX6wTfHccz+oy3NPEQksN3Qsgk9OURxnS96TBc3LjEou8l5V8eX15cW7d+/7i4uztz+tFmfn5+zd2eX7n1dn/ct+/22/n/xCL85PTk5/c9zZFXJ4vkGSfZJoJQpUpuIB8RxRtOSrFStYLlFG83VF1+wN+qv/N+IlLOb0jiGxQjKFn4d1rv5hqIRdLE+YehawcL7OeJkiLtEDzzK0YFcobO20ayeO5U4ia4Jj3/MjPw6n3m1su3GIHTwkeBTv1x3bnV3vtwOhk9OP83ByhUZMskSyJRoU4qFkBXJaWihkGaxAdNAfFSvrLw8py2uqy92uRbtr54ziXlbbrShgde+52nLwnR2ezviG7Zx5g4KqLDnNEZNJ76lrIxwO4zDyfS/YOYau0S1DKb1/xEemVKLPoipeZsYkkkKx6qFbUWVL9WhDAv5OUniUNbv3u7YFq/OZ1I/cUZmkv0INEM+5QkSITPJtnf28rgPlXJKJEqwlEC/eRGsrttX2qUNDxwtxTDzPIbYPrgzVNoVsE0DmMmN7xP9IzYvQAOFgBdk4tNv2iimv8n3SX0xc5H5l6r6oDpUuoPBFOsFYLiDFsLQ32UN+xmipNij+zYYmcQUA7/B6EN2xM4KzSxcsq6NLUSLuFgItxKemAoTKHT1QWBXi7tkpw+RwsIgH3wfYAY9Cdjj0gAbWhjOoEle9JAAcbKUs2bSmgN69ekvUoeU0E+vaVl1LPF+jarurnlUlq4I9C6sXux6JrXAWz3FsTSzbBQojUUeHlhsEp42uKc+BxiCCkhpUUkIwD3W+o/qsMKfwGx88hN3Ec/flBHh1FRH1DoOPOuL3tOB0ARVbU4Y07l5lV99/Qp/SGkTOxApsSzEZVNlamcxNkQntue/YYxvKeTi1XRyq4xbyu23GVxxwhynPWWksVtDsRjaxPddyHvEjBV1ydahpZprgMPAs0uRyWAjoweZSOfwdD6eKx58sSU2RGFmuHSoWI5qrvm6KRkTqWIwqaS4W2J04TTB2txxDRMa222ZlzHOTaRkH2K3zMlYXEWM0JjiY10d2woo7cwd2EmA8UywKxjamSMBLdWQDiSnPl9wYicjdt8RplZttiRAQDxpNw8bOlwL6i0k6xHJaLpJmBol8sHyrbcAf6Jaa7LozL8B1SGaiYOYiMrcc62NbKHOa0c8m68T1gls8aci4onhga4NkfK/tfL4w2fiUUIsmERRtPAhqNoWs1qAIGfphUNCSZz/+D6j55Am15js1Ry7woD82pRQI6JAGKymIwvaEtUMVY0oJB4OGSMiKhUkijndjzVoqmbinG8NksHsgw0zWSujv1Ee4NSo/yNRSdyqSUmNXKhIFsyYWpCo2BmMRzQLLbisk2hSUm6yQGxsT15o3t5gbzqQa5n7zPebx9PmJATWePsqER2fjdQY3OquvNY/R2e0+ZtFa6DA90WF3mUbosLsOGXT4XWcHWvxOIwEdejelr0XvIOB12F10uRb7CHJbZ+M4KlprpaM41uF317w6C92krA79GApVZ+MYwlNno5ue1KMfWyZ+g8WjqT+dze6iTmuho1bT3nk6SjAt/hGU1dfY6CqYtDY66iDtLfC75Y0WuaNq0eEfQ4zobPybxvgH2ll6PrsjAAA=</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:56Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LANGUAGE_POPUP_SHOW_IN_SELECTED_LANGUAGE_LINK" resname="LANGUAGE_POPUP_SHOW_IN_SELECTED_LANGUAGE_LINK" sap:sc="XLNK">
+        <source>Show in <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Link text for show in a different language, {0} is a name of this language, if the sentence is in English it will be: Show in English</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LANGUAGE_POPUP_DESC_SUPPORTED_LANG" resname="LANGUAGE_POPUP_DESC_SUPPORTED_LANG" sap:sc="YMSG">
+        <source>We have detected that your browser language is set to <ph id="1">{0}</ph>. Would you like to change your language preference to match?</source>
+        <note annotates="source" from="Developer">Detected Browser Language Selection question when the detected browser language is supported, {0} is the name of the language like English, Russian etc.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_CLOSE_TOOLTIP" resname="LANGUAGE_POPUP_CLOSE_TOOLTIP" sap:sc="XTOL">
+        <source>Close</source>
+        <note annotates="source" from="Developer">Tooltip shown for the close icon in the popup</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_TITLE" resname="LANGUAGE_POPUP_TITLE" sap:sc="XTIT">
+        <source>Change Language</source>
+        <note annotates="source" from="Developer">Title for the Browser Language Selection popup</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_DESC_UNSUPPORTED_LANG" resname="LANGUAGE_POPUP_DESC_UNSUPPORTED_LANG" sap:sc="YMSG">
+        <source>We have detected that the language set on your browser is not yet supported. Please select your preferred language.</source>
+        <note annotates="source" from="Developer">Detected Browser Language Selection question when the detected browser language is unsupported</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_SET_LANGUAGE_TO_LABEL" resname="LANGUAGE_POPUP_SET_LANGUAGE_TO_LABEL" sap:sc="XFLD">
+        <source>Set language to</source>
+        <note annotates="source" from="Developer">Label for a combo box to choose a language from</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_DO_NOT_ASK_ME_AGAIN" resname="LANGUAGE_POPUP_DO_NOT_ASK_ME_AGAIN" sap:sc="XCKL">
+        <source>Do not ask me again</source>
+        <note annotates="source" from="Developer">Next to a checkbox to prevent the dialog from showing up in the future</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_CHANGE_LANGUAGE_BUTTON" resname="LANGUAGE_POPUP_CHANGE_LANGUAGE_BUTTON" sap:sc="XBUT">
+        <source>Change</source>
+        <note annotates="source" from="Developer">Button to change language</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_BULGARIAN" resname="LANGUAGE_POPUP_BULGARIAN" sap:sc="XMSG">
+        <source>Bulgarian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_SIMPLIFIED_CHINESE" resname="LANGUAGE_POPUP_SIMPLIFIED_CHINESE" sap:sc="XMSG">
+        <source>Simplified Chinese</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_TRADITIONAL_CHINESE" resname="LANGUAGE_POPUP_TRADITIONAL_CHINESE" sap:sc="XMSG">
+        <source>Traditional Chinese</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_CROATIAN" resname="LANGUAGE_POPUP_CROATIAN" sap:sc="XMSG">
+        <source>Croatian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_CZECH" resname="LANGUAGE_POPUP_CZECH" sap:sc="XMSG">
+        <source>Czech</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_DANISH" resname="LANGUAGE_POPUP_DANISH" sap:sc="XMSG">
+        <source>Danish</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_DUTCH" resname="LANGUAGE_POPUP_DUTCH" sap:sc="XMSG">
+        <source>Dutch</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_ENGLISH" resname="LANGUAGE_POPUP_ENGLISH" sap:sc="XMSG">
+        <source>English</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_FINNISH" resname="LANGUAGE_POPUP_FINNISH" sap:sc="XMSG">
+        <source>Finnish</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_FRENCH" resname="LANGUAGE_POPUP_FRENCH" sap:sc="XMSG">
+        <source>French</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_GERMAN" resname="LANGUAGE_POPUP_GERMAN" sap:sc="XMSG">
+        <source>German</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_GREEK" resname="LANGUAGE_POPUP_GREEK" sap:sc="XMSG">
+        <source>Greek</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_HINDI" resname="LANGUAGE_POPUP_HINDI" sap:sc="XMSG">
+        <source>Hindi</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_HUNGARIAN" resname="LANGUAGE_POPUP_HUNGARIAN" sap:sc="XMSG">
+        <source>Hungarian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_INDONESIAN" resname="LANGUAGE_POPUP_INDONESIAN" sap:sc="XMSG">
+        <source>Indonesian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_ITALIAN" resname="LANGUAGE_POPUP_ITALIAN" sap:sc="XMSG">
+        <source>Italian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_JAPANESE" resname="LANGUAGE_POPUP_JAPANESE" sap:sc="XMSG">
+        <source>Japanese</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_KOREAN" resname="LANGUAGE_POPUP_KOREAN" sap:sc="XMSG">
+        <source>Korean</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_MALAYSIAN" resname="LANGUAGE_POPUP_MALAYSIAN" sap:sc="XMSG">
+        <source>Malaysian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_NORWEGIAN" resname="LANGUAGE_POPUP_NORWEGIAN" sap:sc="XMSG">
+        <source>Norwegian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_POLISH" resname="LANGUAGE_POPUP_POLISH" sap:sc="XMSG">
+        <source>Polish</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_PORTUGUESE_BR" resname="LANGUAGE_POPUP_PORTUGUESE_BR" sap:sc="XMSG">
+        <source>Portuguese (Brasil)</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_PORTUGUESE_PT" resname="LANGUAGE_POPUP_PORTUGUESE_PT" sap:sc="XMSG">
+        <source>Portuguese (Portugal)</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_ROMANIAN" resname="LANGUAGE_POPUP_ROMANIAN" sap:sc="XMSG">
+        <source>Romanian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_RUSSIAN" resname="LANGUAGE_POPUP_RUSSIAN" sap:sc="XMSG">
+        <source>Russian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_SERBIAN" resname="LANGUAGE_POPUP_SERBIAN" sap:sc="XMSG">
+        <source>Serbian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_SLOVAKIAN" resname="LANGUAGE_POPUP_SLOVAKIAN" sap:sc="XMSG">
+        <source>Slovakian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_SLOVENIAN" resname="LANGUAGE_POPUP_SLOVENIAN" sap:sc="XMSG">
+        <source>Slovenian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_SPANISH" resname="LANGUAGE_POPUP_SPANISH" sap:sc="XMSG">
+        <source>Spanish</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_THAI" resname="LANGUAGE_POPUP_THAI" sap:sc="XMSG">
+        <source>Thai</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_TURKISH" resname="LANGUAGE_POPUP_TURKISH" sap:sc="XMSG">
+        <source>Turkish</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_UKRAINIAN" resname="LANGUAGE_POPUP_UKRAINIAN" sap:sc="XMSG">
+        <source>Ukrainian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_VIETNAMESE" resname="LANGUAGE_POPUP_VIETNAMESE" sap:sc="XMSG">
+        <source>Vietnamese</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: We have detected that your browser language is set to {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_BULGARIAN" resname="LANGUAGE_POPUP_LINK_BULGARIAN" sap:sc="XMSG">
+        <source>Bulgarian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_SIMPLIFIED_CHINESE" resname="LANGUAGE_POPUP_LINK_SIMPLIFIED_CHINESE" sap:sc="XMSG">
+        <source>Simplified Chinese</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_TRADITIONAL_CHINESE" resname="LANGUAGE_POPUP_LINK_TRADITIONAL_CHINESE" sap:sc="XMSG">
+        <source>Traditional Chinese</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_CROATIAN" resname="LANGUAGE_POPUP_LINK_CROATIAN" sap:sc="XMSG">
+        <source>Croatian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_CZECH" resname="LANGUAGE_POPUP_LINK_CZECH" sap:sc="XMSG">
+        <source>Czech</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_DUTCH" resname="LANGUAGE_POPUP_LINK_DUTCH" sap:sc="XMSG">
+        <source>Dutch</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_ENGLISH" resname="LANGUAGE_POPUP_LINK_ENGLISH" sap:sc="XMSG">
+        <source>English</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_FINNISH" resname="LANGUAGE_POPUP_LINK_FINNISH" sap:sc="XMSG">
+        <source>Finnish</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_FRENCH" resname="LANGUAGE_POPUP_LINK_FRENCH" sap:sc="XMSG">
+        <source>French</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_GERMAN" resname="LANGUAGE_POPUP_LINK_GERMAN" sap:sc="XMSG">
+        <source>German</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_GREEK" resname="LANGUAGE_POPUP_LINK_GREEK" sap:sc="XMSG">
+        <source>Greek</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_HINDI" resname="LANGUAGE_POPUP_LINK_HINDI" sap:sc="XMSG">
+        <source>Hindi</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_HUNGARIAN" resname="LANGUAGE_POPUP_LINK_HUNGARIAN" sap:sc="XMSG">
+        <source>Hungarian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_INDONESIAN" resname="LANGUAGE_POPUP_LINK_INDONESIAN" sap:sc="XMSG">
+        <source>Indonesian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_ITALIAN" resname="LANGUAGE_POPUP_LINK_ITALIAN" sap:sc="XMSG">
+        <source>Italian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_JAPANESE" resname="LANGUAGE_POPUP_LINK_JAPANESE" sap:sc="XMSG">
+        <source>Japanese</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_KOREAN" resname="LANGUAGE_POPUP_LINK_KOREAN" sap:sc="XMSG">
+        <source>Korean</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_MALAYSIAN" resname="LANGUAGE_POPUP_LINK_MALAYSIAN" sap:sc="XMSG">
+        <source>Malaysian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_NORWEGIAN" resname="LANGUAGE_POPUP_LINK_NORWEGIAN" sap:sc="XMSG">
+        <source>Norwegian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_POLISH" resname="LANGUAGE_POPUP_LINK_POLISH" sap:sc="XMSG">
+        <source>Polish</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_PORTUGUESE_BR" resname="LANGUAGE_POPUP_LINK_PORTUGUESE_BR" sap:sc="XMSG">
+        <source>Portuguese (Brasil)</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_PORTUGUESE_PT" resname="LANGUAGE_POPUP_LINK_PORTUGUESE_PT" sap:sc="XMSG">
+        <source>Portuguese (Portugal)</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_ROMANIAN" resname="LANGUAGE_POPUP_LINK_ROMANIAN" sap:sc="XMSG">
+        <source>Romanian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_RUSSIAN" resname="LANGUAGE_POPUP_LINK_RUSSIAN" sap:sc="XMSG">
+        <source>Russian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_SERBIAN" resname="LANGUAGE_POPUP_LINK_SERBIAN" sap:sc="XMSG">
+        <source>Serbian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_SLOVAKIAN" resname="LANGUAGE_POPUP_LINK_SLOVAKIAN" sap:sc="XMSG">
+        <source>Slovakian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_SLOVENIAN" resname="LANGUAGE_POPUP_LINK_SLOVENIAN" sap:sc="XMSG">
+        <source>Slovenian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_SPANISH" resname="LANGUAGE_POPUP_LINK_SPANISH" sap:sc="XMSG">
+        <source>Spanish</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_THAI" resname="LANGUAGE_POPUP_LINK_THAI" sap:sc="XMSG">
+        <source>Thai</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_TURKISH" resname="LANGUAGE_POPUP_LINK_TURKISH" sap:sc="XMSG">
+        <source>Turkish</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_UKRAINIAN" resname="LANGUAGE_POPUP_LINK_UKRAINIAN" sap:sc="XMSG">
+        <source>Ukrainian</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LANGUAGE_POPUP_LINK_VIETNAMESE" resname="LANGUAGE_POPUP_LINK_VIETNAMESE" sap:sc="XMSG">
+        <source>Vietnamese</source>
+        <note annotates="source" from="Developer">This is {0} variable in that sentence: Show in {0}</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

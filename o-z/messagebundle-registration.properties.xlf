@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-registration.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="790828cf004f258f31412e1bc5005724" form="base64">H4sIAAAAAAAAAIVXUW/bNhB+968gUKDdgNpz0qVrCxiDItOpMJlSJblt+iIwEm0TkUhPlOK5v353lO1Ijoa9BdYd7+677767vCJJ5LDYdxI6ekXStMjlpK64MgWvpVaTppH57MO7m5v304d34+vf1w/jqytxM/7w/o/1ePphOr2eTrOP/Op6NHr1fRnfvSVX19NPo3ngrpaUJWniJT5NI3rnxRAo8QJGZiQSG2kgCkboubV2NEoZ/ZY6rhusWHK2FxVhYk+cLNONqnt+dOl4frp02NxJgugeXGjJZdGzWcXwrjfvWa0MPOrNe3YLL4qTlDlLCgYLWZmaMF6Kno3vPJv4/KXFyLmLKEUAwMAjfFMJQWpN6q0gsRMSR/HiUMvMELfQTX6BwZeVF9F+opH4u5GV6Fs6jAUr9xymJtIQWe50VXNVY7hK8JxwlZNG5QIKwT8xBYCyNORBrHUlSFbI7FGqDXlzgvnNZLApnUZ0S4V60s8Oc2a2Mvyr+xWroQgWNBQ7MMNKBCIGrUT4u8YLAC2lcw9p0jJntkDkaC4vqDKKqbuKvOQ+jWnisbt4duIFiUXWVLI+wB91DXWZrpsbUWB6Gjpx/C2I5jPiAka1ICE3Zq+rvJ96CMYd20jswHjQ1nET76uldxqvXJfGcQrfjgTbcgRbKGKaLBPGrJuiOBCe1fIJYucTEhaCG0EKvZGK7GW9JQfdVCSDhgtVS16YyX8Eo1EURG0oWlW6+kQS/QiRMCQvsP8HIv7ZIXXOYTYCmKKAH0227UQzB+hsSXheStVOp65aEhldPAlLHGlMI3q5fKWRt7g/zWrqBgzmZ9kmh2klW64eMQABspEnUcn1AclmQ/Jjy6qOHkyG2NOVgpY+L1XAEtH1g9U8XQAmoQ/jAcxA5pHZ/0zdCEYI1AEJepxqqlBvbPsuZ7u1tZIzIDTHz8+saV8aIo3Hvjo+KNLJFodYPfFC5oPmfnCXWvn09YYE6uKTx9IFZETnrQE0eHGRGOIDqS3jIxyJVYHXJNOqnS9zaR1GwDMXZiyBoTnKDHq6uiwbhTPGRA1pPhoSVkDmDIauBkqXot8ZGzV15qfJpt/xpaMadQ2HAu6OL5uhl0MaxQFz/NRjiwCMQ5A5DW0GIIFv5eWGGYWfA4btDbdaiQthmEM8z/ERHvd58npGwTJ0GOoxILDj6vCy70eTUz5t88sDgGwdYPAG8zq5wZKkNEGoItAQhLsGAQS65znM4VAyFy7XL3yuh5xckE4sA3o49DkMoAM+FDNHsH7I3W+hBvwLqDvvwxawBOQImEIXNKIMlM+io2qQNyCFWItKKBC9rtO9Nbrv/8gQLqaHHr+FhI59uz0AbQuxu2zfkWFsjgrU0gxjtBRHormDJHfcv+A2ceYp3Cvtps4eld4XIt+g4IHYeyClIH6opENAoVr0FvWRGESBaOA+LiE4KukZ5pvpEGo9xnsKVLjNFgU4a6cts6QxbVp7WRSozE1Rk3WlS/gVgnV19C3Z66bIrfQCjTUp5KNo9TwTEkpSYt9CI56A6kTpWq7PQeybOOo2GoczwexEhgb4hBVvidQGKTZ/doG5AypCLVFihWjoXgCJjrGVoMGm10PA0EkXsHJXEX7/0sBdAnsS1xWIYiPapGxsgJR3XYMw8ZbeD5rermKPtZMT7GpZyp+i9XhojFQXE3ReEc9Bw4Iru6lw262buqku6O77zm0Q4Q3x7OTqouAPusJDwvC1gKRfE1i1sjjYRbvFI+ti4dj7hVrGLuCYxKnFu0WA5wIOyj5JXRqiBew8sbsQVuaw8yWaCF6+2FYdkzRa+W2R9g7QCvJr8O6AQwl0k/zijH+8JXz881fLC9WUD/bn6fjjr5OBN9uru/+osILHSbvGBC5HJDMK0fkJ+JfhdMNQW1Z7CI3+BXgg3s+MDAAA</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:57Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DOCUMENT_TITLE_REGISTRATION" maxwidth="120" resname="DOCUMENT_TITLE_REGISTRATION" sap:sc="XMSG" size-unit="char">
+        <source>Registration</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REGISTER_NEW_ACCOUNT" maxwidth="120" resname="REGISTER_NEW_ACCOUNT" sap:sc="XMSG" size-unit="char">
+        <source>Register New Account</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EMAIL_MANDATORY" maxwidth="120" resname="EMAIL_MANDATORY" sap:sc="XMSG" size-unit="char">
+        <source>Email</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="USER_ID_MANDATORY" maxwidth="120" resname="USER_ID_MANDATORY" sap:sc="XMSG" size-unit="char">
+        <source>User ID</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FIRST_NAME" maxwidth="120" resname="FIRST_NAME" sap:sc="XMSG" size-unit="char">
+        <source>First Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LAST_NAME" maxwidth="120" resname="LAST_NAME" sap:sc="XMSG" size-unit="char">
+        <source>Last Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="AGREEMENT" maxwidth="120" resname="AGREEMENT" sap:sc="XMSG" size-unit="char">
+        <source>I agree to the SAP Analytics Cloud</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REQUIRED_MANDATORY" maxwidth="120" resname="REQUIRED_MANDATORY" sap:sc="XMSG" size-unit="char">
+        <source>Required</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANNOUCEMENT" maxwidth="120" resname="ANNOUCEMENT" sap:sc="XMSG" size-unit="char">
+        <source>It is important to read and understand the terms before clicking 'Register'.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REGISTER" maxwidth="120" resname="REGISTER" sap:sc="XMSG" size-unit="char">
+        <source>Register</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAP_HANA" maxwidth="120" resname="SAP_HANA" sap:sc="XMSG" size-unit="char">
+        <source>SAP HANA</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REQUEST_NEW_USER" maxwidth="120" resname="REQUEST_NEW_USER" sap:sc="XMSG" size-unit="char">
+        <source>Request New User</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FREE_EDITION_TITLE" maxwidth="120" resname="FREE_EDITION_TITLE" sap:sc="XMSG" size-unit="char">
+        <source>Free Edition</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SECURITY_SETINGS" maxwidth="120" resname="SECURITY_SETINGS" sap:sc="XMSG" size-unit="char">
+        <source>Account Security Settings</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CREATE_PASSWORD" maxwidth="120" resname="CREATE_PASSWORD" sap:sc="XMSG" size-unit="char">
+        <source>Create Password</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REPEAT_PASSWORD" maxwidth="120" resname="REPEAT_PASSWORD" sap:sc="XMSG" size-unit="char">
+        <source>Repeat Password</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIVATION_SUCCESS_MSG" maxwidth="120" resname="ACTIVATION_SUCCESS_MSG" sap:sc="XMSG" size-unit="char">
+        <source>User has been successfully activated. Please login with your credentials.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIVATION_ERROR_MSG" maxwidth="120" resname="ACTIVATION_ERROR_MSG" sap:sc="XMSG" size-unit="char">
+        <source>Error: Token has already expired. Please get in touch with your system administrator to resolve the issue.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERIFY_ACCOUNT_CONFIRMATION_MSG" maxwidth="120" resname="VERIFY_ACCOUNT_CONFIRMATION_MSG" sap:sc="XMSG" size-unit="char">
+        <source>Thank you for verifying your account registration.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REQUEST_ACCOUNT" maxwidth="120" resname="REQUEST_ACCOUNT" sap:sc="XMSG" size-unit="char">
+        <source>Request Account</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAP_CLOUD_FOR_PLANNING_NEW" maxwidth="120" resname="SAP_CLOUD_FOR_PLANNING_NEW" sap:sc="XMSG" size-unit="char">
+        <source>SAP Analytics Cloud</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTER_USERNAME" maxwidth="120" resname="ENTER_USERNAME" sap:sc="XMSG" size-unit="char">
+        <source>Enter User Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTER_EMAIL" maxwidth="120" resname="ENTER_EMAIL" sap:sc="XMSG" size-unit="char">
+        <source>Email</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTER_PASSWORD" maxwidth="120" resname="ENTER_PASSWORD" sap:sc="XMSG" size-unit="char">
+        <source>Enter Password</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_PASSWORD" maxwidth="120" resname="INVALID_PASSWORD" sap:sc="XMSG" size-unit="char">
+        <source>Invalid Password</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOG_ON" maxwidth="120" resname="LOG_ON" sap:sc="XMSG" size-unit="char">
+        <source>Log On</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGIN_FAILED" maxwidth="120" resname="LOGIN_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Login Fail</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAP_TERMS" maxwidth="120" resname="SAP_TERMS" sap:sc="XMSG" size-unit="char">
+        <source>SAP Terms &amp; conditions</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAP_PRIVACY_STATEMENT" maxwidth="120" resname="SAP_PRIVACY_STATEMENT" sap:sc="XMSG" size-unit="char">
+        <source>SAP Community Networks Privacy Statement</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TERMS_ADDITION_TEXT" maxwidth="120" resname="TERMS_ADDITION_TEXT" sap:sc="XMSG" size-unit="char">
+        <source>and the</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRIVACY_STATEMENT" maxwidth="120" resname="PRIVACY_STATEMENT" sap:sc="XMSG" size-unit="char">
+        <source>privacy statement</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PERSONAL_INFO" maxwidth="120" resname="PERSONAL_INFO" sap:sc="XMSG" size-unit="char">
+        <source>Personal Information</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PHONE" maxwidth="120" resname="PHONE" sap:sc="XMSG" size-unit="char">
+        <source>Phone</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CREDENTIALS" maxwidth="120" resname="CREDENTIALS" sap:sc="XMSG" size-unit="char">
+        <source>Credentials</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMPANY" maxwidth="120" resname="COMPANY" sap:sc="XMSG" size-unit="char">
+        <source>Company</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTER_COMPANY_INFO" maxwidth="120" resname="ENTER_COMPANY_INFO" sap:sc="XMSG" size-unit="char">
+        <source>Enter my company information</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMPANY_STREET_ADDRESS" maxwidth="120" resname="COMPANY_STREET_ADDRESS" sap:sc="XMSG" size-unit="char">
+        <source>Street Address</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMPANY_STREET_ADDRESS2" maxwidth="120" resname="COMPANY_STREET_ADDRESS2" sap:sc="XMSG" size-unit="char">
+        <source>Street Address2</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMPANY_CITY" maxwidth="120" resname="COMPANY_CITY" sap:sc="XMSG" size-unit="char">
+        <source>City</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMPANY_POSTAL_CODE" maxwidth="120" resname="COMPANY_POSTAL_CODE" sap:sc="XMSG" size-unit="char">
+        <source>Zip/Postal Code</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTACT_PREFERENCES" maxwidth="120" resname="CONTACT_PREFERENCES" sap:sc="XMSG" size-unit="char">
+        <source>Contact Preferences</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="YES" maxwidth="120" resname="YES" sap:sc="XMSG" size-unit="char">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO" maxwidth="120" resname="NO" sap:sc="XMSG" size-unit="char">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTACT_BY_PHONE" maxwidth="120" resname="CONTACT_BY_PHONE" sap:sc="XMSG" size-unit="char">
+        <source>By Telephone</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TERMS_AND_CONDITIONS" maxwidth="120" resname="TERMS_AND_CONDITIONS" sap:sc="XMSG" size-unit="char">
+        <source>Terms and Conditions</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACK_READ_DOC" maxwidth="120" resname="ACK_READ_DOC" sap:sc="XMSG" size-unit="char">
+        <source>I acknowledge that I have read</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMPANY_NAME_MANDATORY" maxwidth="120" resname="COMPANY_NAME_MANDATORY" sap:sc="XMSG" size-unit="char">
+        <source>Company name is mandatory</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTACT_PREFERENCE_STATEMENT" maxwidth="500" resname="CONTACT_PREFERENCE_STATEMENT" sap:sc="XMSG" size-unit="char">
+        <source>In addition to communications that will result from this registration, would you also like to receive news and event notifications from SAP that are specific to your interests?</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GET_STARTED" maxwidth="120" resname="GET_STARTED" sap:sc="XMSG" size-unit="char">
+        <source>Register</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CLOSE" maxwidth="120" resname="CLOSE" sap:sc="XMSG" size-unit="char">
+        <source>Close</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_FEATURE" maxwidth="120" resname="DATA_FEATURE" sap:sc="XMSG" size-unit="char">
+        <source>Quickly get value from your data</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OPTIMIZE_BUSINESS" maxwidth="120" resname="OPTIMIZE_BUSINESS" sap:sc="XMSG" size-unit="char">
+        <source>Optimize your business</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANNING_FEATURE" maxwidth="120" resname="PLANNING_FEATURE" sap:sc="XMSG" size-unit="char">
+        <source>Plan for the future</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COLLABORATE_FEATURE" maxwidth="120" resname="COLLABORATE_FEATURE" sap:sc="XMSG" size-unit="char">
+        <source>Collaborate safely &amp; easily in the cloud</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SECURE_AND_FAST" maxwidth="120" resname="SECURE_AND_FAST" sap:sc="XMSG" size-unit="char">
+        <source>Secure &amp; Fast</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACCEPT" maxwidth="120" resname="ACCEPT" sap:sc="XMSG" size-unit="char">
+        <source>Accept</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TENANT_NAME" maxwidth="120" resname="TENANT_NAME" sap:sc="XMSG" size-unit="char">
+        <source>Team Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TENANT_NAME_RULE" maxwidth="120" resname="TENANT_NAME_RULE" sap:sc="XMSG" size-unit="char">
+        <source>Please only use letters (A-Z, a-z) and numbers (0-9).</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TENANT_EMAIL_RULE" maxwidth="120" resname="TENANT_EMAIL_RULE" sap:sc="XMSG" size-unit="char">
+        <source>Please enter a valid email address.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIVATE" maxwidth="200" resname="ACTIVATE" sap:sc="XMSG" size-unit="char">
+        <source>Activate</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

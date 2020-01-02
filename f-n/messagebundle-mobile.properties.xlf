@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-mobile.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="95b2d262136fe6a597ad10e2194cbfd2" form="base64">H4sIAAAAAAAAAJWSUU/CMBSF3/crbsKr4ERANOGhbCU0jq3ZCuhT07ESloyVdJ2Ef29RE6MOMl97Tr577rntAItRmASIYacDnBdZ3jNalFUhTK7KXl3n2WR8PxyO3PS+2x9s0+7dnRx2x6OHbdcdu27fdTePov/oOJ0XRtgNjAdPAM/4dULoPAoxDyPGkyWlUcywz9d4yhGlzjURJpAgCqgUxcnkmwq8QtUZhMpAUh8OShuZgSohpztVSljLFKZaHSupe98p3K8UPl4R71KKa2LbFCdVa/DlVtSFac4y+s4yQ8uA8RkJGI55QBLGURA4F95tAlQU7TB0OQ2I10j6lCyM1mmRb9rxZmgVxcR+imuiZc7Em9K5kVU7bLQOsd/I/FAscHGCxFikrG6nSuhMK7VvCU/mKD7fj7A5XzQn/2k5n3gntL3jMTc72MuW3WDElmeMF4UMh6y5o1+mc1dSmNpO+zvly8N9knjRCsev/HJ5//DamdGxtOulJ7vcO/9DaDTrAwAA</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:57Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IPHONE_NOT_SUPPORTED_WEB_APP" maxwidth="84" resname="IPHONE_NOT_SUPPORTED_WEB_APP" sap:sc="XTIT" size-unit="char">
+        <source>SAP Analytics Cloud Not Supported on iPhone Web Browser.</source>
+        <note annotates="source" from="Developer">KEY=IPHONE_NOT_SUPPORTED_WEB_APP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DEVICE_NOT_SUPPORTED_WEB_APP" maxwidth="80" resname="DEVICE_NOT_SUPPORTED_WEB_APP" sap:sc="XTIT" size-unit="char">
+        <source>SAP Analytics Cloud Not Supported on your Default Web Browser.</source>
+        <note annotates="source" from="Developer">KEY=DEVICE_NOT_SUPPORTED_WEB_APP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DEFAULT_FILTER_LIST_ALL" maxwidth="60" resname="DEFAULT_FILTER_LIST_ALL" sap:sc="XTIT" size-unit="char">
+        <source>All</source>
+        <note annotates="source" from="Developer">KEY=DEFAULT_FILTER_LIST_ALL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DEFAULT_FILTER_LIST_PUBLIC" maxwidth="60" resname="DEFAULT_FILTER_LIST_PUBLIC" sap:sc="XTIT" size-unit="char">
+        <source>Public</source>
+        <note annotates="source" from="Developer">KEY=DEFAULT_FILTER_LIST_PUBLIC</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DEFAULT_FILTER_LIST_FAVORITE" maxwidth="60" resname="DEFAULT_FILTER_LIST_FAVORITE" sap:sc="XTIT" size-unit="char">
+        <source>Favorites</source>
+        <note annotates="source" from="Developer">KEY=DEFAULT_FILTER_LIST_FAVORITE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DEFAULT_FILTER_LIST_OWNED" maxwidth="60" resname="DEFAULT_FILTER_LIST_OWNED" sap:sc="XTIT" size-unit="char">
+        <source>My Stories/Boardrooms</source>
+        <note annotates="source" from="Developer">KEY=DEFAULT_FILTER_LIST_OWNED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DEFAULT_FILTER_LIST_SHARED_WITH_ME" maxwidth="60" resname="DEFAULT_FILTER_LIST_SHARED_WITH_ME" sap:sc="XTIT" size-unit="char">
+        <source>Shared with me</source>
+        <note annotates="source" from="Developer">KEY=DEFAULT_FILTER_LIST_SHARED_WITH_ME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DEFAULT_FILTER_LIST_FEATURED_CONTENT" maxwidth="60" resname="DEFAULT_FILTER_LIST_FEATURED_CONTENT" sap:sc="XTIT" size-unit="char">
+        <source>Featured</source>
+        <note annotates="source" from="Developer">KEY=DEFAULT_FILTER_LIST_FEATURED_CONTENT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTENT_DISCOVERY_DEFAULT_FILTER_LIST_OWNED" maxwidth="60" resname="CONTENT_DISCOVERY_DEFAULT_FILTER_LIST_OWNED" sap:sc="XTIT" size-unit="char">
+        <source>Owned by me</source>
+        <note annotates="source" from="Developer">KEY=CONTENT_DISCOVERY_DEFAULT_FILTER_LIST_OWNED</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-queryConnectionService.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="cd075ca8c352611060f9d53c81e6291b" form="base64">H4sIAAAAAAAAAL2XUW+bSBCA3/0rRu2LKyXIxnaSVuKBs3HMhQDBdnu5F7TA2l5lvetbIDnudP/9BjCkTdIWyVKlKOyQmf1mZ2eGyXvwVExgyhkVGdzlVBWQZoqJbdp7D2HIE6ZlioiUk4xJoeU5S4yr0WRyMYhG5/p4E50Ph3RyfnVxuTkfXA0G+mAQfyQjvdd7/8ft8voMxoNPYCklFexpmpIthQ2uYyJiyuGRKEYiTtNeYPlesAo/m4Ft/uZYy3BqulPLCeem7VgzY/pCHzaEcZq0lOGgxWT07wzkptUFJg55hiLPafmbJfVRAODGujdegWe26XjX+MKxZ+bK9tzQ8dzr1w6+rWf4nJK0gRJIaMz2hNd47df4iw+ri7+l3kt/KyAgkv5Sl29NF1decN/F71a5cR5zlyogGZQieiYoJts+wndlrv07+E/7Jh19TmK6kDw5KmQ7CiIv9VkMWXGgLw722id3fRv6jjm1Fp5jBWDAO6ptNRiewQQDpelnMNIm735SA4oywTKG4fqH/qgSAst27RVGwf7TauoheNP226p4i/m1XScSvltaq3BuOysrWBrzCgCZ/I73ENGY5HglZUyTQpA9hnTDeHk/O1L+mQrYy4RtGE3O4FDfn6IpzSqToyruH1GobqBCpXm0Z7XGM4psCRNae9jmmOlOPglA1jEFUsppnOHZmdjIOnWfduhFe8eciQfcTWESSOBSbNHoWAZ5xY9I/EBFAvGO4B97ju3etEELS2kZ2m6Vn8bnF5umqYwZFlMCTyzbVQeIc6XKZtvy3yBrsELN2nO0rQvriXGOilkZmipeEiRuqCpWpXWMTBWTuTM7Ax0Tb1nFg4kKTjJs7lGelQ6mVQ1ji2J7KlKs1zouGGeGnmOk4p1gMfauhKUHTgp4oEVd0LPAdpzlCttHuLKmC9eemk5orlYBFusS6+IelXpdlAysTejPjvvf0OLD0fVPMCWHsoccvxYc40/KFOKb84Liaqj1FqYzv7fMIBwai2FHM/0rM91Y4Gfqh4Z/5USV+Yi0u7UZYAkg7O7HsMZGf7bRjTu9k83o2WZk3I062YyfbcbG3fgnJ9pLgXk41MCVWZXczdddqk+wPhYuiSJFH+u8Ret92yVr69+JQHYBfVx86N167mqBYUGhA1k/iTynkarRuGrQuoFCB/ToJPQtUfEO+vhouCMDhQ7c8Ulc86AYhz4+Gu7YQKEDd3LieYvytEVDneBpiw7Ui9NSK8dvdx9/N9gLA4UO2MsTsbxM55w32EvE8g7Yq9PuNt/m2IX7+GzAVwYKHcAfTwIv6SGrv459XDbsjwYKXbrH4CS4h1/jCo2Ltn0MDJS6sE9rXa58PJ4bVy18aKDUBX5a95rR+AjHVQvXDZTebNrkmf9E6YPW+2JZN/iPkV9OwcYXfFXOts8Duj7oOdPQ8y03tGf444frwAldD8c3b+3OcEy1E5w8WFaAr+QjS6rpSD3iI6EZTnZpNV5sZI7DDg4MsRQbts1VPcx/D1NPPuHUc+f2dckQ9fDkHaiwZzD9ZhNoJ/Y0x7GnkDkGWdHKLcLrKayegH6Cw7HU99yl9RUwoOlBCtx8o+T+9VG/t6Pv+Wu/ilL5Bvdbi2bwJDleHu4S4422rsc7Gj8A24AvD/kBIi5xOlTlzEQrwyp0kZJPGFrtfzY4+AVgDwAA</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:57Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REPORT_VARIABLES_CANCEL_FAILED" maxwidth="40" resname="REPORT_VARIABLES_CANCEL_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Cancel variables failed</source>
+        <note annotates="source" from="Developer">Error message for cancel variables</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REPORT_VARIABLES_DIALOG_VALIDATION_LONG" maxwidth="100" resname="REPORT_VARIABLES_DIALOG_VALIDATION_LONG" sap:sc="XMSG" size-unit="char">
+        <source>Please input a decimal value.</source>
+        <note annotates="source" from="Developer">Error text of variable input value validation.   KEY=REPORT_VARIABLES_DIALOG_VALIDATION_LONG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REPORT_VARIABLES_DIALOG_VALIDATION_DATE" maxwidth="100" resname="REPORT_VARIABLES_DIALOG_VALIDATION_DATE" sap:sc="XMSG" size-unit="char">
+        <source>Please input a valid date value.</source>
+        <note annotates="source" from="Developer">Error text of variable input value validation.   KEY=REPORT_VARIABLES_DIALOG_VALIDATION_DATE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="REPORT_VARIABLES_DIALOG_VALIDATION_MANDATORY" maxwidth="100" resname="REPORT_VARIABLES_DIALOG_VALIDATION_MANDATORY" sap:sc="XMSG" size-unit="char">
+        <source>Please enter at least one member for <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">Error text of variable input value validation.   KEY=REPORT_VARIABLES_DIALOG_VALIDATION_MANDATORY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REPORT_VARIABLES_NUM_PLACEHOLER" maxwidth="40" resname="REPORT_VARIABLES_NUM_PLACEHOLER" sap:sc="XMSG" size-unit="char">
+        <source>"e.g. 1, 5, 1.2, 3.5"</source>
+        <note annotates="source" from="Developer">PlaceHolder for the numberic type variable input</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REPORT_VARIABLES_REINITIALIZE_FAILED" maxwidth="40" resname="REPORT_VARIABLES_REINITIALIZE_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Reinitialize variables failed</source>
+        <note annotates="source" from="Developer">Error message for reinitialize variables</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REPORT_VARIABLES_REINITIALIZE_FAILED_RESET_FILTERS" resname="REPORT_VARIABLES_REINITIALIZE_FAILED_RESET_FILTERS" sap:sc="XMSG">
+        <source>Failed to reinitialize variables because the dynamic filter has been modified, please reset the filter to be able to resubmit the variables again.</source>
+        <note annotates="source" from="Developer">Error message for Reinitialize</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_VARIABLE_LINKS_INVALID" resname="LINK_VARIABLE_LINKS_INVALID" sap:sc="XMSG">
+        <source>Variable links associated with the current variable are no longer valid. The selected value will not be set to other linked variables.</source>
+        <note annotates="source" from="Developer">message shown as member selector info text when variable links are no longer valid due to backend change</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DRILLSTATE_TECHNICAL_ATTR_DISPLAYKEY" maxwidth="20" resname="DRILLSTATE_TECHNICAL_ATTR_DISPLAYKEY" sap:sc="XFLD" size-unit="char">
+        <source><ph id="1">{0}</ph> (Display Key)</source>
+        <note annotates="source" from="Developer">Shown in the attribute list of a dimension when it is a technical display key  KEY=DRILLSTATE_TECHNICAL_ATTR_DISPLAYKEY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HALFYEAR_1" resname="HALFYEAR_1" sap:sc="XFLD">
+        <source>H1</source>
+        <note annotates="source" from="Developer">Caption for calendar half-year 1.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HALFYEAR_2" resname="HALFYEAR_2" sap:sc="XFLD">
+        <source>H2</source>
+        <note annotates="source" from="Developer">Caption for calendar half-year 2.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUARTER_1" resname="QUARTER_1" sap:sc="XFLD">
+        <source>Q1</source>
+        <note annotates="source" from="Developer">Caption for calendar quarter 1.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUARTER_2" resname="QUARTER_2" sap:sc="XFLD">
+        <source>Q2</source>
+        <note annotates="source" from="Developer">Caption for calendar quarter 2.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUARTER_3" resname="QUARTER_3" sap:sc="XFLD">
+        <source>Q3</source>
+        <note annotates="source" from="Developer">Caption for calendar quarter 3.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUARTER_4" resname="QUARTER_4" sap:sc="XFLD">
+        <source>Q4</source>
+        <note annotates="source" from="Developer">Caption for calendar quarter 4.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_1" resname="MONTH_1" sap:sc="XFLD">
+        <source>Jan</source>
+        <note annotates="source" from="Developer">Caption for calendar month 1. Note to translator: Use the abbreviated form for the month January (Jan)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_2" resname="MONTH_2" sap:sc="XFLD">
+        <source>Feb</source>
+        <note annotates="source" from="Developer">Caption for calendar month 2. Note to translator: Use the abbreviated form for the month February (Feb)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_3" resname="MONTH_3" sap:sc="XFLD">
+        <source>Mar</source>
+        <note annotates="source" from="Developer">Caption for calendar month 3. Note to translator: Use the abbreviated form for the month March (Mar)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_4" resname="MONTH_4" sap:sc="XFLD">
+        <source>Apr</source>
+        <note annotates="source" from="Developer">Caption for calendar month 4. Note to translator: Use the abbreviated form for the month April (Apr)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_5" resname="MONTH_5" sap:sc="XFLD">
+        <source>May</source>
+        <note annotates="source" from="Developer">Caption for calendar month 5. Note to translator: Use the abbreviated form for the month May (May)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_6" resname="MONTH_6" sap:sc="XFLD">
+        <source>Jun</source>
+        <note annotates="source" from="Developer">Caption for calendar month 6. Note to translator: Use the abbreviated form for the month June (Jun)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_7" resname="MONTH_7" sap:sc="XFLD">
+        <source>Jul</source>
+        <note annotates="source" from="Developer">Caption for calendar month 7. Note to translator: Use the abbreviated form for the month July (Jul)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_8" resname="MONTH_8" sap:sc="XFLD">
+        <source>Aug</source>
+        <note annotates="source" from="Developer">Caption for calendar month 8. Note to translator: Use the abbreviated form for the month August (Aug)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_9" resname="MONTH_9" sap:sc="XFLD">
+        <source>Sep</source>
+        <note annotates="source" from="Developer">Caption for calendar month 9. Note to translator: Use the abbreviated form for the month September (Sep)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_10" resname="MONTH_10" sap:sc="XFLD">
+        <source>Oct</source>
+        <note annotates="source" from="Developer">Caption for calendar month 10. Note to translator: Use the abbreviated form for the month October (Oct)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_11" resname="MONTH_11" sap:sc="XFLD">
+        <source>Nov</source>
+        <note annotates="source" from="Developer">Caption for calendar month 11. Note to translator: Use the abbreviated form for the month November (Nov)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MONTH_12" resname="MONTH_12" sap:sc="XFLD">
+        <source>Dec</source>
+        <note annotates="source" from="Developer">Caption for calendar month 12. Note to translator: Use the abbreviated form for the month December (Dec)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="WEEK_CAPTION" resname="WEEK_CAPTION" sap:sc="XFLD">
+        <source>Week <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Caption for a calendar week.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_OPEN_ID_IDP_URL_NOT_FOUND" maxwidth="120" resname="LC_OPEN_ID_IDP_URL_NOT_FOUND" sap:sc="XMSG" size-unit="char">
+        <source>Identity Provider server details not found in configuration.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_OPEN_ID_INVALID_CONFIG" maxwidth="120" resname="LC_OPEN_ID_INVALID_CONFIG" sap:sc="XMSG" size-unit="char">
+        <source>Invalid OpenID Configuration. Please ensure your credentials are valid.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_OPEN_ID_INVALID_RESPONSE" maxwidth="120" resname="LC_OPEN_ID_INVALID_RESPONSE" sap:sc="XMSG" size-unit="char">
+        <source>Invalid Response from Identity Provider.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_OPEN_ID_POPUP_NOT_OPEN" maxwidth="120" resname="LC_OPEN_ID_POPUP_NOT_OPEN" sap:sc="XMSG" size-unit="char">
+        <source>Unable to authenticate. Please check if Popup blocker is enabled in browser.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

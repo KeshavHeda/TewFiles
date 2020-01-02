@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-liveConnections.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="07fa957dc3d81c1592768a574636a9ce" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:59Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_CANCEL" maxwidth="120" resname="LC_CANCEL" sap:sc="XMSG" size-unit="char">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">KEY=CANCEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_OK" maxwidth="120" resname="LC_OK" sap:sc="XBUT" size-unit="char">
+        <source>OK</source>
+        <note annotates="source" from="Developer">KEY=OK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LC_NEW_REMOTE_CONNECTION" maxwidth="120" resname="LC_NEW_REMOTE_CONNECTION" sap:sc="XMSG" size-unit="char">
+        <source>New <ph id="1">{0}</ph> Live Connection</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LC_EDIT_REMOTE_CONNECTION" maxwidth="120" resname="LC_EDIT_REMOTE_CONNECTION" sap:sc="XMSG" size-unit="char">
+        <source>Edit <ph id="1">{0}</ph> Live Connection</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_NAME" maxwidth="120" resname="LC_SYSTEM_NAME" sap:sc="XMSG" size-unit="char">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_DESCRIPTION" resname="LC_SYSTEM_DESCRIPTION" sap:sc="XFLD">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Description of remote connection being added</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CREDENTIALS" resname="LC_SYSTEM_CREDENTIALS" sap:sc="XFLD">
+        <source>Credentials</source>
+        <note annotates="source" from="Developer">Header of credentials section of dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CONNECTION_TYPE" maxwidth="120" resname="LC_SYSTEM_CONNECTION_TYPE" sap:sc="XMSG" size-unit="char">
+        <source>Connection Type</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_AUTHENTICATION_METHOD" maxwidth="120" resname="LC_SYSTEM_AUTHENTICATION_METHOD" sap:sc="XMSG" size-unit="char">
+        <source>Authentication Method</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_HANA" maxwidth="120" resname="LC_SYSTEM_TYPE_HANA" sap:sc="XMSG" size-unit="char">
+        <source>HANA</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_S4HANA" maxwidth="120" resname="LC_SYSTEM_TYPE_S4HANA" sap:sc="XMSG" size-unit="char">
+        <source>S/4HANA</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_BW" maxwidth="120" resname="LC_SYSTEM_TYPE_BW" sap:sc="XMSG" size-unit="char">
+        <source>BW</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_UNV" maxwidth="120" resname="LC_SYSTEM_TYPE_UNV" sap:sc="XMSG" size-unit="char">
+        <source>Universe</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_SFSF" maxwidth="120" resname="LC_SYSTEM_TYPE_SFSF" sap:sc="XMSG" size-unit="char">
+        <source>SuccessFactors</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_CONCUR" maxwidth="120" resname="LC_SYSTEM_TYPE_CONCUR" sap:sc="XMSG" size-unit="char">
+        <source>Concur</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_BPC" maxwidth="120" resname="LC_SYSTEM_TYPE_BPC" sap:sc="XMSG" size-unit="char">
+        <source>BPC</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_HOST" maxwidth="120" resname="LC_SYSTEM_HOST" sap:sc="XMSG" size-unit="char">
+        <source>Host</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_PORT" maxwidth="120" resname="LC_SYSTEM_PORT" sap:sc="XMSG" size-unit="char">
+        <source>HTTPS Port</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_LANDSCAPE_HOST" resname="LC_SYSTEM_LANDSCAPE_HOST" sap:sc="XFLD">
+        <source>Landscape Host</source>
+        <note annotates="source" from="Developer">Label for input field where user specifies which SAP Cloud Platform landscape host to use</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CLIENT" maxwidth="120" resname="LC_SYSTEM_CLIENT" sap:sc="XMSG" size-unit="char">
+        <source>Client:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_ALIAS" maxwidth="120" resname="LC_SYSTEM_ALIAS" sap:sc="XMSG" size-unit="char">
+        <source>Target System Alias</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_ALIAS_HELP" maxwidth="120" resname="LC_SYSTEM_ALIAS_HELP" sap:sc="XMSG" size-unit="char">
+        <source>For connecting to S/4HANA through a front-end server, this value is mandatory. Otherwise, leave it empty.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_PATH_PREFIX" maxwidth="120" resname="LC_SYSTEM_PATH_PREFIX" sap:sc="XMSG" size-unit="char">
+        <source>Path Prefix</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_DATABASE" resname="LC_SYSTEM_DATABASE" sap:sc="XFLD">
+        <source>Database Name</source>
+        <note annotates="source" from="Developer">Label for field where user specifies the database or schema name to connect to on their SAP Cloud Platform account</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_HCP_ACCOUNT" resname="LC_SYSTEM_HCP_ACCOUNT" sap:sc="XFLD">
+        <source>SAP Cloud Platform Account</source>
+        <note annotates="source" from="Developer">The SAP Cloud Platform account the connection will use</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_SAML_PROVIDER_NAME" resname="LC_SYSTEM_SAML_PROVIDER_NAME" sap:sc="XFLD">
+        <source>SAML Provider Name</source>
+        <note annotates="source" from="Developer">The SAML provider name of the customer's HANA MDC on SAP Cloud Platform</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_OAUTH_SCOPE" resname="LC_SYSTEM_OAUTH_SCOPE" sap:sc="XFLD">
+        <source>OAuth Scope</source>
+        <note annotates="source" from="Developer">The OAuth scope name for S4HANA connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_OAUTH_TOKEN_USER" resname="LC_SYSTEM_OAUTH_TOKEN_USER" sap:sc="XFLD">
+        <source>Token Service User</source>
+        <note annotates="source" from="Developer">The OAuth token service user name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_OAUTH_TOKEN_PASSWORD" resname="LC_SYSTEM_OAUTH_TOKEN_PASSWORD" sap:sc="XFLD">
+        <source>Token Service Password</source>
+        <note annotates="source" from="Developer">The OAuth token service password</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_OAUTH_TOKEN_ENDPOINT" resname="LC_SYSTEM_OAUTH_TOKEN_ENDPOINT" sap:sc="XFLD">
+        <source>Token Endpoint</source>
+        <note annotates="source" from="Developer">The OAuth token endpoint</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_OPENID_CLIENT_ID" resname="LC_SYSTEM_OPENID_CLIENT_ID" sap:sc="XFLD">
+        <source>Client ID</source>
+        <note annotates="source" from="Developer">The OAuth token service user name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_OPENID_CLIENT_SECRET" resname="LC_SYSTEM_OPENID_CLIENT_SECRET" sap:sc="XFLD">
+        <source>Client Secret</source>
+        <note annotates="source" from="Developer">The OAuth token service password</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_BEARER_AUDIENCE" resname="LC_SYSTEM_BEARER_AUDIENCE" sap:sc="XFLD">
+        <source>Audience</source>
+        <note annotates="source" from="Developer">The OAuth 2 Saml Bearer Assertion Audience</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CONNECTION_TYPE_DIRECT" maxwidth="120" resname="LC_SYSTEM_CONNECTION_TYPE_DIRECT" sap:sc="XMSG" size-unit="char">
+        <source>Direct</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CONNECTION_TYPE_PATH" maxwidth="120" resname="LC_SYSTEM_CONNECTION_TYPE_PATH" sap:sc="XMSG" size-unit="char">
+        <source>Path</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CONNECTION_TYPE_HCP" resname="LC_SYSTEM_CONNECTION_TYPE_HCP" sap:sc="XRBL">
+        <source>SAP Cloud Platform</source>
+        <note annotates="source" from="Developer">Connection type for SAP Cloud Platform</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CONNECTION_TYPE_S4HANA_CLOUD" resname="LC_SYSTEM_CONNECTION_TYPE_S4HANA_CLOUD" sap:sc="XRBL">
+        <source>SAP S/4HANA Cloud</source>
+        <note annotates="source" from="Developer">Connection type for SAP S/4HANA Cloud edition</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_LANGUAGE" maxwidth="120" resname="LC_SYSTEM_LANGUAGE" sap:sc="XMSG" size-unit="char">
+        <source>Language</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_DEFAULT_LANGUAGE" maxwidth="120" resname="LC_SYSTEM_DEFAULT_LANGUAGE" sap:sc="XMSG" size-unit="char">
+        <source>Default Language</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_LANGUAGE_HELPER_TEXT" maxwidth="120" resname="LC_SYSTEM_LANGUAGE_HELPER_TEXT" sap:sc="XMSG" size-unit="char">
+        <source>User's preferred language</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_USER_NAME" maxwidth="120" resname="LC_SYSTEM_USER_NAME" sap:sc="XMSG" size-unit="char">
+        <source>User Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_PASSWORD" maxwidth="120" resname="LC_SYSTEM_PASSWORD" sap:sc="XMSG" size-unit="char">
+        <source>Password</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_QUERY_BUILDER" maxwidth="120" resname="LC_SYSTEM_QUERY_BUILDER" sap:sc="XMSG" size-unit="char">
+        <source>Query Builder</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_QUERY_BUILDER_APP_ID" maxwidth="120" resname="LC_SYSTEM_QUERY_BUILDER_APP_ID" sap:sc="XMSG" size-unit="char">
+        <source>Application Id:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_SAVE_CREDENTIAL" maxwidth="120" resname="LC_SYSTEM_SAVE_CREDENTIAL" sap:sc="XMSG" size-unit="char">
+        <source>Save this credential for all users on this system.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_SAVE_CREDENTIAL_WARNING" resname="LC_SYSTEM_SAVE_CREDENTIAL_WARNING" sap:sc="XMSG">
+        <source>This option will allow all users to run any queries against the data this account is authorized for. The credentials will not be visible to other users.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SYSTEM_NAME" maxwidth="120" resname="LC_INVALID_SYSTEM_NAME" sap:sc="XMSG" size-unit="char">
+        <source>Invalid name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_DUPLICATE_SYSTEM_NAME" maxwidth="120" resname="LC_DUPLICATE_SYSTEM_NAME" sap:sc="XMSG" size-unit="char">
+        <source>Duplicate name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SYSTEM_HOST" maxwidth="120" resname="LC_INVALID_SYSTEM_HOST" sap:sc="XMSG" size-unit="char">
+        <source>Invalid host</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SYSTEM_PORT" maxwidth="120" resname="LC_INVALID_SYSTEM_PORT" sap:sc="XMSG" size-unit="char">
+        <source>Invalid port</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SYSTEM_CLIENT" maxwidth="120" resname="LC_INVALID_SYSTEM_CLIENT" sap:sc="XMSG" size-unit="char">
+        <source>Invalid client</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SYSTEM_ALIAS" maxwidth="120" resname="LC_INVALID_SYSTEM_ALIAS" sap:sc="XMSG" size-unit="char">
+        <source>Invalid backend alias</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SYSTEM_PATH" maxwidth="120" resname="LC_INVALID_SYSTEM_PATH" sap:sc="XMSG" size-unit="char">
+        <source>Invalid path</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SYSTEM_PATH_LCS" maxwidth="120" resname="LC_INVALID_SYSTEM_PATH_LCS" sap:sc="XMSG" size-unit="char">
+        <source>Invalid path with prefix /lcs/</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_HCP_ACCOUNT" resname="LC_INVALID_HCP_ACCOUNT" sap:sc="XMSG">
+        <source>Invalid SAP Cloud Platform account</source>
+        <note annotates="source" from="Developer">User has entered an invalid SAP Cloud Platform account</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_DATABASE_NAME" resname="LC_INVALID_DATABASE_NAME" sap:sc="XMSG">
+        <source>Invalid database name</source>
+        <note annotates="source" from="Developer">User has entered an invalid database name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SAML_PROVIDER_NAME" resname="LC_INVALID_SAML_PROVIDER_NAME" sap:sc="XMSG">
+        <source>SAML provider name cannot be empty</source>
+        <note annotates="source" from="Developer">User has not entered a SAML provider name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LC_INVALID_SYSTEM_S4HANACLOUD_IDP_MODE" resname="LC_INVALID_SYSTEM_S4HANACLOUD_IDP_MODE" sap:sc="XMSG">
+        <source>Adding this type of connection first requires an S/4HANA Cloud Identity Provider to be configured in <ph id="1">{0}</ph> &gt; <ph id="2">{1}</ph> &gt; <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">User needs to navigate to System &gt; Administration &gt; Security to run the SAML Self Serve before selecting this type of connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SYSTEM_LANGUAGE" maxwidth="120" resname="LC_INVALID_SYSTEM_LANGUAGE" sap:sc="XMSG" size-unit="char">
+        <source>Invalid language</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SYSTEM_USER_NAME" maxwidth="120" resname="LC_INVALID_SYSTEM_USER_NAME" sap:sc="XMSG" size-unit="char">
+        <source>Invalid user name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_SYSTEM_PASSWORD" maxwidth="120" resname="LC_INVALID_SYSTEM_PASSWORD" sap:sc="XMSG" size-unit="char">
+        <source>Invalid password</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_TOKEN_SERVICE_USER" maxwidth="120" resname="LC_INVALID_TOKEN_SERVICE_USER" sap:sc="XMSG" size-unit="char">
+        <source>Invalid token service username</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_INVALID_TOKEN_SERVICE_PASSWORD" maxwidth="120" resname="LC_INVALID_TOKEN_SERVICE_PASSWORD" sap:sc="XMSG" size-unit="char">
+        <source>Invalid token service password</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_CONNECT_TO_SYSTEM_FAILED" maxwidth="120" resname="LC_CONNECT_TO_SYSTEM_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Failed to connect to system.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_UNABLE_TO_AUTHENTICATE" maxwidth="120" resname="LC_UNABLE_TO_AUTHENTICATE" sap:sc="XMSG" size-unit="char">
+        <source>Unable to authenticate. Please ensure your credentials are valid.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_UNABLE_TO_SAVE_CREDENTIAL" maxwidth="120" resname="LC_UNABLE_TO_SAVE_CREDENTIAL" sap:sc="XMSG" size-unit="char">
+        <source>Unable to save the credential. Please contact SAP Support for assistance.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SECURITY_TAB" maxwidth="120" resname="LC_SECURITY_TAB" sap:sc="XTBS" size-unit="char">
+        <source>Security</source>
+        <note annotates="source" from="Developer">Label for security tab in the adming tab strip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_OAUTH_IDENTITY_PROVIDER_CONFIGURATION" resname="LC_OAUTH_IDENTITY_PROVIDER_CONFIGURATION" sap:sc="XMSG">
+        <source>OAuth 2.0 Identity Provider Configuration</source>
+        <note annotates="source" from="Developer">OAuth 2.0 Identity Provider Configuration for S/4HANA</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_OAUTH_IDENTITY_PROVIDER_TEXT" resname="LC_OAUTH_IDENTITY_PROVIDER_TEXT" sap:sc="XMSG">
+        <source>Copy the Provider Name below and download the signing certificate. You will need this information to configure your S/4HANA Cloud system.</source>
+        <note annotates="source" from="Developer">OAuth 2.0 Identity Provider Configuration for S/4HANA</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_DOWNLOAD_SIGNING_CERTIFICATE" resname="LC_DOWNLOAD_SIGNING_CERTIFICATE" sap:sc="XBUT">
+        <source>Download Signing Certificate</source>
+        <note annotates="source" from="Developer">This is shown to user so they can download signing certificate from S/4HANA to set up trust</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_PROVIDER_NAME_S4HANA" resname="LC_SYSTEM_PROVIDER_NAME_S4HANA" sap:sc="XFLD">
+        <source>Provider Name:</source>
+        <note annotates="source" from="Developer">Saml Provider Name for set up S/4HANA live connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SAML_PROVIDER_NAME_UNAVAILABLE" resname="LC_SAML_PROVIDER_NAME_UNAVAILABLE" sap:sc="XMSG">
+        <source>We were unable to retrieve provider name from our server. Please contact SAP Support for assistance.</source>
+        <note annotates="source" from="Developer">Message shown to user if Saml Provider Name cannot be retrieved from App Router</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_DOWNLOAD_METADATA" resname="LC_DOWNLOAD_METADATA" sap:sc="XBUT">
+        <source>Download Metadata</source>
+        <note annotates="source" from="Developer">This is shown to user so they can download metadata to set up trust</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_DOWNLOAD_METADATA_EXCEPTION" resname="LC_DOWNLOAD_METADATA_EXCEPTION" sap:sc="XMSG">
+        <source>We were unable to retrieve the metadata information from our server. Please contact SAP Support for assistance.</source>
+        <note annotates="source" from="Developer">Message shown to user if metadata cannot be downloaded from TMS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CREDENTIALS_LOGIN" resname="LC_SYSTEM_CREDENTIALS_LOGIN" sap:sc="XRBL">
+        <source>User Name and Password</source>
+        <note annotates="source" from="Developer">Use normal credential based login for connecting to remote HCP database</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CREDENTIALS_SSO" resname="LC_SYSTEM_CREDENTIALS_SSO" sap:sc="XRBL">
+        <source>SAML Single Sign On</source>
+        <note annotates="source" from="Developer">Use SAML Sign-On as the authentication method for connecting to remote HCP database</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CREDENTIALS_SSO_AUTO_CLOSE" resname="LC_SYSTEM_CREDENTIALS_SSO_AUTO_CLOSE" sap:sc="XRBL">
+        <source>SAML Single Sign On (Standard-Compliant)</source>
+        <note annotates="source" from="Developer">Use SAML Sign-On as the authentication method for connecting to remote HCP database</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CREDENTIALS_OPEN_ID" resname="LC_SYSTEM_CREDENTIALS_OPEN_ID" sap:sc="XRBL">
+        <source>OpenID Connect</source>
+        <note annotates="source" from="Developer">Use OpenID Connect as the authentication method for connecting to remote HCP database</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CREDENTIALS_OAUTH" resname="LC_SYSTEM_CREDENTIALS_OAUTH" sap:sc="XRBL">
+        <source>OAuth 2 SAML Bearer Assertion</source>
+        <note annotates="source" from="Developer">Use OAuth 2.0 SAML Bearer Assertion as the authentication method for connecting to remote S/4HANA database</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_CREDENTIALS_NONE" resname="LC_SYSTEM_CREDENTIALS_NONE" sap:sc="XRBL">
+        <source>None</source>
+        <note annotates="source" from="Developer">Don't use any authentication for the connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LC_SYSTEM_CREDENTIALS_HELP" resname="LC_SYSTEM_CREDENTIALS_HELP" sap:sc="XMSG">
+        <source>Follow these steps to <ph id="1">{0}</ph> with your data source.</source>
+        <note annotates="source" from="Developer">Help with setting up SSO. {0} will be replaced with a link to the help page.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_SETUP_CONNECTION" resname="LC_SYSTEM_SETUP_CONNECTION" sap:sc="XLNK">
+        <source>setup a connection</source>
+        <note annotates="source" from="Developer">Link for Setup Connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_SETUP_SINGLE_SIGN_ON" resname="LC_SYSTEM_SETUP_SINGLE_SIGN_ON" sap:sc="XLNK">
+        <source>setup Single Sign On</source>
+        <note annotates="source" from="Developer">Link for Setup Single Sign On</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_LANDSCAPE_EXCEPTION" resname="LC_LANDSCAPE_EXCEPTION" sap:sc="XMSG">
+        <source>Unable to load available SAP Cloud Platform landscapes.</source>
+        <note annotates="source" from="Developer">Shown to user when we're unable to retrieve the list of available SAP Cloud Platform landscapes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE_EU1" resname="LC_HCP_LANDSCAPE_EU1" sap:sc="XMSG">
+        <source>Europe</source>
+        <note annotates="source" from="Developer">The name of the EU1/Europe SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE_US1" resname="LC_HCP_LANDSCAPE_US1" sap:sc="XMSG">
+        <source>US East</source>
+        <note annotates="source" from="Developer">The name of the US1/US East SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE_US2" resname="LC_HCP_LANDSCAPE_US2" sap:sc="XMSG">
+        <source>US West</source>
+        <note annotates="source" from="Developer">The name of the US2/US West SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE_AP1" resname="LC_HCP_LANDSCAPE_AP1" sap:sc="XMSG">
+        <source>Australia</source>
+        <note annotates="source" from="Developer">The name of the AP1/Asia Pacific/Australia SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE_CN1" resname="LC_HCP_LANDSCAPE_CN1" sap:sc="XMSG">
+        <source>China</source>
+        <note annotates="source" from="Developer">The name of the CN1/China SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE_JP1" resname="LC_HCP_LANDSCAPE_JP1" sap:sc="XMSG">
+        <source>Japan</source>
+        <note annotates="source" from="Developer">The name of the JP1/Japan SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE_EU_TRIAL" resname="LC_HCP_LANDSCAPE_EU_TRIAL" sap:sc="XMSG">
+        <source>Trial</source>
+        <note annotates="source" from="Developer">The name of the trial SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__EU1" resname="LC_HCP_LANDSCAPE__EU1" sap:sc="XMSG">
+        <source>Europe (Rot)</source>
+        <note annotates="source" from="Developer">The name of the EU1/Europe SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__US1" resname="LC_HCP_LANDSCAPE__US1" sap:sc="XMSG">
+        <source>US East (Ashburn)</source>
+        <note annotates="source" from="Developer">The name of the US1/US East SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__US2" resname="LC_HCP_LANDSCAPE__US2" sap:sc="XMSG">
+        <source>US West (Chandler)</source>
+        <note annotates="source" from="Developer">The name of the US2/US West SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__US3" resname="LC_HCP_LANDSCAPE__US3" sap:sc="XMSG">
+        <source>US East (Sterling)</source>
+        <note annotates="source" from="Developer">The name of the US3/US West SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__AP1" resname="LC_HCP_LANDSCAPE__AP1" sap:sc="XMSG">
+        <source>Australia (Sydney)</source>
+        <note annotates="source" from="Developer">The name of the AP1/Asia Pacific/Australia SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__CN1" resname="LC_HCP_LANDSCAPE__CN1" sap:sc="XMSG">
+        <source>China (Shanghai)</source>
+        <note annotates="source" from="Developer">The name of the CN1/China SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__JP1" resname="LC_HCP_LANDSCAPE__JP1" sap:sc="XMSG">
+        <source>Japan (Tokyo)</source>
+        <note annotates="source" from="Developer">The name of the JP1/Japan SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__EU_TRIAL" resname="LC_HCP_LANDSCAPE__EU_TRIAL" sap:sc="XMSG">
+        <source>Europe (Rot) - Trial</source>
+        <note annotates="source" from="Developer">The name of the trial SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__CA1" resname="LC_HCP_LANDSCAPE__CA1" sap:sc="XMSG">
+        <source>Canada (Toronto)</source>
+        <note annotates="source" from="Developer">The name of the CA1/Canada SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__BR1" resname="LC_HCP_LANDSCAPE__BR1" sap:sc="XMSG">
+        <source>Brazil (Sao Paulo)</source>
+        <note annotates="source" from="Developer">The name of the BR1/Brazil SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__EU3" resname="LC_HCP_LANDSCAPE__EU3" sap:sc="XMSG">
+        <source>Europe (Amsterdam)</source>
+        <note annotates="source" from="Developer">The name of the EU3/Europe Amsterdam SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_CONNECTION_DETAILS" resname="LC_CONNECTION_DETAILS" sap:sc="XTIT">
+        <source>Connection Details</source>
+        <note annotates="source" from="Developer">Title for connection details section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__EU2" resname="LC_HCP_LANDSCAPE__EU2" sap:sc="XMSG">
+        <source>Europe (Frankfurt)</source>
+        <note annotates="source" from="Developer">The name of the EU2/EU SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__SA1" resname="LC_HCP_LANDSCAPE__SA1" sap:sc="XMSG">
+        <source>Kingdom of Saudi Arabia (Riyadh)</source>
+        <note annotates="source" from="Developer">The name of the SA1/SA SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__RU1" resname="LC_HCP_LANDSCAPE__RU1" sap:sc="XMSG">
+        <source>Russia (Moscow)</source>
+        <note annotates="source" from="Developer">The name of the RU1/RU SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_HCP_LANDSCAPE__AE1" resname="LC_HCP_LANDSCAPE__AE1" sap:sc="XMSG">
+        <source>UAE (Dubai)</source>
+        <note annotates="source" from="Developer">The name of the AE1/AE SAP Cloud Platform landscape</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_CALLIDUS" maxwidth="120" resname="LC_SYSTEM_TYPE_CALLIDUS" sap:sc="XMSG" size-unit="char">
+        <source>Callidus</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_DWC" maxwidth="120" resname="LC_SYSTEM_TYPE_DWC" sap:sc="XMSG" size-unit="char">
+        <source>DWC</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_DATA_MART" maxwidth="120" resname="LC_SYSTEM_TYPE_DATA_MART" sap:sc="XMSG" size-unit="char">
+        <source>Data Mart</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_EXTENDED_HANA" maxwidth="120" resname="LC_SYSTEM_TYPE_EXTENDED_HANA" sap:sc="XMSG" size-unit="char">
+        <source>Extended HANA</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_ARIBA" maxwidth="120" resname="LC_SYSTEM_TYPE_ARIBA" sap:sc="XMSG" size-unit="char">
+        <source>Ariba</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_FIELDGLASS" maxwidth="120" resname="LC_SYSTEM_TYPE_FIELDGLASS" sap:sc="XMSG" size-unit="char">
+        <source>Fieldglass</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_C4C" maxwidth="120" resname="LC_SYSTEM_TYPE_C4C" sap:sc="XMSG" size-unit="char">
+        <source>C4C</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SYSTEM_TYPE_S4HANA_LIVE_INTEGRATION" maxwidth="120" resname="LC_SYSTEM_TYPE_S4HANA_LIVE_INTEGRATION" sap:sc="XMSG" size-unit="char">
+        <source>Extended HANA</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_LOCATION_ID" resname="LC_LOCATION_ID" sap:sc="XMSG">
+        <source>Location ID</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SSO_FOR_MOBILE" resname="LC_SSO_FOR_MOBILE" sap:sc="XMSG">
+        <source>Enable Single Sign-on for mobile app users</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_ENABLE_STORY_PUBLISHING" resname="LC_ENABLE_STORY_PUBLISHING" sap:sc="XMSG">
+        <source>Let users set up a schedule for publishing stories</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_VIRTUAL_HOST" resname="LC_VIRTUAL_HOST" sap:sc="XRBL">
+        <source>Virtual Host</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_PORT" resname="LC_PORT" sap:sc="XRBL">
+        <source>Port</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SCC_USER_ID" resname="LC_SCC_USER_ID" sap:sc="XRBL">
+        <source>User ID</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_ADVANCED_FEATURES" resname="LC_ADVANCED_FEATURES" sap:sc="XTIT">
+        <source>Advanced Features</source>
+        <note annotates="source" from="Developer">Section label in remote connection dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_OPTIONAL" resname="LC_OPTIONAL" sap:sc="XFLD">
+        <source>Optional</source>
+        <note annotates="source" from="Developer">Label letting users know that Advanced Features section is optional</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SCC_DATA_INFO" resname="LC_SCC_DATA_INFO" sap:sc="XMSG">
+        <source>By enabling an optional functionality above, data from the connected source will be securely transferred thorugh the SAP Cloud Platform.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LC_SCC_MOBILE_SSO_DESC" resname="LC_SCC_MOBILE_SSO_DESC" sap:sc="XMSG">
+        <source>Mobile app users will be able to use this connection without providing additional credentials. <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Short description regarding enabling mobile sso during remote connection creation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SCC_SCHEDULING_BASIC_DESC" resname="LC_SCC_SCHEDULING_BASIC_DESC" sap:sc="XMSG">
+        <source>The credentials you provide will be used to retrieve the data, no matter which user schedules the story publishing</source>
+        <note annotates="source" from="Developer">Short description for story publishing Direct Basic case</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SCC_SCHEDULING_SSO_DESC" resname="LC_SCC_SCHEDULING_SSO_DESC" sap:sc="XMSG">
+        <source>The credentials of the user who schedules the story publishing will be used to retrieve the data</source>
+        <note annotates="source" from="Developer">Short description for story publishing Direct SSO case</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SCC_DOWNLOAD_METADATA_DESC" resname="LC_SCC_DOWNLOAD_METADATA_DESC" sap:sc="XMSG">
+        <source>You will need to import this metadata into your SAP HANA system as a SAML Identity Provider.</source>
+        <note annotates="source" from="Developer">Some information on why users need to download metadata for HANA</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_LEARN_MORE" resname="LC_LEARN_MORE" sap:sc="XLNK">
+        <source>Learn More</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LC_VIRTUAL_HOST_HELP_MSG" resname="LC_VIRTUAL_HOST_HELP_MSG" sap:sc="XMSG">
+        <source>You will need to specify the virtual host that is mapped to your on-premise system. This depends on the settings in your selected location. More info can be found through your <ph id="1">{0}</ph> account.</source>
+        <note annotates="source" from="Developer">Help text in a popover for SAP Cloud Connector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LC_SCC_HELP_MSG" resname="LC_SCC_HELP_MSG" sap:sc="XMSG">
+        <source>Mobile app users will be able to use this connection without providing additional credentials. Please note that your data from the connected datasource will be transferred through the SAP Cloud Platform. Learn more about the <ph id="1">{0}</ph> in our Help Center.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LC_SCC_HELP_CENTER_MSG" resname="LC_SCC_HELP_CENTER_MSG" sap:sc="XMSG">
+        <source>Find out more about the mapping information on the <ph id="1">{0}</ph>.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LC_SCC_HELP_CENTER_MSG_2" resname="LC_SCC_HELP_CENTER_MSG_2" sap:sc="XMSG">
+        <source>To enable single sign-ons for mobile app users, please specify the virtual host that is mapped to your <ph id="1">{0}</ph> datasource. Find out more about the mapping information on the <ph id="2">{1}</ph>.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_ASSOCIATED_HANA_SYSTEM" maxwidth="120" resname="LC_ASSOCIATED_HANA_SYSTEM" sap:sc="XMSG" size-unit="char">
+        <source>Associated Hana System</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_NO_SELECTION_DROPDOWN_OPTION" maxwidth="120" resname="LC_NO_SELECTION_DROPDOWN_OPTION" sap:sc="XMSG" size-unit="char">
+        <source>No selection</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EDIT_ATTEMPT_SCC_DISABLED" resname="EDIT_ATTEMPT_SCC_DISABLED" sap:sc="XMSG">
+        <source>Advanced Features have been disabled by your administrator. Please contact your administrator or edit the connection details and try again.</source>
+        <note annotates="source" from="Developer">Could not edit connection due to settings changed by administrator</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SCC_FAILED_CONNECT" resname="LC_SCC_FAILED_CONNECT" sap:sc="XMSG">
+        <source>We could not validate your settings for advanced features. Please double check with your administrator that Advanced Features have been enabled or edit the connection details and try again.</source>
+        <note annotates="source" from="Developer">Could not validate that the advanced features has been setup properly</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

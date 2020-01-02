@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-validation.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="7238ab71c10f268adf08f67d1fc23785" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:57Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_MODEL_OVERVIEW" maxwidth="40" resname="TOOLBAR_MODEL_OVERVIEW" sap:sc="XFLD" size-unit="char">
+        <source>Model</source>
+        <note annotates="source" from="Developer">Is used for label in validation toolbar segment button KEY=TOOLBAR_MODEL_OVERVIEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_DATA_MANAGEMENT" maxwidth="40" resname="TOOLBAR_DATA_MANAGEMENT" sap:sc="XFLD" size-unit="char">
+        <source>Data Management</source>
+        <note annotates="source" from="Developer">Is used for label in validation toolbar segment button KEY=TOOLBAR_DATA_MANAGEMENT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_RULES" maxwidth="40" resname="TOOLBAR_RULES" sap:sc="XFLD" size-unit="char">
+        <source>Rules</source>
+        <note annotates="source" from="Developer">Is used for label in validation toolbar segment button KEY=TOOLBAR_RULES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_DISPLAY" maxwidth="40" resname="TOOLBAR_DISPLAY" sap:sc="XFLD" size-unit="char">
+        <source>Display</source>
+        <note annotates="source" from="Developer">Is used for label in validation toolbar KEY=TOOLBAR_DISPLAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_DISPLAY_HIDDEN" maxwidth="80" resname="TOOLBAR_DISPLAY_HIDDEN" sap:sc="XFLD" size-unit="char">
+        <source>Show Options for Reference Dimension</source>
+        <note annotates="source" from="Developer">Is used for label in validation toolbar KEY=TOOLBAR_DISPLAY_HIDDEN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_DISPLAY_OPTION_DESCRIPTION" maxwidth="40" resname="TOOLBAR_DISPLAY_OPTION_DESCRIPTION" sap:sc="XFLD" size-unit="char">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Is used for displayed option in validation toolbar KEY=TOOLBAR_DISPLAY_OPTION_DESCRIPTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_DISPLAY_OPTION_ID" maxwidth="40" resname="TOOLBAR_DISPLAY_OPTION_ID" sap:sc="XFLD" size-unit="char">
+        <source>ID</source>
+        <note annotates="source" from="Developer">Is used for label in validation toolbar KEY=TOOLBAR_DISPLAY_OPTION_ID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_BUTTON_DETAILS" maxwidth="40" resname="TOOLBAR_BUTTON_DETAILS" sap:sc="XFLD" size-unit="char">
+        <source>Details</source>
+        <note annotates="source" from="Developer">Is used for button in validation toolbar KEY=TOOLBAR_BUTTON_DETAILS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_DISPLAY_TOOLTIP" maxwidth="80" resname="TOOLBAR_DISPLAY_TOOLTIP" sap:sc="XTIT" size-unit="char">
+        <source>Display ID or Description</source>
+        <note annotates="source" from="Developer">Is used as tooltip for the toolbar display  KEY=TOOLBAR_DISPLAY_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_SHOW_ID_TOOLTIP" maxwidth="80" resname="TOOLBAR_SHOW_ID_TOOLTIP" sap:sc="XTIT" size-unit="char">
+        <source>Show id for reference dimension</source>
+        <note annotates="source" from="Developer">Is used as tooltip for the toolbar show id KEY=TOOLBAR_SHOW_ID_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_SHOW_DESC_TOOLTIP" maxwidth="100" resname="TOOLBAR_SHOW_DESC_TOOLTIP" sap:sc="XTIT" size-unit="char">
+        <source>Show description for reference dimension</source>
+        <note annotates="source" from="Developer">Is used as tooltip for the toolbar show id  KEY=TOOLBAR_SHOW_DESC_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLBAR_SEGMENT_BUTTON_DISABLED_TOOLTIP" maxwidth="120" resname="TOOLBAR_SEGMENT_BUTTON_DISABLED_TOOLTIP" sap:sc="XTIT" size-unit="char">
+        <source>You have unsaved changes. Save to continue.</source>
+        <note annotates="source" from="Developer">Is used as tooltip for the toolbar segment button  KEY=TOOLBAR_SEGMENT_BUTTON_DISABLED_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_NAME" maxwidth="40" resname="SIDEPANEL_NAME" sap:sc="XFLD" size-unit="char">
+        <source>Name</source>
+        <note annotates="source" from="Developer">Is used for label in validation side panel KEY=SIDEPANEL_NAME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_DESCRIPTION" maxwidth="40" resname="SIDEPANEL_DESCRIPTION" sap:sc="XFLD" size-unit="char">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Is used for label in validation side panel KEY=SIDEPANEL_DESCRIPTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_INPUT_PLACEHOLDER" maxwidth="40" resname="SEARCH_INPUT_PLACEHOLDER" sap:sc="XFLD" size-unit="char">
+        <source>Search</source>
+        <note annotates="source" from="Developer">Is used for label in validation search input placeholder KEY=SEARCH_INPUT_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_BUTTON_SAVE" maxwidth="40" resname="SIDEPANEL_BUTTON_SAVE" sap:sc="XBUT" size-unit="char">
+        <source>Save</source>
+        <note annotates="source" from="Developer">Is used for button in validation side panel KEY=SIDEPANEL_BUTTON_SAVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_BUTTON_CANCEL" maxwidth="40" resname="SIDEPANEL_BUTTON_CANCEL" sap:sc="XBUT" size-unit="char">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">Is used for button in validation side panel KEY=SIDEPANEL_BUTTON_CANCEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_BUTTON_EDIT" maxwidth="40" resname="SIDEPANEL_BUTTON_EDIT" sap:sc="XBUT" size-unit="char">
+        <source>Edit</source>
+        <note annotates="source" from="Developer">Is used for button in validation side panel KEY=SIDEPANEL_BUTTON_EDIT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_BUTTON_VIEW" maxwidth="40" resname="SIDEPANEL_BUTTON_VIEW" sap:sc="XBUT" size-unit="char">
+        <source>View</source>
+        <note annotates="source" from="Developer">Is used for button in validation side panel KEY=SIDEPANEL_BUTTON_VIEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_TITLE_VALIDATION_RULES" maxwidth="80" resname="SIDEPANEL_TITLE_VALIDATION_RULES" sap:sc="XTIT" size-unit="char">
+        <source>Validation Rules</source>
+        <note annotates="source" from="Developer">Is used as title for the side panel section  KEY=SIDEPANEL_TITLE_VALIDATION_RULES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_TITLE_DEFINE_RULE" maxwidth="80" resname="SIDEPANEL_TITLE_DEFINE_RULE" sap:sc="XTIT" size-unit="char">
+        <source>Define Combination Rule</source>
+        <note annotates="source" from="Developer">Is used as title for the side panel section  KEY=SIDEPANEL_TITLE_DEFINE_RULE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_BUTTON_CREATE_RULE" maxwidth="80" resname="SIDEPANEL_BUTTON_CREATE_RULE" sap:sc="XTIT" size-unit="char">
+        <source>Create New Rule</source>
+        <note annotates="source" from="Developer">Is used as title for the side panel section  KEY=SIDEPANEL_BUTTON_CREATE_RULE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_DELETE_CONFIRMATION_BUTTON_OK" maxwidth="80" resname="SIDEPANEL_DELETE_CONFIRMATION_BUTTON_OK" sap:sc="XTIT" size-unit="char">
+        <source>OK</source>
+        <note annotates="source" from="Developer">Is used as a confirmation dialog button text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_DELETE_CONFIRMATION_BUTTON_CANCEL" maxwidth="80" resname="SIDEPANEL_DELETE_CONFIRMATION_BUTTON_CANCEL" sap:sc="XTIT" size-unit="char">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">Is used as a confirmation dialog button text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_DELETE_WARNING_MESSAGE" maxwidth="200" resname="SIDEPANEL_DELETE_WARNING_MESSAGE" sap:sc="XTIT" size-unit="char">
+        <source>Are you sure you want to delete this rule?</source>
+        <note annotates="source" from="Developer">Is used as the confirmation dialog message when delete the rule KEY=SIDEPANEL_DELETE_WARNING_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_CANCEL_WARNING_MESSAGE" maxwidth="200" resname="SIDEPANEL_CANCEL_WARNING_MESSAGE" sap:sc="XTIT" size-unit="char">
+        <source>If you cancel this rule, all the unsaved changes will be lost. Do you want to continue?</source>
+        <note annotates="source" from="Developer">Is used as the confirmation dialog message when cancel the rule KEY=SIDEPANEL_CANCEL_WARNING_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_EMPTY_DESCRIPTION" maxwidth="200" resname="SIDEPANEL_EMPTY_DESCRIPTION" sap:sc="YINS" size-unit="char">
+        <source>No rules maintained here. Start to create your combinations rule with the help of existing dimension attributes.</source>
+        <note annotates="source" from="Developer">Is used as description when no rule in sidepanel  KEY=SIDEPANEL_EMPTY_DESCRIPTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_ERROR_MESSAGE" maxwidth="200" resname="SIDEPANEL_RULE_ERROR_MESSAGE" sap:sc="YINS" size-unit="char">
+        <source>Some combinations become invalid due to the master data change in model.\nTo resolve this, fix all the errors shown in the rule table.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation rule  KEY=TABLE_EMPTY_VIEW_DESCRIPTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_LIST_NO_DATA_TEXT" maxwidth="160" resname="SIDEPANEL_RULE_LIST_NO_DATA_TEXT" sap:sc="YINS" size-unit="char">
+        <source>There are no rules that match your search term.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation rule  KEY=SIDEPANEL_RULE_LIST_NO_DATA_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_NAME_NOT_UNIQUE_ERROR" maxwidth="140" resname="SIDEPANEL_RULE_NAME_NOT_UNIQUE_ERROR" sap:sc="YINS" size-unit="char">
+        <source>Name already exists, please choose another one.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation rule name check  KEY=SIDEPANEL_RULE_NAME_NOT_UNIQUE_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_NAME_EMPTY_ERROR" maxwidth="140" resname="SIDEPANEL_RULE_NAME_EMPTY_ERROR" sap:sc="YINS" size-unit="char">
+        <source>The rule name cannot be empty, please enter rule name.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation rule name check  KEY=SIDEPANEL_RULE_NAME_EMPTY_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_NAME_HAS_SPECIAL_CHAR" maxwidth="140" resname="SIDEPANEL_RULE_NAME_HAS_SPECIAL_CHAR" sap:sc="YINS" size-unit="char">
+        <source>The rule name must not contain special characters \\ : or *.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation rule name check  KEY=SIDEPANEL_RULE_NAME_HAS_SPECIAL_CHAR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_NAME_LENGTH_ERROR" maxwidth="140" resname="SIDEPANEL_RULE_NAME_LENGTH_ERROR" sap:sc="YINS" size-unit="char">
+        <source>The rule name must not contain over 100 characters.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation rule name check  KEY=SIDEPANEL_RULE_NAME_LENGTH_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_STATE_HAS_ERROR" maxwidth="120" resname="SIDEPANEL_RULE_STATE_HAS_ERROR" sap:sc="YINS" size-unit="char">
+        <source>Please fix all errors shown in rule table.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation save rule button  KEY=SIDEPANEL_RULE_STATE_HAS_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_STATE_NO_RULE_NAME" maxwidth="80" resname="SIDEPANEL_RULE_STATE_NO_RULE_NAME" sap:sc="YINS" size-unit="char">
+        <source>Please provide rule name.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation save rule button  KEY=SIDEPANEL_RULE_STATE_NO_RULE_NAME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_STATE_NO_REF_DIM" maxwidth="100" resname="SIDEPANEL_RULE_STATE_NO_REF_DIM" sap:sc="YINS" size-unit="char">
+        <source>Please select reference dimension.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation save rule button  KEY=SIDEPANEL_RULE_STATE_NO_REF_DIM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_STATE_NO_MAT_DIM" maxwidth="100" resname="SIDEPANEL_RULE_STATE_NO_MAT_DIM" sap:sc="YINS" size-unit="char">
+        <source>Please select matched dimension.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation save rule button  KEY=SIDEPANEL_RULE_STATE_NO_MAT_DIM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_STATE_INVALID_RULE_NAME" maxwidth="100" resname="SIDEPANEL_RULE_STATE_INVALID_RULE_NAME" sap:sc="YINS" size-unit="char">
+        <source>Please choose another rule name.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation save rule button  KEY=SIDEPANEL_RULE_STATE_INVALID_RULE_NAME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_RULE_STATE_SAVED_NO_CHANGES" maxwidth="80" resname="SIDEPANEL_RULE_STATE_SAVED_NO_CHANGES" sap:sc="YINS" size-unit="char">
+        <source>No changes to be saved.</source>
+        <note annotates="source" from="Developer">Is used as an error message for validation save rule button  KEY=SIDEPANEL_RULE_STATE_SAVED_NO_CHANGES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_EMPTY_VIEW_TITLE" maxwidth="100" resname="TABLE_EMPTY_VIEW_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Create Dimension Combination Rules</source>
+        <note annotates="source" from="Developer">Is used as title for table empty view  KEY=TABLE_EMPTY_VIEW_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_EMPTY_VIEW_DESCRIPTION" maxwidth="180" resname="TABLE_EMPTY_VIEW_DESCRIPTION" sap:sc="YINS" size-unit="char">
+        <source>Define allowed or unallowed member combinations across dimensions to prevent improper data entry in story.</source>
+        <note annotates="source" from="Developer">Is used as description for table empty view  KEY=TABLE_EMPTY_VIEW_DESCRIPTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_VIEW_TITLE" maxwidth="80" resname="TABLE_VIEW_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Allowed Combinations</source>
+        <note annotates="source" from="Developer">Is used as title for the header of table view  KEY=TABLE_VIEW_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TABLE_MEMBER_ERROR_MSG" maxwidth="180" resname="TABLE_MEMBER_ERROR_MSG" sap:sc="YINS" size-unit="char">
+        <source>Attribute values <ph id="1">{0}</ph> fail to generate combination rules as no matches found in selected dimension.</source>
+        <note annotates="source" from="Developer">Is used as description for table cell if it has error  KEY=TABLE_MEMBER_ERROR_MSG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TABLE_COL_HEADER_ERROR_MSG_MEM_ERROR" maxwidth="240" resname="TABLE_COL_HEADER_ERROR_MSG_MEM_ERROR" sap:sc="YINS" size-unit="char">
+        <source>Attribute value <ph id="1">{0}</ph> has no matches in this dimension.\n\nTo fix this, revise either the attribute values or corresponding dimension members.</source>
+        <note annotates="source" from="Developer">Is used as description for table column header if it has error  KEY=TABLE_COL_HEADER_ERROR_MSG_MEM_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_COL_HEADER_ERROR_MSG_MEM_ERROR_MORE" maxwidth="240" resname="TABLE_COL_HEADER_ERROR_MSG_MEM_ERROR_MORE" sap:sc="YINS" size-unit="char">
+        <source>Some attribute values have no matches in this dimension.\n\nTo fix this, revise either the attribute values or corresponding dimension members.</source>
+        <note annotates="source" from="Developer">Is used as description for table column header if it has error  KEY=TABLE_COL_HEADER_ERROR_MSG_MEM_ERROR_MORE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_COL_HEADER_ERROR_MSG_NO_MATCH" maxwidth="240" resname="TABLE_COL_HEADER_ERROR_MSG_NO_MATCH" sap:sc="YINS" size-unit="char">
+        <source>The dimension does not match the selected attribute.\n\nCheck if you chose the correct dimension.</source>
+        <note annotates="source" from="Developer">Is used as description for table column header if it has error  KEY=TABLE_COL_HEADER_ERROR_MSG_NO_MATCH</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_COL_HEADER_WARNING_MSG_CHANGE_SOURCE" maxwidth="240" resname="TABLE_COL_HEADER_WARNING_MSG_CHANGE_SOURCE" sap:sc="YINS" size-unit="char">
+        <source>If you change the reference dimension, all matched dimensions will be lost. Do you want to continue?</source>
+        <note annotates="source" from="Developer">Is used as warning message when change the reference dimension KEY=TABLE_COL_HEADER_WARNING_MSG_CHANGE_SOURCE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_CELL_ALL_MEMBERS" maxwidth="80" resname="TABLE_CELL_ALL_MEMBERS" sap:sc="XTIT" size-unit="char">
+        <source>All Members</source>
+        <note annotates="source" from="Developer">Is used as for indicating all members  KEY=TABLE_CELL_ALL_MEMBERS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SERVICE_RULE_SAVE_SUCESS" maxwidth="40" resname="SERVICE_RULE_SAVE_SUCESS" sap:sc="XMSG" size-unit="char">
+        <source>Rule Saved sucessfully</source>
+        <note annotates="source" from="Developer">used when rule saved sucessfully as messsage</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SERVICE_RULE_DELETE_SUCESS" maxwidth="40" resname="SERVICE_RULE_DELETE_SUCESS" sap:sc="XMSG" size-unit="char">
+        <source>Rule deleted sucessfully</source>
+        <note annotates="source" from="Developer">used when rule saved sucessfully as messsage</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_CUSTOMIZED_HEADER_REFERENCE_DIM_TITLE" maxwidth="80" resname="TABLE_CUSTOMIZED_HEADER_REFERENCE_DIM_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Reference Dimension</source>
+        <note annotates="source" from="Developer">Is used as title for reference dimension header  KEY=TABLE_CUSTOMIZED_HEADER_REFERENCE_DIM_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_CUSTOMIZED_HEADER_MATCHED_DIM_TITLE" maxwidth="80" resname="TABLE_CUSTOMIZED_HEADER_MATCHED_DIM_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Matched Dimension</source>
+        <note annotates="source" from="Developer">Is used as title for matched dimension header  KEY=TABLE_CUSTOMIZED_HEADER_MATCHED_DIM_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_CUSTOMIZED_HEADER_REFERENCE_DIM_INFO" resname="TABLE_CUSTOMIZED_HEADER_REFERENCE_DIM_INFO" sap:sc="XMSG">
+        <source>Select the dimension where attributes are maintained for combination rule.</source>
+        <note annotates="source" from="Developer">info message for reference dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_MATCHED_DIM_DIALOG_TITLE" maxwidth="80" resname="TABLE_MATCHED_DIM_DIALOG_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Match Reference Dimension Attribute to a Dimension</source>
+        <note annotates="source" from="Developer">Is used as title for matched dimension mapping dialog  KEY=TABLE_MATCHED_DIM_DIALOG_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_MATCHED_DIM_DIALOG_SUBTITLE" maxwidth="80" resname="TABLE_MATCHED_DIM_DIALOG_SUBTITLE" sap:sc="XTIT" size-unit="char">
+        <source>Attribute from Reference Dimension:</source>
+        <note annotates="source" from="Developer">Is used as sub-title for matched dimension mapping dialog  KEY=TABLE_MATCHED_DIM_DIALOG_SUBTITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_MATCHED_DIM_DIALOG_ARROW_TITLE" maxwidth="80" resname="TABLE_MATCHED_DIM_DIALOG_ARROW_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>matches to</source>
+        <note annotates="source" from="Developer">Is used as title for matched dimension mapping dialog arrow KEY=TABLE_MATCHED_DIM_DIALOG_ARROW_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_MATCHED_DIM_DIALOG_ATTR_PLACEHOLDER" maxwidth="80" resname="TABLE_MATCHED_DIM_DIALOG_ATTR_PLACEHOLDER" sap:sc="XTIT" size-unit="char">
+        <source>Select an attribute</source>
+        <note annotates="source" from="Developer">Is used as placeholder for attribute in matched dimension mapping dialog KEY=TABLE_MATCHED_DIM_DIALOG_ATTR_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_MATCHED_DIM_DIALOG_TARGET_DIM_PLACEHOLDER" maxwidth="80" resname="TABLE_MATCHED_DIM_DIALOG_TARGET_DIM_PLACEHOLDER" sap:sc="XTIT" size-unit="char">
+        <source>Select a dimension</source>
+        <note annotates="source" from="Developer">Is used as placeholder for attribute in matched dimension mapping dialog KEY=TABLE_MATCHED_DIM_DIALOG_ATTR_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_CUSTOMIZED_HEADER_MATCHED_DIM_ERROR_DOWNLOAD_BUTTON_TITLE" maxwidth="80" resname="TABLE_CUSTOMIZED_HEADER_MATCHED_DIM_ERROR_DOWNLOAD_BUTTON_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Download Invalid attribute values</source>
+        <note annotates="source" from="Developer">Is used as title for matched dimension error info download button KEY=TABLE_CUSTOMIZED_HEADER_MATCHED_DIM_ERROR_DOWNLOAD_BUTTON_TITLE</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

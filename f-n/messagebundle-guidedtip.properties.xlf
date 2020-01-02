@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-guidedtip.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="96e66857abf532dcd6589d739389c719" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:57Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_LEARNMORE" resname="GT_LEARNMORE" sap:sc="XBUT">
+        <source>Learn More</source>
+        <note annotates="source" from="Developer">Button for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_NEXTTIP" resname="GT_NEXTTIP" sap:sc="XBUT">
+        <source>Next tip</source>
+        <note annotates="source" from="Developer">Button for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_ONWARDS" resname="GT_ONWARDS" sap:sc="XBUT">
+        <source>Onwards!</source>
+        <note annotates="source" from="Developer">Button for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_GOTIT" resname="GT_GOTIT" sap:sc="XBUT">
+        <source>Got it!</source>
+        <note annotates="source" from="Developer">Button for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_GOTITTHANKS" resname="GT_GOTITTHANKS" sap:sc="XBUT">
+        <source>Got it, thanks!</source>
+        <note annotates="source" from="Developer">Button for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_DONE" resname="GT_DONE" sap:sc="XBUT">
+        <source>Done</source>
+        <note annotates="source" from="Developer">Button for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_OK" resname="GT_OK" sap:sc="XBUT">
+        <source>OK</source>
+        <note annotates="source" from="Developer">Button for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_HELP_GUIDEDTIPSON_TIT" resname="GT_HELP_GUIDEDTIPSON_TIT" sap:sc="XTIT">
+        <source>Guided tips are ON</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_HELP_GUIDEDTIPSON_MSG_UPDATED" resname="GT_HELP_GUIDEDTIPSON_MSG_UPDATED" sap:sc="XMSG">
+        <source>Get started by learning about key features with guided tips.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_HELP_GUIDEDTIPSOFF_TIT" resname="GT_HELP_GUIDEDTIPSOFF_TIT" sap:sc="XTIT">
+        <source>Turn tips off here</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_HELP_GUIDEDTIPSOFF_MSG" resname="GT_HELP_GUIDEDTIPSOFF_MSG" sap:sc="XMSG">
+        <source>Turn guided tips on and off in the help menu.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_TIT" resname="GT_MENU_TIT" sap:sc="XTIT">
+        <source>Welcome!</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_MSG" resname="GT_MENU_MSG" sap:sc="XMSG">
+        <source>Access different areas of the application here.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DATAVIEW_TIT" resname="GT_STORIES_DATAVIEW_TIT" sap:sc="XTIT">
+        <source>Build your story</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DATAVIEW_MSG" resname="GT_STORIES_DATAVIEW_MSG" sap:sc="XMSG">
+        <source>When you are ready, visualize your data as a dashboard, report or presentation in the pages view.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_INSERTOBJECT_TIT" resname="GT_STORIES_INSERTOBJECT_TIT" sap:sc="XTIT">
+        <source>Insert</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_INSERTOBJECT_MSG_UPDATED" resname="GT_STORIES_INSERTOBJECT_MSG_UPDATED" sap:sc="XMSG">
+        <source>Start making sense of your data with charts, tables, images, and more.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DESIGNER_TIT" resname="GT_STORIES_DESIGNER_TIT" sap:sc="XTIT">
+        <source>Designer panel</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DESIGNER_MSG_UPDATED" resname="GT_STORIES_DESIGNER_MSG_UPDATED" sap:sc="XMSG">
+        <source>Edit charts, pages, and other objects in your story.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DESIGNER_MEASURES_TIT" resname="GT_STORIES_DESIGNER_MEASURES_TIT" sap:sc="XTIT">
+        <source>Choose a measure</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DESIGNER_MEASURES_MSG" resname="GT_STORIES_DESIGNER_MEASURES_MSG" sap:sc="XMSG">
+        <source>A measure represents quantitative data (for example, sales revenue, salary, or number of employees)</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DESIGNER_DIMENSIONS_TIT" resname="GT_STORIES_DESIGNER_DIMENSIONS_TIT" sap:sc="XTIT">
+        <source>Choose a dimension</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DESIGNER_DIMENSIONS_MSG" resname="GT_STORIES_DESIGNER_DIMENSIONS_MSG" sap:sc="XMSG">
+        <source>A dimension represents categorical data (for example, product category, date, or location)</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DATAVIEW_SWITCH_TIT" resname="GT_STORIES_DATAVIEW_SWITCH_TIT" sap:sc="XTIT">
+        <source>View your data</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DATAVIEW_SWITCH_MSG" resname="GT_STORIES_DATAVIEW_SWITCH_MSG" sap:sc="XMSG">
+        <source>Switch to the data view to take a closer look at the data in this story.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_SHARE_TIT" resname="GT_STORIES_SHARE_TIT" sap:sc="XTIT">
+        <source>Share</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_SHARE_MSG" resname="GT_STORIES_SHARE_MSG" sap:sc="XMSG">
+        <source>Easily share stories with colleagues to work collaboratively.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_CUSTOMIZE_TIT" resname="GT_STORIES_CUSTOMIZE_TIT" sap:sc="XTIT">
+        <source>Choose data</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_CUSTOMIZE_MSG" resname="GT_STORIES_CUSTOMIZE_MSG" sap:sc="XMSG">
+        <source>Add rows and columns to the table by choosing measures and dimensions.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_SAVE_TIT" resname="GT_STORIES_SAVE_TIT" sap:sc="XTIT">
+        <source>Save</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_SAVE_MSG_UPDATED" resname="GT_STORIES_SAVE_MSG_UPDATED" sap:sc="XMSG">
+        <source>Save your changes frequently to keep your story safe.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_INSERTTABLE_TIT" resname="GT_STORIES_INSERTTABLE_TIT" sap:sc="XTIT">
+        <source>Insert a table</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_INSERTTABLE_MSG" resname="GT_STORIES_INSERTTABLE_MSG" sap:sc="XMSG">
+        <source>Create a table to view and analyze data.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_VERSION_TIT" resname="GT_STORIES_VERSION_TIT" sap:sc="XTIT">
+        <source>Versions</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_VERSION_MSG" resname="GT_STORIES_VERSION_MSG" sap:sc="XMSG">
+        <source>Manage actuals and forecasts in this menu.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DATA_TIT" resname="GT_STORIES_DATA_TIT" sap:sc="XTIT">
+        <source>Explore your data</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_DATA_MSG" resname="GT_STORIES_DATA_MSG" sap:sc="XMSG">
+        <source>Use this area to explore your whole dataset.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_HOME_CUSTOMIZE_TIT" resname="GT_HOME_CUSTOMIZE_TIT" sap:sc="XTIT">
+        <source>Customize your homescreen</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_HOME_CUSTOMIZE_MSG" resname="GT_HOME_CUSTOMIZE_MSG" sap:sc="XMSG">
+        <source>Add recent stories, change your background and upload your own logo here.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SINGLE_COLUMN_MODEL_DEFINE_MODEL" resname="GT_SINGLE_COLUMN_MODEL_DEFINE_MODEL" sap:sc="XTIT">
+        <source>Define your model</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SINGLE_COLUMN_MODEL_DEFINE_MODEL_TEXT" resname="GT_SINGLE_COLUMN_MODEL_DEFINE_MODEL_TEXT" sap:sc="XMSG">
+        <source>Define how this column will be used in the model and whether it's a dimension or a measure.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_UNIFIED_MODEL_DEFINE_MODEL" resname="GT_UNIFIED_MODEL_DEFINE_MODEL" sap:sc="XTIT">
+        <source>Define your model</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_UNIFIED_MODEL_DEFINE_MODEL_TEXT" resname="GT_UNIFIED_MODEL_DEFINE_MODEL_TEXT" sap:sc="XMSG">
+        <source>Define how this column will be used in the model. Indicate whether this column is a dimension, a measure, or another type and select other columns to use as descriptions or properties.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_UNIFIED_MODEL_DATA_TYPE" resname="GT_UNIFIED_MODEL_DATA_TYPE" sap:sc="XTIT">
+        <source>Data type</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_UNIFIED_MODEL_DATA_TYPE_TEXT" resname="GT_UNIFIED_MODEL_DATA_TYPE_TEXT" sap:sc="XMSG">
+        <source>The type of data contained in the column is displayed as text, number, or date.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_UNIFIED_MODEL_DATA_QUALITY" resname="GT_UNIFIED_MODEL_DATA_QUALITY" sap:sc="XTIT">
+        <source>Data quality</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_UNIFIED_MODEL_DATA_QUALITY_TEXT" resname="GT_UNIFIED_MODEL_DATA_QUALITY_TEXT" sap:sc="XMSG">
+        <source>If there are data issues detected, they will be displayed here.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_UNIFIED_MODEL_VISUALIZE_DATA" resname="GT_UNIFIED_MODEL_VISUALIZE_DATA" sap:sc="XTIT">
+        <source>Visualize your data</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_UNIFIED_MODEL_VISUALIZE_DATA_TEXT" resname="GT_UNIFIED_MODEL_VISUALIZE_DATA_TEXT" sap:sc="XMSG">
+        <source>Switch to the pages view to build a dashboard, report, or presentation.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_CREATE_TIT" resname="GT_MENU_CREATE_TIT" sap:sc="XTIT">
+        <source>Create</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_CREATE_MSG" resname="GT_MENU_CREATE_MSG" sap:sc="XMSG">
+        <source>Start new stories, models, and more from this menu.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_BROWSE_TIT" resname="GT_MENU_BROWSE_TIT" sap:sc="XTIT">
+        <source>Browse</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_BROWSE_MSG" resname="GT_MENU_BROWSE_MSG" sap:sc="XMSG">
+        <source>Organize and manage the work you and others have created.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_BROWSE_NEW_TIT" resname="GT_MENU_BROWSE_NEW_TIT" sap:sc="XTIT">
+        <source>Browse Files</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_BROWSE_NEW_MSG" resname="GT_MENU_BROWSE_NEW_MSG" sap:sc="XMSG">
+        <source>Organize and manage your Stories, Digital Boardroom presentations, and files here.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_EVENTS_TIT" resname="GT_MENU_EVENTS_TIT" sap:sc="XTIT">
+        <source>Calendar</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_EVENTS_MSG" resname="GT_MENU_EVENTS_MSG" sap:sc="XMSG">
+        <source>Schedule processes in the planning calendar and invite colleagues to work on the related tasks.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_SECURITY_TIT" resname="GT_MENU_SECURITY_TIT" sap:sc="XTIT">
+        <source>Manage Users</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_MENU_SECURITY_MSG" resname="GT_MENU_SECURITY_MSG" sap:sc="XMSG">
+        <source>Invite colleagues, create teams and assign roles in this area.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIALOG_MODEL_DATAGRID_ACCOUNTTYPE_TTTEXT" resname="DIALOG_MODEL_DATAGRID_ACCOUNTTYPE_TTTEXT" sap:sc="XMSG">
+        <source>Set information on the account types for your data.</source>
+        <note annotates="source" from="Developer">Text for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_ADDRESPONSIVEPAGE_TIT" resname="GT_STORIES_ADDRESPONSIVEPAGE_TIT" sap:sc="XTIT">
+        <source>Building a story for mobile?</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_ADDRESPONSIVEPAGE_MSG" resname="GT_STORIES_ADDRESPONSIVEPAGE_MSG" sap:sc="XMSG">
+        <source>Add a Responsive page to start building a story for mobile or the Digital Boardroom.</source>
+        <note annotates="source" from="Developer">Content for guided tip, 'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_VIEW_CONTROLS" resname="GT_SPARCA_VIEW_CONTROLS" sap:sc="XTIT">
+        <source>View controls</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_VIEW_CONTROLS_TEXT" resname="GT_SPARCA_VIEW_CONTROLS_TEXT" sap:sc="XMSG">
+        <source>Inspect or manupulate your data by switching views.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_DEFINE_YOUR_MODEL" resname="GT_SPARCA_DEFINE_YOUR_MODEL" sap:sc="XTIT">
+        <source>Define your model</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_DEFINE_YOUR_MODEL_TEXT" resname="GT_SPARCA_DEFINE_YOUR_MODEL_TEXT" sap:sc="XMSG">
+        <source>Specify the dimension attributes you want to include in your model, such as properties, description and geo location attributes.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_VALIDATE_AND_CREATE" resname="GT_SPARCA_VALIDATE_AND_CREATE" sap:sc="XTIT">
+        <source>Validate + Create</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_VALIDATE_AND_CREATE_TEXT" resname="GT_SPARCA_VALIDATE_AND_CREATE_TEXT" sap:sc="XMSG">
+        <source>Validate will apply transforms and add rows with data issues. Create Model does the validation and generation of the model in one go.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_DATA_SUMMARY" resname="GT_SPARCA_DATA_SUMMARY" sap:sc="XTIT">
+        <source>Data summary</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_DATA_SUMMARY_TEXT" resname="GT_SPARCA_DATA_SUMMARY_TEXT" sap:sc="XMSG">
+        <source>View the metadata, quality level, and profile for a column, dimension, measure, time or for the model.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_SELECT_TO_TRANSFORM" resname="GT_SPARCA_SELECT_TO_TRANSFORM" sap:sc="XTIT">
+        <source>Select to transform</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_SELECT_TO_TRANSFORM_TEXT" resname="GT_SPARCA_SELECT_TO_TRANSFORM_TEXT" sap:sc="XMSG">
+        <source>Select columns, cells or text in a cell to get suggestions of transformations. Preview by hovering on the action, apply by clicking.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_QUALITY_BAR" resname="GT_SPARCA_QUALITY_BAR" sap:sc="XTIT">
+        <source>Quality bar</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_QUALITY_BAR_TEXT" resname="GT_SPARCA_QUALITY_BAR_TEXT" sap:sc="XMSG">
+        <source>The status bar color correlates to the data quality. Green has no quality issues, red means issues are detected, and gray means empty rows were found.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_TRANSFORM_LOG" resname="GT_SPARCA_TRANSFORM_LOG" sap:sc="XTIT">
+        <source>Transform Log</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_TRANSFORM_LOG_TEXT" resname="GT_SPARCA_TRANSFORM_LOG_TEXT" sap:sc="XMSG">
+        <source>View and manage your completed transformations either for a column, dimension, measure, time, or for the model.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_CREATE" resname="GT_SPARCA_CREATE" sap:sc="XTIT">
+        <source>Create</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SPARCA_CREATE_TEXT" resname="GT_SPARCA_CREATE_TEXT" sap:sc="XMSG">
+        <source>Create Model does the validation and generation of the model in one go.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_DM_IMPORT_DATA_SOURCE_COLUMNS_TIT" resname="GT_DM_IMPORT_DATA_SOURCE_COLUMNS_TIT" sap:sc="XTIT">
+        <source>Source Data</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_DM_IMPORT_DATA_DRAGGABLE_SOURCE_COLUMNS_MSG" resname="GT_DM_IMPORT_DATA_DRAGGABLE_SOURCE_COLUMNS_MSG" sap:sc="XMSG">
+        <source>Drag and drop tokens from this panel into the empty slots in your model to match it with the correct data.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_DM_IMPORT_DATA_GRID_VIEW_BUTTON_MSG" resname="GT_DM_IMPORT_DATA_GRID_VIEW_BUTTON_MSG" sap:sc="XMSG">
+        <source>Use the model cards view to match data, and use the data grid to clean and improve your data quality. The better the data quality, the easier it will be to match it.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_DM_IMPORT_DATA_SOURCE_COLUMNS_MSG" resname="GT_DM_IMPORT_DATA_SOURCE_COLUMNS_MSG" sap:sc="XMSG">
+        <source>Your data has been uploaded and is shown here as tokens.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_DM_IMPORT_DATA_MODEL_CARDS_TIT" resname="GT_DM_IMPORT_DATA_MODEL_CARDS_TIT" sap:sc="XTIT">
+        <source>Target Model</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_DM_IMPORT_DATA_MODEL_CARDS_MSG" resname="GT_DM_IMPORT_DATA_MODEL_CARDS_MSG" sap:sc="XMSG">
+        <source>All your measures and dimensions are shown as cards.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_DM_IMPORT_DATA_DOUBLE_CLICK_TO_EXPAND_MSG" resname="GT_DM_IMPORT_DATA_DOUBLE_CLICK_TO_EXPAND_MSG" sap:sc="XMSG">
+        <source>Double-click on a stack of cards to view the content inside.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_DM_IMPORT_DATA_MAPPING_OPTIONS_PANEL_TIT" resname="GT_DM_IMPORT_DATA_MAPPING_OPTIONS_PANEL_TIT" sap:sc="XTIT">
+        <source>Reset Model</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_DM_IMPORT_DATA_MAPPING_OPTIONS_PANEL_MSG" resname="GT_DM_IMPORT_DATA_MAPPING_OPTIONS_PANEL_MSG" sap:sc="XMSG">
+        <source>This source is configured to clean all the data currently in the model before it can be replaced with the newest set.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SYSTEM_OWNER_TRANSFER" resname="GT_SYSTEM_OWNER_TRANSFER" sap:sc="XTIT">
+        <source>Transfer System Owner Role</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SYSTEM_OWNER_TRANSFER_TEXT" resname="GT_SYSTEM_OWNER_TRANSFER_TEXT" sap:sc="XMSG">
+        <source>Transfer the System Owner role to another user by selecting a user and clicking on this button.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_ENTERLANETITLE_TIT" resname="GT_STORIES_ENTERLANETITLE_TIT" sap:sc="XTIT">
+        <source>Enter a lane title</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_ENTERLANETITLE_MSG" resname="GT_STORIES_ENTERLANETITLE_MSG" sap:sc="XMSG">
+        <source>Use lane titles to help organize page lanes. Lane titles will also resize dynamically when the page is shared on smaller or larger screens.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_HEADERWIDGET_TIT" resname="GT_STORIES_HEADERWIDGET_TIT" sap:sc="XTIT">
+        <source>Add Headers to lanes</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_HEADERWIDGET_MSG" resname="GT_STORIES_HEADERWIDGET_MSG" sap:sc="XMSG">
+        <source>Use Headers to add responsive titles within your lanes. You can embed a shape or image into the Header as well which will resize dynamically when the page is shared on smaller or larger screens.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_LANEREORDER_TIT" resname="GT_STORIES_LANEREORDER_TIT" sap:sc="XTIT">
+        <source>Rearrange lanes</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_LANEREORDER_MSG" resname="GT_STORIES_LANEREORDER_MSG" sap:sc="XMSG">
+        <source>Drag lanes and drop them near the edge of other lanes to reorder the page.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_ADDMORELANES_TIT" resname="GT_STORIES_ADDMORELANES_TIT" sap:sc="XTIT">
+        <source>Add more lanes</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_ADDMORELANES_MSG" resname="GT_STORIES_ADDMORELANES_MSG" sap:sc="XMSG">
+        <source>Use lanes to section page content into groups. Tiles within a lane will stay together when the page is resized.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_HIDELANETITLE_TIT" resname="GT_STORIES_HIDELANETITLE_TIT" sap:sc="XTIT">
+        <source>Hide a lane title</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_HIDELANETITLE_MSG" resname="GT_STORIES_HIDELANETITLE_MSG" sap:sc="XMSG">
+        <source>Show or hide the lane title from the title menu.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_PREVIEWPAGE_TIT" resname="GT_STORIES_PREVIEWPAGE_TIT" sap:sc="XTIT">
+        <source>Preview the page</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_STORIES_PREVIEWPAGE_MSG" resname="GT_STORIES_PREVIEWPAGE_MSG" sap:sc="XMSG">
+        <source>Use Device Preview to see how the page looks on different screen sizes and device types.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_INFRA_COMBINED_REPO_FILTER_BY_CREATOR" resname="GT_INFRA_COMBINED_REPO_FILTER_BY_CREATOR" sap:sc="XMSG">
+        <source>Filter by creator</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_INFRA_COMBINED_REPO_FILTER_BY_CREATOR_TEXT" resname="GT_INFRA_COMBINED_REPO_FILTER_BY_CREATOR_TEXT" sap:sc="XMSG">
+        <source>Only show files shared with you or created by you.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_INFRA_COMBINED_REPO_FILTER_BY_FILE_TYPE" resname="GT_INFRA_COMBINED_REPO_FILTER_BY_FILE_TYPE" sap:sc="XTIT">
+        <source>Filter by file type</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_INFRA_COMBINED_REPO_FILTER_BY_FILE_TYPE_TEXT" resname="GT_INFRA_COMBINED_REPO_FILTER_BY_FILE_TYPE_TEXT" sap:sc="XMSG">
+        <source>Select the type of files you want to see in this list.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SHELL_HEADER_EXPAND_TIT" resname="GT_SHELL_HEADER_EXPAND_TIT" sap:sc="XTIT">
+        <source>Access the toolbar</source>
+        <note annotates="source" from="Developer">Title for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_SHELL_HEADER_EXPAND_MSG" resname="GT_SHELL_HEADER_EXPAND_MSG" sap:sc="XMSG">
+        <source>Access Collaboration, Help or User Preferences by clicking on the arrow to make the toolbar reappear.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_PRESENTATION_BUILDER_LIBRARY_TIT" resname="GT_PRESENTATION_BUILDER_LIBRARY_TIT" sap:sc="XMSG">
+        <source>Library</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GT_PRESENTATION_BUILDER_LIBRARY_MSG" resname="GT_PRESENTATION_BUILDER_LIBRARY_MSG" sap:sc="XMSG">
+        <source>Import and manage the stories you want to use in your Digital Boardroom presentation.</source>
+        <note annotates="source" from="Developer">Content for guided tip</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-planflow.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="cd08861e37b216353741127ff48d01f6" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:59Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_CALC_PERIOD_TTL" resname="PLANFL_CALC_PERIOD_TTL" sap:sc="XFLD">
+        <source>Default Calculation Period</source>
+        <note annotates="source" from="Developer">Title for default calculation period</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODES_LIST" maxwidth="20" resname="PF_NODES_LIST" sap:sc="XFLD" size-unit="char">
+        <source>List of Nodes</source>
+        <note annotates="source" from="Developer">Title for list of nodes in the side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_DETAILS" maxwidth="20" resname="PF_NODE_DETAILS" sap:sc="XFLD" size-unit="char">
+        <source>Node Details</source>
+        <note annotates="source" from="Developer">Title for details view of one specific node in the side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODETYPE_NAME_YOY" maxwidth="30" resname="PF_NODETYPE_NAME_YOY" sap:sc="XFLD" size-unit="char">
+        <source>YoY Node</source>
+        <note annotates="source" from="Developer">Name of the Year-over-Year (YoY) node (singular)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODETYPE_NAME_UNION" maxwidth="30" resname="PF_NODETYPE_NAME_UNION" sap:sc="XFLD" size-unit="char">
+        <source>Union Node</source>
+        <note annotates="source" from="Developer">Name of the Union node (singular)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODETYPE_NAME_DATASOURCE" maxwidth="30" resname="PF_NODETYPE_NAME_DATASOURCE" sap:sc="XFLD" size-unit="char">
+        <source>Data Source Node</source>
+        <note annotates="source" from="Developer">Name of the data source node (singular)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODETYPE_NAME_CALC" maxwidth="30" resname="PF_NODETYPE_NAME_CALC" sap:sc="XFLD" size-unit="char">
+        <source>Simple Calculation Node</source>
+        <note annotates="source" from="Developer">Name of the simple calculation node (singular)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NG_YOY" maxwidth="30" resname="PF_NG_YOY" sap:sc="XFLD" size-unit="char">
+        <source>YoY Nodes</source>
+        <note annotates="source" from="Developer">Name of the node group containing all Year-over-Year (YoY) nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NG_UNION" maxwidth="30" resname="PF_NG_UNION" sap:sc="XFLD" size-unit="char">
+        <source>Union Nodes</source>
+        <note annotates="source" from="Developer">Name of the node group containing all Union nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NG_DATASOURCE" maxwidth="30" resname="PF_NG_DATASOURCE" sap:sc="XFLD" size-unit="char">
+        <source>Data Source Nodes</source>
+        <note annotates="source" from="Developer">Name of the node group containing all data source nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NG_SIMPLE_CALCULATION" maxwidth="40" resname="PF_NG_SIMPLE_CALCULATION" sap:sc="XFLD" size-unit="char">
+        <source>Simple Calculation Nodes</source>
+        <note annotates="source" from="Developer">Name of the node group containing all simple calculation nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NG_ALL" maxwidth="40" resname="PF_NG_ALL" sap:sc="XFLD" size-unit="char">
+        <source>All Nodes</source>
+        <note annotates="source" from="Developer">Name of the node group containing all nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_UNKNOWN_NODETYPE_NAME" maxwidth="50" resname="PF_UNKNOWN_NODETYPE_NAME" sap:sc="XFLD" size-unit="char">
+        <source>Unknown Node Type</source>
+        <note annotates="source" from="Developer">Name of the node group containg all unknown node types</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_ENTERNAME" maxwidth="30" resname="PF_NODE_ENTERNAME" sap:sc="XFLD" size-unit="char">
+        <source>Please enter a node name</source>
+        <note annotates="source" from="Developer">Placeholder text in node name input field</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_UNNAMED" maxwidth="30" resname="PF_NODE_UNNAMED" sap:sc="XFLD" size-unit="char">
+        <source>Unnamed node</source>
+        <note annotates="source" from="Developer">Placeholder text for nodes without a name. Used in nodes list and combo boxes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NEW_NODE_NAME" maxwidth="20" resname="PF_NEW_NODE_NAME" sap:sc="XFLD" size-unit="char">
+        <source>Untitled</source>
+        <note annotates="source" from="Developer">Title for newly created nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_PANEL_EXAMINE" maxwidth="20" resname="PF_PANEL_EXAMINE" sap:sc="XBUT" size-unit="char">
+        <source>Examine</source>
+        <note annotates="source" from="Developer">Label of toggle button to examine the Value Drive Tree</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_PANEL_EXAMINE_TIP" resname="PF_PANEL_EXAMINE_TIP" sap:sc="XFLD">
+        <source>Examine the Value Drive Tree</source>
+        <note annotates="source" from="Developer">Tooltip of toolbar button to examine the Value Drive Tree</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_EXAMINE_NO_NODE" maxwidth="255" resname="PF_EXAMINE_NO_NODE" sap:sc="XMSG" size-unit="char">
+        <source>Select a node of the Value Driver Tree.</source>
+        <note annotates="source" from="Developer">Instead of an empty grid an info message is shown, when no VDT node has been selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_EXAMINE_NO_ACCOUNT" maxwidth="255" resname="PF_EXAMINE_NO_ACCOUNT" sap:sc="XMSG" size-unit="char">
+        <source>Select a VDT node with a configured account.</source>
+        <note annotates="source" from="Developer">Instead of an empty grid an info message is shown, when no account is configured for the selected VDT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_PANEL_PRESENT" maxwidth="20" resname="PF_PANEL_PRESENT" sap:sc="XBUT" size-unit="char">
+        <source>Present</source>
+        <note annotates="source" from="Developer">Label of toggle button for plan flow side panels</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_PANEL_PRESENT_TIP" resname="PF_PANEL_PRESENT_TIP" sap:sc="XFLD">
+        <source>View the Value Driver Tree in full screen mode</source>
+        <note annotates="source" from="Developer">Tooltip of toolbar button to present the Value Drive Tree in full screen mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_PANEL_DESIGNER" maxwidth="20" resname="PF_PANEL_DESIGNER" sap:sc="XBUT" size-unit="char">
+        <source>Designer</source>
+        <note annotates="source" from="Developer">Label of toggle button for plan flow side panels</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_PANEL_DESIGNER_TIP" resname="PF_PANEL_DESIGNER_TIP" sap:sc="XFLD">
+        <source>Show the Value Driver Tree in design mode</source>
+        <note annotates="source" from="Developer">Tooltip of toolbar button to change the Value Drive Tree</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_TAB_MAIN" maxwidth="20" resname="PF_TAB_MAIN" sap:sc="XBUT" size-unit="char">
+        <source>Time &amp; Model</source>
+        <note annotates="source" from="Developer">The name of the tab showing time and model configuration</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_TAB_CALCULATION" maxwidth="20" resname="PF_TAB_CALCULATION" sap:sc="XBUT" size-unit="char">
+        <source>Calculation</source>
+        <note annotates="source" from="Developer">The name of the tab showing the calculation of the VDT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_TAB_CONSUMPTION" maxwidth="20" resname="PF_TAB_CONSUMPTION" sap:sc="XBUT" size-unit="char">
+        <source>Consumption</source>
+        <note annotates="source" from="Developer">The name of the tab showing the consumption of the VDT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_TAB_VARIABLES" maxwidth="100" resname="PF_TAB_VARIABLES" sap:sc="XTXT" size-unit="char">
+        <source>Value Driver Trees do not support variables in models, as a result tabs are disabled</source>
+        <note annotates="source" from="Developer">Tooltip for disabled menu items if a model with variables is the source</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ADD_NODE" resname="PF_ADD_NODE" sap:sc="XTOL">
+        <source>Add Node</source>
+        <note annotates="source" from="Developer">vdt quick action for adding a new node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_REMOVE" resname="PF_REMOVE" sap:sc="XTOL">
+        <source>Remove</source>
+        <note annotates="source" from="Developer">tooltip which is displayed when the user hovers over a remove icon</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE" maxwidth="30" resname="PF_NODE" sap:sc="XTIT" size-unit="char">
+        <source>Node</source>
+        <note annotates="source" from="Developer">Form section title for the node name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_TYPE" maxwidth="30" resname="PF_NODE_TYPE" sap:sc="XTIT" size-unit="char">
+        <source>Node Type</source>
+        <note annotates="source" from="Developer">Form section title for the node type</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_FILTER" maxwidth="30" resname="PF_NODE_FILTER" sap:sc="XTIT" size-unit="char">
+        <source>Filter</source>
+        <note annotates="source" from="Developer">Form section title for the node filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_ADD_FILTER" maxwidth="50" resname="PF_NODE_ADD_FILTER" sap:sc="XBUT" size-unit="char">
+        <source>Add Filter</source>
+        <note annotates="source" from="Developer">Caption of a button which is used to add new filters in the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_CROSS_CALC" maxwidth="45" resname="PF_NODE_CROSS_CALC" sap:sc="XTIT" size-unit="char">
+        <source>Cross Calculation</source>
+        <note annotates="source" from="Developer">Title for the cross calculation section in the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_ADD_CROSS_CALC" maxwidth="50" resname="PF_NODE_ADD_CROSS_CALC" sap:sc="XBUT" size-unit="char">
+        <source>Add Cross Calculation</source>
+        <note annotates="source" from="Developer">Caption of a button which is used to add new cross calculations in the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_CROSS_CALCS" maxwidth="100" resname="PF_NODE_CROSS_CALCS" sap:sc="XTIT" size-unit="char">
+        <source>Cross Calculations</source>
+        <note annotates="source" from="Developer">Title for the cross calculation group in the dropdown where all cross calculations are listed in the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_MEASURE" maxwidth="45" resname="PF_NODE_MEASURE" sap:sc="XTIT" size-unit="char">
+        <source>Measure</source>
+        <note annotates="source" from="Developer">Title for the measure section of the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_ADD_MEASURE" maxwidth="50" resname="PF_NODE_ADD_MEASURE" sap:sc="XBUT" size-unit="char">
+        <source>Add Measure</source>
+        <note annotates="source" from="Developer">Caption of a button which is used to add new measures in the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_ADD_OTHER_MEASURE" maxwidth="100" resname="PF_NODE_ADD_OTHER_MEASURE" sap:sc="XBUT" size-unit="char">
+        <source>Add other measure...</source>
+        <note annotates="source" from="Developer">Caption of a button which is used to add new measures in the VDT builder panel if user chose not to select a predefined measure from a list</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_DEFAULT_NODE_CONFIG" maxwidth="100" resname="PF_NODE_DEFAULT_NODE_CONFIG" sap:sc="XTIT" size-unit="char">
+        <source>Default Node Configuration</source>
+        <note annotates="source" from="Developer">Title for the default node configuration panel group in the the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_NODE_LIST" maxwidth="30" resname="PF_NODE_NODE_LIST" sap:sc="XTIT" size-unit="char">
+        <source>Node List</source>
+        <note annotates="source" from="Developer">Title for the node list group in the the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PF_NODE_FILTER_DIMENSION_MS" maxwidth="100" resname="PF_NODE_FILTER_DIMENSION_MS" sap:sc="XTIT" size-unit="char">
+        <source>Set Filters for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Title for the member selector which is used to select filters on a dimension for a node in the the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PF_NODE_FILTER_DIMENSION_RS" maxwidth="100" resname="PF_NODE_FILTER_DIMENSION_RS" sap:sc="XTIT" size-unit="char">
+        <source>Set Data Range for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Title for the data range selector dialog which is used to set a time range filter on a time dimension for a node in the the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_ACCOUNT_MS" maxwidth="100" resname="PF_NODE_ACCOUNT_MS" sap:sc="XTIT" size-unit="char">
+        <source>Set Measure</source>
+        <note annotates="source" from="Developer">Title for the member selector which is used to select a single measure for a node.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_FILTER_RESTORE" maxwidth="100" resname="PF_NODE_FILTER_RESTORE" sap:sc="XTIT" size-unit="char">
+        <source>Default Configuration</source>
+        <note annotates="source" from="Developer">Title for a section in the filter selection dropdown list, that shows deleted inherited filters that may be restored.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_DATA_SOURCE" maxwidth="50" resname="PF_NODE_DATA_SOURCE" sap:sc="XTIT" size-unit="char">
+        <source>Data Source</source>
+        <note annotates="source" from="Developer">Title for the used data source in the the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_BACK_TO_DEFAULT" maxwidth="30" resname="PF_BACK_TO_DEFAULT" sap:sc="XTXT" size-unit="char">
+        <source>Default Node Configuration</source>
+        <note annotates="source" from="Developer">Text of the button to go back to the default node configuration</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_EDIT_TITLE" resname="PF_EDIT_TITLE" sap:sc="XTOL">
+        <source>Edit title of node</source>
+        <note annotates="source" from="Developer">Tooltip on the edit title button of the node config panel, this button shows and hides the input for the node title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_UNLINK" resname="PF_UNLINK" sap:sc="XTOL">
+        <source>Unlink from default node configuration</source>
+        <note annotates="source" from="Developer">Tooltip on the button which unlinks the configuration from the default node configuration</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_LINK" resname="PF_LINK" sap:sc="XTOL">
+        <source>Link to default node configuration</source>
+        <note annotates="source" from="Developer">Tooltip on the button which links and therefore resets the configuration to the default node configuration</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_PRESENTATION_DATE_RANGE" maxwidth="30" resname="PF_PRESENTATION_DATE_RANGE" sap:sc="XTIT" size-unit="char">
+        <source>Presentation Date Range</source>
+        <note annotates="source" from="Developer">Title for the presentation date range section in the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ADD_PRESENTATION_DATE_RANGE" maxwidth="50" resname="PF_ADD_PRESENTATION_DATE_RANGE" sap:sc="XBUT" size-unit="char">
+        <source>Add Presentation Date Range Filter</source>
+        <note annotates="source" from="Developer">Caption of a button which is used to add a presentation date range filter in the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CANNOT_CHANGE_PRESENTATION_FILTER" resname="PF_CANNOT_CHANGE_PRESENTATION_FILTER" sap:sc="XTOL">
+        <source>Presentation Date Range can only be set in the Default Node Configuration</source>
+        <note annotates="source" from="Developer">Tooltip for the presentation date range filter which is visible if a node is selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DATE_DIMENSION" maxwidth="50" resname="PF_DATE_DIMENSION" sap:sc="XFLD" size-unit="char">
+        <source>Date Dimension</source>
+        <note annotates="source" from="Developer">Label for the date dimension select where the user can change the currently used time dimension of a node in the VDT builder panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PF_NODE_FILTERS_RESTORED" resname="PF_NODE_FILTERS_RESTORED" sap:sc="XMSG">
+        <source>'<ph id="1">{0}</ph>' filters of all nodes have been restored to the default node configuration.</source>
+        <note annotates="source" from="Developer">Info message which is shown if the presentation date range of the default node configuration is switched to another time dimension. After the dimension was switched all node-specific filters on that dimension are removed. Note: the parameter is the new time dimension name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NO_VALUE_MEMBER" resname="PF_NO_VALUE_MEMBER" sap:sc="XTXT">
+        <source>(No Value)</source>
+        <note annotates="source" from="Developer">Value shown when member without a name were selected for filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FILTER_NODES" maxwidth="30" resname="PF_FILTER_NODES" sap:sc="XFLD" size-unit="char">
+        <source>Filter Nodes</source>
+        <note annotates="source" from="Developer">Placeholder text in filter field for nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_INPUTS" maxwidth="30" resname="PF_INPUTS" sap:sc="XTIT" size-unit="char">
+        <source>Inputs</source>
+        <note annotates="source" from="Developer">Form section title for the Input of the YoY nodes and the Dependency inputs for Data Source nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DEPENDENCIES" maxwidth="30" resname="PF_DEPENDENCIES" sap:sc="XTIT" size-unit="char">
+        <source>Dependencies</source>
+        <note annotates="source" from="Developer">Title showing the number of dependencies for a data source node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALCULATE" maxwidth="30" resname="PF_CALCULATE" sap:sc="XTIT" size-unit="char">
+        <source>Calculate</source>
+        <note annotates="source" from="Developer">Form section title for the Calculate section of the YoY nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALCULATE_INFO" maxwidth="100" resname="PF_CALCULATE_INFO" sap:sc="XTXT" size-unit="char">
+        <source>Changing the calculation will affect your filter settings for this node</source>
+        <note annotates="source" from="Developer">Form section title for the Calculate section of the YoY nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALCULATE_DETAILS" maxwidth="30" resname="PF_CALCULATE_DETAILS" sap:sc="XFLD" size-unit="char">
+        <source>On Details</source>
+        <note annotates="source" from="Developer">Label for the calculation type "On Details" switch for the YoY node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALCULATE_AGGREGATES" maxwidth="30" resname="PF_CALCULATE_AGGREGATES" sap:sc="XFLD" size-unit="char">
+        <source>On Aggregates</source>
+        <note annotates="source" from="Developer">Label for the calculation type "On Aggregates" switch for the YoY node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_INPUT" maxwidth="30" resname="PF_INPUT" sap:sc="XFLD" size-unit="char">
+        <source>Input</source>
+        <note annotates="source" from="Developer">Form section title for the Input of the Union and Simple Calculation nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CONSTANT" maxwidth="30" resname="PF_CONSTANT" sap:sc="XFLD" size-unit="char">
+        <source>Constant</source>
+        <note annotates="source" from="Developer">Label for the input type switch for the Union and Simple Calculation nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CONSTANT_PLACEHOLDER" maxwidth="30" resname="PF_CONSTANT_PLACEHOLDER" sap:sc="XFLD" size-unit="char">
+        <source>Please enter a value</source>
+        <note annotates="source" from="Developer">Placeholder text in node name input field</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_BASE" maxwidth="30" resname="PF_BASE" sap:sc="XTIT" size-unit="char">
+        <source>Base</source>
+        <note annotates="source" from="Developer">Form section title for the Base of the YoY nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SOURCE" maxwidth="30" resname="PF_SOURCE" sap:sc="XTIT" size-unit="char">
+        <source>Source</source>
+        <note annotates="source" from="Developer">Form section title for the Data source nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SEL_DRV_TYPE_MSG" maxwidth="40" resname="PF_SEL_DRV_TYPE_MSG" sap:sc="XFLD" size-unit="char">
+        <source>Select Driver Type</source>
+        <note annotates="source" from="Developer">Placeholder text for the selection of the driver type</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SEL_DRV_MSG" maxwidth="30" resname="PF_SEL_DRV_MSG" sap:sc="XFLD" size-unit="char">
+        <source>Select Node</source>
+        <note annotates="source" from="Developer">Placeholder text for the selection of the driver</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SEL_UNION_INPUT" maxwidth="40" resname="PF_SEL_UNION_INPUT" sap:sc="XFLD" size-unit="char">
+        <source>Select input node</source>
+        <note annotates="source" from="Developer">Placeholder text for the selection of an input for a Union node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SEL_DRV_TYPE_TIT" maxwidth="40" resname="PF_SEL_DRV_TYPE_TIT" sap:sc="XTIT" size-unit="char">
+        <source>Driver Type</source>
+        <note annotates="source" from="Developer">Title for the driver type selector for YoY nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SEL_DRV_TIT" maxwidth="30" resname="PF_SEL_DRV_TIT" sap:sc="XTIT" size-unit="char">
+        <source>Driver</source>
+        <note annotates="source" from="Developer">Title for the driver selector for YoY nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_OUTPUT" maxwidth="30" resname="PF_OUTPUT" sap:sc="XTIT" size-unit="char">
+        <source>Output</source>
+        <note annotates="source" from="Developer">Form section title for the Output YoY nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_OPERATOR" maxwidth="30" resname="PF_OPERATOR" sap:sc="XTIT" size-unit="char">
+        <source>Operator</source>
+        <note annotates="source" from="Developer">Form section title for the operator of the calculation node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SEL_ACC_MSG" maxwidth="40" resname="PF_SEL_ACC_MSG" sap:sc="XFLD" size-unit="char">
+        <source>Click to select an account</source>
+        <note annotates="source" from="Developer">Placeholder text for the selection of an account</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACCOUNT" maxwidth="30" resname="PF_ACCOUNT" sap:sc="XTIT" size-unit="char">
+        <source>Account</source>
+        <note annotates="source" from="Developer">Form section title for the Account of YoY nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SELECT_ACC_TIT" maxwidth="30" resname="PF_SELECT_ACC_TIT" sap:sc="XTIT" size-unit="char">
+        <source>Select Account</source>
+        <note annotates="source" from="Developer">Dialog title for selecting accounts for YoY nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACC_NOT_SELECTED" maxwidth="50" resname="PF_ACC_NOT_SELECTED" sap:sc="XMSG" size-unit="char">
+        <source>No account selected</source>
+        <note annotates="source" from="Developer">Error message shown when no account has been selected in output account selection dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_EMPTY_ACC_SEARCH" maxwidth="100" resname="PF_EMPTY_ACC_SEARCH" sap:sc="XMSG" size-unit="char">
+        <source>No account member matches the search term</source>
+        <note annotates="source" from="Developer">Message shown when no account matches the search phrase</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SEARCH_PLACEH" maxwidth="30" resname="PF_SEARCH_PLACEH" sap:sc="XFLD" size-unit="char">
+        <source>Search</source>
+        <note annotates="source" from="Developer">Label displayed in an empty search field</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SELECTED_ACCOUNT" maxwidth="50" resname="PF_SELECTED_ACCOUNT" sap:sc="XTIT" size-unit="char">
+        <source>Selected Account</source>
+        <note annotates="source" from="Developer">Title for the section displaying the selected account</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_GROWTH_RATE_LBL" maxwidth="30" resname="PF_GROWTH_RATE_LBL" sap:sc="XFLD" size-unit="char">
+        <source>Growth Rate</source>
+        <note annotates="source" from="Developer">Label for the driver type to be shown in a drop down box of input of the YoY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SHARE_LBL" maxwidth="30" resname="PF_SHARE_LBL" sap:sc="XFLD" size-unit="char">
+        <source>Share</source>
+        <note annotates="source" from="Developer">Label for the driver type to be shown in a drop down box of input of the YoY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_INVOLVED_ACCOUNTS" maxwidth="30" resname="PF_INVOLVED_ACCOUNTS" sap:sc="XFLD" size-unit="char">
+        <source>Input Accounts</source>
+        <note annotates="source" from="Developer">Label for the account members that are indirectly involved in a union node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SORT_NODES" maxwidth="30" resname="PF_SORT_NODES" sap:sc="XMIT" size-unit="char">
+        <source>Sort</source>
+        <note annotates="source" from="Developer">Menu item to sort nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SORT_NODES_AZ" maxwidth="30" resname="PF_SORT_NODES_AZ" sap:sc="XMIT" size-unit="char">
+        <source>A to Z</source>
+        <note annotates="source" from="Developer">Menu item to sort nodes alphabetically</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SORT_NODES_ZA" maxwidth="30" resname="PF_SORT_NODES_ZA" sap:sc="XMIT" size-unit="char">
+        <source>Z to A</source>
+        <note annotates="source" from="Developer">Menu item to sort nodes reverse alphabetically</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_WIDGET_PLACEHOLDER_INFO" maxwidth="200" resname="PF_WIDGET_PLACEHOLDER_INFO" sap:sc="XMSG" size-unit="char">
+        <source>Setup default node configuration which applies to all nodes. Add nodes via rightclick.</source>
+        <note annotates="source" from="Developer">Hint shown in new vdt widget below the placeholder, stating that user is in setup default node configuration which applies to all nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_EMPTY_HINT" maxwidth="200" resname="PF_EMPTY_HINT" sap:sc="XMSG" size-unit="char">
+        <source>Add nodes to Consumption View.</source>
+        <note annotates="source" from="Developer">Clickable hint shown in the old widget below the placeholder when the consumption view has no nodes yet and which on click opens the consumption flow in the VDT designer</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SHOW_HIDE" maxwidth="30" resname="PF_SHOW_HIDE" sap:sc="XMIT" size-unit="char">
+        <source>Show/Hide</source>
+        <note annotates="source" from="Developer">Menu item to show/hide information in nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SHOW_UNITS" maxwidth="30" resname="PF_SHOW_UNITS" sap:sc="XMIT" size-unit="char">
+        <source>Currency/Unit</source>
+        <note annotates="source" from="Developer">Menu item to show/hide unit and currency information</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SHOW_CROSS_CALC_TITLE" maxwidth="30" resname="PF_SHOW_CROSS_CALC_TITLE" sap:sc="XMIT" size-unit="char">
+        <source>Cross Calculation Title</source>
+        <note annotates="source" from="Developer">Menu item to show/hide name of the cross calculation in data rows of vdt nodes information</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SHOW_HEADER" maxwidth="30" resname="PF_SHOW_HEADER" sap:sc="XMIT" size-unit="char">
+        <source>Value Driver Tree Title</source>
+        <note annotates="source" from="Developer">Menu item to show/hide the header of the vdt widget</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DEFAULT_CURRENCY" maxwidth="30" resname="PF_DEFAULT_CURRENCY" sap:sc="XMIT" size-unit="char">
+        <source>Default Currency</source>
+        <note annotates="source" from="Developer">Menu item to show default currencies in the VDT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_LOCAL_CURRENCIES" maxwidth="30" resname="PF_LOCAL_CURRENCIES" sap:sc="XMIT" size-unit="char">
+        <source>Local Currency</source>
+        <note annotates="source" from="Developer">Menu item to show local currencies in the VDT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CURRENCY_NOT_FOUND" maxwidth="30" resname="PF_CURRENCY_NOT_FOUND" sap:sc="XMIT" size-unit="char">
+        <source>Currency not found</source>
+        <note annotates="source" from="Developer">Menu item to show that selected currency conversion cannot be found</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PF_CURRENCY_NOT_COMPATIBLE" resname="PF_CURRENCY_NOT_COMPATIBLE" sap:sc="XMIT">
+        <source>The selected currency is not supported with the Version '<ph id="1">{0}</ph>'</source>
+        <note annotates="source" from="Developer">tooltip on warning icon when no values are shown because the selected version was not created with the selected currency</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_GROUP_NODES" maxwidth="30" resname="PF_GROUP_NODES" sap:sc="XMIT" size-unit="char">
+        <source>Group</source>
+        <note annotates="source" from="Developer">Menu item to group nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_GROUPBY_TYPE" maxwidth="30" resname="PF_GROUPBY_TYPE" sap:sc="XMIT" size-unit="char">
+        <source>By Type</source>
+        <note annotates="source" from="Developer">Menu item to group nodes by type</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_COPY_NODES" maxwidth="30" resname="PF_COPY_NODES" sap:sc="XFLD" size-unit="char">
+        <source>Copy</source>
+        <note annotates="source" from="Developer">Menu button to copy nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_COPY_TO_CONSUMPTION_FLOW" maxwidth="30" resname="PF_COPY_TO_CONSUMPTION_FLOW" sap:sc="XFLD" size-unit="char">
+        <source>Copy to Consumption Flow</source>
+        <note annotates="source" from="Developer">Sub-menu button to copy nodes to consumption flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_COPY_NODE" maxwidth="30" resname="PF_COPY_NODE" sap:sc="XFLD" size-unit="char">
+        <source>Copy Node</source>
+        <note annotates="source" from="Developer">Menu item to copy node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_COPY_BRANCH" maxwidth="30" resname="PF_COPY_BRANCH" sap:sc="XFLD" size-unit="char">
+        <source>Copy Branch</source>
+        <note annotates="source" from="Developer">Menu item to copy branch</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_REMOVE_NODES" maxwidth="30" resname="PF_REMOVE_NODES" sap:sc="XFLD" size-unit="char">
+        <source>Remove</source>
+        <note annotates="source" from="Developer">Menu button to remove nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_REMOVE_NODE" maxwidth="30" resname="PF_REMOVE_NODE" sap:sc="XFLD" size-unit="char">
+        <source>Remove Node</source>
+        <note annotates="source" from="Developer">Menu item to remove node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_REMOVE_BRANCH" maxwidth="30" resname="PF_REMOVE_BRANCH" sap:sc="XFLD" size-unit="char">
+        <source>Remove Branch</source>
+        <note annotates="source" from="Developer">Menu item to remove branch</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SET_ACC_DISPLAY" maxwidth="30" resname="PF_SET_ACC_DISPLAY" sap:sc="XFLD" size-unit="char">
+        <source>Display settings</source>
+        <note annotates="source" from="Developer">Tooltip for account display settings toolbar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SHOW_ID" maxwidth="30" resname="PF_SHOW_ID" sap:sc="XMIT" size-unit="char">
+        <source>ID</source>
+        <note annotates="source" from="Developer">Menu item to show ID of nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SHOW_DESC" maxwidth="30" resname="PF_SHOW_DESC" sap:sc="XMIT" size-unit="char">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Menu item to show Description of nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SHOW_ID_AND_DESC" maxwidth="30" resname="PF_SHOW_ID_AND_DESC" sap:sc="XMIT" size-unit="char">
+        <source>ID and Description</source>
+        <note annotates="source" from="Developer">Menu item to show ID and Description of nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SHOW_TITLE" maxwidth="30" resname="PF_SHOW_TITLE" sap:sc="XMIT" size-unit="char">
+        <source>Show</source>
+        <note annotates="source" from="Developer">Menu item title for display settings menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_CALC_PERIOD_DISABLED" resname="PLANFL_CALC_PERIOD_DISABLED" sap:sc="XTOL">
+        <source>Currently only year granularity is supported</source>
+        <note annotates="source" from="Developer">Tooltip why the granularity sliders are disabled</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_CALC_START_TTL" resname="PLANFL_CALC_START_TTL" sap:sc="XFLD">
+        <source>Default Calculation Start Date</source>
+        <note annotates="source" from="Developer">Calculation period start date title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_CALC_END_TTL" resname="PLANFL_CALC_END_TTL" sap:sc="XFLD">
+        <source>Default Calculation End Date</source>
+        <note annotates="source" from="Developer">Calculation period end date title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_PRES_PERIOD_TTL" resname="PLANFL_PRES_PERIOD_TTL" sap:sc="XFLD">
+        <source>Default Presentation Period</source>
+        <note annotates="source" from="Developer">Presentation period title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_PRES_START_TTL" resname="PLANFL_PRES_START_TTL" sap:sc="XFLD">
+        <source>Default Presentation Start Date</source>
+        <note annotates="source" from="Developer">Presentation period start date title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_PRES_END_TTL" resname="PLANFL_PRES_END_TTL" sap:sc="XFLD">
+        <source>Default Presentation End Date</source>
+        <note annotates="source" from="Developer">Presentation period end date title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_CURRENT_DAY" resname="PLANFL_CURRENT_DAY" sap:sc="XFLD">
+        <source>Current day</source>
+        <note annotates="source" from="Developer">marker for the current day in the category visualizer (PlanFlowDetails, main tab, right panel content)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_LOADING" resname="PLANFL_LIST_LOADING" sap:sc="XFLD">
+        <source>Loading Value Driver Tree list ...</source>
+        <note annotates="source" from="Developer">Text displayed initially in planning flow list before the list has been fetched for the first time</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_NONE_EXIST" resname="PLANFL_LIST_NONE_EXIST" sap:sc="XFLD">
+        <source>No Value Driver Trees exist. To create a new one, click the '+' icon in the toolbar.</source>
+        <note annotates="source" from="Developer">Text displayed in planning flow list if no planning flow exists yet, and a hint that he may create a new planning flow by pressing the Plus-shaped button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_NONE_MATCH" resname="PLANFL_LIST_NONE_MATCH" sap:sc="XFLD">
+        <source>No Value Driver Tree matches your search.</source>
+        <note annotates="source" from="Developer">Text displayed in planning flow list if no planning flow matches the currently entered search term</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_BTN_CREATE" resname="PLANFL_LIST_BTN_CREATE" sap:sc="XFLD">
+        <source>Create Value Driver Tree</source>
+        <note annotates="source" from="Developer">Tooltip of toolbar button to create selected planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_BTN_DUPLICATE" resname="PLANFL_LIST_BTN_DUPLICATE" sap:sc="XFLD">
+        <source>Duplicate Value Driver Tree</source>
+        <note annotates="source" from="Developer">Tooltip of toolbar button to duplicate selected planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_BTN_DELETE" resname="PLANFL_LIST_BTN_DELETE" sap:sc="XFLD">
+        <source>Delete Value Driver Tree(s)</source>
+        <note annotates="source" from="Developer">Tooltip of toolbar button to delete selected planning flow(s)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_BTN_EDIT" resname="PLANFL_LIST_BTN_EDIT" sap:sc="XFLD">
+        <source>Edit Value Driver Tree</source>
+        <note annotates="source" from="Developer">Tooltip of toolbar button to edit selected planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_BTN_RELOAD" resname="PLANFL_LIST_BTN_RELOAD" sap:sc="XFLD">
+        <source>Reload list</source>
+        <note annotates="source" from="Developer">Tooltip of toolbar button to edit selected planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_TYPE" resname="PLANFL_LIST_TYPE" sap:sc="XFLD">
+        <source>Type</source>
+        <note annotates="source" from="Developer">Header for 'type'-column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_NAME" resname="PLANFL_LIST_NAME" sap:sc="XFLD">
+        <source>Name</source>
+        <note annotates="source" from="Developer">Header for 'name'-column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_MODEL" resname="PLANFL_LIST_MODEL" sap:sc="XFLD">
+        <source>Used Model</source>
+        <note annotates="source" from="Developer">Header for 'name'-column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_CREATED_BY" resname="PLANFL_LIST_CREATED_BY" sap:sc="XFLD">
+        <source>Created by</source>
+        <note annotates="source" from="Developer">Header for 'created by'-column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_LIST_CHANGED_BY" resname="PLANFL_LIST_CHANGED_BY" sap:sc="XFLD">
+        <source>Last changed by</source>
+        <note annotates="source" from="Developer">Header for 'last changed by'-column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_BASE_MODEL" resname="PLANFL_BASE_MODEL" sap:sc="XFLD">
+        <source>Underlying model</source>
+        <note annotates="source" from="Developer">Label in the details panel showing the related model of the value driver tree</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_DLG_CREATE_TITLE" maxwidth="50" resname="PLANFL_DLG_CREATE_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Create Value Driver Tree</source>
+        <note annotates="source" from="Developer">Title for planning flow dialog, when creating a new planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_DLG_COPY_TITLE" maxwidth="50" resname="PLANFL_DLG_COPY_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Duplicate Value Driver Tree</source>
+        <note annotates="source" from="Developer">Title for planning flow dialog, when duplicating an existing planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_DLG_EDIT_TITLE" maxwidth="50" resname="PLANFL_DLG_EDIT_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Edit Value Driver Tree</source>
+        <note annotates="source" from="Developer">Title for planning flow dialog, when editing an existing planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_DLG_CREATE_OK" maxwidth="30" resname="PLANFL_DLG_CREATE_OK" sap:sc="XBUT" size-unit="char">
+        <source>Create</source>
+        <note annotates="source" from="Developer">Caption for the ok button in planning flow dialog, when creating a new planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_DLG_DUPLICATE_OK" maxwidth="30" resname="PLANFL_DLG_DUPLICATE_OK" sap:sc="XBUT" size-unit="char">
+        <source>Create</source>
+        <note annotates="source" from="Developer">Caption for the ok button in planning flow dialog, when duplicating an existing planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_DLG_EDIT_OK" maxwidth="30" resname="PLANFL_DLG_EDIT_OK" sap:sc="XBUT" size-unit="char">
+        <source>Save</source>
+        <note annotates="source" from="Developer">Caption for the ok button in planning flow dialog, when editing an existing planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_NAME_TITLE" maxwidth="50" resname="PLANFL_NAME_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Name</source>
+        <note annotates="source" from="Developer">Label for the value driver tree name text box in the planning flow dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_NAME_PLACEHOLDER" maxwidth="50" resname="PLANFL_NAME_PLACEHOLDER" sap:sc="XFLD" size-unit="char">
+        <source>Add a unique name here</source>
+        <note annotates="source" from="Developer">Placeholder for the value driver tree name text box in the planning flow dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_DESCR_TITLE" maxwidth="50" resname="PLANFL_DESCR_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Label for the value driver tree description text box in the planning flow dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_DESCR_PLACEHOLDER" maxwidth="50" resname="PLANFL_DESCR_PLACEHOLDER" sap:sc="XFLD" size-unit="char">
+        <source>Add an optional description here</source>
+        <note annotates="source" from="Developer">Placeholder for the value driver tree description text box in the planning flow dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_MODEL_TITLE" maxwidth="50" resname="PLANFL_MODEL_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Underlying Model</source>
+        <note annotates="source" from="Developer">Label for the underlying model dropdown in the planning flow dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_MODEL_SELECTOR" maxwidth="50" resname="PLANFL_MODEL_SELECTOR" sap:sc="XTXT" size-unit="char">
+        <source>Select a model ...</source>
+        <note annotates="source" from="Developer">Placeholder for the model selector link in the planning flow dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_MODEL_NAME_PLACEHOLDER" maxwidth="50" resname="PLANFL_MODEL_NAME_PLACEHOLDER" sap:sc="XTXT" size-unit="char">
+        <source>Model not found</source>
+        <note annotates="source" from="Developer">Placeholder for a model name if the model couldn't be retrieved (e.g. because it was deleted or the user doesn't have the required privileges)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PANFL_NAME_PLEASE_ENTER" maxwidth="80" resname="PANFL_NAME_PLEASE_ENTER" sap:sc="XTXT" size-unit="char">
+        <source>Please enter a name for the value driver tree</source>
+        <note annotates="source" from="Developer">Validation messages shown to the user in the planning flow dialog when no name was provided</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_NAME_NOT_UNIQUE" resname="PLANFL_NAME_NOT_UNIQUE" sap:sc="XTXT">
+        <source>A value driver tree with that name already exists</source>
+        <note annotates="source" from="Developer">Validation messages shown to the user in the planning flow dialog when provided name is not unique</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PLANFL_CONFIRM_DEL" maxwidth="150" resname="PLANFL_CONFIRM_DEL" sap:sc="XTXT" size-unit="char">
+        <source>Are you sure you want to delete value driver tree <ph id="1">{0}</ph>?</source>
+        <note annotates="source" from="Developer">Message for confirmation dialog for deletion of one planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PLANFL_CONFIRM_DEL_MULTI" maxwidth="150" resname="PLANFL_CONFIRM_DEL_MULTI" sap:sc="XTXT" size-unit="char">
+        <source>Are you sure you want to delete the value driver trees <ph id="1">{0}</ph>?</source>
+        <note annotates="source" from="Developer">Message for confirmation dialog for deletion of multiple planning flows</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_MODEL_VAR" maxwidth="50" resname="PLANFL_MODEL_VAR" sap:sc="XTXT" size-unit="char">
+        <source>Please select a model without variables</source>
+        <note annotates="source" from="Developer">Validation message shown to the user if a model with variables is selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLANFL_MODEL_NOT_EDITABLE" resname="PLANFL_MODEL_NOT_EDITABLE" sap:sc="XTOL">
+        <source>The model cannot be changed after the initial setup</source>
+        <note annotates="source" from="Developer">Tooltip on model selection that it cannot be changed after initial setup</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_BASE_DEPENDS_ON_CALCULATED_ACCOUNT" maxwidth="100" resname="PF_BASE_DEPENDS_ON_CALCULATED_ACCOUNT" sap:sc="XMSG" size-unit="char">
+        <source>The base depends directly or indirectly on a calculated account.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when the base of a YoY node is directly or indirectly based on a calculated account.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACCOUNT_EXCEP_LABEL" resname="PF_ACCOUNT_EXCEP_LABEL" sap:sc="XMSG">
+        <source>Input accounts with aggregation type LABEL are not allowed for calculation</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in the tooltip of a VDT node, when an Account was selected for a calculation node which has the aggregation type "LABEL"</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DEPENDS_ON_EXCEPTION_AGGREGATION" resname="PF_DEPENDS_ON_EXCEPTION_AGGREGATION" sap:sc="XMSG">
+        <source>Non-calculated input accounts with aggregation types other than SUM are only allowed when calculating on details.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when a YoY node calculating on aggregates is directly or indirectly based on an account with an exception aggregation.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_BASE_DATE_OUTSIDE_MODEL" maxwidth="100" resname="PF_BASE_DATE_OUTSIDE_MODEL" sap:sc="XMSG" size-unit="char">
+        <source>Base date is outside of modeled time frame.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when the base date of a YoY node lies outside of the modeled time frame.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_BASE_NOT_CHOSEN" maxwidth="100" resname="PF_BASE_NOT_CHOSEN" sap:sc="XMSG" size-unit="char">
+        <source>Base node not yet chosen.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when the base of a YoY node has not been chosen yet.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DRIVER_NOT_CHOSEN" maxwidth="100" resname="PF_DRIVER_NOT_CHOSEN" sap:sc="XMSG" size-unit="char">
+        <source>No driver node of type 'share' or 'growth rate' chosen.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when no driver input node of a YoY node has not been chosen yet.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_0_INPUT_FOR_UNION" maxwidth="100" resname="PF_0_INPUT_FOR_UNION" sap:sc="XMSG" size-unit="char">
+        <source>No input nodes set.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when a union node has no input node configured</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_1_INPUT_FOR_UNION" maxwidth="100" resname="PF_1_INPUT_FOR_UNION" sap:sc="XMSG" size-unit="char">
+        <source>Just one input node set.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, a union node has just one input node configured</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_IV_INPUT_FOR_UNION" resname="PF_IV_INPUT_FOR_UNION" sap:sc="XMSG">
+        <source>Some inputs of this union node are invalid, the data might be incomplete.</source>
+        <note annotates="source" from="Developer">Warning message, e.g. shown in tooltip of a VDT node, if a union node has some invalid input node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_IV_INPUT_FOR_UNION_T" resname="PF_IV_INPUT_FOR_UNION_T" sap:sc="XMSG">
+        <source>Some inputs of this union node might have incomplete data, the data might be incomplete</source>
+        <note annotates="source" from="Developer">Warning message, e.g. shown in tooltip of a VDT node, if a union node depends transitively on an invalid input node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_INPUTS_FOR_SCALC" maxwidth="100" resname="PF_INPUTS_FOR_SCALC" sap:sc="XMSG" size-unit="char">
+        <source>All inputs should be set.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, a simple calculation node has exactly two inputs</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DIVISION_BY_ZERO" maxwidth="100" resname="PF_DIVISION_BY_ZERO" sap:sc="XMSG" size-unit="char">
+        <source>Division by zero is not allowed.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, a simple calculation node cannot have the second input a zero constant when the operation is division</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NONR_FOR_SCALC" maxwidth="100" resname="PF_NONR_FOR_SCALC" sap:sc="XMSG" size-unit="char">
+        <source>Only numerical values can be provided as constants.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, a simple calculation node need numerical values as constants</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NO_ACCOUNTS_SET" maxwidth="100" resname="PF_NO_ACCOUNTS_SET" sap:sc="XMSG" size-unit="char">
+        <source>No accounts set.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when a YoY, a simple calculation or a data source node has no account filter set</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NO_NAME_SET" maxwidth="40" resname="PF_NO_NAME_SET" sap:sc="XMSG" size-unit="char">
+        <source>No name set.</source>
+        <note annotates="source" from="Developer">Warning message, e.g. shown in tooltip of a VDT node, when a node has no name set</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACCOUNT_DELETED" maxwidth="100" resname="PF_ACCOUNT_DELETED" sap:sc="XMSG" size-unit="char">
+        <source>The corresponding account was deleted or you have no access rights for it.</source>
+        <note annotates="source" from="Developer">Warning message, e.g. shown in tooltip of a VDT node, when one account of the node was deleted in the modeller or the user has no access rights for it</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACCOUNTS_DELETED" maxwidth="100" resname="PF_ACCOUNTS_DELETED" sap:sc="XMSG" size-unit="char">
+        <source>The corresponding accounts were deleted or you have no access rights for them.</source>
+        <note annotates="source" from="Developer">Warning message, e.g. shown in tooltip of a VDT node, when multiple accounts of the node were deleted in the modeller or the user has no access rights for it</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FILTER_MEMBER_DELETED" maxwidth="100" resname="PF_FILTER_MEMBER_DELETED" sap:sc="XMSG" size-unit="char">
+        <source>At least one member of the filter was deleted or you have no access rights for it.</source>
+        <note annotates="source" from="Developer">Warning message, e.g. shown in tooltip of a VDT node, when at least one member of the filter isn't accessible anymore due to missing access rights, deletion or hierarchy change</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACCOUNT_FORMULA_BASED" resname="PF_ACCOUNT_FORMULA_BASED" sap:sc="XMSG">
+        <source>The output of this node cannot be a calculated account.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when one account of the node is based on a formula</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACCOUNT_FORMULA_BASED_NOT_SELECTABLE" resname="PF_ACCOUNT_FORMULA_BASED_NOT_SELECTABLE" sap:sc="XMSG">
+        <source>Not selectable due to being a calculated account.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip in the account selection dialog, when one account cannot be selected due to being based on a formula</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACCOUNT_EXCEP_AGG" resname="PF_ACCOUNT_EXCEP_AGG" sap:sc="XMSG">
+        <source>The output of this node can only have an aggregation type other than SUM when calculating on details.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when one account of the node has an exception aggregation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NOT_MATCHING_FILTERS" maxwidth="100" resname="PF_NOT_MATCHING_FILTERS" sap:sc="XMSG" size-unit="char">
+        <source>The inputs should have overlapping filters.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when a simple calculation node's inputs have mismatching filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NOT_MATCHING_FILTERS_RES" maxwidth="100" resname="PF_NOT_MATCHING_FILTERS_RES" sap:sc="XMSG" size-unit="char">
+        <source>The node filters should overlap with the node account restrictions.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when a DS node's filters do not match the restricted account's restrictions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_UNSUPPORTED_COMPLEX_FORMULAS" maxwidth="100" resname="PF_UNSUPPORTED_COMPLEX_FORMULAS" sap:sc="XMSG" size-unit="char">
+        <source>The calculation dependencies cannot be resolved for accounts with YoY, CAGR or SMA formulas.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when a DS node's account uses a YoY, CAGR or SMA formula stating that the calculation dependencies between this node and other nodes cannot be resolved correctly once those formulas are used.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FORMULA_WITH_FILTERS" maxwidth="100" resname="PF_FORMULA_WITH_FILTERS" sap:sc="XMSG" size-unit="char">
+        <source>For accounts with (RESULT)LOOKUP and RESTRICT formulas superfluous dependencies may be included.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when a DS node's account uses a RESULTLOOKUP, LOOKUP or RESTRICT formula stating that the calculation dependencies between this node and other node may include superfluous dependencies.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_TIME_NOT_MATCHING_FILTERS_RES" maxwidth="100" resname="PF_TIME_NOT_MATCHING_FILTERS_RES" sap:sc="XMSG" size-unit="char">
+        <source>The plan flow presentation period should overlap with the node account restrictions.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when a plan flow presentation time range do not match the restricted account's restrictions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NO_REFERENCE_INPUT" maxwidth="100" resname="PF_NO_REFERENCE_INPUT" sap:sc="XMSG" size-unit="char">
+        <source>Only one constant input is allowed.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown in tooltip of a VDT node, when a simple calculation node's inputs are all constants</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_WRONG_TIME_ORDER" maxwidth="100" resname="PF_WRONG_TIME_ORDER" sap:sc="XMSG" size-unit="char">
+        <source>End date lies before start date.</source>
+        <note annotates="source" from="Developer">Error message, e.g. shown below input elements on Time &amp; Model screen, when times have been entered in the wrong order</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_TIME_TOO_FINE" maxwidth="100" resname="PF_TIME_TOO_FINE" sap:sc="XMSG" size-unit="char">
+        <source>Time granularity finer than model granularity.</source>
+        <note annotates="source" from="Developer">Error message, e.g. when configuring a presentation or computation time granularity of months for a VDT or node, if the underlying model is at the granularity of years</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_TIME_OUT_OF_RANGE" maxwidth="100" resname="PF_TIME_OUT_OF_RANGE" sap:sc="XMSG" size-unit="char">
+        <source>Time out of range of the underlying model.</source>
+        <note annotates="source" from="Developer">Error message, e.g. when configuring a presentation or computation time 2012-2015 for a VDT or node, if the underlying model is defined for 2015-2016</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PF_OUTPUT_OVERLAP" maxwidth="100" resname="PF_OUTPUT_OVERLAP" sap:sc="XMSG" size-unit="char">
+        <source>The node output overlaps with the node output of <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">Warning message, e.g. shown in tooltip of a VDT node, when the node output overlaps with the outputs of one or more different nodes.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PF_CYCLE" maxwidth="100" resname="PF_CYCLE" sap:sc="XMSG" size-unit="char">
+        <source>The node causes a cycle with the node <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">Warning message, e.g. shown in tooltip of a VDT node, when the node causes a cycle with one different node.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PF_CYCLE_MULTIPLE" maxwidth="100" resname="PF_CYCLE_MULTIPLE" sap:sc="XMSG" size-unit="char">
+        <source>The node causes a cycle with the nodes <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">Warning message, e.g. shown in tooltip of a VDT node, when the node causes a cycle with two of more different nodes.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODEMENU_DELETE" maxwidth="30" resname="PF_NODEMENU_DELETE" sap:sc="XBUT" size-unit="char">
+        <source>Delete</source>
+        <note annotates="source" from="Developer">Button to delete a single node from VDT View (VDT=Value Driver Tree)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_REMOVE" maxwidth="30" resname="PF_NODE_REMOVE" sap:sc="XBUT" size-unit="char">
+        <source>Remove Node</source>
+        <note annotates="source" from="Developer">Quick action button in VDT widget to remove a single node from the VDT (VDT=Value Driver Tree)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALC_MENU_NEW" maxwidth="50" resname="PF_CALC_MENU_NEW" sap:sc="XBUT" size-unit="char">
+        <source>Adding Nodes</source>
+        <note annotates="source" from="Developer">Button open the "Add Nodes" menu in VDT Calculation flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_COPY_NODE_STYLE" maxwidth="50" resname="PF_COPY_NODE_STYLE" sap:sc="XBUT" size-unit="char">
+        <source>Node style painting</source>
+        <note annotates="source" from="Developer">Button open the "Add Nodes" menu in VDT Calculation flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALC_MENU_AUTO" maxwidth="50" resname="PF_CALC_MENU_AUTO" sap:sc="XBUT" size-unit="char">
+        <source>Auto-Complete</source>
+        <note annotates="source" from="Developer">Button auto-complete VDT based on account dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CENTER_VIEW" maxwidth="50" resname="PF_CENTER_VIEW" sap:sc="XBUT" size-unit="char">
+        <source>Center View</source>
+        <note annotates="source" from="Developer">Button center view in VDT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALC_MENU_DELETE_NODE" maxwidth="50" resname="PF_CALC_MENU_DELETE_NODE" sap:sc="XBUT" size-unit="char">
+        <source>Delete Node</source>
+        <note annotates="source" from="Developer">Button to delete a node in VDT Calculation flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALC_MENU_SAVE" maxwidth="50" resname="PF_CALC_MENU_SAVE" sap:sc="XBUT" size-unit="char">
+        <source>Save</source>
+        <note annotates="source" from="Developer">Button open the "Save" menu in VDT Calculation flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_MENU_REFRESH" maxwidth="50" resname="PF_MENU_REFRESH" sap:sc="XBUT" size-unit="char">
+        <source>Reload Data</source>
+        <note annotates="source" from="Developer">Button to re-query the VDT data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_MENU_REDO" maxwidth="30" resname="PF_MENU_REDO" sap:sc="XBUT" size-unit="char">
+        <source>Redo</source>
+        <note annotates="source" from="Developer">Button to redo actions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_MENU_UNDO" maxwidth="30" resname="PF_MENU_UNDO" sap:sc="XBUT" size-unit="char">
+        <source>Undo</source>
+        <note annotates="source" from="Developer">Button to undo actions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_MENU_LINK" maxwidth="30" resname="PF_MENU_LINK" sap:sc="XBUT" size-unit="char">
+        <source>Link</source>
+        <note annotates="source" from="Developer">Button to link nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_MENU_UNLINK" maxwidth="30" resname="PF_MENU_UNLINK" sap:sc="XBUT" size-unit="char">
+        <source>Unlink</source>
+        <note annotates="source" from="Developer">Button to unlink nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_MENU_RESET" maxwidth="50" resname="PF_MENU_RESET" sap:sc="XBUT" size-unit="char">
+        <source>Reset to Calculation Flow</source>
+        <note annotates="source" from="Developer">Button to reset a consumption flow to the calculation flow that it associates with</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOADING_NOT_POSSIBLE" maxwidth="150" resname="LOADING_NOT_POSSIBLE" sap:sc="XTXT" size-unit="char">
+        <source>The Value Driver Tree is invalid, no values can be loaded.</source>
+        <note annotates="source" from="Developer">Error message when attempting to reload the numbers for the VDT when there are validation errors in the meta data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOADING_INCOMPLETE" resname="LOADING_INCOMPLETE" sap:sc="XTXT">
+        <source>The results might not include all of your data. Check the nodes with warnings on them and recalculate the Value Driver Tree to get the whole picture.</source>
+        <note annotates="source" from="Developer">Warning message when attempting to reload the numbers for the VDT when there are validation errors in the nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAVE_VDT_OK" maxwidth="150" resname="SAVE_VDT_OK" sap:sc="XTXT" size-unit="char">
+        <source>The Value Driver Tree has been saved successfully.</source>
+        <note annotates="source" from="Developer">Confirmation message when a Planning Flow was saved successfully</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAVE_VALIDATION_ERROR" maxwidth="150" resname="SAVE_VALIDATION_ERROR" sap:sc="XTXT" size-unit="char">
+        <source>The Value Driver Tree is invalid and cannot be saved.</source>
+        <note annotates="source" from="Developer">Error message when attempting to save an invalid planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAVE_PRIVILEGES_ERROR" maxwidth="250" resname="SAVE_PRIVILEGES_ERROR" sap:sc="XTXT" size-unit="char">
+        <source>The Value Driver Tree has unsaved changes and cannot be saved because of missing privileges. Please revert all unsaved changes to execute the simulation.</source>
+        <note annotates="source" from="Developer">Error message when user without update privileges tries to execute an edited VDT which needs to be saved</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAVE_VDT_ERROR" maxwidth="150" resname="SAVE_VDT_ERROR" sap:sc="XTXT" size-unit="char">
+        <source>An unexpected error occurred during saving the Value Driver Tree.</source>
+        <note annotates="source" from="Developer">Error message when saving a flow failed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMULATION" maxwidth="20" resname="PF_SIMULATION" sap:sc="XTIT" size-unit="char">
+        <source>Simulation</source>
+        <note annotates="source" from="Developer">Title for simulation side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_OPEN_SIMULATION" maxwidth="100" resname="PF_OPEN_SIMULATION" sap:sc="XTIT" size-unit="char">
+        <source>Open Simulation Panel</source>
+        <note annotates="source" from="Developer">tooltip for open simulation side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALCULATION_RUNNING" maxwidth="100" resname="PF_CALCULATION_RUNNING" sap:sc="XMSG" size-unit="char">
+        <source>Calculation is running</source>
+        <note annotates="source" from="Developer">message shown to the user in the busy indicator while a calculation is still running</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ADDING_NODES" maxwidth="100" resname="PF_ADDING_NODES" sap:sc="XMSG" size-unit="char">
+        <source>Adding nodes</source>
+        <note annotates="source" from="Developer">message shown to the user in the busy indicator while nodes are added</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DELETING_NODES" maxwidth="100" resname="PF_DELETING_NODES" sap:sc="XMSG" size-unit="char">
+        <source>Deleting nodes</source>
+        <note annotates="source" from="Developer">message shown to the user in the busy indicator while nodes are deleted</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ALL_ACCOUNTS" maxwidth="100" resname="PF_ALL_ACCOUNTS" sap:sc="XTXT" size-unit="char">
+        <source>All Accounts</source>
+        <note annotates="source" from="Developer">description of the All Accounts member in the account member selector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_AVAILABLE_ACCOUNTS" maxwidth="100" resname="PF_AVAILABLE_ACCOUNTS" sap:sc="XTIT" size-unit="char">
+        <source>Available Accounts</source>
+        <note annotates="source" from="Developer">section header in the account member selector for the left panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SELECTED_ACCOUNTS" maxwidth="100" resname="PF_SELECTED_ACCOUNTS" sap:sc="XTIT" size-unit="char">
+        <source>Selected Accounts</source>
+        <note annotates="source" from="Developer">section header in the account member selector for the right panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NO_ACCOUNTS_SELECTED" maxwidth="100" resname="PF_NO_ACCOUNTS_SELECTED" sap:sc="XMSG" size-unit="char">
+        <source>No accounts selected.</source>
+        <note annotates="source" from="Developer">message shown in the account member selector when no accounts are selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NO_NEW_NODES" maxwidth="100" resname="PF_NO_NEW_NODES" sap:sc="XMSG" size-unit="char">
+        <source>No new nodes will be added.</source>
+        <note annotates="source" from="Developer">message shown in the account member selector when no new nodes would be added</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PF_NEW_NODES" maxwidth="100" resname="PF_NEW_NODES" sap:sc="XMSG" size-unit="char">
+        <source>You will be adding a total of <ph id="1">{0}</ph> new accounts as nodes.</source>
+        <note annotates="source" from="Developer">message shown in the account member selector when some new nodes would be added</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PF_NEW_NODES_WARNING" maxwidth="100" resname="PF_NEW_NODES_WARNING" sap:sc="XMSG" size-unit="char">
+        <source>You will be adding a total of <ph id="1">{0}</ph> new accounts as nodes. Processing will take longer than usual.</source>
+        <note annotates="source" from="Developer">message shown in the account member selector when very many new nodes would be added (# &gt; warning-threshold)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PF_NEW_NODES_EXCEEDS_MAX" maxwidth="200" resname="PF_NEW_NODES_EXCEEDS_MAX" sap:sc="XMSG" size-unit="char">
+        <source>You have selected a total of <ph id="1">{0}</ph> accounts, which exceeds the threshold. To use this feature, reduce the number.</source>
+        <note annotates="source" from="Developer">message shown in the account member selector when the number of newly added nodes exceeds the given max threshold</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FORMAT_MINIMAL_NODE_WIDTH" maxwidth="40" resname="PF_FORMAT_MINIMAL_NODE_WIDTH" sap:sc="XFLD" size-unit="char">
+        <source>Minimum Node Width</source>
+        <note annotates="source" from="Developer">Label for the formatting of the minimal node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FORMAT_MINIMAL_NODE_WIDTH_INFO" maxwidth="200" resname="PF_FORMAT_MINIMAL_NODE_WIDTH_INFO" sap:sc="XMSG" size-unit="char">
+        <source>Set a minimum node width in pixels to make room for longer titles. To show all your data, some of the nodes might exceed the minimum width.</source>
+        <note annotates="source" from="Developer">info text in a popup which explains that the minimal node width might be smaller than the actual node width</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_MINIMAL_NODE_WIDTH_PLACEHOLDER" maxwidth="20" resname="PF_MINIMAL_NODE_WIDTH_PLACEHOLDER" sap:sc="XFLD" size-unit="char">
+        <source>Default width</source>
+        <note annotates="source" from="Developer">placeholder for the minimum node width input field. When nothing is entered yet, the default node width is used.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FORMATTING" maxwidth="20" resname="PF_FORMATTING" sap:sc="XTIT" size-unit="char">
+        <source>Formatting</source>
+        <note annotates="source" from="Developer">Title for formatting side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FORMAT_HEADER_SECTION" maxwidth="100" resname="PF_FORMAT_HEADER_SECTION" sap:sc="XTIT" size-unit="char">
+        <source>Header</source>
+        <note annotates="source" from="Developer">section header grouping formatting options for a node, here the header of a node can be styled</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FORMAT_NODE_COLOR" maxwidth="100" resname="PF_FORMAT_NODE_COLOR" sap:sc="XTIT" size-unit="char">
+        <source>Background color</source>
+        <note annotates="source" from="Developer">section header where the user can choose the node color</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FORMAT_NODE_HEADER_COLOR" resname="PF_FORMAT_NODE_HEADER_COLOR" sap:sc="XTIT">
+        <source>Header Background Color</source>
+        <note annotates="source" from="Developer">section header where the user can choose the node color</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DELTA_HEADER_SECTION" maxwidth="30" resname="PF_DELTA_HEADER_SECTION" sap:sc="XTIT" size-unit="char">
+        <source>Deltas</source>
+        <note annotates="source" from="Developer">section header grouping the delta visibility toggles, so that the user can decide what delta values to be shown in the VDT node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DELTA_FIRST_YEAR" maxwidth="50" resname="PF_DELTA_FIRST_YEAR" sap:sc="XFLD" size-unit="char">
+        <source>Show First Year Delta</source>
+        <note annotates="source" from="Developer">The label attached to the checkbox which allows to toggle the display of delta to first year values in the VDT node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DELTA_FIRST_YEAR_ROW" maxwidth="50" resname="PF_DELTA_FIRST_YEAR_ROW" sap:sc="XTIT" size-unit="char">
+        <source>First Year Delta</source>
+        <note annotates="source" from="Developer">Title of a value driver tree node row with delta to first year values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DELTA_PREV_YEAR" maxwidth="50" resname="PF_DELTA_PREV_YEAR" sap:sc="XFLD" size-unit="char">
+        <source>Show Previous Year Delta</source>
+        <note annotates="source" from="Developer">The label attached to the checkbox which allows to toggle the display of delta to previous year values in the VDT node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DELTA_PREV_YEAR_ROW" maxwidth="50" resname="PF_DELTA_PREV_YEAR_ROW" sap:sc="XTIT" size-unit="char">
+        <source>Previous Year Delta</source>
+        <note annotates="source" from="Developer">Title of a value driver tree node row with delta to previous year values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMPANEL_DRIVERS" maxwidth="100" resname="PF_SIMPANEL_DRIVERS" sap:sc="XTIT" size-unit="char">
+        <source>Driving values</source>
+        <note annotates="source" from="Developer">section header for drivers in the simulation panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMPANEL_VERSIONS" maxwidth="100" resname="PF_SIMPANEL_VERSIONS" sap:sc="XTIT" size-unit="char">
+        <source>Versions</source>
+        <note annotates="source" from="Developer">section header for version selection in the simulation panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMPANEL_INSUFF_PRIVILEGE" maxwidth="200" resname="PF_SIMPANEL_INSUFF_PRIVILEGE" sap:sc="XMSG" size-unit="char">
+        <source>You do not have the required privileges to calculate the Value Driver Tree.</source>
+        <note annotates="source" from="Developer">tooltip stating that the user cannot execute a VDT due to insufficient privileges</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMPANEL_READONLY" maxwidth="200" resname="PF_SIMPANEL_READONLY" sap:sc="XMSG" size-unit="char">
+        <source>Selected version is read-only, Value Driver Tree cannot be calculated</source>
+        <note annotates="source" from="Developer">tooltip stating that a read-only version is selected and executing a simulation is not allowed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMPANEL_CONVCUR" maxwidth="200" resname="PF_SIMPANEL_CONVCUR" sap:sc="XMSG" size-unit="char">
+        <source>Selected version holds pre-converted currencies. The Value Driver Tree cannot be calculated.</source>
+        <note annotates="source" from="Developer">tooltip stating that the selected version holds pre-converted currencies and executing a simulation is not allowed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMPANEL_RUNSIM" maxwidth="30" resname="PF_SIMPANEL_RUNSIM" sap:sc="XBUT" size-unit="char">
+        <source>Run calculation</source>
+        <note annotates="source" from="Developer">button for executing a simulation from the simulation panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIM_RUNSIM_SUCCESS" maxwidth="200" resname="PF_SIM_RUNSIM_SUCCESS" sap:sc="XMSG" size-unit="char">
+        <source>Calculation done</source>
+        <note annotates="source" from="Developer">shown in toast when the calculation has been done</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIM_RUNSIM_SKIPPED" maxwidth="200" resname="PF_SIM_RUNSIM_SKIPPED" sap:sc="XMSG" size-unit="char">
+        <source>No changes to run</source>
+        <note annotates="source" from="Developer">shown in toast when the calculation has been skipped as there are no changes that require to simulate again</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATAENTRY_NOT_POSSIBLE" maxwidth="110" resname="DATAENTRY_NOT_POSSIBLE" sap:sc="XMSG" size-unit="char">
+        <source>The data has been changed, please refresh the VDT.</source>
+        <note annotates="source" from="Developer">shown in keypad when data entry on VDT is not possible. Keypad is disabled then.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATAENTRY_NOT_POSSIBLE_FILTERED" maxwidth="110" resname="DATAENTRY_NOT_POSSIBLE_FILTERED" sap:sc="XMSG" size-unit="char">
+        <source>Data cannot be edited as it has been filterd out by an external filter.</source>
+        <note annotates="source" from="Developer">shown in keypad when data entry on VDT is not possible because the current filters are non-overlapping which leads to an empty result set</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATAENTRY_NOT_POSSIBLE_READONLY" maxwidth="110" resname="DATAENTRY_NOT_POSSIBLE_READONLY" sap:sc="XMSG" size-unit="char">
+        <source>This value is read-only.</source>
+        <note annotates="source" from="Developer">shown in keypad when data entry on VDT is not possible because the value is not editable</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATAENTRY_NOT_SUPP_UNION" maxwidth="200" resname="DATAENTRY_NOT_SUPP_UNION" sap:sc="XMSG" size-unit="char">
+        <source>Data entry is not supported for union nodes.</source>
+        <note annotates="source" from="Developer">message shown in toast when selecting a union node for which data entry is not supported</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATAENTRY_NOT_SUPP_SCN" maxwidth="200" resname="DATAENTRY_NOT_SUPP_SCN" sap:sc="XMSG" size-unit="char">
+        <source>Data entry is not supported for simple calculation nodes.</source>
+        <note annotates="source" from="Developer">message shown in toast when selecting a simple calculation node for which data entry is not supported</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DATAENTRY_NOT_SUPP_YOY" maxwidth="200" resname="DATAENTRY_NOT_SUPP_YOY" sap:sc="XMSG" size-unit="char">
+        <source>Data entry is only supported for the base value of year <ph id="1">{0}</ph> of this year-over-year node.</source>
+        <note annotates="source" from="Developer">message shown in toast when selecting a value other than the base value in yoy node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMPANEL_DONE" maxwidth="30" resname="PF_SIMPANEL_DONE" sap:sc="XBUT" size-unit="char">
+        <source>Done</source>
+        <note annotates="source" from="Developer">button for closing the simulation panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMPANEL_NODRIVERS" maxwidth="200" resname="PF_SIMPANEL_NODRIVERS" sap:sc="XMSG" size-unit="char">
+        <source>No driving values provided</source>
+        <note annotates="source" from="Developer">hint that no drivers have been provided</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMPANEL_OPTIONS" maxwidth="100" resname="PF_SIMPANEL_OPTIONS" sap:sc="XTIT" size-unit="char">
+        <source>Options</source>
+        <note annotates="source" from="Developer">section header for simulation options</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_SIMPANEL_GLOBAL_CHANGES" maxwidth="100" resname="PF_SIMPANEL_GLOBAL_CHANGES" sap:sc="XTXT" size-unit="char">
+        <source>Consider external data changes for subsequent simulations</source>
+        <note annotates="source" from="Developer">text for switch enabling user to set change detection option to global</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NO_VERSIONS_FOUND" maxwidth="100" resname="PF_NO_VERSIONS_FOUND" sap:sc="XMSG" size-unit="char">
+        <source>No versions available.</source>
+        <note annotates="source" from="Developer">error message shown that no versions could be loaded</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ERR_TECHNICAL" maxwidth="130" resname="PF_ERR_TECHNICAL" sap:sc="XMSG" size-unit="char">
+        <source>Data query failed due to a technical error.</source>
+        <note annotates="source" from="Developer">Notification that data query failed due to a technical error</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXECUTE_VALIDATION_ERROR" maxwidth="150" resname="EXECUTE_VALIDATION_ERROR" sap:sc="XTXT" size-unit="char">
+        <source>The Value Driver Tree can't be calculated right now. Please check for warnings on any nodes or settings and try again.</source>
+        <note annotates="source" from="Developer">Error message when attempting to execute an invalid planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXECUTE_PF_ERROR" maxwidth="150" resname="EXECUTE_PF_ERROR" sap:sc="XTXT" size-unit="char">
+        <source>An unexpected error occurred during calculation of the Value Driver Tree.</source>
+        <note annotates="source" from="Developer">Error message when encountering an error while executing a planning flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXECUTE_VERSION_ERROR" maxwidth="150" resname="EXECUTE_VERSION_ERROR" sap:sc="XTXT" size-unit="char">
+        <source>The selected version is not valid, hence, the Value Driver Tree cannot be calculated.</source>
+        <note annotates="source" from="Developer">Error message when attempting to execute a planning flow with an invalid version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FP_NO_NODE_SELECTED" resname="FP_NO_NODE_SELECTED" sap:sc="YINF">
+        <source>Please select a node to see the node details.</source>
+        <note annotates="source" from="Developer">Info message asking the user to select a node in order to see the node details</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FP_NO_NODE_SELECTED_FORMATTING" resname="FP_NO_NODE_SELECTED_FORMATTING" sap:sc="YINF">
+        <source>Please select a node to see the node formatting.</source>
+        <note annotates="source" from="Developer">Info message asking the user to select a node in order to see the node formatting</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_SEARCH_NO_MATCH" maxwidth="50" resname="PF_NODE_SEARCH_NO_MATCH" sap:sc="XTXT" size-unit="char">
+        <source>No matching node found</source>
+        <note annotates="source" from="Developer">Text in the item for the search which is shown when there is no matching node title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_RELATIONSHIPS" maxwidth="30" resname="PF_NODE_RELATIONSHIPS" sap:sc="XTIT" size-unit="char">
+        <source>Relationships</source>
+        <note annotates="source" from="Developer">Header of the relationships panel in the node sidepanel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_PARENT" maxwidth="45" resname="PF_NODE_PARENT" sap:sc="XTXT" size-unit="char">
+        <source>Parents</source>
+        <note annotates="source" from="Developer">Text over the list of parents of a vdt node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_CHILDREN" maxwidth="45" resname="PF_NODE_CHILDREN" sap:sc="XTXT" size-unit="char">
+        <source>Children</source>
+        <note annotates="source" from="Developer">Text over the list of childrens of a vdt node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_ADD_PARENT" maxwidth="50" resname="PF_NODE_ADD_PARENT" sap:sc="XTXT" size-unit="char">
+        <source>Add Parent</source>
+        <note annotates="source" from="Developer">Link text to add a new parent to the selected vdt node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_ADD_PARENT_DISABLED" resname="PF_NODE_ADD_PARENT_DISABLED" sap:sc="XTOL">
+        <source>There are no nodes which can be added as parent</source>
+        <note annotates="source" from="Developer">Tooltip which is shown when the Add Parent link is disabled because there are no available nodes to add as parent</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_ADD_CHILD" maxwidth="50" resname="PF_NODE_ADD_CHILD" sap:sc="XTXT" size-unit="char">
+        <source>Add Child</source>
+        <note annotates="source" from="Developer">Link text to add a new child to the selected vdt node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_ADD_CHILD_DISABLED" resname="PF_NODE_ADD_CHILD_DISABLED" sap:sc="XTOL">
+        <source>There are no nodes which can be added as child</source>
+        <note annotates="source" from="Developer">Tooltip which is shown when the Add Child link is disabled because there are no available nodes to add as child</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALC_PERIOD_TIT" maxwidth="35" resname="PF_CALC_PERIOD_TIT" sap:sc="XTIT" size-unit="char">
+        <source>Calculation Period</source>
+        <note annotates="source" from="Developer">Form section title for the calculation period section of VDT nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALC_START_LBL" maxwidth="50" resname="PF_CALC_START_LBL" sap:sc="XFLD" size-unit="char">
+        <source>Calculation Start Date</source>
+        <note annotates="source" from="Developer">Label for the calculation period start date of VDT nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALC_END_LBL" maxwidth="50" resname="PF_CALC_END_LBL" sap:sc="XFLD" size-unit="char">
+        <source>Calculation End Date</source>
+        <note annotates="source" from="Developer">Label for the calculation period end date of VDT nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_DEF_PERIOD_LBL" maxwidth="30" resname="PF_DEF_PERIOD_LBL" sap:sc="XFLD" size-unit="char">
+        <source>Use default settings</source>
+        <note annotates="source" from="Developer">Label for the default calculation and presentation period toggle for the VDT nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACTION_LINK_EXIST" maxwidth="100" resname="PF_ACTION_LINK_EXIST" sap:sc="XTXT" size-unit="char">
+        <source>The link already exists</source>
+        <note annotates="source" from="Developer">Warning message when attempting to link two nodes that are already linked</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACTION_LINK_CYCLE" maxwidth="100" resname="PF_ACTION_LINK_CYCLE" sap:sc="XTXT" size-unit="char">
+        <source>The link would result in a cycle, which is not possible</source>
+        <note annotates="source" from="Developer">Warning message when a link-nodes action would cause a cycle</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACTION_NO_LINK" maxwidth="100" resname="PF_ACTION_NO_LINK" sap:sc="XTXT" size-unit="char">
+        <source>The link does not exist</source>
+        <note annotates="source" from="Developer">Warning message when the link to be removed does not exist</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACTION_COPYNODE_SUCCESS" maxwidth="100" resname="PF_ACTION_COPYNODE_SUCCESS" sap:sc="XTXT" size-unit="char">
+        <source>Copied node to consumption flow.</source>
+        <note annotates="source" from="Developer">Success message shown when a node was copied to consumption flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ACTION_COPYBRANCH_SUCCESS" maxwidth="100" resname="PF_ACTION_COPYBRANCH_SUCCESS" sap:sc="XTXT" size-unit="char">
+        <source>Copied branch to consumption flow.</source>
+        <note annotates="source" from="Developer">Success message shown when a node was copied to consumption flow</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FILTER_NO_DIMENSIONS" maxwidth="100" resname="PF_FILTER_NO_DIMENSIONS" sap:sc="XTXT" size-unit="char">
+        <source>Filtering not possible: there are no dimensions in the model.</source>
+        <note annotates="source" from="Developer">Info message shown when Filter in VDT modeller is pressed, but no dimensions are available</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_TIME_BLOCKED" resname="PF_TIME_BLOCKED" sap:sc="XTOL">
+        <source>The time filter can only be changed in the default node configuration</source>
+        <note annotates="source" from="Developer">Tooltip which says that the time filter token is disabled because the time filter can only be changed on the default node configuration for all nodes</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_HAS_VAR_HINT" maxwidth="100" resname="PF_HAS_VAR_HINT" sap:sc="XMSG" size-unit="char">
+        <source>Value Driver Trees do not support variables in models. Please contact your admin.</source>
+        <note annotates="source" from="Developer">Hint shown when the model has variables</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_UNDO_NOT_VALID_VERSION" resname="PF_UNDO_NOT_VALID_VERSION" sap:sc="XMSG">
+        <source>The selected version is not valid, no undo or redo can be performed.</source>
+        <note annotates="source" from="Developer">Error message when attempting to undo or redo a data entry/simulation on a planning flow with an invalid version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_UNDO_NOCHANGE" resname="PF_UNDO_NOCHANGE" sap:sc="XMSG">
+        <source>Nothing to undo.</source>
+        <note annotates="source" from="Developer">Error message when there is nothing more to undo</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_REDO_NOCHANGE" resname="PF_REDO_NOCHANGE" sap:sc="XMSG">
+        <source>Nothing to redo.</source>
+        <note annotates="source" from="Developer">Error message when when there is nothing more to redo</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_UNDO_SESSION_LOCK" resname="PF_UNDO_SESSION_LOCK" sap:sc="XMSG">
+        <source>Another operation is currently being executed on this version. Please try again later.</source>
+        <note annotates="source" from="Developer">Error message when attempting to perform undo/redo while a session is locked (for example by another user)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_UNDO_REDO_UNKNOWN_ERROR" resname="PF_UNDO_REDO_UNKNOWN_ERROR" sap:sc="XMSG">
+        <source>An error occurred during undo/redo. No changes will be applied.</source>
+        <note annotates="source" from="Developer">Error message when an unknow error occurred during undo/redo</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_VDT_READ_AUTH" resname="NO_VDT_READ_AUTH" sap:sc="XMSG">
+        <source>No authorization to read Value Driver Trees.</source>
+        <note annotates="source" from="Developer">Error message when attempting to read a VDT from the backend though the user is not authorized</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ZOOM_OUT" resname="PF_ZOOM_OUT" sap:sc="XTOL">
+        <source>Zoom out</source>
+        <note annotates="source" from="Developer">tooltip for the zoom-out button of the minimap</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_ZOOM_IN" resname="PF_ZOOM_IN" sap:sc="XTOL">
+        <source>Zoom in</source>
+        <note annotates="source" from="Developer">tooltip for the zoom-in button of the minimap</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_FIT_TO_SCREEN" resname="PF_FIT_TO_SCREEN" sap:sc="XTOL">
+        <source>Fit to screen</source>
+        <note annotates="source" from="Developer">tooltip for the fit-to-screen button of the minimap</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_HIDE_MINIMAP" resname="PF_HIDE_MINIMAP" sap:sc="XTOL">
+        <source>Hide/unhide the minimap</source>
+        <note annotates="source" from="Developer">tooltip for the hide/unhide button of the minimap</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NO_SIMULATION_MEASURE_FILTER" resname="PF_NO_SIMULATION_MEASURE_FILTER" sap:sc="XTOL">
+        <source>Simulation is disabled because a measure-based filters is used</source>
+        <note annotates="source" from="Developer">Text to display for tooltip for the disabled Quick-Action entry for Simulation, if a measure-based filter effects the vdt widget</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_UNIT_IN" resname="PF_UNIT_IN" sap:sc="XFLD">
+        <source>in</source>
+        <note annotates="source" from="Developer">prefix for unit display in node, e.g. in Million USD, in Percent etc.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_UNIT_PERCENT" resname="PF_UNIT_PERCENT" sap:sc="XFLD">
+        <source>Percent</source>
+        <note annotates="source" from="Developer">Percent for unit display, e.g. in Percent</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NO_EXPORT" resname="PF_NO_EXPORT" sap:sc="XMSG">
+        <source>VDT widgets can not be exported</source>
+        <note annotates="source" from="Developer">Placeholder message for a VDT widget in an exported PDF file</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_WIDGET_TITLE_PLACEHOLDER" maxwidth="120" resname="PF_WIDGET_TITLE_PLACEHOLDER" sap:sc="XTIT" size-unit="char">
+        <source>New VDT Widget</source>
+        <note annotates="source" from="Developer">Placeholder for the unified store vdt widget title if there is no user defined one yet</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_NODE_PANEL_HEADER" maxwidth="40" resname="PF_NODE_PANEL_HEADER" sap:sc="XTIT" size-unit="char">
+        <source>Node</source>
+        <note annotates="source" from="Developer">Title of the builder panel which shows that in this panel the node configuration is shown</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UTILITY_SAMPLE_CURRENT_DATE" maxwidth="120" resname="UTILITY_SAMPLE_CURRENT_DATE" sap:sc="XTXT" size-unit="char">
+        <source>Sample Current Date</source>
+        <note annotates="source" from="Developer">KEY=UTILITY_DEFAULT_VALUE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_JAN" maxwidth="30" resname="DATE_JAN" sap:sc="XTXT" size-unit="char">
+        <source>Jan</source>
+        <note annotates="source" from="Developer">KEY=DATE_JAN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_FEB" maxwidth="30" resname="DATE_FEB" sap:sc="XTXT" size-unit="char">
+        <source>Feb</source>
+        <note annotates="source" from="Developer">KEY=DATE_FEB</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_MAR" maxwidth="30" resname="DATE_MAR" sap:sc="XTXT" size-unit="char">
+        <source>Mar</source>
+        <note annotates="source" from="Developer">KEY=DATE_MAR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_APR" maxwidth="30" resname="DATE_APR" sap:sc="XTXT" size-unit="char">
+        <source>Apr</source>
+        <note annotates="source" from="Developer">KEY=DATE_APR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_JUN" maxwidth="30" resname="DATE_JUN" sap:sc="XTXT" size-unit="char">
+        <source>Jun</source>
+        <note annotates="source" from="Developer">KEY=DATE_JUN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_JUL" maxwidth="30" resname="DATE_JUL" sap:sc="XTXT" size-unit="char">
+        <source>Jul</source>
+        <note annotates="source" from="Developer">KEY=DATE_JUL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_AUG" maxwidth="30" resname="DATE_AUG" sap:sc="XTXT" size-unit="char">
+        <source>Aug</source>
+        <note annotates="source" from="Developer">KEY=DATE_AUG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_SEP" maxwidth="30" resname="DATE_SEP" sap:sc="XTXT" size-unit="char">
+        <source>Sep</source>
+        <note annotates="source" from="Developer">KEY=DATE_SEP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_OCT" maxwidth="30" resname="DATE_OCT" sap:sc="XTXT" size-unit="char">
+        <source>Oct</source>
+        <note annotates="source" from="Developer">KEY=DATE_OCT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_NOV" maxwidth="30" resname="DATE_NOV" sap:sc="XTXT" size-unit="char">
+        <source>Nov</source>
+        <note annotates="source" from="Developer">KEY=DATE_NOV</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_DEC" maxwidth="30" resname="DATE_DEC" sap:sc="XTXT" size-unit="char">
+        <source>Dec</source>
+        <note annotates="source" from="Developer">KEY=DATE_DEC</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_JANUARY" maxwidth="30" resname="DATE_JANUARY" sap:sc="XTXT" size-unit="char">
+        <source>January</source>
+        <note annotates="source" from="Developer">KEY=DATE_JANUARY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_FEBRUARY" maxwidth="30" resname="DATE_FEBRUARY" sap:sc="XTXT" size-unit="char">
+        <source>February</source>
+        <note annotates="source" from="Developer">KEY=DATE_FEBRUARY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_MARCH" maxwidth="30" resname="DATE_MARCH" sap:sc="XTXT" size-unit="char">
+        <source>March</source>
+        <note annotates="source" from="Developer">KEY=DATE_MARCH</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_APRIL" maxwidth="30" resname="DATE_APRIL" sap:sc="XTXT" size-unit="char">
+        <source>April</source>
+        <note annotates="source" from="Developer">KEY=DATE_APRIL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_MAY" maxwidth="30" resname="DATE_MAY" sap:sc="XTXT" size-unit="char">
+        <source>May</source>
+        <note annotates="source" from="Developer">KEY=DATE_MAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_JUNE" maxwidth="30" resname="DATE_JUNE" sap:sc="XTXT" size-unit="char">
+        <source>June</source>
+        <note annotates="source" from="Developer">KEY=DATE_JUNE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_JULY" maxwidth="30" resname="DATE_JULY" sap:sc="XTXT" size-unit="char">
+        <source>July</source>
+        <note annotates="source" from="Developer">KEY=DATE_JULY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_AUGUST" maxwidth="30" resname="DATE_AUGUST" sap:sc="XTXT" size-unit="char">
+        <source>August</source>
+        <note annotates="source" from="Developer">KEY=DATE_AUGUST</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_SEPTEMBER" maxwidth="30" resname="DATE_SEPTEMBER" sap:sc="XTXT" size-unit="char">
+        <source>September</source>
+        <note annotates="source" from="Developer">KEY=DATE_SEPTEMBER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_OCTOBER" maxwidth="30" resname="DATE_OCTOBER" sap:sc="XTXT" size-unit="char">
+        <source>October</source>
+        <note annotates="source" from="Developer">KEY=DATE_OCTOBER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_NOVEMBER" maxwidth="30" resname="DATE_NOVEMBER" sap:sc="XTXT" size-unit="char">
+        <source>November</source>
+        <note annotates="source" from="Developer">KEY=DATE_NOVEMBER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_DECEMBER" maxwidth="30" resname="DATE_DECEMBER" sap:sc="XTXT" size-unit="char">
+        <source>December</source>
+        <note annotates="source" from="Developer">KEY=DATE_DECEMBER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_1" maxwidth="30" resname="FISCAL_PERIOD_1" sap:sc="XTXT" size-unit="char">
+        <source>Period 1</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_1</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_2" maxwidth="30" resname="FISCAL_PERIOD_2" sap:sc="XTXT" size-unit="char">
+        <source>Period 2</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_2</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_3" maxwidth="30" resname="FISCAL_PERIOD_3" sap:sc="XTXT" size-unit="char">
+        <source>Period 3</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_3</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_4" maxwidth="30" resname="FISCAL_PERIOD_4" sap:sc="XTXT" size-unit="char">
+        <source>Period 4</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_4</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_5" maxwidth="30" resname="FISCAL_PERIOD_5" sap:sc="XTXT" size-unit="char">
+        <source>Period 5</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_5</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_6" maxwidth="30" resname="FISCAL_PERIOD_6" sap:sc="XTXT" size-unit="char">
+        <source>Period 6</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_6</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_7" maxwidth="30" resname="FISCAL_PERIOD_7" sap:sc="XTXT" size-unit="char">
+        <source>Period 7</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_7</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_8" maxwidth="30" resname="FISCAL_PERIOD_8" sap:sc="XTXT" size-unit="char">
+        <source>Period 8</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_8</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_9" maxwidth="30" resname="FISCAL_PERIOD_9" sap:sc="XTXT" size-unit="char">
+        <source>Period 9</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_9</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_10" maxwidth="30" resname="FISCAL_PERIOD_10" sap:sc="XTXT" size-unit="char">
+        <source>Period 10</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_10</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_11" maxwidth="30" resname="FISCAL_PERIOD_11" sap:sc="XTXT" size-unit="char">
+        <source>Period 11</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_11</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_PERIOD_12" maxwidth="30" resname="FISCAL_PERIOD_12" sap:sc="XTXT" size-unit="char">
+        <source>Period 12</source>
+        <note annotates="source" from="Developer">KEY=FISCAL_PERIOD_12</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_SUNDAY" maxwidth="30" resname="DATE_SUNDAY" sap:sc="XTXT" size-unit="char">
+        <source>Sunday</source>
+        <note annotates="source" from="Developer">KEY=DATE_SUNDAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_MONDAY" maxwidth="30" resname="DATE_MONDAY" sap:sc="XTXT" size-unit="char">
+        <source>Monday</source>
+        <note annotates="source" from="Developer">KEY=DATE_MONDAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_TUESDAY" maxwidth="30" resname="DATE_TUESDAY" sap:sc="XTXT" size-unit="char">
+        <source>Tuesday</source>
+        <note annotates="source" from="Developer">KEY=DATE_TUESDAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_WEDNESDAY" maxwidth="30" resname="DATE_WEDNESDAY" sap:sc="XTXT" size-unit="char">
+        <source>Wednesday</source>
+        <note annotates="source" from="Developer">KEY=DATE_WEDNESDAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_THURSDAY" maxwidth="30" resname="DATE_THURSDAY" sap:sc="XTXT" size-unit="char">
+        <source>Thursday</source>
+        <note annotates="source" from="Developer">KEY=DATE_THURSDAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_FRIDAY" maxwidth="30" resname="DATE_FRIDAY" sap:sc="XTXT" size-unit="char">
+        <source>Friday</source>
+        <note annotates="source" from="Developer">KEY=DATE_FRIDAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_SATURDAY" maxwidth="30" resname="DATE_SATURDAY" sap:sc="XTXT" size-unit="char">
+        <source>Saturday</source>
+        <note annotates="source" from="Developer">KEY=DATE_SATURDAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_Q1" maxwidth="30" resname="DATE_Q1" sap:sc="XTXT" size-unit="char">
+        <source>Q1</source>
+        <note annotates="source" from="Developer">KEY=DATE_Q1</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_Q2" maxwidth="30" resname="DATE_Q2" sap:sc="XTXT" size-unit="char">
+        <source>Q2</source>
+        <note annotates="source" from="Developer">KEY=DATE_Q2</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_Q3" maxwidth="30" resname="DATE_Q3" sap:sc="XTXT" size-unit="char">
+        <source>Q3</source>
+        <note annotates="source" from="Developer">KEY=DATE_Q3</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_Q4" maxwidth="30" resname="DATE_Q4" sap:sc="XTXT" size-unit="char">
+        <source>Q4</source>
+        <note annotates="source" from="Developer">KEY=DATE_Q4</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_FIRST_HALF_YEAR" maxwidth="30" resname="DATE_FIRST_HALF_YEAR" sap:sc="XTXT" size-unit="char">
+        <source>First half-year</source>
+        <note annotates="source" from="Developer">KEY=DATE_FIRST_HALF_YEAR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_SECOND_HALF_YEAR" maxwidth="30" resname="DATE_SECOND_HALF_YEAR" sap:sc="XTXT" size-unit="char">
+        <source>Second half-year</source>
+        <note annotates="source" from="Developer">KEY=DATE_SECOND_HALF_YEAR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NODE_DATA_REFRESH_BUSY" resname="NODE_DATA_REFRESH_BUSY" sap:sc="XTOL">
+        <source>Refreshing data...</source>
+        <note annotates="source" from="Developer">tooltip of VDT node icon when the node is currently fetching new data OR tooltip of the widget's non-blocking busy indicator that is displayed when any node is refreshing data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TECHNICAL_ERROR" resname="TECHNICAL_ERROR" sap:sc="XMSG">
+        <source>A technical error occured during the operation</source>
+        <note annotates="source" from="Developer">An error message shown in a message toast that indicates to the user that a technical error occured. Such errors are usually unexpected.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NODE_ERROR_NO_MODEL_SET" resname="NODE_ERROR_NO_MODEL_SET" sap:sc="XTOL">
+        <source>Please select a model</source>
+        <note annotates="source" from="Developer">An error message displayed in a tooltip on VDT nodes when no model was selected for the node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NODE_ERROR_MISSING_MODEL" resname="NODE_ERROR_MISSING_MODEL" sap:sc="XTOL">
+        <source>The used model could either not be found or you do not have the required permissions to access it.</source>
+        <note annotates="source" from="Developer">An error message displayed in a tooltip on VDT nodes when the model could not be found or the user is missing privileges to access it</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NODE_ERROR_NO_MEASURE_SET" resname="NODE_ERROR_NO_MEASURE_SET" sap:sc="XTOL">
+        <source>Please select a measure</source>
+        <note annotates="source" from="Developer">An error message displayed in a tooltip on VDT nodes when no measure (account) was selected for the node</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NODE_ERROR_NO_CROSS_CALC_SET" resname="NODE_ERROR_NO_CROSS_CALC_SET" sap:sc="XTOL">
+        <source>Please select at least one cross calculation</source>
+        <note annotates="source" from="Developer">An error message displayed in a tooltip on VDT nodes when no cross calculation was selected. The user can select multiple but at least one is required.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NODE_ERROR_NO_COLUMN_DIMENSION_SET" resname="NODE_ERROR_NO_COLUMN_DIMENSION_SET" sap:sc="XTOL">
+        <source>Please select a presentation date dimension</source>
+        <note annotates="source" from="Developer">An error message displayed in a tooltip on VDT nodes when no dimension was select for the nodes to display on the columns. Only time dimensions are allowed.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NODE_ERROR_MISSING_COLUMN_DIMENSION" resname="NODE_ERROR_MISSING_COLUMN_DIMENSION" sap:sc="XTOL">
+        <source>The currently used presentation date dimension is no longer present.</source>
+        <note annotates="source" from="Developer">An error message displayed in a tooltip on VDT nodes when the used presentation date dimension is no longer present.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NODE_ERROR_MISSING_FILTER_DIMENSIONS" resname="NODE_ERROR_MISSING_FILTER_DIMENSIONS" sap:sc="XTOL">
+        <source>The following filter dimensions are no longer present: '<ph id="1">{0}</ph>'.</source>
+        <note annotates="source" from="Developer">An error message displayed in a tooltip on VDT nodes when at least one filter dimension is no longer present. The argument is a list of dimension ids which do not exists.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NODE_ERROR_MISSING_FILTER_DIMENSION" resname="NODE_ERROR_MISSING_FILTER_DIMENSION" sap:sc="XTOL">
+        <source>Filter dimension '<ph id="1">{0}</ph>' is no longer present.</source>
+        <note annotates="source" from="Developer">An error message displayed in a tooltip on VDT nodes when only one filter dimension is no longer present. The argument is the dimension id of the missing dimension.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NODE_ERROR_MISSING_MEASURE_DIMENSION" resname="NODE_ERROR_MISSING_MEASURE_DIMENSION" sap:sc="XTOL">
+        <source>The measure dimension is no longer present.</source>
+        <note annotates="source" from="Developer">An error message displayed in a tooltip on VDT nodes when the measure dimension is no longer present.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

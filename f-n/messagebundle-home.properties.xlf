@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-home.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="257e8f451dd47c5545b265f4e4311a52" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:59Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOOTSTRAP_INSTALLING_TENANT" maxwidth="120" resname="BOOTSTRAP_INSTALLING_TENANT" sap:sc="XMSG" size-unit="char">
+        <source>Setup Account</source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_INSTALLING_TENANT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOOTSTRAP_INSTALLING_TENANT_DESC" maxwidth="120" resname="BOOTSTRAP_INSTALLING_TENANT_DESC" sap:sc="XMSG" size-unit="char">
+        <source>Setting Up Your Account</source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_INSTALLING_TENANT_DESC</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOOTSTRAP_LOADING" maxwidth="120" resname="BOOTSTRAP_LOADING" sap:sc="XMSG" size-unit="char">
+        <source>Loading...</source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_LOADING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOOTSTRAP_LOADING_HOME" maxwidth="120" resname="BOOTSTRAP_LOADING_HOME" sap:sc="XMSG" size-unit="char">
+        <source>Loading Home</source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_LOADING_HOME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOOTSTRAP_LOAD_HOME_DESC" maxwidth="120" resname="BOOTSTRAP_LOAD_HOME_DESC" sap:sc="XMSG" size-unit="char">
+        <source>A container in which you can collate visual objects such as notes and tiles with charts, reports, and events.</source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_LOAD_HOME_DESC</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOOTSTRAP_LOADING_STORIES" maxwidth="120" resname="BOOTSTRAP_LOADING_STORIES" sap:sc="XMSG" size-unit="char">
+        <source>Loading Stories</source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_LOADING_STORIES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOOTSTRAP_LOAD_STORIES_DESC" maxwidth="120" resname="BOOTSTRAP_LOAD_STORIES_DESC" sap:sc="XMSG" size-unit="char">
+        <source>A presentation-style document that uses charts, text blocks, pictures, and pictograms to describe data.</source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_LOAD_STORIES_DESC</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOOTSTRAP_LOADING_EVENTS" maxwidth="120" resname="BOOTSTRAP_LOADING_EVENTS" sap:sc="XMSG" size-unit="char">
+        <source>Loading Events</source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_LOADING_EVENTS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOOTSTRAP_LOAD_EVENTS_DESC" resname="BOOTSTRAP_LOAD_EVENTS_DESC" sap:sc="XMSG">
+        <source>An area to create events and tasks in the planning calendar and assign the people who will do the work for each task and review it.</source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_LOAD_EVENTS_DESC</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="BOOTSTRAP_WELCOME_USER" maxwidth="120" resname="BOOTSTRAP_WELCOME_USER" sap:sc="XMSG" size-unit="char">
+        <source>Welcome <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_WELCOME_USER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOOTSTRAP_LOAD_HOME" maxwidth="120" resname="BOOTSTRAP_LOAD_HOME" sap:sc="XMSG" size-unit="char">
+        <source>Load Home Page</source>
+        <note annotates="source" from="Developer">KEY=BOOTSTRAP_LOAD_HOME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MAIN_INVALID_VIEW_ID" maxwidth="120" resname="MAIN_INVALID_VIEW_ID" sap:sc="XMSG" size-unit="char">
+        <source>Invalid view ID <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">KEY=MAIN_INVALID_VIEW_ID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MAIN_FEATURE_IS_NOT_EANBLE" maxwidth="120" resname="MAIN_FEATURE_IS_NOT_EANBLE" sap:sc="XMSG" size-unit="char">
+        <source>Access is disallowed as feature <ph id="1">{0}</ph> is not enabled.</source>
+        <note annotates="source" from="Developer">KEY=MAIN_FEATURE_IS_NOT_EANBLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MAIN_OK" maxwidth="120" resname="MAIN_OK" sap:sc="XMSG" size-unit="char">
+        <source>OK</source>
+        <note annotates="source" from="Developer">KEY=MAIN_OK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MAIN_PROFILE" maxwidth="20" resname="MAIN_PROFILE" sap:sc="XMIT" size-unit="char">
+        <source>Profile</source>
+        <note annotates="source" from="Developer">KEY=MAIN_PROFILE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MAIN_PROFILE_SETTINGS" resname="MAIN_PROFILE_SETTINGS" sap:sc="XMIT">
+        <source>Profile Settings</source>
+        <note annotates="source" from="Developer">Menu item for opening the User Profile Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MAIN_UPGRADE" maxwidth="20" resname="MAIN_UPGRADE" sap:sc="XMIT" size-unit="char">
+        <source>Upgrade</source>
+        <note annotates="source" from="Developer">KEY=MAIN_UPGRADE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MAIN_REQUEST_ROLES" maxwidth="20" resname="MAIN_REQUEST_ROLES" sap:sc="XMIT" size-unit="char">
+        <source>Request Roles</source>
+        <note annotates="source" from="Developer">KEY=MAIN_REQUEST_ROLES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MAIN_LOGOUT" maxwidth="20" resname="MAIN_LOGOUT" sap:sc="XMIT" size-unit="char">
+        <source>Log Out</source>
+        <note annotates="source" from="Developer">KEY=MAIN_LOGOUT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ABOUT" maxwidth="20" resname="ABOUT" sap:sc="XMIT" size-unit="char">
+        <source>About</source>
+        <note annotates="source" from="Developer">KEY=ABOUT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DOCUMENT_TITLE_SIMPLE_PLANNING_NEW" maxwidth="120" resname="DOCUMENT_TITLE_SIMPLE_PLANNING_NEW" sap:sc="XMSG" size-unit="char">
+        <source>SAP Analytics Cloud</source>
+        <note annotates="source" from="Developer">KEY=DOCUMENT_TITLE_SIMPLE_PLANNING_NEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ANALYTIC_DOCUMENT_TITLE_SIMPLE_NEW" maxwidth="120" resname="ANALYTIC_DOCUMENT_TITLE_SIMPLE_NEW" sap:sc="XMSG" size-unit="char">
+        <source>SAP Analytics Cloud</source>
+        <note annotates="source" from="Developer">KEY=ANALYTIC_DOCUMENT_TITLE_SIMPLE_NEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DOCUMENT_TITLE_SIMPLE_PA_NEW" maxwidth="120" resname="DOCUMENT_TITLE_SIMPLE_PA_NEW" sap:sc="XMSG" size-unit="char">
+        <source>SAP Analytics Cloud</source>
+        <note annotates="source" from="Developer">KEY=DOCUMENT_TITLE_SIMPLE_PA_NEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_HOME" maxwidth="20" resname="MENU_HOME" sap:sc="XMIT" size-unit="char">
+        <source>Home</source>
+        <note annotates="source" from="Developer">KEY=MENU_HOME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_STORY" maxwidth="20" resname="MENU_STORY" sap:sc="XMIT" size-unit="char">
+        <source>Stories</source>
+        <note annotates="source" from="Developer">KEY=MENU_STORY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_USERS" maxwidth="20" resname="MENU_USERS" sap:sc="XMIT" size-unit="char">
+        <source>Security</source>
+        <note annotates="source" from="Developer">KEY=MENU_USERS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_USERS_SET_UP_USERS" maxwidth="20" resname="MENU_USERS_SET_UP_USERS" sap:sc="XMIT" size-unit="char">
+        <source>Users</source>
+        <note annotates="source" from="Developer">KEY=MENU_USERS_SET_UP_USERS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_USERS_SET_UP_TEAMS" maxwidth="20" resname="MENU_USERS_SET_UP_TEAMS" sap:sc="XMIT" size-unit="char">
+        <source>Teams</source>
+        <note annotates="source" from="Developer">KEY=MENU_USERS_SET_UP_TEAMS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_USERS_DEFINE_ROLES" maxwidth="20" resname="MENU_USERS_DEFINE_ROLES" sap:sc="XMIT" size-unit="char">
+        <source>Roles</source>
+        <note annotates="source" from="Developer">KEY=MENU_USERS_DEFINE_ROLES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_USERS_ACTIVITY_LOG" maxwidth="20" resname="MENU_USERS_ACTIVITY_LOG" sap:sc="XMIT" size-unit="char">
+        <source>Activities</source>
+        <note annotates="source" from="Developer">KEY=MENU_USERS_ACTIVITY_LOG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_USERS_DATA_CHANGE_LOG" maxwidth="20" resname="MENU_USERS_DATA_CHANGE_LOG" sap:sc="XMIT" size-unit="char">
+        <source>Data Changes</source>
+        <note annotates="source" from="Developer">KEY=MENU_USERS_DATA_CHANGE_LOG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_USERS_USER_REQUESTS" maxwidth="20" resname="MENU_USERS_USER_REQUESTS" sap:sc="XMIT" size-unit="char">
+        <source>Requests</source>
+        <note annotates="source" from="Developer">KEY=MENU_USERS_USER_REQUESTS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_LIBRARY" maxwidth="20" resname="MENU_LIBRARY" sap:sc="XMIT" size-unit="char">
+        <source>Files</source>
+        <note annotates="source" from="Developer">KEY=MENU_LIBRARY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_TRANSLATION" resname="MENU_TRANSLATION" sap:sc="XMIT">
+        <source>Translation</source>
+        <note annotates="source" from="Developer">Menu item for Translation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_CONTENT_DELIVERY" resname="MENU_CONTENT_DELIVERY" sap:sc="XMIT">
+        <source>Content Network</source>
+        <note annotates="source" from="Developer">Content delivery</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_APP_BOOKMARKS" resname="MENU_APP_BOOKMARKS" sap:sc="XMIT">
+        <source>Analytic Application Bookmarks</source>
+        <note annotates="source" from="Developer">All analytic application bookmarks</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_MODEL" maxwidth="20" resname="MENU_MODEL" sap:sc="XMIT" size-unit="char">
+        <source>Modeling</source>
+        <note annotates="source" from="Developer">KEY=MENU_MODEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_MODEL_MODELS" maxwidth="20" resname="MENU_MODEL_MODELS" sap:sc="XMIT" size-unit="char">
+        <source>Models</source>
+        <note annotates="source" from="Developer">KEY=MENU_MODEL_MODELS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_DM" maxwidth="20" resname="MENU_DM" sap:sc="XMIT" size-unit="char">
+        <source>Data Integration</source>
+        <note annotates="source" from="Developer">KEY=MENU_DM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_DS" maxwidth="20" resname="MENU_DS" sap:sc="XMIT" size-unit="char">
+        <source>Dataset</source>
+        <note annotates="source" from="Developer">KEY=MENU_DS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_LM" maxwidth="20" resname="MENU_LM" sap:sc="XMIT" size-unit="char">
+        <source>Deployment</source>
+        <note annotates="source" from="Developer">KEY=MENU_LM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_LM_EXPORT" maxwidth="20" resname="MENU_LM_EXPORT" sap:sc="XMIT" size-unit="char">
+        <source>Export</source>
+        <note annotates="source" from="Developer">KEY=MENU_LM_EXPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_LM_IMPORT" maxwidth="20" resname="MENU_LM_IMPORT" sap:sc="XMIT" size-unit="char">
+        <source>Import</source>
+        <note annotates="source" from="Developer">KEY=MENU_LM_IMPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_ALLOCATION" maxwidth="20" resname="MENU_ALLOCATION" sap:sc="XMIT" size-unit="char">
+        <source>Allocation</source>
+        <note annotates="source" from="Developer">KEY=MENU_ALLOCATION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_SYSTEM" maxwidth="20" resname="MENU_SYSTEM" sap:sc="XMIT" size-unit="char">
+        <source>System</source>
+        <note annotates="source" from="Developer">KEY=MENU_SYSTEM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_CREATE" maxwidth="20" resname="MENU_CREATE" sap:sc="XMIT" size-unit="char">
+        <source>Create</source>
+        <note annotates="source" from="Developer">KEY=MENU_CREATE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_BROWSE" maxwidth="20" resname="MENU_BROWSE" sap:sc="XMIT" size-unit="char">
+        <source>Browse</source>
+        <note annotates="source" from="Developer">KEY=MENU_BROWSE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_BOARDROOM_PRESENTATION" maxwidth="20" resname="MENU_BOARDROOM_PRESENTATION" sap:sc="XMIT" size-unit="char">
+        <source>Presentation</source>
+        <note annotates="source" from="Developer">KEY=MENU_BOARDROOM_PRESENTATION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_BOARDROOM_PRESENTATION_V2" maxwidth="20" resname="MENU_BOARDROOM_PRESENTATION_V2" sap:sc="XMIT" size-unit="char">
+        <source>Digital Boardroom</source>
+        <note annotates="source" from="Developer">KEY=MENU_BOARDROOM_PRESENTATION_V2, 'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_ROAMBI" maxwidth="20" resname="MENU_ROAMBI" sap:sc="XMIT" size-unit="char">
+        <source>Roambi</source>
+        <note annotates="source" from="Developer">KEY=MENU_ROAMBI, 'Roambi' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_BOARDROOM_PF" maxwidth="20" resname="MENU_BOARDROOM_PF" sap:sc="XMIT" size-unit="char">
+        <source>Value Driver Trees</source>
+        <note annotates="source" from="Developer">KEY=MENU_BOARDROOM_PF</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_BOARDROOM_PFDETAILS" resname="MENU_BOARDROOM_PFDETAILS" sap:sc="XMIT">
+        <source>Value Driver Tree Details</source>
+        <note annotates="source" from="Developer">KEY=MENU_BOARDROOM_PFDETAILS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_PLANNING_SEQUENCES" maxwidth="20" resname="MENU_PLANNING_SEQUENCES" sap:sc="XMIT" size-unit="char">
+        <source>Data Actions</source>
+        <note annotates="source" from="Developer">KEY=MENU_PLANNING_SEQUENCES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_SYSTEM_ADMIN" maxwidth="20" resname="MENU_SYSTEM_ADMIN" sap:sc="XMIT" size-unit="char">
+        <source>Administration</source>
+        <note annotates="source" from="Developer">KEY=MENU_SYSTEM_ADMIN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_PRED_PRO_MODELS" maxwidth="20" resname="MENU_PRED_PRO_MODELS" sap:sc="XMIT" size-unit="char">
+        <source>Predictive Scenarios</source>
+        <note annotates="source" from="Developer">KEY=MENU_PRED_PRO_MODELS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_ACCOUNT" maxwidth="20" resname="MENU_ACCOUNT" sap:sc="XMIT" size-unit="char">
+        <source>Account</source>
+        <note annotates="source" from="Developer">KEY=MENU_ACCOUNT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TITLE_NOTIFICATION" maxwidth="50" resname="TITLE_NOTIFICATION" sap:sc="XTIT" size-unit="char">
+        <source>Notification</source>
+        <note annotates="source" from="Developer">KEY=TITLE_NOTIFICATION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_HELP" maxwidth="50" resname="TOOLTIP_HELP" sap:sc="XFLD" size-unit="char">
+        <source>Help</source>
+        <note annotates="source" from="Developer">Tooltip for help button in Shell  KEY=TOOLTIP_HELP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_EM" maxwidth="50" resname="MENU_EM" sap:sc="XTIT" size-unit="char">
+        <source>Events</source>
+        <note annotates="source" from="Developer">KEY=MENU_EM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_CAL" maxwidth="50" resname="MENU_CAL" sap:sc="XTIT" size-unit="char">
+        <source>Calendar</source>
+        <note annotates="source" from="Developer">KEY=MENU_CAL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_SYSTEM_USAGE" maxwidth="50" resname="MENU_SYSTEM_USAGE" sap:sc="XTIT" size-unit="char">
+        <source>Monitor</source>
+        <note annotates="source" from="Developer">KEY=MENU_SYSTEM_USAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_UNSAVED_CHANGE" maxwidth="100" resname="MSG_UNSAVED_CHANGE" sap:sc="XMSG" size-unit="char">
+        <source>You haven't saved your changes</source>
+        <note annotates="source" from="Developer">KEY=MSG_UNSAVED_CHANGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_LEAVE_PAGE" maxwidth="100" resname="MSG_LEAVE_PAGE" sap:sc="XMSG" size-unit="char">
+        <source>You haven't saved your changes. Are you sure you want to leave the current page?</source>
+        <note annotates="source" from="Developer">KEY=MSG_LEAVE_PAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MSG_LEAVE_PAGE_PARAM" maxwidth="100" resname="MSG_LEAVE_PAGE_PARAM" sap:sc="XMSG" size-unit="char">
+        <source>You haven't saved your changes to the <ph id="1">{0}</ph>. Are you sure you want to leave the current page?</source>
+        <note annotates="source" from="Developer">KEY=MSG_LEAVE_PAGE_PARAM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_FEEDBACK_FIRSTQUESTION" maxwidth="100" resname="MSG_FEEDBACK_FIRSTQUESTION" sap:sc="XMSG" size-unit="char">
+        <source>How would you rate your experience?</source>
+        <note annotates="source" from="Developer">KEY=MSG_FEEDBACK_FIRSTQUESTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_FEEDBACK_SECONDQUESTION" maxwidth="100" resname="MSG_FEEDBACK_SECONDQUESTION" sap:sc="XMSG" size-unit="char">
+        <source>What do you like?</source>
+        <note annotates="source" from="Developer">KEY=MSG_FEEDBACK_SECONDQUESTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_FEEDBACK_THIRDQUESTION" maxwidth="100" resname="MSG_FEEDBACK_THIRDQUESTION" sap:sc="XMSG" size-unit="char">
+        <source>What could we improve?</source>
+        <note annotates="source" from="Developer">KEY=MSG_FEEDBACK_THIRDQUESTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_FEEDBACK_HINT" maxwidth="100" resname="MSG_FEEDBACK_HINT" sap:sc="XMSG" size-unit="char">
+        <source>Type as much as you like. We appreciate your feedback.</source>
+        <note annotates="source" from="Developer">KEY=MSG_FEEDBACK_HINT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MSG_FEEDBACK_INFO" maxwidth="100" resname="MSG_FEEDBACK_INFO" sap:sc="XMSG" size-unit="char">
+        <source>This feedback will be anonymous. Please email <ph id="1">{0}</ph> if you would like assistance.</source>
+        <note annotates="source" from="Developer">KEY=MSG_FEEDBACK_INFO</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_FEEDBACK_SUCCESS" maxwidth="100" resname="MSG_FEEDBACK_SUCCESS" sap:sc="XMSG" size-unit="char">
+        <source>Thank you! Your feedback has been sent.</source>
+        <note annotates="source" from="Developer">KEY=MSG_FEEDBACK_SUCCESS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUTTON_LEAVE" maxwidth="30" resname="BUTTON_LEAVE" sap:sc="XBUT" size-unit="char">
+        <source>Leave Page</source>
+        <note annotates="source" from="Developer">KEY=BUTTON_LEAVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUTTON_LEAVE_PROMPT" maxwidth="30" resname="BUTTON_LEAVE_PROMPT" sap:sc="XBUT" size-unit="char">
+        <source>Leave</source>
+        <note annotates="source" from="Developer">KEY=BUTTON_LEAVE_PROMPT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUTTON_SAVE_AND_LEAVE" maxwidth="30" resname="BUTTON_SAVE_AND_LEAVE" sap:sc="XBUT" size-unit="char">
+        <source>Save &amp; Leave</source>
+        <note annotates="source" from="Developer">KEY=BUTTON_SAVE_AND_LEAVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUTTON_REVERT_OR_SAVE" maxwidth="45" resname="BUTTON_REVERT_OR_SAVE" sap:sc="XBUT" size-unit="char">
+        <source>Publish Data</source>
+        <note annotates="source" from="Developer">KEY=BUTTON_REVERT_OR_SAVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUTTON_REVERT_DATA_CHANGES" maxwidth="45" resname="BUTTON_REVERT_DATA_CHANGES" sap:sc="XBUT" size-unit="char">
+        <source>Publish Data</source>
+        <note annotates="source" from="Developer">KEY=BUTTON_REVERT_DATA_CHANGES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUTTON_REVERT_ALL" maxwidth="30" resname="BUTTON_REVERT_ALL" sap:sc="XBUT" size-unit="char">
+        <source>Revert All</source>
+        <note annotates="source" from="Developer">KEY=BUTTON_REVERT_ALL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_REVERT_ALL" maxwidth="100" resname="TOOLTIP_REVERT_ALL" sap:sc="XFLD" size-unit="char">
+        <source>Revert all unresolved version dimension members of this model.</source>
+        <note annotates="source" from="Developer">KEY=TOOLTIP_REVERT_ALL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUTTON_SAVE_ALL" maxwidth="30" resname="BUTTON_SAVE_ALL" sap:sc="XBUT" size-unit="char">
+        <source>Publish All</source>
+        <note annotates="source" from="Developer">KEY=BUTTON_SAVE_ALL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_SAVE_ALL" maxwidth="100" resname="TOOLTIP_SAVE_ALL" sap:sc="XFLD" size-unit="char">
+        <source>Publish all unresolved version dimension members of this model.</source>
+        <note annotates="source" from="Developer">KEY=TOOLTIP_SAVE_ALL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUTTON_STAY" maxwidth="30" resname="BUTTON_STAY" sap:sc="XBUT" size-unit="char">
+        <source>Stay on Page</source>
+        <note annotates="source" from="Developer">KEY=BUTTON_STAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROFILE_DIALOG_TITLE" maxwidth="100" resname="PROFILE_DIALOG_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Profile</source>
+        <note annotates="source" from="Developer">KEY=PROFILE_DIALOG_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROFILE_START" maxwidth="120" resname="PROFILE_START" sap:sc="XBUT" size-unit="char">
+        <source>Start</source>
+        <note annotates="source" from="Developer">KEY=PROFILE_START</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROFILE_END" maxwidth="120" resname="PROFILE_END" sap:sc="XBUT" size-unit="char">
+        <source>End</source>
+        <note annotates="source" from="Developer">KEY=PROFILE_END</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROFILE_INPUT_NAME_TIP" maxwidth="120" resname="PROFILE_INPUT_NAME_TIP" sap:sc="XFLD" size-unit="char">
+        <source>Input name of the profile</source>
+        <note annotates="source" from="Developer">KEY=PROFILE_INPUT_NAME_TIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROFILE_CLOSE_WINDOW" maxwidth="120" resname="PROFILE_CLOSE_WINDOW" sap:sc="XBUT" size-unit="char">
+        <source>Close</source>
+        <note annotates="source" from="Developer">KEY=PROFILE_CLOSE_WINDOW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ABOUT_CLOSE_WINDOW" maxwidth="120" resname="ABOUT_CLOSE_WINDOW" sap:sc="XBUT" size-unit="char">
+        <source>Close</source>
+        <note annotates="source" from="Developer">KEY=ABOUT_CLOSE_WINDOW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CLIENT" maxwidth="120" resname="CLIENT" sap:sc="XTIT" size-unit="char">
+        <source>Client</source>
+        <note annotates="source" from="Developer">KEY=CLIENT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SERVER" maxwidth="120" resname="SERVER" sap:sc="XTIT" size-unit="char">
+        <source>Server</source>
+        <note annotates="source" from="Developer">KEY=SERVER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSIONS" maxwidth="120" resname="VERSIONS" sap:sc="XTIT" size-unit="char">
+        <source>Versions</source>
+        <note annotates="source" from="Developer">KEY=VERSIONS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMMITS" maxwidth="120" resname="COMMITS" sap:sc="XTIT" size-unit="char">
+        <source>Commits</source>
+        <note annotates="source" from="Developer">KEY=COMMITS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUILD_DATES" maxwidth="120" resname="BUILD_DATES" sap:sc="XTIT" size-unit="char">
+        <source>Build Dates</source>
+        <note annotates="source" from="Developer">KEY=BUILD_DATES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VERSION" maxwidth="120" resname="VERSION" sap:sc="XTIT" size-unit="char">
+        <source>Version</source>
+        <note annotates="source" from="Developer">KEY=VERSION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMMIT" maxwidth="120" resname="COMMIT" sap:sc="XTIT" size-unit="char">
+        <source>Commit</source>
+        <note annotates="source" from="Developer">KEY=COMMIT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUILD_DATE" maxwidth="120" resname="BUILD_DATE" sap:sc="XTIT" size-unit="char">
+        <source>Build Date</source>
+        <note annotates="source" from="Developer">KEY=BUILD_DATE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_DM_CONNECTOR" maxwidth="120" resname="MENU_DM_CONNECTOR" sap:sc="XTIT" size-unit="char">
+        <source>Connection</source>
+        <note annotates="source" from="Developer">menu item of connection list in deployment. Currently, only BPC-MS connections are managed.  KEY=MENU_DM_CONNECTOR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_PLACEHOLDER" maxwidth="50" resname="SEARCH_PLACEHOLDER" sap:sc="XTIT" size-unit="char">
+        <source>Search ...</source>
+        <note annotates="source" from="Developer">KEY=SEARCH_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BACKGROUND_OPTION_SAP" maxwidth="50" resname="BACKGROUND_OPTION_SAP" sap:sc="XFLD" size-unit="char">
+        <source>SAP (Light)</source>
+        <note annotates="source" from="Developer">Option for predefined background - SAP (Light)  KEY=BACKGROUND_OPTION_SAP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BACKGROUND_OPTION_SAP_DARK" maxwidth="50" resname="BACKGROUND_OPTION_SAP_DARK" sap:sc="XFLD" size-unit="char">
+        <source>SAP (Dark)</source>
+        <note annotates="source" from="Developer">Option for predefined background - SAP (Dark)  KEY=BACKGROUND_OPTION_SAP_DARK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BACKGROUND_OPTION_BELIZE_LIGHT" maxwidth="50" resname="BACKGROUND_OPTION_BELIZE_LIGHT" sap:sc="XFLD" size-unit="char">
+        <source>Belize (Light)</source>
+        <note annotates="source" from="Developer">Option for predefined background - Belize (Light)  KEY=BACKGROUND_OPTION_BELIZE_LIGHT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BACKGROUND_OPTION_BELIZE_DARK" maxwidth="50" resname="BACKGROUND_OPTION_BELIZE_DARK" sap:sc="XFLD" size-unit="char">
+        <source>Belize (Dark)</source>
+        <note annotates="source" from="Developer">Option for predefined background - Belize (Dark)  KEY=BACKGROUND_OPTION_BELIZE_DARK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BACKGROUND_OPTION_MINT" maxwidth="50" resname="BACKGROUND_OPTION_MINT" sap:sc="XFLD" size-unit="char">
+        <source>Mint</source>
+        <note annotates="source" from="Developer">Option for predefined background - Mint  KEY=BACKGROUND_OPTION_MINT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BACKGROUND_OPTION_GRAY" maxwidth="50" resname="BACKGROUND_OPTION_GRAY" sap:sc="XFLD" size-unit="char">
+        <source>Gray</source>
+        <note annotates="source" from="Developer">Option for predefined background - Gray  KEY=BACKGROUND_OPTION_GRAY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BACKGROUND_OPTION_SAND" maxwidth="50" resname="BACKGROUND_OPTION_SAND" sap:sc="XFLD" size-unit="char">
+        <source>Sand</source>
+        <note annotates="source" from="Developer">Option for predefined background - Sand  KEY=BACKGROUND_OPTION_SAND</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BACKGROUND_OPTION_VIOLET" maxwidth="50" resname="BACKGROUND_OPTION_VIOLET" sap:sc="XFLD" size-unit="char">
+        <source>Violet</source>
+        <note annotates="source" from="Developer">Option for predefined background - Violet  KEY=BACKGROUND_OPTION_VIOLET</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGO_OPTION_SAP_ANALYTICS_CLOUD" maxwidth="50" resname="LOGO_OPTION_SAP_ANALYTICS_CLOUD" sap:sc="XFLD" size-unit="char">
+        <source>SAP Analytics Cloud</source>
+        <note annotates="source" from="Developer">Option for logo on background - SAP  KEY=LOGO_OPTION_SAP_ANALYTICS_CLOUD</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGO_OPTION_SAP" maxwidth="50" resname="LOGO_OPTION_SAP" sap:sc="XFLD" size-unit="char">
+        <source>SAP</source>
+        <note annotates="source" from="Developer">Option for logo on background - SAP  KEY=LOGO_OPTION_SAP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGO_OPTION_CUSTOM" maxwidth="50" resname="LOGO_OPTION_CUSTOM" sap:sc="XFLD" size-unit="char">
+        <source>Custom</source>
+        <note annotates="source" from="Developer">Option for logo on background - Custom (loaded by user)  KEY=LOGO_OPTION_CUSTOM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGO_OPTION_NONE" maxwidth="50" resname="LOGO_OPTION_NONE" sap:sc="XFLD" size-unit="char">
+        <source>None</source>
+        <note annotates="source" from="Developer">Option for logo on background - None  KEY=LOGO_OPTION_NONE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BACKGROUND_ITEM_TITLE" maxwidth="50" resname="BACKGROUND_ITEM_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Select background</source>
+        <note annotates="source" from="Developer">Title for the background selection section in the background settings dialog  KEY=BACKGROUND_ITEM_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGO_ITEM_TITLE" maxwidth="50" resname="LOGO_ITEM_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Select logo</source>
+        <note annotates="source" from="Developer">Title for the logo selection section in the background settings dialog  KEY=LOGO_ITEM_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGO_UPLOAD_BUTTON" maxwidth="15" resname="LOGO_UPLOAD_BUTTON" sap:sc="XBUT" size-unit="char">
+        <source>Choose Logo</source>
+        <note annotates="source" from="Developer">Button to begin the upload of a logo file  KEY=LOGO_UPLOAD_BUTTON</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGO_STORED_LABEL" maxwidth="18" resname="LOGO_STORED_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Logo Stored</source>
+        <note annotates="source" from="Developer">Label to show when a logo has been stored previously  KEY=LOGO_STORED_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGO_NOT_STORED_LABEL" maxwidth="18" resname="LOGO_NOT_STORED_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>No Logo Uploaded</source>
+        <note annotates="source" from="Developer">Label to show when a logo has not been stored previously  KEY=LOGO_NOT_STORED_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_NO_BOARDROOM_LICENSE" resname="MSG_NO_BOARDROOM_LICENSE" sap:sc="XMSG">
+        <source>Your system is not licensed for Digital Boardroom. Please contact your System Owner to obtain the additional license.</source>
+        <note annotates="source" from="Developer">Warning message for user if boardroom license isn't purchased</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_NO_BOARDROOM_LICENSE_SYSTEMOWNER" resname="MSG_NO_BOARDROOM_LICENSE_SYSTEMOWNER" sap:sc="XMSG">
+        <source>Your system is not licensed for Digital Boardroom. Please contact SAP Sales to obtain the additional license.</source>
+        <note annotates="source" from="Developer">Warning message for system owner if boardroom license isn't purchased</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_NO_BOARDROOM_ROLE_PRIVILEGE" resname="MSG_NO_BOARDROOM_ROLE_PRIVILEGE" sap:sc="XMSG">
+        <source>You cannot view Digital Boardroom presentations with your current role. Contact your administrator to change your roles.</source>
+        <note annotates="source" from="Developer">Warning message for user if boardroom privilege is missing</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_PRED_PRO_MODELS_PLUGIN_LOAD_ERROR" resname="MSG_PRED_PRO_MODELS_PLUGIN_LOAD_ERROR" sap:sc="XMSG">
+        <source>Smart Predict is currently unavailable. Please refresh this page to try again. If the problem continues then contact Customer Support.</source>
+        <note annotates="source" from="Developer">Error message shown if Predictive Pro plugin failed to load (planned or unplanned downtime, connection error, ...)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BTN_DISCOVER_CONTINUE" resname="BTN_DISCOVER_CONTINUE" sap:sc="XTXT">
+        <source>Continue</source>
+        <note annotates="source" from="Developer">continue button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_IE11_LIMITATION_NEW" resname="MSG_IE11_LIMITATION_NEW" sap:sc="XMSG">
+        <source>SAP Analytics Cloud is optimized for Google Chrome on Windows or macOS without touch support. Some features are disabled in Internet Explorer 11 due to browser incompatibility. Available features include viewing stories and files, and participating in discussions.</source>
+        <note annotates="source" from="Developer">Warning message presented to the user when logged on using Internet Explorer 11  KEY=MSG_IE11_LIMITATION_NEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_EDGE_LIMITATION_NEW" resname="MSG_EDGE_LIMITATION_NEW" sap:sc="XMSG">
+        <source>SAP Analytics Cloud is optimized for Google Chrome on Windows or macOS without touch support. Some features are disabled in Microsoft Edge due to browser incompatibility. Available features include viewing stories, Digital Boardroom agendas, and files, and participating in discussions.</source>
+        <note annotates="source" from="Developer">Warning message presented to the user when logged on using Microsoft Edge  KEY=MSG_EDGE_LIMITATION_NEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TITLE_LIMITED_BROWSER_SUPPORT" maxwidth="50" resname="TITLE_LIMITED_BROWSER_SUPPORT" sap:sc="XTIT" size-unit="char">
+        <source>Limited Browser Support</source>
+        <note annotates="source" from="Developer">KEY=TITLE_LIMITED_BROWSER_SUPPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TITLE_BROWSER_NOT_SUPPORTED" maxwidth="50" resname="TITLE_BROWSER_NOT_SUPPORTED" sap:sc="XTIT" size-unit="char">
+        <source>Browser not Supported</source>
+        <note annotates="source" from="Developer">KEY=TITLE_BROWSER_NOT_SUPPORTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_BROSWER_NOT_SUPPRTED_TO_CREATE_STORY" resname="MSG_BROSWER_NOT_SUPPRTED_TO_CREATE_STORY" sap:sc="XMSG">
+        <source>Story creation feature is not supported by your browser. Please use Google Chrome to create a story.</source>
+        <note annotates="source" from="Developer">Error message to notify user that the current browser is not supported to create story</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_BROWSER_UNSUPPORTED_NEW" resname="MSG_BROWSER_UNSUPPORTED_NEW" sap:sc="XMSG">
+        <source>SAP Analytics Cloud is optimized for Google Chrome on Windows or macOS without touch support. Please keep in mind that some features may not work properly on other browsers or touch-enabled devices.</source>
+        <note annotates="source" from="Developer">Warning message presented to the user when logged on using an unsupported browser  KEY=MSG_BROWSER_UNSUPPORTED_NEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_SYSTEM_REQUIREMENTS" resname="LINK_SYSTEM_REQUIREMENTS" sap:sc="XLNK">
+        <source>System Requirements and Technical Prerequisites</source>
+        <note annotates="source" from="Developer">Link to help topic for system requirements and technical prerequisites  KEY=LINK_SYSTEM_REQUIREMENTS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MSG_MORE_DETAILS_LINK_TEXT" resname="MSG_MORE_DETAILS_LINK_TEXT" sap:sc="XMSG">
+        <source>See our <ph id="1">{0}</ph> page for more details on browser support.</source>
+        <note annotates="source" from="Developer">Message to access the help link for more details  KEY=MSG_MORE_DETAILS_LINK_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CHECKBOX_MSG_DISMISSAL" maxwidth="50" resname="CHECKBOX_MSG_DISMISSAL" sap:sc="XCKL" size-unit="char">
+        <source>Do not show this message again</source>
+        <note annotates="source" from="Developer">Check box message to not show the warning message again  KEY=CHECKBOX_MSG_DISMISSAL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FEATURE_COLLABORATION" maxwidth="50" resname="FEATURE_COLLABORATION" sap:sc="XFLD" size-unit="char">
+        <source>Collaboration</source>
+        <note annotates="source" from="Developer">KEY=FEATURE_COLLABORATION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBARARY_VERSION_NOT_COMPATIBLE" maxwidth="120" resname="LIBARARY_VERSION_NOT_COMPATIBLE" sap:sc="XMSG" size-unit="char">
+        <source>EPM library version is lower than required version</source>
+        <note annotates="source" from="Developer">KEY=LIBARARY_VERSION_NOT_COMPATIBLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EPM_LIBRARY_VERSION" maxwidth="120" resname="EPM_LIBRARY_VERSION" sap:sc="XMSG" size-unit="char">
+        <source>EPM library version</source>
+        <note annotates="source" from="Developer">KEY=EPM_LIBRARY_VERSION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_VERSION_LOW_WARNING" maxwidth="120" resname="LIBRARY_VERSION_LOW_WARNING" sap:sc="XMSG" size-unit="char">
+        <source>WARNING: Lower than required library version</source>
+        <note annotates="source" from="Developer">KEY=LIBRARY_VERSION_LOW_WARNING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_APPLICATION" maxwidth="50" resname="TOOLTIP_APPLICATION" sap:sc="XFLD" size-unit="char">
+        <source>Applications</source>
+        <note annotates="source" from="Developer">Tooltip for application switcher button in Shell  KEY=TOOLTIP_APPLICATION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_SEARCH" maxwidth="50" resname="TOOLTIP_SEARCH" sap:sc="XFLD" size-unit="char">
+        <source>Search</source>
+        <note annotates="source" from="Developer">Tooltip for search button in Shell  KEY=TOOLTIP_SEARCH</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_SEARCH_FILES" maxwidth="50" resname="TOOLTIP_SEARCH_FILES" sap:sc="XFLD" size-unit="char">
+        <source>Find files and folders</source>
+        <note annotates="source" from="Developer">Tooltip for search button in Shell  KEY=TOOLTIP_SEARCH_FILES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_SEARCH_TO_INSIGHT" maxwidth="50" resname="TOOLTIP_SEARCH_TO_INSIGHT" sap:sc="XFLD" size-unit="char">
+        <source>Search to Insight</source>
+        <note annotates="source" from="Developer">Tooltip for Search to Insight button in Shell  KEY=TOOLTIP_SEARCH_TO_INSIGHT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_CLEAR" maxwidth="50" resname="TOOLTIP_CLEAR" sap:sc="XTOL" size-unit="char">
+        <source>Clear</source>
+        <note annotates="source" from="Developer">Tooltip for clear search content in Shell  KEY=TOOLTIP_CLEAR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_FEEDBACK" maxwidth="50" resname="TOOLTIP_FEEDBACK" sap:sc="XFLD" size-unit="char">
+        <source>Send Feedback</source>
+        <note annotates="source" from="Developer">Label for the feedback selection in Home Page  KEY=TOOLTIP_FEEDBACK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SUBMIT_IDEAS" maxwidth="50" resname="SUBMIT_IDEAS" sap:sc="XBUT" size-unit="char">
+        <source>Submit Ideas</source>
+        <note annotates="source" from="Developer">Text for the button that redirects the user to the ideas page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GUIDED_TIPS_LABEL" maxwidth="50" resname="GUIDED_TIPS_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Guided Page Tips</source>
+        <note annotates="source" from="Developer">Label for the guided page tips switch</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_KNOWLEDGE_BASE" maxwidth="50" resname="SEARCH_KNOWLEDGE_BASE" sap:sc="XBUT" size-unit="char">
+        <source>Search Knowledge Base</source>
+        <note annotates="source" from="Developer">Text for the button that redirects the user to the search knowledge bases page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BROWSE_COMMUNITIES" maxwidth="50" resname="BROWSE_COMMUNITIES" sap:sc="XBUT" size-unit="char">
+        <source>Browse Community</source>
+        <note annotates="source" from="Developer">Text for the button that redirects the user to the browse communities</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUICK_START" maxwidth="50" resname="QUICK_START" sap:sc="XBUT" size-unit="char">
+        <source>Quickstart</source>
+        <note annotates="source" from="Developer">Text for the tile that opens the help center on the getting started page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HELP_LIBRARY" maxwidth="50" resname="HELP_LIBRARY" sap:sc="XBUT" size-unit="char">
+        <source>Help</source>
+        <note annotates="source" from="Developer">Text for the tile that opens the help center on the Help page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIDEO_TUTORIALS" maxwidth="50" resname="VIDEO_TUTORIALS" sap:sc="XBUT" size-unit="char">
+        <source>Videos</source>
+        <note annotates="source" from="Developer">Text for the tile that opens the help center on the Video Tutorials page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WHATS_NEW_HELP" maxwidth="50" resname="WHATS_NEW_HELP" sap:sc="XBUT" size-unit="char">
+        <source>What's New?</source>
+        <note annotates="source" from="Developer">Text for the button that opens the help center on the What's New page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORE_ADDONS" maxwidth="15" resname="EXPLORE_ADDONS" sap:sc="XBUT" size-unit="char">
+        <source>Explore Add-ons</source>
+        <note annotates="source" from="Developer">Text for the button in help center that opens explore add-ons from SAP App Center</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORE_ADDONS_TOOLTIP" maxwidth="50" resname="EXPLORE_ADDONS_TOOLTIP" sap:sc="XMSG" size-unit="char">
+        <source>Explore Add-ons from the SAP App Center</source>
+        <note annotates="source" from="Developer">Tooltip for Explore Add-ons button in help center</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUICK_START_HOVER" resname="QUICK_START_HOVER" sap:sc="XMSG">
+        <source>Learn the basics and start using the tool to meet your needs.</source>
+        <note annotates="source" from="Developer">Hover text for the quick start tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HELP_TILE_HOVER" maxwidth="55" resname="HELP_TILE_HOVER" sap:sc="XMSG" size-unit="char">
+        <source>Get help tailored to where you are in the product.</source>
+        <note annotates="source" from="Developer">Hover text for the Help tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIDEO_TUTORIALS_HOVER" maxwidth="55" resname="VIDEO_TUTORIALS_HOVER" sap:sc="XMSG" size-unit="char">
+        <source>Learn visually using our library of short videos.</source>
+        <note annotates="source" from="Developer">Hover text for the Help tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="HELP_CENTER_WELCOME" maxwidth="50" resname="HELP_CENTER_WELCOME" sap:sc="XMSG" size-unit="char">
+        <source>Hi <ph id="1">{0}</ph>,\nWhat can we help you with today?</source>
+        <note annotates="source" from="Developer">Personalized welcome message that welcomes a user to the help center</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADMIN_CHAT_UNAVAILABLE" maxwidth="50" resname="ADMIN_CHAT_UNAVAILABLE" sap:sc="XMSG" size-unit="char">
+        <source>Admin discussion is currently unavailable.</source>
+        <note annotates="source" from="Developer">Toast message in case admin discussion is unavailable</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SUPPORT_USER_CONFIRM_CREATE" resname="SUPPORT_USER_CONFIRM_CREATE" sap:sc="XMSG">
+        <source>You are about to create a support user that will be used by SAP Support to troubleshoot your problem. You can delete this support user when your issue is resolved.</source>
+        <note annotates="source" from="Developer">Message to confirm creation of support user</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SUPPORT_CREATE" maxwidth="50" resname="SUPPORT_CREATE" sap:sc="XBUT" size-unit="char">
+        <source>Create</source>
+        <note annotates="source" from="Developer">Create button text for support user creation confirmation dialog KEY=SUPPORT_CREATE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SUPPORT_USER_CREATE_TOOLTIP" maxwidth="50" resname="SUPPORT_USER_CREATE_TOOLTIP" sap:sc="XFLD" size-unit="char">
+        <source>Create Support User</source>
+        <note annotates="source" from="Developer">Label for the Create Support User selection in Home Page  KEY=SUPPORT_USER_CREATE_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_CONTACT_IT" maxwidth="50" resname="TOOLTIP_CONTACT_IT" sap:sc="XFLD" size-unit="char">
+        <source>Contact Admin</source>
+        <note annotates="source" from="Developer">Label for the Admin Discussion selection in Home Page  KEY=TOOLTIP_CONTACT_IT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COLL_IT_DISCUSSION_LABEL" maxwidth="255" resname="COLL_IT_DISCUSSION_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Admin Discussion</source>
+        <note annotates="source" from="Developer">Title for support discussion with  admin  KEY=COLL_IT_DISCUSSION_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COLL_IT_DISCUSSION_SELECT" maxwidth="255" resname="COLL_IT_DISCUSSION_SELECT" sap:sc="XFLD" size-unit="char">
+        <source>Select an Admin to Contact</source>
+        <note annotates="source" from="Developer">Title for member selector dialog for selecting an admin for an IT discussion  KEY=COLL_IT_DISCUSSION_SELECT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACCOUNT" maxwidth="50" resname="ACCOUNT" sap:sc="XFLD" size-unit="char">
+        <source>Account</source>
+        <note annotates="source" from="Developer">KEY=ACCOUNT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FORBIDDEN_PAGE_TITLE" maxwidth="50" resname="FORBIDDEN_PAGE_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Error 403 - Forbidden</source>
+        <note annotates="source" from="Developer">KEY=FORBIDDEN_PAGE_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FORBIDDEN_DOC_TITLE" maxwidth="50" resname="FORBIDDEN_DOC_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>403 - Forbidden</source>
+        <note annotates="source" from="Developer">KEY = FORBIDDEN_DOC_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FORBIDDEN_TEXT" maxwidth="200" resname="FORBIDDEN_TEXT" sap:sc="XFLD" size-unit="char">
+        <source>The server refused to fulfill the request.</source>
+        <note annotates="source" from="Developer">KEY = FORBIDDEN_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FORBIDDEN_SOLUTION_TITLE" maxwidth="200" resname="FORBIDDEN_SOLUTION_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Possible solution</source>
+        <note annotates="source" from="Developer">KEY = FORBIDDEN_SOLUTION_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FORBIDDEN_SOLUTION_TEXT" maxwidth="200" resname="FORBIDDEN_SOLUTION_TEXT" sap:sc="XFLD" size-unit="char">
+        <source>More information about why the request was refused may be found in the server logs.</source>
+        <note annotates="source" from="Developer">KEY = FORBIDDEN_SOLUTION_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="CONFIRM_REGISTER_TENANT" maxwidth="200" resname="CONFIRM_REGISTER_TENANT" sap:sc="XMSG" size-unit="char">
+        <source>Your user (<ph id="1">{0}</ph>) is not authorized to any account. Do you want to register one for yourself?</source>
+        <note annotates="source" from="Developer">KEY=CONFIRM_REGISTER_TENANT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="YES" maxwidth="50" resname="YES" sap:sc="XFLD" size-unit="char">
+        <source>Yes</source>
+        <note annotates="source" from="Developer">KEY = YES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO" maxwidth="50" resname="NO" sap:sc="XFLD" size-unit="char">
+        <source>No</source>
+        <note annotates="source" from="Developer">KEY = NO</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="USER_INFO_INVALID" maxwidth="200" resname="USER_INFO_INVALID" sap:sc="XMSG" size-unit="char">
+        <source>You are not recognized by SAML, please logout and re-login</source>
+        <note annotates="source" from="Developer">KEY=USER_INFO_INVALID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REGISTER_TENANT" maxwidth="50" resname="REGISTER_TENANT" sap:sc="XMSG" size-unit="char">
+        <source>Register Account</source>
+        <note annotates="source" from="Developer">KEY=REGISTER_TENANT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SYSTEM_IN_MAINTENANCE" maxwidth="200" resname="SYSTEM_IN_MAINTENANCE" sap:sc="XMSG" size-unit="char">
+        <source>Sorry. System is in maintenance. Please try it later.</source>
+        <note annotates="source" from="Developer">KEY=SYSTEM_IN_MAINTENANCE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IFRAME_ACCESS_ONLY" maxwidth="200" resname="IFRAME_ACCESS_ONLY" sap:sc="XMSG" size-unit="char">
+        <source>Sorry. System is only accessible under iframe.</source>
+        <note annotates="source" from="Developer">KEY=IFRAME_ACCESS_ONLY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FEEDBACK_DIALOG_TITLE" maxwidth="50" resname="FEEDBACK_DIALOG_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Feedback</source>
+        <note annotates="source" from="Developer">KEY=FEEDBACK_DIALOG_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FEEDBACK_SEND" maxwidth="50" resname="FEEDBACK_SEND" sap:sc="XBUT" size-unit="char">
+        <source>Send</source>
+        <note annotates="source" from="Developer">KEY=FEEDBACK_SEND</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_STORY" maxwidth="20" resname="SIMPLE_MENU_STORY" sap:sc="XMIT" size-unit="char">
+        <source>Story</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_STORY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_APPLICATION" maxwidth="32" resname="SIMPLE_MENU_APPLICATION" sap:sc="XMIT" size-unit="char">
+        <source>Analytic Application</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_APPLICATION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_ADHOC" maxwidth="20" resname="SIMPLE_MENU_ADHOC" sap:sc="XMIT" size-unit="char">
+        <source>Data Analyzer</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_ADHOC</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_MODEL" maxwidth="20" resname="SIMPLE_MENU_MODEL" sap:sc="XMIT" size-unit="char">
+        <source>Model</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_MODEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_MODELS" maxwidth="20" resname="SIMPLE_MENU_MODELS" sap:sc="XMIT" size-unit="char">
+        <source>Models</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_MODELS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_PRED_PRO_PREDICTIVE_SCENARIOS" maxwidth="20" resname="SIMPLE_MENU_PRED_PRO_PREDICTIVE_SCENARIOS" sap:sc="XMIT" size-unit="char">
+        <source>Predictive Scenarios</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_PRED_PRO_PREDICTIVE_SCENARIOS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_PRED_PRO_PREDICTIVE_SCENARIO" maxwidth="20" resname="SIMPLE_MENU_PRED_PRO_PREDICTIVE_SCENARIO" sap:sc="XMIT" size-unit="char">
+        <source>Predictive Scenario</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_PRED_PRO_PREDICTIVE_SCENARIO</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_ROAMBI" maxwidth="20" resname="SIMPLE_MENU_ROAMBI" sap:sc="XMIT" size-unit="char">
+        <source>Roambi</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_ROAMBI, 'Roambi' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_DIMENSION" maxwidth="20" resname="SIMPLE_MENU_DIMENSION" sap:sc="XMIT" size-unit="char">
+        <source>Dimension</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_DIMENSION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_DIMENSIONS" maxwidth="20" resname="SIMPLE_MENU_DIMENSIONS" sap:sc="XMIT" size-unit="char">
+        <source>Dimensions</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_DIMENSIONS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_VDT" maxwidth="20" resname="SIMPLE_MENU_VDT" sap:sc="XMIT" size-unit="char">
+        <source>Value Driver Tree</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_VDT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_VDTS" maxwidth="20" resname="SIMPLE_MENU_VDTS" sap:sc="XMIT" size-unit="char">
+        <source>Value Driver Trees</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_VDTS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_PLANNING_SEQUENCE" maxwidth="20" resname="SIMPLE_MENU_PLANNING_SEQUENCE" sap:sc="XMIT" size-unit="char">
+        <source>Data Action</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_PLANNING_SEQUENCE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_PLANNING_SEQUENCES" maxwidth="20" resname="SIMPLE_MENU_PLANNING_SEQUENCES" sap:sc="XMIT" size-unit="char">
+        <source>Data Actions</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_PLANNING_SEQUENCES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_ALLOCATION" maxwidth="20" resname="SIMPLE_MENU_ALLOCATION" sap:sc="XMIT" size-unit="char">
+        <source>Allocation</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_ALLOCATION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_ALLOCATIONS" maxwidth="20" resname="SIMPLE_MENU_ALLOCATIONS" sap:sc="XMIT" size-unit="char">
+        <source>Allocations</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_ALLOCATIONS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_CURRENCY" maxwidth="20" resname="SIMPLE_MENU_CURRENCY" sap:sc="XMIT" size-unit="char">
+        <source>Currency</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_CURRENCY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_CURRENCIES" maxwidth="20" resname="SIMPLE_MENU_CURRENCIES" sap:sc="XMIT" size-unit="char">
+        <source>Currencies</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_CURRENCIES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_POI" maxwidth="20" resname="SIMPLE_MENU_POI" sap:sc="XMIT" size-unit="char">
+        <source>Point of Interest</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_POI</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_POIS" maxwidth="20" resname="SIMPLE_MENU_POIS" sap:sc="XMIT" size-unit="char">
+        <source>Points of Interest</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_POIS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_ANALYTICS_HUB" maxwidth="20" resname="SIMPLE_MENU_ANALYTICS_HUB" sap:sc="XMIT" size-unit="char">
+        <source>Analytics Hub</source>
+        <note annotates="source" from="Developer">Product Name. Don't Translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_DATAWAREHOUSE" maxwidth="20" resname="SIMPLE_MENU_DATAWAREHOUSE" sap:sc="XMIT" size-unit="char">
+        <source>Data Warehouse</source>
+        <note annotates="source" from="Developer">Product Name. Don't Translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_ANALYTICS" maxwidth="20" resname="SIMPLE_MENU_ANALYTICS" sap:sc="XMIT" size-unit="char">
+        <source>Analytics</source>
+        <note annotates="source" from="Developer">Product Name. Don't Translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_PROCESS" maxwidth="20" resname="SIMPLE_MENU_PROCESS" sap:sc="XMIT" size-unit="char">
+        <source>Process</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_PROCESS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_PROCESSES" maxwidth="20" resname="SIMPLE_MENU_PROCESSES" sap:sc="XMIT" size-unit="char">
+        <source>Processes</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_PROCESSES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CUSTOM_WIDGET_MENU_ENTRY" maxwidth="30" resname="CUSTOM_WIDGET_MENU_ENTRY" sap:sc="XMIT" size-unit="char">
+        <source>Custom Widgets</source>
+        <note annotates="source" from="Developer">KEY=CUSTOM_WIDGET_MENU_ENTRY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LTNT_TRIAL_COUNTDOWN" maxwidth="120" resname="LTNT_TRIAL_COUNTDOWN" sap:sc="XMSG" size-unit="char">
+        <source>Trial ends in <ph id="1">{0}</ph> days</source>
+        <note annotates="source" from="Developer">A no-wrapped text string specifying the number of days left in a LTNT trial.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_BUY" maxwidth="50" resname="LTNT_BUY" sap:sc="XBUT" size-unit="char">
+        <source>Buy Now</source>
+        <note annotates="source" from="Developer">text for the low touch no touch Buy button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND" maxwidth="50" resname="LTNT_EXTEND" sap:sc="XBUT" size-unit="char">
+        <source>Extend Trial</source>
+        <note annotates="source" from="Developer">text for the low touch no touch Extend Trial button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_SKIP" maxwidth="50" resname="LTNT_SKIP" sap:sc="XBUT" size-unit="char">
+        <source>Skip</source>
+        <note annotates="source" from="Developer">text for the low touch no touch Skip button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_TRIAL_EXPIRED" maxwidth="120" resname="LTNT_TRIAL_EXPIRED" sap:sc="XMSG" size-unit="char">
+        <source>Your trial has expired.</source>
+        <note annotates="source" from="Developer">A no-wrapped text string showing trial expired for LTNT user</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_SUCCESS" maxwidth="200" resname="LTNT_EXTEND_TRIAL_SUCCESS" sap:sc="XMSG" size-unit="char">
+        <source>Your trial has been extended to 90 days!</source>
+        <note annotates="source" from="Developer">A toast message when user successfully extends trial</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_ERROR" maxwidth="200" resname="LTNT_EXTEND_TRIAL_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Trial extension cannot be applied. Please contact your administrator.</source>
+        <note annotates="source" from="Developer">An error toast message when user fails to extend their trial</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_BEYOND_LENGTH" maxwidth="200" resname="LTNT_EXTEND_TRIAL_BEYOND_LENGTH" sap:sc="XMSG" size-unit="char">
+        <source>Trial extension cannot be applied. Your current trial length is beyond the maximum length.</source>
+        <note annotates="source" from="Developer">An warning toast message when the length of current trial is beyond the extended trial length</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_EXTENDED_ALREADY" maxwidth="200" resname="LTNT_EXTEND_TRIAL_EXTENDED_ALREADY" sap:sc="XMSG" size-unit="char">
+        <source>Your trial has already been extended</source>
+        <note annotates="source" from="Developer">A toast message when user has already extended trial</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_DLG_EXPIRED_TITLE" maxwidth="50" resname="LTNT_EXTEND_TRIAL_DLG_EXPIRED_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Trial Expired</source>
+        <note annotates="source" from="Developer">KEY=LTNT_TRIAL_EXPIRED_TITLE Trial Expired title in extend trial dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LTNT_EXTEND_TRIAL_DLG_REMAINING_TITLE" maxwidth="50" resname="LTNT_EXTEND_TRIAL_DLG_REMAINING_TITLE" sap:sc="XTIT" size-unit="char">
+        <source><ph id="1">{0}</ph> Days Remaining in Trial</source>
+        <note annotates="source" from="Developer">KEY=LTNT_TRIAL_REMAINING N Days remaining in trial title in extend trial dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_DLG_EXPIRED_MSG_PART1" maxwidth="200" resname="LTNT_EXTEND_TRIAL_DLG_EXPIRED_MSG_PART1" sap:sc="XMSG" size-unit="char">
+        <source>Thank you for trying SAP Analytics Cloud!</source>
+        <note annotates="source" from="Developer">A message in the dialog when trial has expired (Part 1)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_DLG_EXPIRED_MSG_PART2" maxwidth="200" resname="LTNT_EXTEND_TRIAL_DLG_EXPIRED_MSG_PART2" sap:sc="XMSG" size-unit="char">
+        <source>If you liked your experience and want to activate additional features like Collaboration and Security, 'Upgrade' your subscription now.</source>
+        <note annotates="source" from="Developer">A message in the dialog when trial has expired (Part 2)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_DLG_EXPIRED_MSG_PART3" maxwidth="200" resname="LTNT_EXTEND_TRIAL_DLG_EXPIRED_MSG_PART3" sap:sc="XMSG" size-unit="char">
+        <source>If you need more time to evaluate whether SAP Analytics Cloud is the solution for you, choose 'Extend Trial' to extend your trial to 90 days.</source>
+        <note annotates="source" from="Developer">A message in the dialog when trial has expired (Part 3)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_DLG_WANT_BI" maxwidth="200" resname="LTNT_EXTEND_TRIAL_DLG_WANT_BI" sap:sc="XMSG" size-unit="char">
+        <source>Want the full BI experience?</source>
+        <note annotates="source" from="Developer">A message in the dialog when trial has not expired</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_DLG_CHOOSE_UPGRADE" maxwidth="200" resname="LTNT_EXTEND_TRIAL_DLG_CHOOSE_UPGRADE" sap:sc="XMSG" size-unit="char">
+        <source>Choose 'Upgrade' to unlock collaboration and on-premise connections!</source>
+        <note annotates="source" from="Developer">A message in the dialog when trial has not expired</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_DLG_MORE_TIME" maxwidth="200" resname="LTNT_EXTEND_TRIAL_DLG_MORE_TIME" sap:sc="XMSG" size-unit="char">
+        <source>Need more time?</source>
+        <note annotates="source" from="Developer">A message in the dialog when trial has not expired</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LTNT_EXTEND_TRIAL_DLG_CHOOSE_EXTEND" maxwidth="200" resname="LTNT_EXTEND_TRIAL_DLG_CHOOSE_EXTEND" sap:sc="XMSG" size-unit="char">
+        <source>Choose 'Extend Trial' to extend your trial to 90 days!</source>
+        <note annotates="source" from="Developer">A message in the dialog when trial has not expired</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BANNER_WHATS_NEW_TEXT_UPDATED" maxwidth="200" resname="BANNER_WHATS_NEW_TEXT_UPDATED" sap:sc="XMSG" size-unit="char">
+        <source>New features are available.</source>
+        <note annotates="source" from="Developer">WHATS NEW BANNER TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BANNER_WHATS_NEW_LINK_TEXT_UPDATED" maxwidth="20" resname="BANNER_WHATS_NEW_LINK_TEXT_UPDATED" sap:sc="XMSG" size-unit="char">
+        <source>Check them out.</source>
+        <note annotates="source" from="Developer">WHATS NEW BANNER LINK TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="BANNER_SYSTEM_MAINTENANCE_TEXT" maxwidth="200" resname="BANNER_SYSTEM_MAINTENANCE_TEXT" sap:sc="XMSG" size-unit="char">
+        <source>Your system is scheduled for maintenance from <ph id="1">{0}</ph> <ph id="2">{1}</ph><ph id="3">{2}</ph> to <ph id="4">{3}</ph> <ph id="5">{4}</ph><ph id="6">{5}</ph>.</source>
+        <note annotates="source" from="Developer">MAINTENANCE BANNER TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_PRESENTATION" maxwidth="20" resname="SIMPLE_MENU_PRESENTATION" sap:sc="XMIT" size-unit="char">
+        <source>Presentation</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_PRESENTATION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_PRESENTATION" maxwidth="20" resname="MENU_PRESENTATION" sap:sc="XMIT" size-unit="char">
+        <source>Presentation</source>
+        <note annotates="source" from="Developer">KEY=_MENU_PRESENTATION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_SPARCA_IDENTIFIER" maxwidth="20" resname="LEAVE_SPARCA_IDENTIFIER" sap:sc="XFLD" size-unit="char">
+        <source>model</source>
+        <note annotates="source" from="Developer">KEY=LEAVE_SPARCA_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_WRANGLING_IDENTIFIER" maxwidth="20" resname="LEAVE_WRANGLING_IDENTIFIER" sap:sc="XFLD" size-unit="char">
+        <source>model</source>
+        <note annotates="source" from="Developer">KEY=LEAVE_WRANGLING_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_APPLICATION_IDENTIFIER" maxwidth="20" resname="LEAVE_APPLICATION_IDENTIFIER" sap:sc="XFLD" size-unit="char">
+        <source>analytic application</source>
+        <note annotates="source" from="Developer">KEY=LEAVE_APPLICATION_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_WRANGLING_IDENTIFIER_IMPORT_MASTER_DATA" maxwidth="20" resname="LEAVE_WRANGLING_IDENTIFIER_IMPORT_MASTER_DATA" sap:sc="XFLD" size-unit="char">
+        <source>dimension</source>
+        <note annotates="source" from="Developer">KEY=LEAVE_WRANGLING_IDENTIFIER_IMPORT_MASTER_DATA</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_STORY_IDENTIFIER" resname="LEAVE_STORY_IDENTIFIER" sap:sc="XFLD">
+        <source>story</source>
+        <note annotates="source" from="Developer">this is substituted into MSG_LEAVE_PAGE_PARAM to warn user when leaving a story page  KEY=LEAVE_STORY_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_MODEL_IDENTIFIER" resname="LEAVE_MODEL_IDENTIFIER" sap:sc="XFLD">
+        <source>model</source>
+        <note annotates="source" from="Developer">this is substituted into MSG_LEAVE_PAGE_PARAM to warn user when leaving the modeller  KEY=LEAVE_MODEL_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_MODELLER_HOME_IDENTIFIER" resname="LEAVE_MODELLER_HOME_IDENTIFIER" sap:sc="XFLD">
+        <source>dimension</source>
+        <note annotates="source" from="Developer">this is substituted into MSG_LEAVE_PAGE_PARAM to warn user when leaving the modeller dimension KEY=LEAVE_MODELLER_HOME_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_ROAMBI_IDENTIFIER" resname="LEAVE_ROAMBI_IDENTIFIER" sap:sc="XFLD">
+        <source>Roambi</source>
+        <note annotates="source" from="Developer">this is substituted into MSG_LEAVE_PAGE_PARAM to warn user when leaving the Roambi  KEY=LEAVE_ROAMBI_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MENU_PRESENTATION_V2" maxwidth="20" resname="MENU_PRESENTATION_V2" sap:sc="XMIT" size-unit="char">
+        <source>Digital Boardroom</source>
+        <note annotates="source" from="Developer">KEY=_MENU_PRESENTATION_V2, 'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_PRESENTATION_V2" maxwidth="20" resname="SIMPLE_MENU_PRESENTATION_V2" sap:sc="XMIT" size-unit="char">
+        <source>Digital Boardroom</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_PRESENTATION_V2, 'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIMPLE_MENU_EXTERNAL_CONTENT" maxwidth="20" resname="SIMPLE_MENU_EXTERNAL_CONTENT" sap:sc="XMIT" size-unit="char">
+        <source>External Content</source>
+        <note annotates="source" from="Developer">KEY=SIMPLE_MENU_EXTERNAL_CONTENT, create name for External Content</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="APPLICATION_BUILDING_TITLE" maxwidth="20" resname="APPLICATION_BUILDING_TITLE" sap:sc="XMIT" size-unit="char">
+        <source>Analytics Designer</source>
+        <note annotates="source" from="Developer">KEY=APPLICATION_BUILDING_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADHOC_TITLE" resname="ADHOC_TITLE" sap:sc="XTIT">
+        <source>Data Analyzer</source>
+        <note annotates="source" from="Developer">KEY=ADHOC_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CUSTOM_WIDGETS" resname="CUSTOM_WIDGETS" sap:sc="XTIT">
+        <source>Custom Widgets</source>
+        <note annotates="source" from="Developer">KEY=CUSTOM_WIDGETS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TENANT_DESCRIPTION_NAME" maxwidth="120" resname="TENANT_DESCRIPTION_NAME" sap:sc="XTIT" size-unit="char">
+        <source>System Name</source>
+        <note annotates="source" from="Developer">KEY=TENANT_DESCRIPTION_NAME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_ROLE_IDENTIFIER" resname="LEAVE_ROLE_IDENTIFIER" sap:sc="XFLD">
+        <source>role</source>
+        <note annotates="source" from="Developer">this is substituted into MSG_LEAVE_PAGE_PARAM to warn user when leaving a roles page  KEY=LEAVE_STORY_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_USER_IDENTIFIER" resname="LEAVE_USER_IDENTIFIER" sap:sc="XFLD">
+        <source>user</source>
+        <note annotates="source" from="Developer">this is substituted into MSG_LEAVE_PAGE_PARAM to warn user when leaving a user page  KEY=LEAVE_STORY_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_PLANSEQ_IDENTIFIER" resname="LEAVE_PLANSEQ_IDENTIFIER" sap:sc="XFLD">
+        <source>Data Action</source>
+        <note annotates="source" from="Developer">this is substituted into MSG_LEAVE_PAGE_PARAM to warn user when leaving a data action  KEY=LEAVE_PLANSEQ_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_VDT_IDENTIFIER" resname="LEAVE_VDT_IDENTIFIER" sap:sc="XFLD">
+        <source>Value Driver Tree</source>
+        <note annotates="source" from="Developer">this is substituted into MSG_LEAVE_PAGE_PARAM to warn user when leaving a Value Driver Tree  KEY=LEAVE_VDT_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_ALLOCATION_PROCESS_IDENTIFIER" resname="LEAVE_ALLOCATION_PROCESS_IDENTIFIER" sap:sc="XFLD">
+        <source>Allocation Process</source>
+        <note annotates="source" from="Developer">this is substituted into MSG_LEAVE_PAGE_PARAM to warn user when leaving an Allocation Process  KEY=LEAVE_ALLOCATION_PROCESS_IDENTIFIER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_EM_IDENTIFIER" resname="LEAVE_EM_IDENTIFIER" sap:sc="XFLD">
+        <source>Calendar</source>
+        <note annotates="source" from="Developer">this is substituted into MSG_LEAVE_PAGE_PARAM to warn user when leaving a em page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TITLE_MARKETING_EMAIL_OPT_IN" resname="TITLE_MARKETING_EMAIL_OPT_IN" sap:sc="XTIT">
+        <source>Keep receiving event, product, and learning updates</source>
+        <note annotates="source" from="Developer">Title of popup for the user to opt in for marketing emails</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MSG_MARKETING_EMAIL_OPT_IN_INTRO" resname="MSG_MARKETING_EMAIL_OPT_IN_INTRO" sap:sc="XMSG">
+        <source>Hello<ph id="1">{0}</ph>!</source>
+        <note annotates="source" from="Developer">Info intro text for the user to opt in for marketing emails</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_MARKETING_EMAIL_OPT_IN_BODY" resname="MSG_MARKETING_EMAIL_OPT_IN_BODY" sap:sc="XMSG">
+        <source>Do you want to continue receiving the latest SAP Analytics Cloud learning content via email?</source>
+        <note annotates="source" from="Developer">Info body text for the user to opt in for marketing emails</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_MARKETING_EMAIL_OPT_IN_GDPR" resname="MSG_MARKETING_EMAIL_OPT_IN_GDPR" sap:sc="YTXT">
+        <source>Due to recent EU GDPR regulations, you must click 'Accept' to continue receiving emails from us. You will receive updates about the product, invitations to our user group meetings, webinars, and other learning resources. You can change this option in your profile settings at any time.</source>
+        <note annotates="source" from="Developer">Info GDPR text for the user to opt in for marketing emails</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUTTON_MARKETING_EMAIL_OPT_IN_ACCEPT" resname="BUTTON_MARKETING_EMAIL_OPT_IN_ACCEPT" sap:sc="XBUT">
+        <source>Accept</source>
+        <note annotates="source" from="Developer">Button to subscribe to Marketing email from the Marketing Email Opt In Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUTTON_MARKETING_EMAIL_OPT_IN_DECLINE" resname="BUTTON_MARKETING_EMAIL_OPT_IN_DECLINE" sap:sc="XBUT">
+        <source>Decline</source>
+        <note annotates="source" from="Developer">Button to not subscribe to Marketing email from the Marketing Email Opt In Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAYWALL_POPOVER_EXPORT" resname="PAYWALL_POPOVER_EXPORT" sap:sc="XMSG">
+        <source>Upgrade to export content to a local file that can then be imported.</source>
+        <note annotates="source" from="Developer">Popover message for Export in navigation menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAYWALL_POPOVER_IMPORT" resname="PAYWALL_POPOVER_IMPORT" sap:sc="XMSG">
+        <source>Upgrade to import content from a local file.</source>
+        <note annotates="source" from="Developer">Popover message for Import in navigation menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAYWALL_POPOVER_TEAMS" resname="PAYWALL_POPOVER_TEAMS" sap:sc="XMSG">
+        <source>Upgrade to add users to a team.</source>
+        <note annotates="source" from="Developer">Popover message for Teams in navigation menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAYWALL_POPOVER_ROLES" resname="PAYWALL_POPOVER_ROLES" sap:sc="XMSG">
+        <source>Upgrade to assign standard roles to your users or create individual roles that meet your business needs.</source>
+        <note annotates="source" from="Developer">Popover message for Roles in navigation menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAYWALL_POPOVER_REQUESTS" resname="PAYWALL_POPOVER_REQUESTS" sap:sc="XMSG">
+        <source>Upgrade to approve role assignment requests.</source>
+        <note annotates="source" from="Developer">Popover message for Requests in navigation menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAYWALL_POPOVER_MONITOR" resname="PAYWALL_POPOVER_MONITOR" sap:sc="XMSG">
+        <source>Upgrade to track system usage and performance.</source>
+        <note annotates="source" from="Developer">Popover message for Monitor in navigation menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAYWALL_POPOVER_ADMINISTRATION" resname="PAYWALL_POPOVER_ADMINISTRATION" sap:sc="XMSG">
+        <source>Upgrade to customize your system configuration.</source>
+        <note annotates="source" from="Developer">Popover message for Administration in navigation menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAYWALL_POPOVER_USERS" resname="PAYWALL_POPOVER_USERS" sap:sc="XMSG">
+        <source>Upgrade to manage users in your system.</source>
+        <note annotates="source" from="Developer">Popover message for Users in navigation menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAYWALL_POPOVER_ACTIVITIES" resname="PAYWALL_POPOVER_ACTIVITIES" sap:sc="XMSG">
+        <source>Upgrade to have access to activity details.</source>
+        <note annotates="source" from="Developer">Popover message for Activities in navigation menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAYWALL_POPOVER_DATA_CHANGES" resname="PAYWALL_POPOVER_DATA_CHANGES" sap:sc="XMSG">
+        <source>Upgrade to have access to data change logs.</source>
+        <note annotates="source" from="Developer">Popover message for Requests in navigation menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TITLE_NET_PROMOTER_SCORE" resname="TITLE_NET_PROMOTER_SCORE" sap:sc="XTIT">
+        <source>Let us know what you think</source>
+        <note annotates="source" from="Developer">Title of popup for Net Promoter Score</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NET_PROMOTER_SCORE_RATE_TEXT" resname="NET_PROMOTER_SCORE_RATE_TEXT" sap:sc="XFLD">
+        <source>How likely are you to recommend SAP Analytics Cloud to a friend or colleague?</source>
+        <note annotates="source" from="Developer">text label for Net Promoter Score rating radio button group</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NET_PROMOTER_SCORE_COMMENT_TEXT" resname="NET_PROMOTER_SCORE_COMMENT_TEXT" sap:sc="XFLD">
+        <source>You rated us <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">text label for Net Promoter Score comment</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NET_PROMOTER_SCORE_COMMENT_TEXT_LOW_SCORE" resname="NET_PROMOTER_SCORE_COMMENT_TEXT_LOW_SCORE" sap:sc="XFLD">
+        <source>How can we give you a better overall experience?</source>
+        <note annotates="source" from="Developer">text label for Net Promoter Score comment for low score</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NET_PROMOTER_SCORE_COMMENT_TEXT_MEDIUM_SCORE" resname="NET_PROMOTER_SCORE_COMMENT_TEXT_MEDIUM_SCORE" sap:sc="XFLD">
+        <source>Is there anything we could do to improve your experience?</source>
+        <note annotates="source" from="Developer">text label for Net Promoter Score comment for medium score</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NET_PROMOTER_SCORE_COMMENT_TEXT_HIGH_SCORE" resname="NET_PROMOTER_SCORE_COMMENT_TEXT_HIGH_SCORE" sap:sc="XFLD">
+        <source>That's awesome! What do you like best about SAP Analytics Cloud?</source>
+        <note annotates="source" from="Developer">text label for Net Promoter Score comment for high score</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NET_PROMOTER_SCORE_COMMENT_TEXT_AREA_PLACEHOLDER" resname="NET_PROMOTER_SCORE_COMMENT_TEXT_AREA_PLACEHOLDER" sap:sc="XFLD">
+        <source>optional</source>
+        <note annotates="source" from="Developer">placeholder for Net Promoter Score comment text area</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NET_PROMOTER_SCORE_FEEDBACK_INFO" resname="NET_PROMOTER_SCORE_FEEDBACK_INFO" sap:sc="XMSG">
+        <source>Your feedback helps us to continue developing innovative analytics solutions that deliver the most value to your business.</source>
+        <note annotates="source" from="Developer">feedback info text for Net Promoter Score footer area</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NET_PROMOTER_SCORE_ANONYMOUS_INFO" resname="NET_PROMOTER_SCORE_ANONYMOUS_INFO" sap:sc="XMSG">
+        <source>This feedback will be anonymous.</source>
+        <note annotates="source" from="Developer">anonymous info text for Net Promoter Score footer area</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_NET_PROMOTER_SCORE_SUBMIT_TOAST" resname="MSG_NET_PROMOTER_SCORE_SUBMIT_TOAST" sap:sc="XMSG">
+        <source>Thank you! Your feedback has been submitted.</source>
+        <note annotates="source" from="Developer">text for the submit message toast</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSG_TRANSLATION_DASHBOARD_PLUGIN_LOAD_ERROR" resname="MSG_TRANSLATION_DASHBOARD_PLUGIN_LOAD_ERROR" sap:sc="XMSG">
+        <source>The Translation Service is temporarily unavailable. Please refresh your browser and try again.</source>
+        <note annotates="source" from="Developer">Error message shown if Translation Dashboard plugin failed to load</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_NOT_FOUND_DIALOG_HEADER" resname="PAGE_NOT_FOUND_DIALOG_HEADER" sap:sc="XTIT">
+        <source>The page cannot be found.</source>
+        <note annotates="source" from="Developer">Page Not Found dialog: Header for dialog text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_NOT_FOUND_DIALOG_DESCRIPTION" resname="PAGE_NOT_FOUND_DIALOG_DESCRIPTION" sap:sc="XMSG">
+        <source>The page you are looking for was moved or does not exist. Let's get you back.</source>
+        <note annotates="source" from="Developer">Page Not Found dialog: Explanation on why the page cannot be found and suggests returning to the home page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_NOT_FOUND_DIALOG_BUTTON" resname="PAGE_NOT_FOUND_DIALOG_BUTTON" sap:sc="XMSG">
+        <source>Back to Home</source>
+        <note annotates="source" from="Developer">Page Not Found dialog: Button to return to home page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEAVE_ACN_PUBLISH_CONFIRMATION" resname="LEAVE_ACN_PUBLISH_CONFIRMATION" sap:sc="XMSG">
+        <source>Are you sure you want to leave the current page?</source>
+        <note annotates="source" from="Developer">Confirmation message to leave ACN publish package</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OCN_DIALOG_TITLE" resname="OCN_DIALOG_TITLE" sap:sc="XMSG">
+        <source>Open Connectors has been Configured</source>
+        <note annotates="source" from="Developer">OCN notification dialog title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OCN_DIALOG_HEADER" resname="OCN_DIALOG_HEADER" sap:sc="XMSG">
+        <source>SAP Cloud Platform Open Connectors have been integrated</source>
+        <note annotates="source" from="Developer">OCN integration header</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OCN_DIALOG_CONTENT" resname="OCN_DIALOG_CONTENT" sap:sc="XTXT">
+        <source>You can now integrate with SAP Cloud Platform Open Connectors and connect to several new datasources. Please be aware that using these datasources might cause additional charges</source>
+        <note annotates="source" from="Developer">OCN Integration description</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OCN_DIALOG_DOCUMENTATION_LINK" resname="OCN_DIALOG_DOCUMENTATION_LINK" sap:sc="XLNK">
+        <source>Learn more...</source>
+        <note annotates="source" from="Developer">Link leading to external documentation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HOMEPAGE_TODAY" resname="HOMEPAGE_TODAY" sap:sc="XMSG">
+        <source>Today</source>
+        <note annotates="source" from="Developer">Homepage Tab for Today</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HOMEPAGE_CATALOG" resname="HOMEPAGE_CATALOG" sap:sc="XMSG">
+        <source>Catalog</source>
+        <note annotates="source" from="Developer">Homepage Tab for Hub</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HOMEPAGE_FAVORITES" resname="HOMEPAGE_FAVORITES" sap:sc="XMSG">
+        <source>Favourites</source>
+        <note annotates="source" from="Developer">Homepage Tab for Favorites</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_COLLECTION_TOTAL_ITEM" resname="CATALOG_COLLECTION_TOTAL_ITEM" sap:sc="XTXT">
+        <source>1 Item</source>
+        <note annotates="source" from="Developer">Published Catalog heading item</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="CATALOG_COLLECTION_TOTAL_ITEMS" resname="CATALOG_COLLECTION_TOTAL_ITEMS" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> Items</source>
+        <note annotates="source" from="Developer">Published Catalog heading items</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_COLLECTION_VERIFIED_ITEM" resname="CATALOG_COLLECTION_VERIFIED_ITEM" sap:sc="XTXT">
+        <source>1 Verified Item</source>
+        <note annotates="source" from="Developer">Published Catalog heading verified item</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="CATALOG_COLLECTION_VERIFIED_ITEMS" resname="CATALOG_COLLECTION_VERIFIED_ITEMS" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> Verified Items</source>
+        <note annotates="source" from="Developer">Published Catalog heading verified items</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_COLLECTION_FILTER" resname="CATALOG_COLLECTION_FILTER" sap:sc="XBUT">
+        <source>Filter</source>
+        <note annotates="source" from="Developer">Published Catalog heading filter button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_COLLECTION_SEARCH_PLACEHOLDER" resname="CATALOG_COLLECTION_SEARCH_PLACEHOLDER" sap:sc="XTOL">
+        <source>Search</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_COLLECTION_RECENT_ADDED" resname="CATALOG_COLLECTION_RECENT_ADDED" sap:sc="XMIT">
+        <source>Recently added</source>
+        <note annotates="source" from="Developer">Published Catalog heading sort-by recent button and list item</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_COLLECTION_MOST_VIEWED" resname="CATALOG_COLLECTION_MOST_VIEWED" sap:sc="XMIT">
+        <source>Most viewed</source>
+        <note annotates="source" from="Developer">Published Catalog heading sort-by most viewed button and list item</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_COLLECTION_ALPHABETICAL_ASC" resname="CATALOG_COLLECTION_ALPHABETICAL_ASC" sap:sc="XMIT">
+        <source>A-Z</source>
+        <note annotates="source" from="Developer">Published Catalog heading sort-by alphabetical button and list item</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_COLLECTION_ALPHABETICAL_DESC" resname="CATALOG_COLLECTION_ALPHABETICAL_DESC" sap:sc="XMIT">
+        <source>Z-A</source>
+        <note annotates="source" from="Developer">Published Catalog heading sort-by alphabetical button and list item</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_COLLECTION_EMPTY_SEARCH" resname="CATALOG_COLLECTION_EMPTY_SEARCH" sap:sc="XMSG">
+        <source>We couldn't find any cards with your search query.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_COLLECTION_EMPTY" resname="CATALOG_COLLECTION_EMPTY" sap:sc="XMSG">
+        <source>You have no published cards in your catalog.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UPDATED_NOW" resname="UPDATED_NOW" sap:sc="XMSG">
+        <source>Updated less than a minute ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_MINUTE_AGO" resname="UPDATED_MINUTE_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> minute ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_MINUTES_AGO" resname="UPDATED_MINUTES_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> minutes ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_HOUR_AGO" resname="UPDATED_HOUR_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> hour ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_HOURS_AGO" resname="UPDATED_HOURS_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> hours ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_DAY_AGO" resname="UPDATED_DAY_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> day ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_DAYS_AGO" resname="UPDATED_DAYS_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> days ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_WEEK_AGO" resname="UPDATED_WEEK_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> week ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_WEEKS_AGO" resname="UPDATED_WEEKS_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> weeks ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_MONTH_AGO" resname="UPDATED_MONTH_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> month ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_MONTHS_AGO" resname="UPDATED_MONTHS_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> months ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_YEAR_AGO" resname="UPDATED_YEAR_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> year ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UPDATED_YEARS_AGO" resname="UPDATED_YEARS_AGO" sap:sc="XMSG">
+        <source>Updated <ph id="1">{0}</ph> years ago</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIALOG_CONFIRM_DATA_LOSE" resname="DIALOG_CONFIRM_DATA_LOSE" sap:sc="XMSG">
+        <source>You have unsaved data. Do you want to close dialog without saving it?</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TAG_SELECTOR_ADD" resname="TAG_SELECTOR_ADD" sap:sc="XBUT">
+        <source>Add a tag</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TAG_SELECTOR_ADD_PLACEHOLDER" resname="TAG_SELECTOR_ADD_PLACEHOLDER" sap:sc="XTOL">
+        <source>Add a tag</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TAG_SELECTOR_RECENT" resname="TAG_SELECTOR_RECENT" sap:sc="XLST">
+        <source>Recent Tags</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RESOURCE_DLG_NAME_PLACEHOLDER" resname="RESOURCE_DLG_NAME_PLACEHOLDER" sap:sc="XTOL">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RESOURCE_DLG_VIEWS_AND_UPDATE" resname="RESOURCE_DLG_VIEWS_AND_UPDATE" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> views | Last Changed on <ph id="2">{1}</ph> at <ph id="3">{2}</ph> by <ph id="4">{3}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RESOURCE_DLG_DESCRIPTION_TAB" resname="RESOURCE_DLG_DESCRIPTION_TAB" sap:sc="XTBS">
+        <source>Description</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RESOURCE_DLG_DESCRIPTION_PLACEHOLDER" resname="RESOURCE_DLG_DESCRIPTION_PLACEHOLDER" sap:sc="XTOL">
+        <source>Please enter a description.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RESOURCE_DLG_NO_DESCRIPTION" resname="RESOURCE_DLG_NO_DESCRIPTION" sap:sc="XTXT">
+        <source>No description provided.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RESOURCE_DLG_EDIT" resname="RESOURCE_DLG_EDIT" sap:sc="XBUT">
+        <source>Edit Asset</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RESOURCE_DLG_SAVE" resname="RESOURCE_DLG_SAVE" sap:sc="XBUT">
+        <source>Save</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RESOURCE_DLG_CLOSE" resname="RESOURCE_DLG_CLOSE" sap:sc="XBUT">
+        <source>Close</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IMAGE_MGR_ADD" resname="IMAGE_MGR_ADD" sap:sc="XBUT">
+        <source>Add an image</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IMAGE_MGR_ADD_TOOLTIP" resname="IMAGE_MGR_ADD_TOOLTIP" sap:sc="XTOL">
+        <source>Add an image</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IMAGE_MGR_REMOVE_TOOLTIP" resname="IMAGE_MGR_REMOVE_TOOLTIP" sap:sc="XTOL">
+        <source>Remove current image</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IMAGE_MGR_NO_IMAGES" resname="IMAGE_MGR_NO_IMAGES" sap:sc="XMSG">
+        <source>There are no images</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="IMAGE_MGR_TYPE_MISMATCH" resname="IMAGE_MGR_TYPE_MISMATCH" sap:sc="XMSG">
+        <source>File "<ph id="1">{0}</ph>" is of an unsupported file type</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_MGR_FILES" resname="LINK_MGR_FILES" sap:sc="XTIT">
+        <source>Files:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_MGR_LINKS" resname="LINK_MGR_LINKS" sap:sc="XTIT">
+        <source>Links:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_MGR_NO_LINKS" resname="LINK_MGR_NO_LINKS" sap:sc="XTXT">
+        <source>There are no links</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LINK_MGR_LINKS_OTHER" resname="LINK_MGR_LINKS_OTHER" sap:sc="XTIT">
+        <source>Other Links (<ph id="1">{0}</ph>):</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_MGR_ADD" resname="LINK_MGR_ADD" sap:sc="XBUT">
+        <source>Add</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_MGR_ADD_INTERNAL" resname="LINK_MGR_ADD_INTERNAL" sap:sc="XMIT">
+        <source>Analytics Cloud File</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_MGR_ADD_EXTERNAL" resname="LINK_MGR_ADD_EXTERNAL" sap:sc="XMIT">
+        <source>3rd-Party Link</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_MGR_INVALID_URL" resname="LINK_MGR_INVALID_URL" sap:sc="XMIT">
+        <source>The URL is not valid</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FACET_MGR_TITLE" resname="FACET_MGR_TITLE" sap:sc="XTIT">
+        <source>Facets:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FACET_MGR_NO_FACETS" resname="FACET_MGR_NO_FACETS" sap:sc="XTXT">
+        <source>No facets provided.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FACET_MGR_FACET_PLACEHOLDER" resname="FACET_MGR_FACET_PLACEHOLDER" sap:sc="XTOL">
+        <source>Choose a value</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_DLG_CANCEL" resname="LINK_DLG_CANCEL" sap:sc="XBUT">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_DLG_ADD_TITLE" resname="LINK_DLG_ADD_TITLE" sap:sc="XTIT">
+        <source>Add a 3rd-Party Link</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_DLG_UPDATE_TITLE" resname="LINK_DLG_UPDATE_TITLE" sap:sc="XTIT">
+        <source>Edit 3rd-Party Link</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_DLG_ADD_SAC_TITLE" resname="LINK_DLG_ADD_SAC_TITLE" sap:sc="XTIT">
+        <source>Select File</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_DLG_ADD_LINK" resname="LINK_DLG_ADD_LINK" sap:sc="XBUT">
+        <source>Add</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_DLG_UPDATE_LINK" resname="LINK_DLG_UPDATE_LINK" sap:sc="XBUT">
+        <source>Update</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_DLG_TITLE" resname="LINK_DLG_TITLE" sap:sc="XFLD">
+        <source>Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_DLG_URL" resname="LINK_DLG_URL" sap:sc="XFLD">
+        <source>URL</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_DLG_TITLE_PLACEHOLDER" resname="LINK_DLG_TITLE_PLACEHOLDER" sap:sc="XTOL">
+        <source>Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINK_DLG_URL_PLACEHOLDER" resname="LINK_DLG_URL_PLACEHOLDER" sap:sc="XTOL">
+        <source>URL</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_FILES_TILE_SHELL_NAVIGATION_MESSAGEBOX_MESSAGE" resname="RECENT_FILES_TILE_SHELL_NAVIGATION_MESSAGEBOX_MESSAGE" sap:sc="XMSG">
+        <source>The selected item can't be opened in SAP Analytics Cloud. Would you like to open it in SAP Data Warehouse Cloud?</source>
+        <note annotates="source" from="Developer">Message displayed in a dialog when trying to open a DWC Artifact to direct users to open it in the DWC shell</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_FILES_TILE_SHELL_NAVIGATION_MESSAGEBOX_OPEN_BTN" resname="RECENT_FILES_TILE_SHELL_NAVIGATION_MESSAGEBOX_OPEN_BTN" sap:sc="XBUT">
+        <source>Open</source>
+        <note annotates="source" from="Developer">Text for the open button in a dialog when trying to open a DWC Artifact to direct users to open it in the DWC shell</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_FILES_TILE_SHELL_NAVIGATION_MESSAGEBOX_CANCEL_BTN" resname="RECENT_FILES_TILE_SHELL_NAVIGATION_MESSAGEBOX_CANCEL_BTN" sap:sc="XBUT">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">Text for the cancel button in a dialog when trying to open a DWC Artifact to direct users to open it in the DWC shell</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_SIDEPANEL_FACETS_TITLE" resname="CATALOG_SIDEPANEL_FACETS_TITLE" sap:sc="XHED">
+        <source>Filter</source>
+        <note annotates="source" from="Developer">Catalog facet sidepanel title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_SIDEPANEL_FACETS_CLEAR_BUTTON" resname="CATALOG_SIDEPANEL_FACETS_CLEAR_BUTTON" sap:sc="XBUT">
+        <source>Clear Filters</source>
+        <note annotates="source" from="Developer">Catalog facet sidepanel "Clear Filters" button text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_SIDEPANEL_FACETS_CLOSE_BUTTON" resname="CATALOG_SIDEPANEL_FACETS_CLOSE_BUTTON" sap:sc="XBUT">
+        <source>Close</source>
+        <note annotates="source" from="Developer">Catalog facet sidepanel "Close" button text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATALOG_SIDEPANEL_FACETS_NO_DATA" resname="CATALOG_SIDEPANEL_FACETS_NO_DATA" sap:sc="XMSG">
+        <source>No filters created</source>
+        <note annotates="source" from="Developer">Catalog facet sidepanel no facets text</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

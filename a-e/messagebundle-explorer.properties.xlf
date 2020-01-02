@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-explorer.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="f564907640880f42bb6102279e17a150" form="base64">H4sIAAAAAAAAAMVXTW/jNhC951cQu5e2W2QXPRoQCsVmEqGKFVhM6iwWEGhpYhORSFek7LhF//sOSVmWP5rsFkF7ckxL772ZeTPDvJ+yKRsQTta8lkLOSQVa8zmQ9QIkkXwl5tzY88daVUTVYi4kL8lKwJqshVmQRmq+goIU3PDzMzq9jZMJnWT3Ef09SybRVTQOY/9tnLAsDe/pKLtJr4Lhgss5aGIUMQvYIecLXpuPhs9KILwGIpUhQqJAiYyW9pyMFNmohmgjyhJ1S2NBciVRZwO/np29nyLBgNC6VjWpNGrHz0LwUs0xogoQb9kYsuCaIALMkVUbZHXcPDdQ64NA6Chi2SgK4+QqYxGLaZaycMKy4XU4CYeMTgKGMTjsnEsr2QO6DHGilzyH8/9EF0uSLL1OJmynSC9UUxYuQdxm0pASuDbkr09/95D/lbzvEBbFMb1CK5xIWdWgGpu0rUS9hFzswZMvX8gATUJ+6nRGcsVLURD6vCxVDbX3pAdsPTyDnDcafVTWwIsNgWehnZlnSj1VvH56VTWdRimjI9QqtMfew+plrRAGz/pS2tQZYUp4gcj9bU8Dh3GPr25Bb9o4bCE0GFLAI29K4+HzBeRPGMnzC9gjehnexSxIoX3JInUqW7jzU3Rbqu9gyaLxZeJ6O4USsGyFb2ZbNt/Pa9uwfLkEXvv50knB7KolSCismMt4NDgoK77fSSr5DMoDOSy86IL9YeQf/PE0FGCWrQfa8ryEeirIOLygcdBSIAP65Gfyy6eBm2IOxCeZ5wuiHt0pHIWCHt/7wZ615of6RGie1FrDdq1lTeIBQWvXOBahcFNUu6TjtKmwu5val9EOzVljjJL2kRnaNzdixbE2O5YxkjimizvGkjEGnIYXMZo+kXYukwoldqBYqBr+aESN1d0S2LDc1I1wkzB4Nu6XvQC9EcxmCWQp8ic8GbEhgsqGCANVb3HY+cAy9nBLM3wkYNY4r4D7yAXGWINtk1OwKY3pkEUYnieY0JQiDZ2yYFhaPw6twrNtaplSpRHLN+VKkphFty2dTwiXRYvziBvC6CN+dNCufAZ35By8IL2R+aJWUvzJnZoZmDX0O8oBOoKV0A1OSv9gT+XDeHg9ScbRZ4rlT+/COPocWtVB2mHDwcsn5Bk1n2Nr71SCtCX7WAjtet6K5Y1RFSLkbyA7vGOJlX6gOdxS8LLc9GhOROBm3VDJR1FXXsV2X/gWQeXLkm/Q4G5GfVv5bWPkpbV28aoThsn4MprceOHODnYeWR7vCj8mS61aErzsbBPT8Z/bSLBhD3rinXp6t63F4fTx4B4y74fvJ+FJ2ceC2ynhdb9pYzI7dY4bs5sAb9mYe1x7jdnePE805v/im77Qf/ZNf71+q2+6rWgXD9hLNC4hvNX0rjHeSDtZeBtiAbWPdC/fqMIX5yI9cEGyvdEfrb9eoHv/IQTdK/ftRjlG3c0ZXhRu+7wEfxvfpd1+Cz6QMT5xv9tWfnH/Rh+C471/4ipAAnfN+wo4S65eMw0AAA==</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:59Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_VIEW_ORIGINAL_VIEW_NOT_SAVED_MSG" resname="EXPLORER_VIEW_ORIGINAL_VIEW_NOT_SAVED_MSG" sap:sc="XTXT">
+        <source>Changes to the original chart/table are not in a new view. Do you still want to continue?</source>
+        <note annotates="source" from="Developer">a warning message when navigating from original view with unsaved data.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_VIEW_EDIT_DIALOG_TITLE_START_CHARACTER" resname="EXPLORER_VIEW_EDIT_DIALOG_TITLE_START_CHARACTER" sap:sc="XMSG">
+        <source>The name cannot start with a space.</source>
+        <note annotates="source" from="Developer">Error msg for dialog name input has illegal start characters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="EXPLORER_VIEW_EDIT_DIALOG_TITLE_TOO_SHORT" resname="EXPLORER_VIEW_EDIT_DIALOG_TITLE_TOO_SHORT" sap:sc="XMSG">
+        <source>The name should contain at least <ph id="1">{0}</ph> characters.</source>
+        <note annotates="source" from="Developer">Error msg for dialog name input has illegal start characters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_VIEW_EDIT_DIALOG_TITLE_ILLEGAL_CHARACTER" resname="EXPLORER_VIEW_EDIT_DIALOG_TITLE_ILLEGAL_CHARACTER" sap:sc="XMSG">
+        <source>The name must not contain special characters \\ : or *.</source>
+        <note annotates="source" from="Developer">Error msg for dialog name input has illegal characters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_VIEW_EDIT_DIALOG_TITLE_EXISTED" resname="EXPLORER_VIEW_EDIT_DIALOG_TITLE_EXISTED" sap:sc="XMSG">
+        <source>This name already exists.</source>
+        <note annotates="source" from="Developer">Invalid Explorer view name message because already existing bookmark</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_VIEW_EDIT_DIALOG_EDIT_VIEW" resname="EXPLORER_VIEW_EDIT_DIALOG_EDIT_VIEW" sap:sc="XMSG">
+        <source>Edit View</source>
+        <note annotates="source" from="Developer">Edit explorer view dialog title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_VIEW_EDIT_DIALOG_DEFAULT" resname="EXPLORER_VIEW_EDIT_DIALOG_DEFAULT" sap:sc="XMSG">
+        <source>Set view for explorer default.</source>
+        <note annotates="source" from="Developer">Message for set default view check box</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_VIEW_EDIT_DIALOG_DEFAULT_INFO_MSG" resname="EXPLORER_VIEW_EDIT_DIALOG_DEFAULT_INFO_MSG" sap:sc="XMSG">
+        <source>Selected chart or table will appear when explorer is opened.</source>
+        <note annotates="source" from="Developer">Message for default check box</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_VIEW_TAB_DEFAULT" resname="EXPLORER_VIEW_TAB_DEFAULT" sap:sc="XFLD">
+        <source>(Default)</source>
+        <note annotates="source" from="Developer">Explorer view tab default label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_VIEW_EDIT_DIALOG_DEFAULT_LABEL" resname="EXPLORER_VIEW_EDIT_DIALOG_DEFAULT_LABEL" sap:sc="XFLD">
+        <source>Default</source>
+        <note annotates="source" from="Developer">Explorer view editing dialog default label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="EXPLORER_VIEW_TAB_LABEL" maxwidth="20" resname="EXPLORER_VIEW_TAB_LABEL" sap:sc="XTIT" size-unit="char">
+        <source>View <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">the label for each of the explorer view tab in the explorer tab container</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_NEW_VIEW_BUTTON_DISABLED" resname="EXPLORER_NEW_VIEW_BUTTON_DISABLED" sap:sc="XTOL">
+        <source>One or more measure is required for new view</source>
+        <note annotates="source" from="Developer">user needs to select a measure for new button to be activated</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_CHART_TYPE_DTC" resname="EXPLORER_CHART_TYPE_DTC" sap:sc="XMIT">
+        <source>Table</source>
+        <note annotates="source" from="Developer">Text for the explorer chart type picker DTC menu item.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_SELECTION_CHART_RESET_TEXT" resname="EXPLORER_SELECTION_CHART_RESET_TEXT" sap:sc="XMIT">
+        <source>Clear Chart</source>
+        <note annotates="source" from="Developer">Text for the explorer selection reset menu item.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_SELECTION_CHART_RESET_TOOLTIP" resname="EXPLORER_SELECTION_CHART_RESET_TOOLTIP" sap:sc="XTOL">
+        <source>Clear chart and reset facets</source>
+        <note annotates="source" from="Developer">Tooltip for the explorer selection reset menu item.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_SYNCHRONIZE_VISUALIZATION" resname="EXPLORER_SYNCHRONIZE_VISUALIZATION" sap:sc="XTOL">
+        <source>Synchronize visualization</source>
+        <note annotates="source" from="Developer">Tooltip of button to trigger the synchronization between explorer facet and visualization</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_AUTOSYNC_VISUALIZATION" resname="EXPLORER_AUTOSYNC_VISUALIZATION" sap:sc="XTOL">
+        <source>Automatically synchronize visualization</source>
+        <note annotates="source" from="Developer">Tooltip of toggle button to enable/disable the automatic synchronization between explorer facet and visualization</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_SELECTION_CHART_RESET_CONFIRMATION" resname="EXPLORER_SELECTION_CHART_RESET_CONFIRMATION" sap:sc="XMSG">
+        <source>Clearing the chart will also reset your facet selection.</source>
+        <note annotates="source" from="Developer">Confirmation message to be displayed when the explorer selection reset menu item is clicked.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_SELECTION_RESET_CONFIRMATION_BUTTON" resname="EXPLORER_SELECTION_RESET_CONFIRMATION_BUTTON" sap:sc="XBUT">
+        <source>Clear</source>
+        <note annotates="source" from="Developer">Text for the "ok" button of the explorer chart reset confirmation dialog.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_SELECTION_TABLE_RESET_TEXT" resname="EXPLORER_SELECTION_TABLE_RESET_TEXT" sap:sc="XMIT">
+        <source>Clear Table</source>
+        <note annotates="source" from="Developer">Text for the explorer selection reset menu item.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_SELECTION_TABLE_RESET_TOOLTIP" resname="EXPLORER_SELECTION_TABLE_RESET_TOOLTIP" sap:sc="XTOL">
+        <source>Clear table and reset facets</source>
+        <note annotates="source" from="Developer">Tooltip for the explorer selection reset menu item.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_SELECTION_TABLE_RESET_CONFIRMATION" resname="EXPLORER_SELECTION_TABLE_RESET_CONFIRMATION" sap:sc="XMSG">
+        <source>Clearing the table will also reset your facet selection.</source>
+        <note annotates="source" from="Developer">Confirmation message to be displayed when the explorer selection reset menu item is clicked.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_EXIT" resname="EXPLORER_EXIT" sap:sc="XBUT">
+        <source>Exit Explorer Mode</source>
+        <note annotates="source" from="Developer">Explorer content tab exit explorer button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_ORIGINAL_VIEW" resname="EXPLORER_ORIGINAL_VIEW" sap:sc="XTBS">
+        <source>Original View</source>
+        <note annotates="source" from="Developer">Text for the Original explorer view tab.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_PLUS_NEW_VIEW" resname="EXPLORER_PLUS_NEW_VIEW" sap:sc="XTBS">
+        <source>+ New View</source>
+        <note annotates="source" from="Developer">Text for the button to add new explorer view tab.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_VIEW_EDIT" maxwidth="20" resname="EXPLORER_VIEW_EDIT" sap:sc="XMIT" size-unit="char">
+        <source>Edit</source>
+        <note annotates="source" from="Developer">KEY=EXPLORER_VIEW_EDIT</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-predictive.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="729d7ec4da0d8160f923004003704b6c" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:56Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TITLE" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TITLE" sap:sc="XTIT">
+        <source>Preview Predictive Forecast</source>
+        <note annotates="source" from="Developer">Title for the "Preview Predictive Forecast" dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_CHART_TITLE" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_CHART_TITLE" sap:sc="XTIT">
+        <source><ph id="1">{0}</ph> for <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Title for the time series chart in "Preview Predictive Forecast" dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_DATE_DIMENSION" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_DATE_DIMENSION" sap:sc="XTOL">
+        <source>Date</source>
+        <note annotates="source" from="Developer">Tool tip in predictive preview time series chart for the time dimension name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_WAIT_MESSAGE" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_WAIT_MESSAGE" sap:sc="YMSG">
+        <source>Just a moment... We're preparing your predictive forecast preview.</source>
+        <note annotates="source" from="Developer">Message shown in Preview dialog when the forecast result is being generated</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_QUALITY_LABEL" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_QUALITY_LABEL" sap:sc="XFLD">
+        <source>Forecast Quality: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">A label which appears above the Preview Time Series Forecast visualization indicating the quality of the predicted forecast. {0} will be replaced with translated text such as "Excellent" or "Bad" indicating the quality.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_BACK_BUTTON" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_BACK_BUTTON" sap:sc="XBUT">
+        <source>Back</source>
+        <note annotates="source" from="Developer">Caption for the Back button in the Preview Forecast Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_CONFIDENT_RANGE_WARNING_MESSAGE" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_CONFIDENT_RANGE_WARNING_MESSAGE" sap:sc="YMSG">
+        <source>The forecasting service could return forecast values with confidence interval up to <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">Message shown in Preview dialog to indicate the max date range for forecasts with confidence interval. {0} will be replaced with a date.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_FORECAST_HEADER" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_FORECAST_HEADER" sap:sc="XFLD">
+        <source>Predictive Forecast</source>
+        <note annotates="source" from="Developer">Table header name in predictive preview table to represent forecast value for a predictive context.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_DAY" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_DAY" sap:sc="XFLD">
+        <source>DAY</source>
+        <note annotates="source" from="Developer">Table header name for day granularity in the preview dialog. It should be capitalized if possible.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_MONTH" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_MONTH" sap:sc="XFLD">
+        <source>MONTH</source>
+        <note annotates="source" from="Developer">Table header name for month granularity in the preview dialog. It should be capitalized if possible.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_PERIOD" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_PERIOD" sap:sc="XFLD">
+        <source>PERIOD</source>
+        <note annotates="source" from="Developer">Table header name for month granularity in the preview dialog. It should be capitalized if possible.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_QUARTER" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_QUARTER" sap:sc="XFLD">
+        <source>QUARTER</source>
+        <note annotates="source" from="Developer">Table header name for quarter granularity in the preview dialog. It should be capitalized if possible.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_YEAR" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_YEAR" sap:sc="XFLD">
+        <source>YEAR</source>
+        <note annotates="source" from="Developer">Table header name for year granularity in the preview dialog. It should be capitalized if possible.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_HALFYEAR" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_TABLE_GRANULARITY_HALFYEAR" sap:sc="XFLD">
+        <source>HALF YEAR</source>
+        <note annotates="source" from="Developer">Table header name for half year granularity in the preview dialog. It should be capitalized if possible.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_INFO_MESSAGE" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_INFO_MESSAGE" sap:sc="XMSG">
+        <source>The predictive forecast values will be written to your selected output version (<ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Info message to let user know that the forecast result will be written to the selected output version. {0} is the display name of the output version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PREDICTIVE_FORECAST_CONTEXT_STRING_SEPARATOR" resname="PREDICTIVE_FORECAST_CONTEXT_STRING_SEPARATOR" sap:sc="YMSG">
+        <source><ph id="1">{0}</ph> - <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Separator between items in a context string for a predictive context. {0} is the first item, and {1} is the second and subsequent items (applied recursively)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_DEFAULT_VERSION_NOTIFICATION" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_DEFAULT_VERSION_NOTIFICATION" sap:sc="XMSG">
+        <source>Your public version of category <ph id="1">{0}</ph> contains historical data and is set as the default input data version. You can select a different input version in Advanced Options.</source>
+        <note annotates="source" from="Developer">Label for the message strip that informs user the default version of the forecast</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_DEFAULT_VERSION_NOTIFICATION_MORE_INFORMATION" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_DEFAULT_VERSION_NOTIFICATION_MORE_INFORMATION" sap:sc="XLNK">
+        <source>For more information, click here.</source>
+        <note annotates="source" from="Developer">Link to the help center page of planning forecast</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_TITLE_NAME" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_TITLE_NAME" sap:sc="XTIT">
+        <source>Create Predictive Forecast</source>
+        <note annotates="source" from="Developer">Title for the "Create Predictive Forecast" dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_FORECAST_SETTINGS" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_FORECAST_SETTINGS" sap:sc="XTIT">
+        <source>Predictive Forecast Settings</source>
+        <note annotates="source" from="Developer">Title for the Predictive Forecast Settings section of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_ADVANCED_OPTIONS" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_ADVANCED_OPTIONS" sap:sc="XTIT">
+        <source>Advanced Options</source>
+        <note annotates="source" from="Developer">Title for the Advanced Options section of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_PREDICTION_TARGET" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_PREDICTION_TARGET" sap:sc="XFLD">
+        <source>Prediction Target</source>
+        <note annotates="source" from="Developer">Label for the target displayed text of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_OUTPUT_VERSION" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_OUTPUT_VERSION" sap:sc="XFLD">
+        <source>Output Version</source>
+        <note annotates="source" from="Developer">Label for the output version of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY" sap:sc="XFLD">
+        <source>Granularity</source>
+        <note annotates="source" from="Developer">Label for the granularity level selection drop down box of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_DAY" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_DAY" sap:sc="XLST">
+        <source>Day</source>
+        <note annotates="source" from="Developer">Label for day granularity in the list of drop down box of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_MONTH" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_MONTH" sap:sc="XLST">
+        <source>Month</source>
+        <note annotates="source" from="Developer">Label for month granularity in the list of drop down box of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_QUARTER" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_QUARTER" sap:sc="XLST">
+        <source>Quarter</source>
+        <note annotates="source" from="Developer">Label for quarter granularity in the list of drop down box of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_YEAR" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_YEAR" sap:sc="XLST">
+        <source>Year</source>
+        <note annotates="source" from="Developer">Label for year granularity in the list of drop down box of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_HALFYEAR" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_HALFYEAR" sap:sc="XLST">
+        <source>Half Year</source>
+        <note annotates="source" from="Developer">Label for half year granularity in the list of drop down box of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_FISCAL_MONTH" resname="GRANULARITY_FISCAL_MONTH" sap:sc="XLST">
+        <source>Period</source>
+        <note annotates="source" from="Developer">Like PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_MONTH but indicate this is a month of a fiscal year and not calendar year</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_FISCAL_QUARTER" resname="GRANULARITY_FISCAL_QUARTER" sap:sc="XLST">
+        <source>Quarter</source>
+        <note annotates="source" from="Developer">Like PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_QUARTER but indicate this is a quarter of a fiscal year and not calendar year</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_FISCAL_HALF_YEAR" resname="GRANULARITY_FISCAL_HALF_YEAR" sap:sc="XLST">
+        <source>Half-Year</source>
+        <note annotates="source" from="Developer">Like PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_HALFYEAR but indicate this is a half year of a fiscal year and not calendar year</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_FISCAL_YEAR" resname="GRANULARITY_FISCAL_YEAR" sap:sc="XLST">
+        <source>Year</source>
+        <note annotates="source" from="Developer">Like PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_YEAR but indicate this is a fiscal year and not calendar year</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_LEGACY_FISCAL_MONTH" resname="GRANULARITY_LEGACY_FISCAL_MONTH" sap:sc="XLST">
+        <source>Fiscal Period (Month)</source>
+        <note annotates="source" from="Developer">Like PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_MONTH but indicate this is a month of a legacy fiscal year and not calendar year</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_LEGACY_FISCAL_QUARTER" resname="GRANULARITY_LEGACY_FISCAL_QUARTER" sap:sc="XLST">
+        <source>Fiscal Quarter</source>
+        <note annotates="source" from="Developer">Like PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_QUARTER but indicate this is a quarter of a legacy fiscal year and not calendar year</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_LEGACY_FISCAL_HALF_YEAR" resname="GRANULARITY_LEGACY_FISCAL_HALF_YEAR" sap:sc="XLST">
+        <source>Fiscal Half-Year</source>
+        <note annotates="source" from="Developer">Like PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_HALFYEAR but indicate this is a half year of a legacy fiscal year and not calendar year</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GRANULARITY_LEGACY_FISCAL_YEAR" resname="GRANULARITY_LEGACY_FISCAL_YEAR" sap:sc="XLST">
+        <source>Fiscal Year</source>
+        <note annotates="source" from="Developer">Like PREDICTIVE_FORECAST_CONFIG_DIALOG_GRANULARITY_YEAR but indicate this is a legacy fiscal year and not calendar year</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_PREDICT_FROM" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_PREDICT_FROM" sap:sc="XFLD">
+        <source>Predict From</source>
+        <note annotates="source" from="Developer">Label for the forecast from date pickers of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_PREDICT_TO" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_PREDICT_TO" sap:sc="XFLD">
+        <source>Predict To</source>
+        <note annotates="source" from="Developer">Label for the forecast to date pickers of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_FORECAST_USE_DATA_FROM" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_FORECAST_USE_DATA_FROM" sap:sc="XFLD">
+        <source>Use Data From</source>
+        <note annotates="source" from="Developer">Label for the 'use data from' date picker of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_ALGORITHM" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_ALGORITHM" sap:sc="XFLD">
+        <source>Algorithm</source>
+        <note annotates="source" from="Developer">Label for the algorithm selection drop down box of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_ENFORCE_VALUE" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_ENFORCE_VALUE" sap:sc="XFLD">
+        <source>Output Values</source>
+        <note annotates="source" from="Developer">Label for the output values selection drop down box of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_INPUT_DATA" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_INPUT_DATA" sap:sc="XTIT">
+        <source>Input Data</source>
+        <note annotates="source" from="Developer">Title for the input data selection of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_INPUT_VERSION" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_INPUT_VERSION" sap:sc="XFLD">
+        <source>Version</source>
+        <note annotates="source" from="Developer">Label for the input version selection drop down box of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_CONFIG_DIALOG_OK_BUTTON" resname="PREDICTIVE_FORECAST_CONFIG_DIALOG_OK_BUTTON" sap:sc="XBUT">
+        <source>Preview</source>
+        <note annotates="source" from="Developer">Button name of the OK button of the predictive forecast configuration dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_ALGORITHM_AUTOMATIC" resname="PREDICTIVE_FORECAST_ALGORITHM_AUTOMATIC" sap:sc="XFLD">
+        <source>Automatic Forecast</source>
+        <note annotates="source" from="Developer">Name of forecast algorithm for automatic forecast</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_ALGORITHM_SMOOTHING" resname="PREDICTIVE_FORECAST_ALGORITHM_SMOOTHING" sap:sc="XFLD">
+        <source>Triple Exponential Smoothing</source>
+        <note annotates="source" from="Developer">Name of forecast algorithm for Triple Exponential Smoothing</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_ALGORITHM_LINEAR_REGRESSION" resname="PREDICTIVE_FORECAST_ALGORITHM_LINEAR_REGRESSION" sap:sc="XFLD">
+        <source>Linear Regression</source>
+        <note annotates="source" from="Developer">Name of forecast algorithm for Linear Regression</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_ALGORITHM_ENFORCE_ALL" resname="PREDICTIVE_FORECAST_ALGORITHM_ENFORCE_ALL" sap:sc="XFLD">
+        <source>All</source>
+        <note annotates="source" from="Developer">Label name for forecast enforced values to be allowing both positive and negative values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_ALGORITHM_ENFORCE_POSITIVE" resname="PREDICTIVE_FORECAST_ALGORITHM_ENFORCE_POSITIVE" sap:sc="XFLD">
+        <source>Positive Only</source>
+        <note annotates="source" from="Developer">Label name for forecast enforced values to be allowing positive values only</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_ALGORITHM_ENFORCE_NEGATIVE" resname="PREDICTIVE_FORECAST_ALGORITHM_ENFORCE_NEGATIVE" sap:sc="XFLD">
+        <source>Negative Only</source>
+        <note annotates="source" from="Developer">Label name for forecast enforced values to be allowing negative values only</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PREDICTIVE_FORECAST_CONFIG_INPUT_VERSION_NO_DATA" resname="PREDICTIVE_FORECAST_CONFIG_INPUT_VERSION_NO_DATA" sap:sc="YMSG">
+        <source><ph id="1">{0}</ph> does not contain any data. Please select another version.</source>
+        <note annotates="source" from="Developer">Message displayed when the input version does not contain any data points</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PREDICTIVE_FORECAST_CONFIG_INPUT_VERSION_INSUFFICIENT_DATA" resname="PREDICTIVE_FORECAST_CONFIG_INPUT_VERSION_INSUFFICIENT_DATA" sap:sc="YMSG">
+        <source><ph id="1">{0}</ph> does not contain a sufficient number of data points. Please select another version with at least 3 data points.</source>
+        <note annotates="source" from="Developer">Message displayed when the input version does not contain a suffiecient number of data points</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PREDICTIVE_FORECAST_CONFIG_INPUT_VERSION_UNEXPECTED" resname="PREDICTIVE_FORECAST_CONFIG_INPUT_VERSION_UNEXPECTED" sap:sc="YMSG">
+        <source>Something unexpected happened with <ph id="1">{0}</ph>. Please reselect to try again or select another version.</source>
+        <note annotates="source" from="Developer">Message displayed when there is an unexpected firefly query error when retriving data for the selected version</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_NEED_VALID_GRANULARITY" resname="PREDICTIVE_FORECAST_NEED_VALID_GRANULARITY" sap:sc="YMSG">
+        <source>Please use a model with valid time granularity for predictive forecasting</source>
+        <note annotates="source" from="Developer">Message displays when the time granularity in the model is not supported</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_SELECT_A_SINGLE_CELL" resname="PREDICTIVE_FORECAST_VALIDATOR_SELECT_A_SINGLE_CELL" sap:sc="YMSG">
+        <source>Please select only a single cell for predictive forecast.</source>
+        <note annotates="source" from="Developer">Message shown when user has selected multiple cells</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_SELECT_VALID_CELL_WITHIN_GRID" resname="PREDICTIVE_FORECAST_VALIDATOR_SELECT_VALID_CELL_WITHIN_GRID" sap:sc="YMSG">
+        <source>Please select a valid cell within the grid for predictive forecasting</source>
+        <note annotates="source" from="Developer">Message shown when user has selected an unsupported cell, e.g. when cell is outside of data region</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_SELECT_EDITABLE_CELL" resname="PREDICTIVE_FORECAST_VALIDATOR_SELECT_EDITABLE_CELL" sap:sc="YMSG">
+        <source>Please select an editable cell within the grid for predictive forecasting</source>
+        <note annotates="source" from="Developer">Message shown when user has selected a cell which is not editable</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_NO_FULL_PLANNING_CAPABILITIES" resname="PREDICTIVE_FORECAST_VALIDATOR_NO_FULL_PLANNING_CAPABILITIES" sap:sc="YMSG">
+        <source>You need the planning license and the execute privilege on Planning Models to forecast and enter values in unbooked cells.</source>
+        <note annotates="source" from="Developer">Message shown when user wants to forecast (i.e. enter a value in an unbooked cell) without having the right license</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_FIREFLY_QUERY_BOOKED_DATA_END_DATE_NO_RESULT" resname="PREDICTIVE_FORECAST_FIREFLY_QUERY_BOOKED_DATA_END_DATE_NO_RESULT" sap:sc="YMSG">
+        <source>Please select a cell within a version containing data for predictive forecasting.</source>
+        <note annotates="source" from="Developer">Message shown when user wants to forecast on a version with no data in the model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_FETCHING_MODEL_INFO_FAILED" resname="PREDICTIVE_FORECAST_FETCHING_MODEL_INFO_FAILED" sap:sc="YMSG">
+        <source>We're experiencing some technical difficulties. We're sorry for any inconvenience this may cause.</source>
+        <note annotates="source" from="Developer">Message shown when system fails to fetch the required information to initiate forecast</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PREDICTIVE_FORECAST_RESULT_INJECTED" resname="PREDICTIVE_FORECAST_RESULT_INJECTED" sap:sc="YMSG">
+        <source><ph id="1">{0}</ph> was predicted successfully.</source>
+        <note annotates="source" from="Developer">Success message shown when forecast is successfully done. {0} will refer to measure name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_RESULT_INJECTION_FAILED" resname="PREDICTIVE_FORECAST_RESULT_INJECTION_FAILED" sap:sc="YMSG">
+        <source>We're experiencing some technical difficulties. We're sorry for any inconvenience this has caused.</source>
+        <note annotates="source" from="Developer">We failed to add the data back to the model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_LOCKED_CELL" resname="PREDICTIVE_FORECAST_VALIDATOR_LOCKED_CELL" sap:sc="YMSG">
+        <source>Predictive forecast does not support tables with locked cells.</source>
+        <note annotates="source" from="Developer">Error shown when trying to run Planning Forecast when the grid has any locked cells</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_FORMULA_ACCOUNT" resname="PREDICTIVE_FORECAST_VALIDATOR_FORMULA_ACCOUNT" sap:sc="YMSG">
+        <source>Predictive forecast is not supported on this cell because a formula is defined for this account or one of its sub-accounts.</source>
+        <note annotates="source" from="Developer">Error shown when trying to run Planning Forecast when the account has formula defined</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_UNABLE_TO_GENERATE_DATA_ERROR_MESSAGE" resname="PREDICTIVE_FORECAST_UNABLE_TO_GENERATE_DATA_ERROR_MESSAGE" sap:sc="YMSG">
+        <source>We're experiencing some technical difficulties. We're sorry for any inconvenience this has caused.</source>
+        <note annotates="source" from="Developer">Error message shown in Preview dialog when the application is unable to generate predicted data.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_MISSING_FORECAST_VALUE" resname="PREDICTIVE_FORECAST_MISSING_FORECAST_VALUE" sap:sc="YMSG">
+        <source>The system is not able to produce results with your current settings. Please try again with a different setting or different model.</source>
+        <note annotates="source" from="Developer">Error message shown in Preview dialog when the application is able to perform forecast but gets no forecast result.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_NEED_TIME_DIMENSION" resname="PREDICTIVE_FORECAST_NEED_TIME_DIMENSION" sap:sc="YMSG">
+        <source>Predictive forecast requires a time dimension in the model. Please select a different model.</source>
+        <note annotates="source" from="Developer">Message displayed when the time dimension is missing from the chosen model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_INVALID_TIME_DIMENSION" resname="PREDICTIVE_FORECAST_INVALID_TIME_DIMENSION" sap:sc="YMSG">
+        <source>Predictive forecast can not run on a model with 'Day' as the lowest time granularity. Please select a different model.</source>
+        <note annotates="source" from="Developer">Message displayed when time dimension of type 'Day' is present on the model.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_MORE_THAN_ONE_TIME_DIMENSION" resname="PREDICTIVE_FORECAST_MORE_THAN_ONE_TIME_DIMENSION" sap:sc="YMSG">
+        <source>Predictive forecast can not be performed on models with multiple time dimensions. Please select a different model.</source>
+        <note annotates="source" from="Developer">Message displayed when the model has multiple time dimensions.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_LAYOUT_NOT_SUPPORTED" resname="PREDICTIVE_FORECAST_VALIDATOR_LAYOUT_NOT_SUPPORTED" sap:sc="YMSG">
+        <source>Predictive forecast is not supported on this layout</source>
+        <note annotates="source" from="Developer">Error message when the grid is in a layout not supported</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_NEED_ACCOUNT_DIMENSION" resname="PREDICTIVE_FORECAST_VALIDATOR_NEED_ACCOUNT_DIMENSION" sap:sc="YMSG">
+        <source>Please add account dimension to perform predictive forecast.</source>
+        <note annotates="source" from="Developer">Message displays when the account dimension is missing in the crossTab</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_REQUIRE_MORE_INTERVALS" resname="PREDICTIVE_FORECAST_VALIDATOR_REQUIRE_MORE_INTERVALS" sap:sc="YMSG">
+        <source>Insufficient number of data points for predictive forecast.</source>
+        <note annotates="source" from="Developer">Error shown when user doesn't have sufficient data in the model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_CALCULATED_MEASURE" resname="PREDICTIVE_FORECAST_VALIDATOR_CALCULATED_MEASURE" sap:sc="YMSG">
+        <source>Predictive forecast does not support calculated measure.</source>
+        <note annotates="source" from="Developer">Error shown when the cell is a calculated measured cell.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_VALIDATOR_LOCAL_CURRENCIES_NOT_SUPPORTED" resname="PREDICTIVE_FORECAST_VALIDATOR_LOCAL_CURRENCIES_NOT_SUPPORTED" sap:sc="YMSG">
+        <source>Predictive forecast is currently not supported on local currencies.</source>
+        <note annotates="source" from="Developer">Error shown when the cell is has local currencies</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FISCAL_YEARS_ABBREVIATED" resname="FISCAL_YEARS_ABBREVIATED" sap:sc="XTIT">
+        <source>FY<ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Will say something like FY2016 where FY is the abbreviation of Fiscal Year and 2106 is the year</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CREATE_PDATASET_FAILED_THROTTLE" resname="CREATE_PDATASET_FAILED_THROTTLE" sap:sc="YMSG">
+        <source>We can not process your request at this moment. The limit has been reached for predictive requests.</source>
+        <note annotates="source" from="Developer">Error shown to the user when the system is busy</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_SERVICES_UNAVAILABLE" resname="PREDICTIVE_SERVICES_UNAVAILABLE" sap:sc="YMSG">
+        <source>The forecasting service is currently unavailable.</source>
+        <note annotates="source" from="Developer">Error shown to the user when Predictive Services (a back-end service) is not available</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_SERVICES_UNAVAILABLE_KEY_INFLUENCER" resname="PREDICTIVE_SERVICES_UNAVAILABLE_KEY_INFLUENCER" sap:sc="YMSG">
+        <source>The predictive service is currently unavailable.</source>
+        <note annotates="source" from="Developer">Error shown to the user when Predictive Services (a back-end service) is not available for Key Influencer</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_MONTH_GRANULARITY_TOOLTIP_LABEL" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_MONTH_GRANULARITY_TOOLTIP_LABEL" sap:sc="XTOL">
+        <source>Calendar Month</source>
+        <note annotates="source" from="Developer">Tooltip in predictive preview time series chart for the time dimension name when using the month granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_QUARTER_GRANULARITY_TOOLTIP_LABEL" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_QUARTER_GRANULARITY_TOOLTIP_LABEL" sap:sc="XTOL">
+        <source>Calendar Quarter</source>
+        <note annotates="source" from="Developer">Tooltip in predictive preview time series chart for the time dimension name when using the quarter granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_HALF_YEAR_GRANULARITY_TOOLTIP_LABEL" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_HALF_YEAR_GRANULARITY_TOOLTIP_LABEL" sap:sc="XTOL">
+        <source>Half Year</source>
+        <note annotates="source" from="Developer">Tooltip in predictive preview time series chart for the time dimension name when using the half year granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_YEAR_GRANULARITY_TOOLTIP_LABEL" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_YEAR_GRANULARITY_TOOLTIP_LABEL" sap:sc="XTOL">
+        <source>Year</source>
+        <note annotates="source" from="Developer">Tooltip in predictive preview time series chart for the time dimension name when using the year granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_FISCAL_PERIOD_GRANULARITY_TOOLTIP_LABEL" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_FISCAL_PERIOD_GRANULARITY_TOOLTIP_LABEL" sap:sc="XTOL">
+        <source>Period</source>
+        <note annotates="source" from="Developer">Tooltip in predictive preview time series chart for the time dimension name when using the fiscal period granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_FISCAL_QUARTER_GRANULARITY_TOOLTIP_LABEL" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_FISCAL_QUARTER_GRANULARITY_TOOLTIP_LABEL" sap:sc="XTOL">
+        <source>Quarter</source>
+        <note annotates="source" from="Developer">Tooltip in predictive preview time series chart for the time dimension name when using the fiscal quarter granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_FISCAL_YEAR_GRANULARITY_TOOLTIP_LABEL" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_FISCAL_YEAR_GRANULARITY_TOOLTIP_LABEL" sap:sc="XTOL">
+        <source>Year</source>
+        <note annotates="source" from="Developer">Tooltip in predictive preview time series chart for the time dimension name when using the fiscal year granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREDICTIVE_FORECAST_PREVIEW_DIALOG_ACCOUNT_TOOLTIP_LABEL" resname="PREDICTIVE_FORECAST_PREVIEW_DIALOG_ACCOUNT_TOOLTIP_LABEL" sap:sc="XTOL">
+        <source>Account</source>
+        <note annotates="source" from="Developer">Tooltip in predictive preview time series chart for the Account dimension name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

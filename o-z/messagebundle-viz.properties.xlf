@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-viz.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="140fb0134cb07fd291017c51f452eb5e" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:56Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WATERFALL_LEGEND_INCREASE" maxwidth="16" resname="WATERFALL_LEGEND_INCREASE" sap:sc="XTIT" size-unit="char">
+        <source>Increase</source>
+        <note annotates="source" from="Developer">title for Waterfall Legend item which shows color for positive values KEY=WATERFALL_LEGEND_INCREASE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WATERFALL_LEGEND_DECREASE" maxwidth="16" resname="WATERFALL_LEGEND_DECREASE" sap:sc="XTIT" size-unit="char">
+        <source>Decrease</source>
+        <note annotates="source" from="Developer">title for Waterfall Legend item which shows color for negative values KEY=WATERFALL_LEGEND_DECREASE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WATERFALL_LEGEND_TOTAL" maxwidth="16" resname="WATERFALL_LEGEND_TOTAL" sap:sc="XTIT" size-unit="char">
+        <source>Total</source>
+        <note annotates="source" from="Developer">title for Waterfall Legend item which shows color for total and sub total values KEY=WATERFALL_LEGEND_TOTAL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WATERFALL_LEGEND_SUBTOTAL" resname="WATERFALL_LEGEND_SUBTOTAL" sap:sc="XTIT">
+        <source>Subtotal</source>
+        <note annotates="source" from="Developer">title for Waterfall Legend item which shows color for subtotal values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_1M" maxwidth="5" resname="TIMESERIES_1M" sap:sc="XTIT" size-unit="char">
+        <source>1M</source>
+        <note annotates="source" from="Developer">small button in button series indicating 1 month full series is 1H 1D 1M 3M 6M YTD 1Y All</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_3M" maxwidth="5" resname="TIMESERIES_3M" sap:sc="XTIT" size-unit="char">
+        <source>3M</source>
+        <note annotates="source" from="Developer">small button in button series indicating 3 months full series is 1H 1D 1M 3M 6M YTD 1Y All</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_6M" maxwidth="5" resname="TIMESERIES_6M" sap:sc="XTIT" size-unit="char">
+        <source>6M</source>
+        <note annotates="source" from="Developer">small button in button series indicating 6 months full series is 1H 1D 1M 3M 6M YTD 1Y All</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_YTD" maxwidth="5" resname="TIMESERIES_YTD" sap:sc="XTIT" size-unit="char">
+        <source>YTD</source>
+        <note annotates="source" from="Developer">small button in button series indicating year to date full series is 1H 1D 1M 3M 6M YTD 1Y All</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_1Y" maxwidth="5" resname="TIMESERIES_1Y" sap:sc="XTIT" size-unit="char">
+        <source>1Y</source>
+        <note annotates="source" from="Developer">small button in button series indicating 1 year full series is 1H 1D 1M 3M 6M YTD 1Y All</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_ALL" maxwidth="5" resname="TIMESERIES_ALL" sap:sc="XTIT" size-unit="char">
+        <source>All</source>
+        <note annotates="source" from="Developer">small button in button series indicating 1 all dates full series is 1H 1D 1M 3M 6M YTD 1Y All</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_1H" maxwidth="5" resname="TIMESERIES_1H" sap:sc="XTIT" size-unit="char">
+        <source>1H</source>
+        <note annotates="source" from="Developer">small button in button series indicating 1 hour full series is 1H 1D 1M 3M 6M YTD 1Y All</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_1D" maxwidth="5" resname="TIMESERIES_1D" sap:sc="XTIT" size-unit="char">
+        <source>1D</source>
+        <note annotates="source" from="Developer">small button in button series indicating 1 day full series is 1H 1D 1M 3M 6M YTD 1Y All</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_RANGESELECTOR_FROM" resname="TIMESERIES_RANGESELECTOR_FROM" sap:sc="XTIT">
+        <source>From</source>
+        <note annotates="source" from="Developer">From label for date picker start date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_RANGESELECTOR_TO" resname="TIMESERIES_RANGESELECTOR_TO" sap:sc="XTIT">
+        <source>To</source>
+        <note annotates="source" from="Developer">To label for date picker end date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIMESERIES_RANGESELECTOR_ZOOM" resname="TIMESERIES_RANGESELECTOR_ZOOM" sap:sc="XTIT">
+        <source>Zoom</source>
+        <note annotates="source" from="Developer">Zoom label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="METRIC_MIXED_UNIT_TOOLTIP_TITLE" maxwidth="16" resname="METRIC_MIXED_UNIT_TOOLTIP_TITLE" sap:sc="XTOL" size-unit="char">
+        <source>Mixed Unit</source>
+        <note annotates="source" from="Developer">title for Numeric Point chart whose measures are mixed unit KEY=METRIC_MIXED_UNIT_TOOLTIP_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BULLET" maxwidth="30" resname="BULLET" sap:sc="XTIT" size-unit="char">
+        <source>Bullet</source>
+        <note annotates="source" from="Developer">name of bullet chart  KEY=BULLET</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BARCOLUMN" maxwidth="30" resname="BARCOLUMN" sap:sc="XTIT" size-unit="char">
+        <source>Bar/Column</source>
+        <note annotates="source" from="Developer">name of bar chart that may render as column depending on data  KEY=BARCOLUMN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LINE" maxwidth="30" resname="LINE" sap:sc="XTIT" size-unit="char">
+        <source>Line</source>
+        <note annotates="source" from="Developer">name of line chart. used in various places like the visualization type selection popup  KEY=LINE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STACKED_BARCOLUMN" maxwidth="30" resname="STACKED_BARCOLUMN" sap:sc="XTIT" size-unit="char">
+        <source>Stacked Bar/Column</source>
+        <note annotates="source" from="Developer">name of stacked bar chart that may render as column depending on data  KEY=STACKED_BARCOLUMN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WATERFALL" maxwidth="30" resname="WATERFALL" sap:sc="XTIT" size-unit="char">
+        <source>Waterfall</source>
+        <note annotates="source" from="Developer">name of waterfall chart  KEY=WATERFALL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MARIMEKKO" maxwidth="30" resname="MARIMEKKO" sap:sc="XTIT" size-unit="char">
+        <source>Marimekko</source>
+        <note annotates="source" from="Developer">name of marimekko chart  KEY=MARIMEKKO</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="AREA" maxwidth="30" resname="AREA" sap:sc="XTIT" size-unit="char">
+        <source>Stacked Area</source>
+        <note annotates="source" from="Developer">name of line chart. used in various places like the visualization type selection popup  KEY=AREA</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RADAR" maxwidth="30" resname="RADAR" sap:sc="XTIT" size-unit="char">
+        <source>Radar</source>
+        <note annotates="source" from="Developer">name of radar chart  KEY=RADAR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMBSTACKEDBCL" maxwidth="35" resname="COMBSTACKEDBCL" sap:sc="XTIT" size-unit="char">
+        <source>Combination Stacked Column &amp; Line</source>
+        <note annotates="source" from="Developer">name of combination stacked bar column line chart  KEY=COMBSTACKEDBCL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMBBCL" maxwidth="30" resname="COMBBCL" sap:sc="XTIT" size-unit="char">
+        <source>Combination Column &amp; Line</source>
+        <note annotates="source" from="Developer">name of combination bar column line chart  KEY=COMBBCL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BOXPLOT" maxwidth="30" resname="BOXPLOT" sap:sc="XTIT" size-unit="char">
+        <source>Box Plot</source>
+        <note annotates="source" from="Developer">name of box plot chart. used in various places like the visualization type selection popup  KEY=BOXPLOT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CLUSTERBUBBLE" maxwidth="30" resname="CLUSTERBUBBLE" sap:sc="XLST" size-unit="char">
+        <source>Cluster Bubble</source>
+        <note annotates="source" from="Developer">name of cluster bubble chart</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BUBBLE" maxwidth="30" resname="BUBBLE" sap:sc="XLST" size-unit="char">
+        <source>Bubble</source>
+        <note annotates="source" from="Developer">name of bubble chart</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SCATTERPLOT" maxwidth="30" resname="SCATTERPLOT" sap:sc="XLST" size-unit="char">
+        <source>Scatterplot</source>
+        <note annotates="source" from="Developer">name of scatterplot chart</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FPA_HISTOGRAMCHART" resname="FPA_HISTOGRAMCHART" sap:sc="XLST">
+        <source>Histogram</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FPA_SANKEY" resname="FPA_SANKEY" sap:sc="XLST">
+        <source>Sankey</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FPA_COMBINATIONCHART" maxwidth="30" resname="FPA_COMBINATIONCHART" sap:sc="XLST" size-unit="char">
+        <source>Combined Column Line</source>
+        <note annotates="source" from="Developer">Only zh_TW is needed.  Copied from IDS_COMBINATIONCHART of sap/viz/fpa/resources/chart/langs</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FPA_NUMBERCHART" maxwidth="30" resname="FPA_NUMBERCHART" sap:sc="XLST" size-unit="char">
+        <source>Numeric Point</source>
+        <note annotates="source" from="Developer">Only zh_TW is needed.  Copied from IDS_NUMBERCHART of sap/viz/fpa/resources/chart/langs</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FPA_HEATMAPCHART" maxwidth="30" resname="FPA_HEATMAPCHART" sap:sc="XLST" size-unit="char">
+        <source>Heat Map</source>
+        <note annotates="source" from="Developer">Only zh_TW is needed.  Copied from IDS_HEATMAPCHART of sap/viz/fpa/resources/chart/langs</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FPA_PIECHART" maxwidth="30" resname="FPA_PIECHART" sap:sc="XLST" size-unit="char">
+        <source>Pie</source>
+        <note annotates="source" from="Developer">Only zh_TW is needed.  Copied from IDS_PIECHART of sap/viz/fpa/resources/chart/langs</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FPA_DONUTCHART" maxwidth="30" resname="FPA_DONUTCHART" sap:sc="XLST" size-unit="char">
+        <source>Donut</source>
+        <note annotates="source" from="Developer">Only zh_TW is needed.  Copied from IDS_DONUTCHART of sap/viz/fpa/resources/chart/langs</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FPA_TREEMAPCHART" maxwidth="30" resname="FPA_TREEMAPCHART" sap:sc="XLST" size-unit="char">
+        <source>Tree Map</source>
+        <note annotates="source" from="Developer">Only zh_TW is needed.  Copied from IDS_TREEMAPCHART of sap/viz/fpa/resources/chart/langs</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FPA_TRENDTIME" maxwidth="30" resname="FPA_TRENDTIME" sap:sc="XLST" size-unit="char">
+        <source>Time Series</source>
+        <note annotates="source" from="Developer">Needed for all languages.  Not available in CVOM or Highcharts.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WARNING_HIDDEN_POINTS_IN_AXIS_LINE_BREAK" resname="WARNING_HIDDEN_POINTS_IN_AXIS_LINE_BREAK" sap:sc="XMSG">
+        <source>Data points are hidden in the following axis breaks:</source>
+        <note annotates="source" from="Developer">Warning message for axis line break warning when there are data points that are hidden in the axis line breaks</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOOLTIP_FORECAST_LOADING_INDICATOR" resname="TOOLTIP_FORECAST_LOADING_INDICATOR" sap:sc="XMSG">
+        <source>Forecast Loading...</source>
+        <note annotates="source" from="Developer">Tooltip text for loadig indicator when forecast is loading</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CHARTS" resname="CHARTS" sap:sc="XMSG">
+        <source>Charts</source>
+        <note annotates="source" from="Developer">Category for Charts KEY=Charts</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COMPARISON" maxwidth="30" resname="COMPARISON" sap:sc="XBUT" size-unit="char">
+        <source>Comparison</source>
+        <note annotates="source" from="Developer">chart group category KEY=COMPARISON</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CORRELATION" maxwidth="30" resname="CORRELATION" sap:sc="XBUT" size-unit="char">
+        <source>Correlation</source>
+        <note annotates="source" from="Developer">chart group category KEY=CORRELATION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DISTRIBUTION" maxwidth="30" resname="DISTRIBUTION" sap:sc="XBUT" size-unit="char">
+        <source>Distribution</source>
+        <note annotates="source" from="Developer">chart group category KEY=DISTRIBUTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="KPI" maxwidth="30" resname="KPI" sap:sc="XBUT" size-unit="char">
+        <source>Indicator</source>
+        <note annotates="source" from="Developer">chart group category KEY=INDICATOR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TREND" maxwidth="30" resname="TREND" sap:sc="XBUT" size-unit="char">
+        <source>Trend</source>
+        <note annotates="source" from="Developer">chart group category KEY=TREND</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MORE" maxwidth="30" resname="MORE" sap:sc="XBUT" size-unit="char">
+        <source>More</source>
+        <note annotates="source" from="Developer">chart group category KEY=MORE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ERROR_INVALID_DATA_SET_USERMSG" maxwidth="100" resname="ERROR_INVALID_DATA_SET_USERMSG" sap:sc="XMSG" size-unit="char">
+        <source>Sorry, we cannot provide a <ph id="1">{0}</ph> visualization for your current selection!</source>
+        <note annotates="source" from="Developer">warning in visualization pane that the selected chart cannot render the selected data  KEY=ERROR_INVALID_DATA_SET_USERMSG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_RETRIEVE_DATA" maxwidth="100" resname="ERROR_RETRIEVE_DATA" sap:sc="XMSG" size-unit="char">
+        <source>No data could be retrieved from the server.</source>
+        <note annotates="source" from="Developer">detail hint that says that no data could be retrieved. Reason for why no chart could be rendered  KEY=ERROR_RETRIEVE_DATA</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_INVALID_DATA_SET_CHART_USERMSG" maxwidth="100" resname="ERROR_INVALID_DATA_SET_CHART_USERMSG" sap:sc="XMSG" size-unit="char">
+        <source>Sorry, we cannot provide a chart for your current selection!</source>
+        <note annotates="source" from="Developer">warning in visualization pane that the selected data returns no data and thus cannot be rendered with any chart.  KEY=ERROR_INVALID_DATA_SET_CHART_USERMSG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CHARTSCALE_SCALED_MEASURES" resname="CHARTSCALE_SCALED_MEASURES" sap:sc="XTIT">
+        <source>Scaled Measures</source>
+        <note annotates="source" from="Developer">label for the chart scale side panel scaled measures section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAVE_DIMENSION_ORDER" maxwidth="255" resname="SAVE_DIMENSION_ORDER" sap:sc="XFLD" size-unit="char">
+        <source>OK</source>
+        <note annotates="source" from="Developer">KEY=CONTENTLIB_SAVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STYLING_OPTIONS_CHART" resname="STYLING_OPTIONS_CHART" sap:sc="XTIT">
+        <source>Chart</source>
+        <note annotates="source" from="Developer">Title for styling options</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HYPERLINK_FORM_SECTION_RESET" resname="HYPERLINK_FORM_SECTION_RESET" sap:sc="XBUT">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WARNING_TRANSIENT_CHART_STATE" maxwidth="100" resname="WARNING_TRANSIENT_CHART_STATE" sap:sc="XMSG" size-unit="char">
+        <source>Certain aspects of the chart will not persist using the chart builder</source>
+        <note annotates="source" from="Developer">KEY=WARNING_TRANSIENT_CHART_STATE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_ENT_BEAN_VIZ_DEFAULT_MESSAGE" resname="STORY_ENT_BEAN_VIZ_DEFAULT_MESSAGE" sap:sc="XTOL">
+        <source>At least one measure is required to build a chart.</source>
+        <note annotates="source" from="Developer">KEY=STORY_ENT_BEAN_VIZ_DEFAULT_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIZ_MISSING_DATASET" maxwidth="40" resname="VIZ_MISSING_DATASET" sap:sc="XTXT" size-unit="char">
+        <source>Cannot find model information.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIZ_NO_ACCESS_DATASOURCE" maxwidth="50" resname="VIZ_NO_ACCESS_DATASOURCE" sap:sc="XTXT" size-unit="char">
+        <source>Sorry, we couldn't access the datasource.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIZ_MISSING_DATASET_LINK_RECOVER" maxwidth="250" resname="VIZ_MISSING_DATASET_LINK_RECOVER" sap:sc="XTXT" size-unit="char">
+        <source>Model link is missing; use Link Dimensions Dialog to re-create missing link to recover visualization.</source>
+        <note annotates="source" from="Developer">KEY=VIZ_MISSING_DATASET_LINK_RECOVER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIZ_MISSING_LINKED_DIMENSIONS_IN_VIZ" maxwidth="100" resname="VIZ_MISSING_LINKED_DIMENSIONS_IN_VIZ" sap:sc="XTXT" size-unit="char">
+        <source>Visualization requires at least one linked dimension.</source>
+        <note annotates="source" from="Developer">KEY=VIZ_MISSING_LINKED_DIMENSIONS_IN_VIZ</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_LINKED_ANALYSIS_NOT_SUPPORTED_FOR_PINNED_DATAPOINT" maxwidth="255" resname="SIDEPANEL_LINKED_ANALYSIS_NOT_SUPPORTED_FOR_PINNED_DATAPOINT" sap:sc="XMSG" size-unit="char">
+        <source>Pinned data point reflects linked analysis from parent chart</source>
+        <note annotates="source" from="Developer">Display in linked analysis side panel when a pinned datapoint widget is selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VISUALIZING_GRANDTOTAL_FORMULA" maxwidth="255" resname="VISUALIZING_GRANDTOTAL_FORMULA" sap:sc="XMSG" size-unit="char">
+        <source>Calculations and measures using the GrandTotal/%GrandTotal functions may return different values when visualizing cells produces a chart with a different set of filters than the original table.</source>
+        <note annotates="source" from="Developer">Do not translate GrandTotal and %GrandTotal. When there are measures/calculation with GrandTotal/%GrandTotal formula in selected cells to visualize, this message will be shown to user.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VISUALIZING_MULTIPLE_CURRENCIES_NOT_SUPPORTED" maxwidth="255" resname="VISUALIZING_MULTIPLE_CURRENCIES_NOT_SUPPORTED" sap:sc="XMSG" size-unit="char">
+        <source>Visualizing cells with multiple currencies is not supported.</source>
+        <note annotates="source" from="Developer">When there are multiple currencies in the selected cells to visualize, this message will be shown to user.  KEY=VISUALIZING_MULTIPLE_CURRENCIES_NOT_SUPPORTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VISUALIZING_TIME_AGGREGATIONS_NOT_SUPPORTED" maxwidth="255" resname="VISUALIZING_TIME_AGGREGATIONS_NOT_SUPPORTED" sap:sc="XMSG" size-unit="char">
+        <source>Only measures with Periodic time period are supported in visualizations.</source>
+        <note annotates="source" from="Developer">When there are time aggregation in the selected cells to visualize, this message will be shown to user.  KEY=VISUALIZING_TIME_AGGREGATIONS_NOT_SUPPORTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VISUALIZING_LOCAL_CURRENCY_NOT_SUPPORTED" maxwidth="255" resname="VISUALIZING_LOCAL_CURRENCY_NOT_SUPPORTED" sap:sc="XMSG" size-unit="char">
+        <source>Visualizing cells with local currency is not supported.</source>
+        <note annotates="source" from="Developer">When there is a local currency cell in the selected cells to visualize, this message will be shown to user.  KEY=VISUALIZING_LOCAL_CURRENCY_NOT_SUPPORTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VISUALIZING_CC_OVERRIDES_NOT_SUPPORTED" maxwidth="255" resname="VISUALIZING_CC_OVERRIDES_NOT_SUPPORTED" sap:sc="XMSG" size-unit="char">
+        <source>Visualizing cells with special conversion calculation settings is not supported.</source>
+        <note annotates="source" from="Developer">Shown to the user when visualizing cells with currency conversion parameters like conversion date and category.  KEY=VISUALIZING_CC_OVERRIDES_NOT_SUPPORTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VISUALIZING_CROSS_CALCULATION_NOT_SUPPORTED_IN_MEASURE_MODEL" maxwidth="70" resname="VISUALIZING_CROSS_CALCULATION_NOT_SUPPORTED_IN_MEASURE_MODEL" sap:sc="XMSG" size-unit="char">
+        <source>Examine is not supported for cross calculations in measure model.</source>
+        <note annotates="source" from="Developer">Info message when examine table with cross calculation in measure model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIZCTRL_TITLE" maxwidth="100" resname="VIZCTRL_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Title</source>
+        <note annotates="source" from="Developer">Generic Chart Title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIZCTRL_SUBTITLE" maxwidth="100" resname="VIZCTRL_SUBTITLE" sap:sc="XTIT" size-unit="char">
+        <source>Subtitle</source>
+        <note annotates="source" from="Developer">Generic chart sub title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

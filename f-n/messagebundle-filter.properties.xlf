@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-filter.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="ef9ffee3c5de72f6887298c90cca5feb" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:58Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALL" resname="ALL" sap:sc="XFLD">
+        <source>All</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="YEAR" resname="YEAR" sap:sc="XFLD">
+        <source>Year</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HALFYEAR" resname="HALFYEAR" sap:sc="XFLD">
+        <source>Half Year</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CALQUARTER" resname="CALQUARTER" sap:sc="XFLD">
+        <source>Quarter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CALMONTH" resname="CALMONTH" sap:sc="XFLD">
+        <source>Month</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WEEK" resname="WEEK" sap:sc="XFLD">
+        <source>Week</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DAY" resname="DAY" sap:sc="XFLD">
+        <source>Day</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL" resname="FISCAL" sap:sc="XFLD">
+        <source>Fiscal</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_YEAR" resname="FISCAL_YEAR" sap:sc="XFLD">
+        <source>Fiscal Year</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_CALQUARTER" resname="FISCAL_CALQUARTER" sap:sc="XFLD">
+        <source>Fiscal Quarter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_CALPERIOD" resname="FISCAL_CALPERIOD" sap:sc="XFLD">
+        <source>Period</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_DATE" resname="FISCAL_DATE" sap:sc="XFLD">
+        <source>Fiscal Day</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FILTER_DIALOG_TITLE" resname="FILTER_DIALOG_TITLE" sap:sc="XFLD">
+        <source>Set Filters for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Title of the filter dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OP_FILTER_BY_MEMBER" resname="OP_FILTER_BY_MEMBER" sap:sc="XMIT">
+        <source>Filter by Member...</source>
+        <note annotates="source" from="Developer">For FilterPopUp Filter by Member</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OP_FILTER_BY_RANGE" resname="OP_FILTER_BY_RANGE" sap:sc="XMIT">
+        <source>Filter by Range...</source>
+        <note annotates="source" from="Developer">For FilterPopUp Filter by Range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FP_DIMENSION" resname="FP_DIMENSION" sap:sc="XTIT">
+        <source>Dimension</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MDC_EDIT_BUTTON_DISABLED_BLENDED" resname="MDC_EDIT_BUTTON_DISABLED_BLENDED" sap:sc="XMSG">
+        <source>Measure and Dimension Configuration is not supported for blended dataset.</source>
+        <note annotates="source" from="Developer">Tooltip to explain MDC edit button is disabled because of blended dataset</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MDC_EDIT_BUTTON_DISABLED_NO_DATASET" resname="MDC_EDIT_BUTTON_DISABLED_NO_DATASET" sap:sc="XMSG">
+        <source>Measure and Dimension Configuration is not supported when no data source is selected.</source>
+        <note annotates="source" from="Developer">Tooltip to explain MDC edit button is disabled because of no dataset</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_EFFECTIVE_CURRENT" resname="RELATIVE_DATE_RANGE_EFFECTIVE_CURRENT" sap:sc="XTIT">
+        <source>Effective Current</source>
+        <note annotates="source" from="Developer">Title for the effective current date in a relative (dynamic) date range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_EFFECTIVE_CURRENT_PERIOD" resname="RELATIVE_DATE_RANGE_EFFECTIVE_CURRENT_PERIOD" sap:sc="XFLD">
+        <source>Current Date / Period</source>
+        <note annotates="source" from="Developer">Caption for relative (dynamic) date range threshold</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_OFFSET_CURRENT_PERIOD_DIRECTION" resname="RELATIVE_DP_OFFSET_CURRENT_PERIOD_DIRECTION" sap:sc="XFLD">
+        <source>Offset Direction</source>
+        <note annotates="source" from="Developer">label for the offset direction dropdown box</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_OFFSET_CURRENT_PERIOD_GRANULARITY" resname="RELATIVE_DP_OFFSET_CURRENT_PERIOD_GRANULARITY" sap:sc="XFLD">
+        <source>Offset Granularity</source>
+        <note annotates="source" from="Developer">label for the offset granularity dropdown box</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_OFFSET_CURRENT_PERIOD_AMOUNT" resname="RELATIVE_DP_OFFSET_CURRENT_PERIOD_AMOUNT" sap:sc="XFLD">
+        <source>Offset Amount</source>
+        <note annotates="source" from="Developer">label for the offset amount text input</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_OFFSET_RANGE_TYPE" resname="RELATIVE_DP_OFFSET_RANGE_TYPE" sap:sc="XFLD">
+        <source>Range Type</source>
+        <note annotates="source" from="Developer">label for the range type dropdown</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_OFFSET_RANGE_TYPE_STANDARD" resname="RELATIVE_DP_OFFSET_RANGE_TYPE_STANDARD" sap:sc="XFLD">
+        <source>Standard</source>
+        <note annotates="source" from="Developer">label for the standard range type</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_OFFSET_RANGE_TYPE_OFFSET" resname="RELATIVE_DP_OFFSET_RANGE_TYPE_OFFSET" sap:sc="XFLD">
+        <source>Offset</source>
+        <note annotates="source" from="Developer">label for the offset range type</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DP_OFFSET_RANGE_TYPE_DISABLED_TOOLTIP" resname="RELATIVE_DP_OFFSET_RANGE_TYPE_DISABLED_TOOLTIP" sap:sc="XMSG">
+        <source>Changing Range Type is not supported for widget level filters</source>
+        <note annotates="source" from="Developer">Tooltip to explain that the Range Type dropdown is not enabled for Widget level filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RELATIVE_DP_OFFSET_RANGE_TYPE_DISABLED_TOOLTIP_2" resname="RELATIVE_DP_OFFSET_RANGE_TYPE_DISABLED_TOOLTIP_2" sap:sc="XMSG">
+        <source>Enable <ph id="1">{0}</ph> to change Range Type</source>
+        <note annotates="source" from="Developer">Tooltip to explain that the Range Type dropdown is enabled only when the Unrestricted Drilling ({0}) checkbox is checked.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCDIC_EMBEDDED_MENU_VIEW_CONTROLS" resname="CCDIC_EMBEDDED_MENU_VIEW_CONTROLS" sap:sc="XFLD">
+        <source>View Controls...</source>
+        <note annotates="source" from="Developer">menu item label to open up the controls panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCDIC_EMBEDDED_MENU_SETTINGS" resname="CCDIC_EMBEDDED_MENU_SETTINGS" sap:sc="XFLD">
+        <source>Settings</source>
+        <note annotates="source" from="Developer">menu item label to open up the settings submenu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCDIC_EMBEDDED_MENU_SETTINGS_GRANULARITY" resname="CCDIC_EMBEDDED_MENU_SETTINGS_GRANULARITY" sap:sc="XFLD">
+        <source>Granularity</source>
+        <note annotates="source" from="Developer">menu item label to open up the granularity settings submenu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCDIC_DELETE_BUTTON_TOOLTIP" resname="CCDIC_DELETE_BUTTON_TOOLTIP" sap:sc="XFLD">
+        <source>Remove</source>
+        <note annotates="source" from="Developer">tooltip for the delete button in ICToken</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCDIC_EDIT_DIALOG_HIDDEN_GRANULARITY_INFO_TEXT" resname="CCDIC_EDIT_DIALOG_HIDDEN_GRANULARITY_INFO_TEXT" sap:sc="XMSG">
+        <source>Larger granularities will not show in the dropdown when the custom current date is linked to a dynamic time range with a finer granularity</source>
+        <note annotates="source" from="Developer">Message that shows up in the dialog explaining why we hide granularities</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CUSTOM_CURRENT_DATE_GRANULARITY" resname="RELATIVE_DATE_RANGE_CUSTOM_CURRENT_DATE_GRANULARITY" sap:sc="XFLD">
+        <source>Granularity</source>
+        <note annotates="source" from="Developer">label to show the granularity of the custom current date in the relative date range dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CUSTOM_CURRENT_DATE_CURRENT_DATE" resname="RELATIVE_DATE_RANGE_CUSTOM_CURRENT_DATE_CURRENT_DATE" sap:sc="XFLD">
+        <source>Date</source>
+        <note annotates="source" from="Developer">label to show the current date for the custom current date in the relative date range dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="CCDIC_RANGE_GRANULARITY_FINER_THAN_CCD_GRANULARITY" resname="CCDIC_RANGE_GRANULARITY_FINER_THAN_CCD_GRANULARITY" sap:sc="XMSG">
+        <source>Granularity must be changed to <ph id="1">{0}</ph> or higher to allow linking to <ph id="2">{1}</ph>.</source>
+        <note annotates="source" from="Developer">message when user has selected a range granularity that is finer than the CCDIC granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CURRENT_DATE" resname="RELATIVE_DATE_RANGE_CURRENT_DATE" sap:sc="XTIT">
+        <source>Current Date</source>
+        <note annotates="source" from="Developer">Title for the custom current date in a relative (dynamic) date range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CURRENT_DATE_TYPE_DROPDOWN_TITLE" resname="RELATIVE_DATE_RANGE_CURRENT_DATE_TYPE_DROPDOWN_TITLE" sap:sc="XTIT">
+        <source>Current Date Type</source>
+        <note annotates="source" from="Developer">Title for the drop down to select current date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_GRANULARITY_DROPDOWN_TITLE" resname="RELATIVE_DATE_RANGE_GRANULARITY_DROPDOWN_TITLE" sap:sc="XTIT">
+        <source>Granularity</source>
+        <note annotates="source" from="Developer">Title for the drop down to select granularity</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_DATE_DROPDOWN_TITLE" resname="RELATIVE_DATE_RANGE_DATE_DROPDOWN_TITLE" sap:sc="XTIT">
+        <source>Date</source>
+        <note annotates="source" from="Developer">Title for the drop down to select date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_SYSTEM_DATE_PERIOD" resname="RELATIVE_DATE_RANGE_SYSTEM_DATE_PERIOD" sap:sc="XFLD">
+        <source>System Date / Period</source>
+        <note annotates="source" from="Developer">Caption for system (dynamic) date or period</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CUSTOM_CURRENT_DATE_PERIOD" resname="RELATIVE_DATE_RANGE_CUSTOM_CURRENT_DATE_PERIOD" sap:sc="XFLD">
+        <source>Custom Current Date / Period</source>
+        <note annotates="source" from="Developer">Caption for current (dynamic) date or period</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CREATE_NEW_CURRENT_DATE_IC" resname="RELATIVE_DATE_RANGE_CREATE_NEW_CURRENT_DATE_IC" sap:sc="XFLD">
+        <source>+ Create Current Date Input Control...</source>
+        <note annotates="source" from="Developer">Drop down item to launch create custom current date input control dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CURRENT_DATE_DIALOG_TITLE" resname="RELATIVE_DATE_RANGE_CURRENT_DATE_DIALOG_TITLE" sap:sc="XTIT">
+        <source>Current Date Input Control</source>
+        <note annotates="source" from="Developer">Title for custom current date dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CREATE_CURRENT_DATE_DISABLED" resname="RELATIVE_DATE_RANGE_CREATE_CURRENT_DATE_DISABLED" sap:sc="XTOL">
+        <source>Only one current date input control can be created for a story.</source>
+        <note annotates="source" from="Developer">Tooltip for when create custom current date is disabled</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CURRENT_DATE_DISABLED_UNRESTRICTED_DRILLING" resname="RELATIVE_DATE_RANGE_CURRENT_DATE_DISABLED_UNRESTRICTED_DRILLING" sap:sc="XTOL">
+        <source>Current Date Input Controls are not supported when unrestricted drilling is disabled.</source>
+        <note annotates="source" from="Developer">Tooltip for when create custom current date is disabled because unrestricted drilling is disabled</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CURRENT_DATE_DIALOG_NAME_INPUT_DEFAULT" resname="RELATIVE_DATE_RANGE_CURRENT_DATE_DIALOG_NAME_INPUT_DEFAULT" sap:sc="XTIT">
+        <source>Current Date</source>
+        <note annotates="source" from="Developer">Default name for custom current date input in the date dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RELATIVE_DATE_RANGE_CURRENT_DATE_DIALOG_NAME_INPUT_TITLE" resname="RELATIVE_DATE_RANGE_CURRENT_DATE_DIALOG_NAME_INPUT_TITLE" sap:sc="XTIT">
+        <source>Name</source>
+        <note annotates="source" from="Developer">Title for name input field of custom current date dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PROMPTIC_DELETE_POPUP_INFO" resname="PROMPTIC_DELETE_POPUP_INFO" sap:sc="XMSG">
+        <source>Removing the <ph id="1">{0}</ph> input control will not delete the variable values from their associated prompt dialog.</source>
+        <note annotates="source" from="Developer">Delete info message for prompt IC token</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROMPTIC_DISABLED_TOOLTIP_MESSAGE" resname="PROMPTIC_DISABLED_TOOLTIP_MESSAGE" sap:sc="XTOL">
+        <source>Variable tokens are not available to be created until variables have been set in the prompt dialog.</source>
+        <note annotates="source" from="Developer">Tooltip info message when variables need to be set</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROMPTIC_MISSING_TOOLTIP_MESSAGE" resname="PROMPTIC_MISSING_TOOLTIP_MESSAGE" sap:sc="XTOL">
+        <source>This token is no longer usable because the variable it was created with cannot be found.</source>
+        <note annotates="source" from="Developer">Tooltip info message when variable cannot be found</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_LINKED_FILTERIDS" resname="NO_LINKED_FILTERIDS" sap:sc="XMSG">
+        <source>The current date input control is not driving any ranges.</source>
+        <note annotates="source" from="Developer">Error message for Custom Current Date when no filters are linked to it</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCDIC_DELETE_POPUP_WARNING_MESSAGE" resname="CCDIC_DELETE_POPUP_WARNING_MESSAGE" sap:sc="XMSG">
+        <source>Deleting a current date input control will result in all dynamic ranges defaulting to the system date.</source>
+        <note annotates="source" from="Developer">Delete warning info message for CCDIC token</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="CCD_DELETE_POPUP_SUCCESS_MESSAGE" resname="CCD_DELETE_POPUP_SUCCESS_MESSAGE" sap:sc="XMSG">
+        <source>Successfully deleted <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">Delete success info message for a custom current date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCD_CALENDAR_MISMATCH_MESSAGE" resname="CCD_CALENDAR_MISMATCH_MESSAGE" sap:sc="XMSG">
+        <source>Because the Custom Current Date has fiscal date settings applied, it cannot be linked to the range hierarchy.</source>
+        <note annotates="source" from="Developer">Message when the range is non-fiscal and the CCD is in fiscal. We don't allow this.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCD_FISCAL_MISMATCH_MESSAGE" resname="CCD_FISCAL_MISMATCH_MESSAGE" sap:sc="XMSG">
+        <source>This fiscal hierarchy cannot be linked to the Custom Current Date because they do not have the same fiscal start date settings.</source>
+        <note annotates="source" from="Developer">Message when the fiscal settings of the CCD and the fiscal hierarchy of a date dimension don't match</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCD_STALE_FILTER_TITLE" resname="CCD_STALE_FILTER_TITLE" sap:sc="XTIT">
+        <source>Stale Filter</source>
+        <note annotates="source" from="Developer">Title for the error message popup when the filter is now stale and needs to be corrected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCD_STALE_FILTER_FISCAL_REWRANGLE_MESSAGE" resname="CCD_STALE_FILTER_FISCAL_REWRANGLE_MESSAGE" sap:sc="XMSG">
+        <source>The range filter(s) can't be linked to the Custom Current Date because its fiscal start date settings has changed. It has been defaulted to system date. Please refresh your story.</source>
+        <note annotates="source" from="Developer">Message for the error message popup when the filter is no longer a valid target to its linked custom current date because of fiscal settings being changed causing it to be invalid</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCD_FILTER_UPDATED_TITLE" resname="CCD_FILTER_UPDATED_TITLE" sap:sc="XTIT">
+        <source>Filter Updated</source>
+        <note annotates="source" from="Developer">Title for the error message popup when the filter has been updated</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCD_FILTER_UPDATED_GRANULARITY_REWRANGLE_MESSAGE" resname="CCD_FILTER_UPDATED_GRANULARITY_REWRANGLE_MESSAGE" sap:sc="XMSG">
+        <source>The range filter(s) can't be linked to the Custom Current Date because its granularity is finer. It has been defaulted to system date.</source>
+        <note annotates="source" from="Developer">error message when we default to system date because the range filter has changed such that its granularity is now finer than the linked custom current date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CCD_FILTER_UPDATED_FISCAL_REWRANGLE_MESSAGE" resname="CCD_FILTER_UPDATED_FISCAL_REWRANGLE_MESSAGE" sap:sc="XMSG">
+        <source>The range filter(s) can't be linked to the Custom Current Date because its fiscal start date settings has changed. it has been defaulted to system date.</source>
+        <note annotates="source" from="Developer">error message when we default to system date because the range filter is no longer a valid link to the custom current date because of having different fiscal start date settings.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_OVERLAY_SECTION_FILTER_APPLIES_TO_SUB_TOPICS" resname="FILTER_OVERLAY_SECTION_FILTER_APPLIES_TO_SUB_TOPICS" sap:sc="XTIT">
+        <source>This filter applies to sub-topics</source>
+        <note annotates="source" from="Developer">Tip message on Boardroom filter overlay</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="CB_FILTER_DIALOG_TITLE" maxwidth="100" resname="CB_FILTER_DIALOG_TITLE" sap:sc="XMSG" size-unit="char">
+        <source>Set Filters for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Title for manage member filter dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_NOT_SUPPORTED" resname="SIDEPANEL_FILTERS_NOT_SUPPORTED" sap:sc="XMSG">
+        <source>Please select an existing chart, table, or other filterable widget to view controls.</source>
+        <note annotates="source" from="Developer">Display in Filters (input controls) side panel when a widget that does not support filters is selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_NOT_APPLIED" resname="SIDEPANEL_FILTERS_NOT_APPLIED" sap:sc="XMSG">
+        <source>No filters applied</source>
+        <note annotates="source" from="Developer">Display in Filters (input controls) side panel when no filters are applied</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_CALC_DIM_FILTERS_NOT_APPLIED" resname="SIDEPANEL_CALC_DIM_FILTERS_NOT_APPLIED" sap:sc="XMSG">
+        <source>Measure based filters and filters on calculated dimensions are not supported by this widget</source>
+        <note annotates="source" from="Developer">Display in Filters (input controls) side panel when filters are not supported by the widget</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_NOT_VISIBLE" resname="SIDEPANEL_FILTERS_NOT_VISIBLE" sap:sc="XMSG">
+        <source>No filters visible</source>
+        <note annotates="source" from="Developer">Display in Filters (input controls) side panel when no filters are visible</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_MEASURE_BASED_FILTER" resname="SIDEPANEL_FILTERS_MEASURE_BASED_FILTER" sap:sc="XTIT">
+        <source>Measure Based Filter</source>
+        <note annotates="source" from="Developer">Label for info popup showing a measusre based filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_DIMENSION_FILTER" resname="SIDEPANEL_FILTERS_DIMENSION_FILTER" sap:sc="XTIT">
+        <source>Dimension Filter</source>
+        <note annotates="source" from="Developer">Label for info popup showing a dimension filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_MAP_FILTER" resname="SIDEPANEL_FILTERS_MAP_FILTER" sap:sc="XTIT">
+        <source>Map Filter</source>
+        <note annotates="source" from="Developer">Label for info popup showing a map filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_ADVANCED_FILTER" resname="SIDEPANEL_FILTERS_ADVANCED_FILTER" sap:sc="XTIT">
+        <source>Advanced Filter</source>
+        <note annotates="source" from="Developer">Label for info popup showing an advanced filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_LEVEL_TOPIC" resname="SIDEPANEL_FILTERS_LEVEL_TOPIC" sap:sc="XTIT">
+        <source>Topic Filters</source>
+        <note annotates="source" from="Developer">Label for a collection of topic-level filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_LEVEL_STORY" resname="SIDEPANEL_FILTERS_LEVEL_STORY" sap:sc="XTIT">
+        <source>Story Filters</source>
+        <note annotates="source" from="Developer">Label for a collection of story-level filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_LEVEL_PAGE" resname="SIDEPANEL_FILTERS_LEVEL_PAGE" sap:sc="XTIT">
+        <source>Page Filters</source>
+        <note annotates="source" from="Developer">Label for a collection of page-level filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_LEVEL_SCOPEDPAGE" resname="SIDEPANEL_FILTERS_LEVEL_SCOPEDPAGE" sap:sc="XTIT">
+        <source>Group Filters</source>
+        <note annotates="source" from="Developer">Label for a collection of scoped page-level filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_LEVEL_WIDGET" resname="SIDEPANEL_FILTERS_LEVEL_WIDGET" sap:sc="XTIT">
+        <source>Widget Filters</source>
+        <note annotates="source" from="Developer">Label for a collection of widget-level filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_LEVEL_CCDIC" resname="SIDEPANEL_FILTERS_LEVEL_CCDIC" sap:sc="XTIT">
+        <source>Current Date</source>
+        <note annotates="source" from="Developer">Label for a collection of custom current dates</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_SHOW_FILTER_INFO" resname="SIDEPANEL_FILTERS_SHOW_FILTER_INFO" sap:sc="XTIT">
+        <source>Show filter information</source>
+        <note annotates="source" from="Developer">Label for a menu item that displays a filter info popup</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_LOCAL" resname="SIDEPANEL_FILTERS_LOCAL" sap:sc="XTIT">
+        <source>Local</source>
+        <note annotates="source" from="Developer">Sub-heading for filters defined locally in a widget</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SIDEPANEL_FILTERS_LINKED_ANALYSIS" resname="SIDEPANEL_FILTERS_LINKED_ANALYSIS" sap:sc="XTIT">
+        <source>Linked Analysis</source>
+        <note annotates="source" from="Developer">Sub-heading for filters defined by linked analysis</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_TYPE" resname="FILTER_PIPELINE_INFO_TYPE" sap:sc="XTIT">
+        <source>Type</source>
+        <note annotates="source" from="Developer">Label for a filter's type in a filter info display</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_MODEL" resname="FILTER_PIPELINE_INFO_MODEL" sap:sc="XTIT">
+        <source>Model</source>
+        <note annotates="source" from="Developer">Label for a filter's model (data source) in a filter info display</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_PRIVATE_MODEL" resname="FILTER_PIPELINE_INFO_PRIVATE_MODEL" sap:sc="XTIT">
+        <source>Private Model</source>
+        <note annotates="source" from="Developer">Label for a filter's model (data source) in a filter info display, if it is a private model that only exists within the story.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_AGGREGATION_DIMENSIONS" resname="FILTER_PIPELINE_INFO_AGGREGATION_DIMENSIONS" sap:sc="XTIT">
+        <source>Dimension Context</source>
+        <note annotates="source" from="Developer">Label for a measure based filter's aggregation dimensions (should match AGGREGATION_DIMENSIONS_HEADER_TEXT)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_FILTERS_ABOVE_MSG" resname="FILTER_PIPELINE_INFO_FILTERS_ABOVE_MSG" sap:sc="XMSG">
+        <source>These filters will be applied before this filter:</source>
+        <note annotates="source" from="Developer">Message explaining the context of a filter operation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_PARTIAL_MATCHING_SCOPED_PAGE_FILTERS_MSG" resname="FILTER_PIPELINE_INFO_PARTIAL_MATCHING_SCOPED_PAGE_FILTERS_MSG" sap:sc="XMSG">
+        <source>These group filters may be applied before this filter, depending on which widget is being filtered:</source>
+        <note annotates="source" from="Developer">Message explaining partial matching scoped page filters in the context of a filter operation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_COMPLEX_CONDITIONS" resname="FILTER_PIPELINE_INFO_COMPLEX_CONDITIONS" sap:sc="XTIT">
+        <source>This filter is defined as a set of logical conditions:</source>
+        <note annotates="source" from="Developer">Label for the formula text of an advanced filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_LEVEL_TOPIC" resname="FILTER_PIPELINE_INFO_LEVEL_TOPIC" sap:sc="XTIT">
+        <source>Topic</source>
+        <note annotates="source" from="Developer">Label for the level of a topic-level filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_LEVEL_STORY" resname="FILTER_PIPELINE_INFO_LEVEL_STORY" sap:sc="XTIT">
+        <source>Story</source>
+        <note annotates="source" from="Developer">Label for the level of a story-level filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_LEVEL_PAGE" resname="FILTER_PIPELINE_INFO_LEVEL_PAGE" sap:sc="XTIT">
+        <source>Page</source>
+        <note annotates="source" from="Developer">Label for the level of a page-level filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_INFO_LEVEL_WIDGET" resname="FILTER_PIPELINE_INFO_LEVEL_WIDGET" sap:sc="XTIT">
+        <source>Widget</source>
+        <note annotates="source" from="Developer">Label for the level of a widget-level filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FILTER_PIPELINE_INFO_ALL_LEVEL_FILTERS" resname="FILTER_PIPELINE_INFO_ALL_LEVEL_FILTERS" sap:sc="XTIT">
+        <source>All <ph id="1">{0}</ph> Filters</source>
+        <note annotates="source" from="Developer">Label that identifies the set of all filters at a gicen level. For example All Story Filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FILTER_PIPELINE_INFO_NUM_MEMBERS_SELECTED" resname="FILTER_PIPELINE_INFO_NUM_MEMBERS_SELECTED" sap:sc="XTIT">
+        <source><ph id="1">{0}</ph> Member(s) are being filtered</source>
+        <note annotates="source" from="Developer">Label that describes the number of values selected by a member filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FILTER_PIPELINE_INFO_NUM_RANGES_SELECTED" resname="FILTER_PIPELINE_INFO_NUM_RANGES_SELECTED" sap:sc="XTIT">
+        <source><ph id="1">{0}</ph> Ranges(s) are being filtered</source>
+        <note annotates="source" from="Developer">Label that describes the number of ranges selected by a member filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DONT_SHOW_MESSAGE" resname="DONT_SHOW_MESSAGE" sap:sc="XFLD">
+        <source>Do not show this message again</source>
+        <note annotates="source" from="Developer">Label of checkbox that allows a user to permanently dismiss a message dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CVT_FILTER_DLG_TITLE" resname="CVT_FILTER_DLG_TITLE" sap:sc="XFLD">
+        <source>Convert Filter Control</source>
+        <note annotates="source" from="Developer">Title of the dialog that confirms conversion of a story filter to a page filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CVT_DOC_TO_PG_FILTER" resname="CVT_DOC_TO_PG_FILTER" sap:sc="XMSG">
+        <source>This filter is currently a Story filter. To use this filter control on a page it needs to be converted to a Page filter. Any dynamic text referring to this filter control will become invalid.\n\nDo you want to convert this filter?</source>
+        <note annotates="source" from="Developer">Message asking for confirmation when converting a story filter to a page filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CVT_PG_TO_DOC_FILTER" resname="CVT_PG_TO_DOC_FILTER" sap:sc="XMSG">
+        <source>This filter is currently a Page filter. To use this filter control on the filter bar it needs to be converted to a Story filter. Do you want to convert this filter?</source>
+        <note annotates="source" from="Developer">Message asking for confirmation when converting a page filter to a document/story filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="REPLACE_PAGE_FILTER_COPY_PASTE" resname="REPLACE_PAGE_FILTER_COPY_PASTE" sap:sc="XMSG">
+        <source>The Page filter "<ph id="1">{0}</ph>" already exists on this page. Do you want to replace the existing Page filter with the filter you are copying?</source>
+        <note annotates="source" from="Developer">Message asking for confirmation when replacing an existing page filter when pasting a copied page filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OVERWRITE_PAGE_FILTER_DLG_TITLE" resname="OVERWRITE_PAGE_FILTER_DLG_TITLE" sap:sc="XFLD">
+        <source>Replace Page Filter</source>
+        <note annotates="source" from="Developer">Title of the dialog that confirms overwriting an existing page filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="OVERWRITE_PAGE_FILTER_WITH_STORY_FILTER" resname="OVERWRITE_PAGE_FILTER_WITH_STORY_FILTER" sap:sc="XMSG">
+        <source>The Page filter '<ph id="1">{0}</ph>' already exists on this page. Any dynamic text referring to this Story filter will become invalid.\n\nDo you want to replace the existing Page filter?</source>
+        <note annotates="source" from="Developer">Message asking for confirmation when overwriting an existing page filter when converting a story filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OVERWRITE_DOC_FILTER_DLG_TITLE" resname="OVERWRITE_DOC_FILTER_DLG_TITLE" sap:sc="XFLD">
+        <source>Replace Story Filter</source>
+        <note annotates="source" from="Developer">Title of the dialog that confirms overwriting an existing story filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="OVERWRITE_DOC_FILTER" resname="OVERWRITE_DOC_FILTER" sap:sc="XMSG">
+        <source>The Story filter '<ph id="1">{0}</ph>' already exists in this Story. Do you want to replace the existing Story filter?</source>
+        <note annotates="source" from="Developer">Message asking for confirmation when overwriting an existing story filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTERS_OR_PROMPTS_ADD" maxwidth="30" resname="STORY_FILTERS_OR_PROMPTS_ADD" sap:sc="XTIT" size-unit="char">
+        <source>Add Story Filter/Prompt</source>
+        <note annotates="source" from="Developer">the label and tooltip of the filter icon in the filter bar KEY=STORY_FILTERS_OR_PROMPTS_ADD</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTERS_ADD_TO_PAGE" resname="STORY_FILTERS_ADD_TO_PAGE" sap:sc="XTIT">
+        <source>Convert to Page Filter</source>
+        <note annotates="source" from="Developer">the label of the link on the filter token popup that adds a filter control to the current story page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_FILTERS_CASCADING_EFFECT" resname="PAGE_FILTERS_CASCADING_EFFECT" sap:sc="XTIT">
+        <source>Cascading Effect</source>
+        <note annotates="source" from="Developer">Toggle for enabling or disabling filter cascade effect</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:xhtml" id="FILTERS_CASCADING_EFFECT_INFO_CONTENT_SECTION" resname="FILTERS_CASCADING_EFFECT_INFO_CONTENT_SECTION" sap:sc="XTIT">
+        <source>To apply validation rule to the cascading effect, go to <g ctype="x-xhtml-strong" id="1">Edit Input Control</g> and turn on <g ctype="x-xhtml-strong" id="2">Show Unbooked Members</g></source>
+        <note annotates="source" from="Developer">Popover content for cascade effect icon, don't translate html tag &lt;strong&gt;</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_FILTERS_CASCADING_EFFECT_TOOLTIP" resname="PAGE_FILTERS_CASCADING_EFFECT_TOOLTIP" sap:sc="XTIT">
+        <source>Toggle Cascading Effect</source>
+        <note annotates="source" from="Developer">Tooltip for toggle that enables or disables filter cascade effect</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_FILTERS_WORDWRAP" resname="PAGE_FILTERS_WORDWRAP" sap:sc="XTIT">
+        <source>Wrap Text</source>
+        <note annotates="source" from="Developer">Toggle for enabling or disabling filter word wrap</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_PAGE_FILTERS_SETTINGS" resname="STORY_PAGE_FILTERS_SETTINGS" sap:sc="XTIT">
+        <source>Settings</source>
+        <note annotates="source" from="Developer">the label and tooltip of the filter popup settings menu  KEY=STORY_FILTERS_SETTINGS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JUMP_TO_PREVIOUS" resname="JUMP_TO_PREVIOUS" sap:sc="XMIT">
+        <source>Go Back to Previous Page</source>
+        <note annotates="source" from="Developer">Item that shows up after clicking a filter token. When clicked, will redirect the user to another resource.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTERS_SHOW_HIDE_HIERARCHY_LEVEL_CONTROL" maxwidth="20" resname="STORY_FILTERS_SHOW_HIDE_HIERARCHY_LEVEL_CONTROL" sap:sc="XTIT" size-unit="char">
+        <source>Granularity</source>
+        <note annotates="source" from="Developer">the label and tooltip of the filter popup show / hide menu, the granularity submenu  KEY=STORY_FILTERS_SHOW_HIDE_HIERARCHY_LEVEL_CONTROL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTERS_SHOW_HIDE_MEASURE_NAME" resname="STORY_FILTERS_SHOW_HIDE_MEASURE_NAME" sap:sc="XTIT">
+        <source>Measure</source>
+        <note annotates="source" from="Developer">the label and tooltip of the filter popup show / hide menu, the Measure submenu  KEY=STORY_FILTERS_SHOW_HIDE_AGG_DIMS_HEADER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTERS_SHOW_HIDE_AGG_DIMS_LIST" resname="STORY_FILTERS_SHOW_HIDE_AGG_DIMS_LIST" sap:sc="XTIT">
+        <source>Dimensions</source>
+        <note annotates="source" from="Developer">the label and tooltip of the filter popup show / hide menu, the Dimensions List submenu  KEY=STORY_FILTERS_SHOW_HIDE_AGG_DIMS_LIST</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTERS_SHOW_HIDE_SECONDS_INPUT" resname="STORY_FILTERS_SHOW_HIDE_SECONDS_INPUT" sap:sc="XTIT">
+        <source>Seconds Input</source>
+        <note annotates="source" from="Developer">the label and tooltip of the fixed timestamp filter popup show/hide / menu, the seconds input KEY=STORY_FILTERS_SHOW_HIDE_SECONDS_INPUT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTERS_SHOW_HIDE_MILLISECONDS_INPUT" resname="STORY_FILTERS_SHOW_HIDE_MILLISECONDS_INPUT" sap:sc="XTIT">
+        <source>Milliseconds Input</source>
+        <note annotates="source" from="Developer">the label and tooltip of the fixed timestamp filter popup show/hide / menu, the milliseconds input KEY=STORY_FILTERS_SHOW_HIDE_MILLISECONDS_INPUT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTERS_SHOW_HIDE_RANGE_DETAIL" resname="STORY_FILTERS_SHOW_HIDE_RANGE_DETAIL" sap:sc="XTIT">
+        <source>Range Detail</source>
+        <note annotates="source" from="Developer">the label and tooltip of the range filter popup show/hide / menu, the range detail submenu KEY=STORY_FILTERS_SHOW_HIDE_RANGE_DETAIL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTERS_SHOW_HIDE_SUBTITLE" resname="STORY_FILTERS_SHOW_HIDE_SUBTITLE" sap:sc="XTIT">
+        <source>Subtitle</source>
+        <note annotates="source" from="Developer">the subtitle and tooltip of the filter popup show/hide / menu KEY=STORY_FILTERS_SHOW_HIDE_SUBTITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTER_ACTIVE_LINKED_DIMENSIONS" maxwidth="30" resname="STORY_FILTER_ACTIVE_LINKED_DIMENSIONS" sap:sc="XTIT" size-unit="char">
+        <source>Active Linked Dimensions</source>
+        <note annotates="source" from="Developer">the label of the story filter Enhanced Filter indicators popup menu  KEY=STORY_FILTER_ACTIVE_LINKED_DIMENSIONS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_FILTER_INDIRECT_FILTER_DIMENSIONS" maxwidth="30" resname="STORY_FILTER_INDIRECT_FILTER_DIMENSIONS" sap:sc="XTIT" size-unit="char">
+        <source>Indirect Filter Dimensions</source>
+        <note annotates="source" from="Developer">the label of the story filter Enhanced Filter indicators popup menu  KEY=STORY_FILTER_INDIRECT_FILTER_DIMENSIONS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_INVALID_VALUES_WARNING_TITLE" resname="FILTER_INVALID_VALUES_WARNING_TITLE" sap:sc="XTIT">
+        <source>Filter contains invalid values</source>
+        <note annotates="source" from="Developer">title for tooltip popup for the warning when the filter contains invalid values.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_INVALID_VALUES_WARNING_MESSAGE" resname="FILTER_INVALID_VALUES_WARNING_MESSAGE" sap:sc="XTOL">
+        <source>This filter contains values that are not in the model.</source>
+        <note annotates="source" from="Developer">detailed message for when the filter contains invalid values.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_INVALID_MODEL_WARNING_TITLE" resname="FILTER_INVALID_MODEL_WARNING_TITLE" sap:sc="XTIT">
+        <source>Filter Model Invalid</source>
+        <note annotates="source" from="Developer">title for tooltip popup for the warning when the range filter is based off an invalid model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_INVALID_MODEL_WARNING_MESSAGE" resname="FILTER_INVALID_MODEL_WARNING_MESSAGE" sap:sc="XTOL">
+        <source>This filter is no longer usable because the dimension contains no booked data.</source>
+        <note annotates="source" from="Developer">detailed message for when the range filter is based off an invalid model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_LOV_FETCH_FAILURE_WARNING_MESSAGE" resname="FILTER_LOV_FETCH_FAILURE_WARNING_MESSAGE" sap:sc="XTOL">
+        <source>An error occured while fetching the list of members.</source>
+        <note annotates="source" from="Developer">detailed message for when the input control couldn't fetch the list of members.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SCOPE_FILTER_NO_GROUP_MEMBERS_TITLE" resname="SCOPE_FILTER_NO_GROUP_MEMBERS_TITLE" sap:sc="XTIT">
+        <source>No Connected Widgets</source>
+        <note annotates="source" from="Developer">title for tooltip popup for the warning when a scope filter contains no group members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SCOPE_FILTER_NO_GROUP_MEMBERS_MESSAGE" resname="SCOPE_FILTER_NO_GROUP_MEMBERS_MESSAGE" sap:sc="XTIT">
+        <source>No widgets will be affected by changes made to this input control.</source>
+        <note annotates="source" from="Developer">detailed message for when the scope filter contains no group members</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_INVALID_HIERARCHY_FOR_BLENDING_WARNING_TITLE" resname="FILTER_INVALID_HIERARCHY_FOR_BLENDING_WARNING_TITLE" sap:sc="XTIT">
+        <source>Filter contains invalid hierarchy</source>
+        <note annotates="source" from="Developer">title for tooltip popup for the warning when the filter contains invalid hierarchy for blending.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_INVALID_HIERARCHY_FOR_BLENDING_WARNING_MESSAGE" resname="FILTER_INVALID_HIERARCHY_FOR_BLENDING_WARNING_MESSAGE" sap:sc="XTOL">
+        <source>Hierarchical filters on this active linked dimension are not supported in a blended chart.</source>
+        <note annotates="source" from="Developer">detailed message for when the filter contains invalid hierarchy for blending.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_INVALID_VALUE_DISPLAY_NAME" resname="FILTER_INVALID_VALUE_DISPLAY_NAME" sap:sc="XFLD">
+        <source>invalid</source>
+        <note annotates="source" from="Developer">display name to use for filter values that do not exist in the model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_CALC_DIMENSION_BLENDED_TITLE" resname="FILTER_CALC_DIMENSION_BLENDED_TITLE" sap:sc="XTIT">
+        <source>Filter is not supported</source>
+        <note annotates="source" from="Developer">title for tooltip popup for the warning when the filter is on a calculated dimension when chart is blended</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_CALC_DIMENSION_BLENDED_MESSAGE" resname="FILTER_CALC_DIMENSION_BLENDED_MESSAGE" sap:sc="XTOL">
+        <source>Filtering a calculated dimension on a blended chart is not supported</source>
+        <note annotates="source" from="Developer">detailed message for when the filter is on a calculated dimension when chart is blended</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_RELATIVE_LAST_OFFSET" resname="FILTER_RELATIVE_LAST_OFFSET" sap:sc="XFLD">
+        <source>Look Back</source>
+        <note annotates="source" from="Developer">label for last offset in a range filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_RELATIVE_NEXT_OFFSET" resname="FILTER_RELATIVE_NEXT_OFFSET" sap:sc="XFLD">
+        <source>Look Ahead</source>
+        <note annotates="source" from="Developer">label for next offset in a range filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_RELATIVE_CURRENT_DATE" resname="FILTER_RELATIVE_CURRENT_DATE" sap:sc="XFLD">
+        <source>Current Period</source>
+        <note annotates="source" from="Developer">label for current date in a range filter, Note to translation team: "Period" refers to a period of time</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_RELATIVE_RANGE_INFO_ICONS" resname="FILTER_RELATIVE_RANGE_INFO_ICONS" sap:sc="XFLD">
+        <source>Range Info Icons</source>
+        <note annotates="source" from="Developer">label for icons that display range values when hovered</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_RANGE_SLIDER" resname="FILTER_RANGE_SLIDER" sap:sc="XFLD">
+        <source>Range Slider</source>
+        <note annotates="source" from="Developer">default label for visual representation of ranges on a slider</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_RELATIVE_RANGE_SLIDER" resname="FILTER_RELATIVE_RANGE_SLIDER" sap:sc="XFLD">
+        <source>Time Range</source>
+        <note annotates="source" from="Developer">label for visual representation of ranges on a timeline</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DEFAULT_FILTER_EDIT_ITEM_TITLE" resname="DEFAULT_FILTER_EDIT_ITEM_TITLE" sap:sc="XTIT">
+        <source>Edit</source>
+        <note annotates="source" from="Developer">the default filter tooltip edit item title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_FILTER_EDIT_ITEM_TITLE" resname="RANGE_FILTER_EDIT_ITEM_TITLE" sap:sc="XTIT">
+        <source>Set Filter Range for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">the range filter tooltip edit item title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_FILTER_EDIT_ITEM_DEFAULT_TITLE" resname="RANGE_FILTER_EDIT_ITEM_DEFAULT_TITLE" sap:sc="XTIT">
+        <source>Set Filter Range</source>
+        <note annotates="source" from="Developer">the default range filter tooltip edit item title for filters without titles of their own</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_MORE_ACTIONS_MENU_APPLY_FILTER" resname="FILTER_MORE_ACTIONS_MENU_APPLY_FILTER" sap:sc="XTIT">
+        <source>Apply Filter</source>
+        <note annotates="source" from="Developer">filter item menu action apply filter title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_MORE_ACTIONS_MENU_APPLY_FILTER_TOOLTIP" resname="FILTER_MORE_ACTIONS_MENU_APPLY_FILTER_TOOLTIP" sap:sc="XTOL">
+        <source>Toggle to apply filter</source>
+        <note annotates="source" from="Developer">filter item menu action apply filter tooltip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PAGE_FILTER_RANGE_TITLE" resname="PAGE_FILTER_RANGE_TITLE" sap:sc="XTIT">
+        <source><ph id="1">{0}</ph> Range Filter</source>
+        <note annotates="source" from="Developer">the label and tooltip for the range on-canvas</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_FILTERS_SEARCH" resname="PAGE_FILTERS_SEARCH" sap:sc="XTIT">
+        <source>Search</source>
+        <note annotates="source" from="Developer">the tooltip for the search icon in the search filters bar  KEY=PAGE_FILTERS_SEARCH</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_FILTER_EMPTY" maxwidth="20" resname="PAGE_FILTER_EMPTY" sap:sc="XTIT" size-unit="char">
+        <source>No Data Found</source>
+        <note annotates="source" from="Developer">the label shown in the filter bar if there is no data on the page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_FILTER_REMOVE_HIDDEN_DIMENSION" maxwidth="255" resname="PAGE_FILTER_REMOVE_HIDDEN_DIMENSION" sap:sc="XMSG" size-unit="char">
+        <source>This dimension has been hidden from the modeler.  You will need to unhide it before you can use it.</source>
+        <note annotates="source" from="Developer">When remove a filter that has been hidden</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_NO_DATASOURCE_TITLE" resname="FILTER_NO_DATASOURCE_TITLE" sap:sc="XTIT">
+        <source>Filter unavailable</source>
+        <note annotates="source" from="Developer">the title for then trying to interact with a filter where the data source can't be found</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIMENSION_BASED_FILTER_NO_DATASOURCE_MESSAGE" resname="DIMENSION_BASED_FILTER_NO_DATASOURCE_MESSAGE" sap:sc="XMSG">
+        <source>This filter is no longer usable because the datasource, dimension or selected hierarchy no longer exists, the dimension has a missing required hierarchy, or the dimension type has changed.</source>
+        <note annotates="source" from="Developer">When trying to interact with a dimension-based filter where the data source, dimension or selected hierarchy on dimension can't be found or the type has changed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MEASURE_BASED_FILTER_NO_DATASOURCE_MESSAGE" resname="MEASURE_BASED_FILTER_NO_DATASOURCE_MESSAGE" sap:sc="XMSG">
+        <source>This filter is no longer usable because the datasource, measure or aggregation dimension no longer exists, a required dimension for the measure is missing, or a calculation is not valid.</source>
+        <note annotates="source" from="Developer">When trying to interact with a measure-based filter where the data source, measure, aggregation dimensions or required dimensions can't be found</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_BLENDING_UNSUPPORTED_TITLE" resname="FILTER_BLENDING_UNSUPPORTED_TITLE" sap:sc="XTIT">
+        <source>Filter cannot be used</source>
+        <note annotates="source" from="Developer">the title for then trying to interact with a filter where the data source is blended but it isn't supported</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_BLENDING_UNSUPPORTED_MESSAGE" resname="FILTER_BLENDING_UNSUPPORTED_MESSAGE" sap:sc="XMSG">
+        <source>This filter cannot be used because blending is not supported in this workflow</source>
+        <note annotates="source" from="Developer">When trying to interact with a dimension-based filter where the data source is from a blended datasource but it isn't supported</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_FILTER_EMPTY_SEARCH_RESULTS" resname="PAGE_FILTER_EMPTY_SEARCH_RESULTS" sap:sc="XTIT">
+        <source>No search results</source>
+        <note annotates="source" from="Developer">the label when search results is empty</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EFFECTIVE_FILTER_WIDGET_DELETE_TOOLTIP" resname="EFFECTIVE_FILTER_WIDGET_DELETE_TOOLTIP" sap:sc="XTIT">
+        <source>Remove</source>
+        <note annotates="source" from="Developer">the tooltip text for the delete button on EffectiveFilterWidgetItem</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_SWITCH_TITLE" resname="RANGE_SELECTOR_SWITCH_TITLE" sap:sc="XTIT">
+        <source>Type</source>
+        <note annotates="source" from="Developer">the title of the range switch control</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_SWITCH_FIXED" resname="RANGE_SELECTOR_SWITCH_FIXED" sap:sc="XTIT">
+        <source>Fixed</source>
+        <note annotates="source" from="Developer">range switch control fixed option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_SWITCH_DYNAMIC" resname="RANGE_SELECTOR_SWITCH_DYNAMIC" sap:sc="XTIT">
+        <source>Dynamic</source>
+        <note annotates="source" from="Developer">range switch control dynamic option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NUMERIC_RANGE_SELECTOR_TITLE" maxwidth="20" resname="NUMERIC_RANGE_SELECTOR_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Set Range for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">the title of the range selector dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_SELECTOR_TITLE" maxwidth="30" resname="RANGE_SELECTOR_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Set Date Range for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">the title of the range selector dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_SELECTOR_SUBTITLE" maxwidth="20" resname="RANGE_SELECTOR_SUBTITLE" sap:sc="XTIT" size-unit="char">
+        <source>Range <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">the subtitle of the range selector dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_SELECTOR_TOOLTIP_START_OF" resname="RANGE_SELECTOR_TOOLTIP_START_OF" sap:sc="XTOL">
+        <source>Start of <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">tooltip for start of range value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_SELECTOR_TOOLTIP_END_OF" resname="RANGE_SELECTOR_TOOLTIP_END_OF" sap:sc="XTOL">
+        <source>End of <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">tooltip for end of range value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_ADD_NEW_RANGE" resname="RANGE_SELECTOR_ADD_NEW_RANGE" sap:sc="XTIT">
+        <source>Add a New Range</source>
+        <note annotates="source" from="Developer">add new date range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_OPERATOR_GREATER" maxwidth="20" resname="RANGE_SELECTOR_OPERATOR_GREATER" sap:sc="XTIT" size-unit="char">
+        <source>Greater Than</source>
+        <note annotates="source" from="Developer">the operator 'Greater Than' of the range selector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_OPERATOR_GREATER_EQUAL" maxwidth="35" resname="RANGE_SELECTOR_OPERATOR_GREATER_EQUAL" sap:sc="XTIT" size-unit="char">
+        <source>Greater Than or Equal To</source>
+        <note annotates="source" from="Developer">the operator 'Greater Than or Equal To' of the range selector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_OPERATOR_LESS" maxwidth="20" resname="RANGE_SELECTOR_OPERATOR_LESS" sap:sc="XTIT" size-unit="char">
+        <source>Less Than</source>
+        <note annotates="source" from="Developer">the operator 'Less Than' of the range selector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_OPERATOR_LESS_EQUAL" maxwidth="35" resname="RANGE_SELECTOR_OPERATOR_LESS_EQUAL" sap:sc="XTIT" size-unit="char">
+        <source>Less Than or Equal To</source>
+        <note annotates="source" from="Developer">the operator 'Less Than or Equal To' of the range selector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_OPERATOR_BETWEEN" maxwidth="20" resname="RANGE_SELECTOR_OPERATOR_BETWEEN" sap:sc="XTIT" size-unit="char">
+        <source>Between</source>
+        <note annotates="source" from="Developer">the operator 'Between' of the range selector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_OPERATOR_BETWEEN_TO" maxwidth="20" resname="RANGE_SELECTOR_OPERATOR_BETWEEN_TO" sap:sc="XTIT" size-unit="char">
+        <source>to</source>
+        <note annotates="source" from="Developer">alternate conjunction word that use in operator 'Between' of the range selector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_OPERATOR_BETWEEN_INCREMENT" resname="RANGE_SELECTOR_OPERATOR_BETWEEN_INCREMENT" sap:sc="XTIT">
+        <source>Increment</source>
+        <note annotates="source" from="Developer">increment label word that use in operator 'Between' of the range selector for static numeric range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_DATERANGE_HINT" maxwidth="100" resname="RANGE_SELECTOR_DATERANGE_HINT" sap:sc="XTIT" size-unit="char">
+        <source>The start date cannot be later than the end date.</source>
+        <note annotates="source" from="Developer">validation error when start range is greater than end range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_SELECTOR_DATERANGE_INPUT_DISCRETE_OUTSIDE_SEL" resname="RANGE_SELECTOR_DATERANGE_INPUT_DISCRETE_OUTSIDE_SEL" sap:sc="XTIT">
+        <source>Date is not within the selectable range: <ph id="1">{0}</ph> to <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">validation error for Discrete where the date is outside the seelctable range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_SELECTOR_START_OUTSIDE_DATERANGE" resname="RANGE_SELECTOR_START_OUTSIDE_DATERANGE" sap:sc="XTIT">
+        <source>The start date is outside the selectable range: <ph id="1">{0}</ph> to <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">validation error when the start date is outside the selectable range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_SELECTOR_END_OUTSIDE_DATERANGE" resname="RANGE_SELECTOR_END_OUTSIDE_DATERANGE" sap:sc="XTIT">
+        <source>The end date is outside the selectable range: <ph id="1">{0}</ph> to <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">validation error when the end date is outside the selectable range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_HIER_LEVEL" resname="RANGE_SELECTOR_HIER_LEVEL" sap:sc="XTIT">
+        <source>Granularity</source>
+        <note annotates="source" from="Developer">Hierarchy level control title on the range selector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_SELECTOR_RANGE_NAME_WITH_RANGE_VALUES" resname="RANGE_SELECTOR_RANGE_NAME_WITH_RANGE_VALUES" sap:sc="XTIT">
+        <source><ph id="1">{0}</ph> (<ph id="2">{1}</ph>)</source>
+        <note annotates="source" from="Developer">The name of the range, followed by the actual range values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_NAME_CURRENT_DATE_OFFSET" resname="RANGE_NAME_CURRENT_DATE_OFFSET" sap:sc="XTIT">
+        <source>Offset <ph id="1">{0}</ph> (<ph id="2">{1}</ph>)</source>
+        <note annotates="source" from="Developer">The name of the offset range, followed by the actual range values ex. "Offset Current Year (2009)"</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="WARNING_CURRENT_DATE_OFFSET_REMOVED" resname="WARNING_CURRENT_DATE_OFFSET_REMOVED" sap:sc="XMSG">
+        <source>Some ranges have been modified because range offset is not supported when <ph id="1">{0}</ph> is disabled.</source>
+        <note annotates="source" from="Developer">The toast message that appears in the Complex Filter dialog to tell the user that some Dynamic Time Range filters have been modified</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NUMERIC_RANGE_SELECTOR_HINT" maxwidth="100" resname="NUMERIC_RANGE_SELECTOR_HINT" sap:sc="XTIT" size-unit="char">
+        <source>The start value cannot be bigger than the end value.</source>
+        <note annotates="source" from="Developer">validation error when start range is greater than end range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NUMERIC_RANGE_SELECTOR_HINT_EXCEED" maxwidth="100" resname="NUMERIC_RANGE_SELECTOR_HINT_EXCEED" sap:sc="XTIT" size-unit="char">
+        <source>Input value is outside the available value range.</source>
+        <note annotates="source" from="Developer">validation warning when value is outside range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NUMERIC_RANGE_SELECTOR_HINT_NAN" maxwidth="100" resname="NUMERIC_RANGE_SELECTOR_HINT_NAN" sap:sc="XTIT" size-unit="char">
+        <source>Please enter a number.</source>
+        <note annotates="source" from="Developer">validation error when start range is greater than end range</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NUMERIC_RANGE_SELECTOR_HINT_INCREMENT" resname="NUMERIC_RANGE_SELECTOR_HINT_INCREMENT" sap:sc="XTIT">
+        <source>The increment value must be positive and less than the size of the range.</source>
+        <note annotates="source" from="Developer">validation error when increment is less than 0 or bigger than upper bound</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RANGE_SELECTOR_REMOVE" resname="RANGE_SELECTOR_REMOVE" sap:sc="XTIT">
+        <source>Remove</source>
+        <note annotates="source" from="Developer">the tooltip text for the delete button for a range within the Range Selector</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_INACTIVE_VALUES_NO_NUMBER" resname="SHOW_INACTIVE_VALUES_NO_NUMBER" sap:sc="XTIT">
+        <source>Show Inactive Values</source>
+        <note annotates="source" from="Developer">Label for control that shows inactive (hidden) filter values without the count</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SHOW_INACTIVE_VALUES" resname="SHOW_INACTIVE_VALUES" sap:sc="XTIT">
+        <source>Show Inactive Values (<ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Label for control that shows inactive (hidden) filter values with the count</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HIDE_INACTIVE_VALUES_NO_NUMBER" resname="HIDE_INACTIVE_VALUES_NO_NUMBER" sap:sc="XTIT">
+        <source>Hide Inactive Values</source>
+        <note annotates="source" from="Developer">Label for control that hides inactive filter values without the count</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="HIDE_INACTIVE_VALUES" resname="HIDE_INACTIVE_VALUES" sap:sc="XTIT">
+        <source>Hide Inactive Values (<ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Label for control that hides inactive filter values with the count</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="INACTIVE_VALUES" resname="INACTIVE_VALUES" sap:sc="XTIT">
+        <source>Inactive Values (<ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Label for control that display number of inactive filter values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOKEN_FILTER_RESET_TOOLTIP" resname="TOKEN_FILTER_RESET_TOOLTIP" sap:sc="XTIT">
+        <source>Reset</source>
+        <note annotates="source" from="Developer">Tooltip for reset filter icon</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NOT_UNIQUE_EXTERNAL_NAME_DIM_FILTER" resname="NOT_UNIQUE_EXTERNAL_NAME_DIM_FILTER" sap:sc="XMSG">
+        <source>The dimension value is not unique in filter <ph id="1">{0}</ph>. Please use the dimension ID instead of the external name.</source>
+        <note annotates="source" from="Developer">message to warn user about not unique dimension external name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ERROR_INVALID_MODEL_ID" resname="ERROR_INVALID_MODEL_ID" sap:sc="XMSG">
+        <source>There was an invalid model ID provided for filter <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">message to warn user they have provided an invalid model as an argument. Arg 0 = string label for filter in form of "fxx", e.g. f01, f11, f99.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ERROR_NO_DIMENSION_OR_VALUE_FOR_FILTER" resname="ERROR_NO_DIMENSION_OR_VALUE_FOR_FILTER" sap:sc="XMSG">
+        <source>Could not find a dimension or value for filter <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">message to warn user they have not provided a dimension or value as an argument. Arg 0 = string label for filter in form of "fxx", e.g. f01, f11, f99</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ERROR_INVALID_DIMENSION_FOR_FILTER" resname="ERROR_INVALID_DIMENSION_FOR_FILTER" sap:sc="XMSG">
+        <source>There was an invalid dimension ID for filter <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">message to warn user they have provided an invalid dimension. Arg 0 = string label for filter in form of "fxx", e.g. f01, f11, f99.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ERROR_INVALID_OPERATOR_FOR_FILTER" resname="ERROR_INVALID_OPERATOR_FOR_FILTER" sap:sc="XMSG">
+        <source>There was an invalid operator in filter <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">message to warn user they have provided an invalid dimension or value as an argument. Arg 0 = string label for filter in form of "fxx", e.g. f01, f11, f99.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ERROR_INVALID_PARAMETER_VALUE_FOR_FILTER" resname="ERROR_INVALID_PARAMETER_VALUE_FOR_FILTER" sap:sc="XMSG">
+        <source>There was an invalid parameter value in filter <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">message to warn user they have provided an invalid parameter value as an argument. Arg 0 = string label for filter in form of "fxx", e.g. f01, f11, f99</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_COMPLETED_WITH_ERRORS" resname="FILTER_COMPLETED_WITH_ERRORS" sap:sc="XMSG">
+        <source>The parameters that were passed to the URL API produced errors.</source>
+        <note annotates="source" from="Developer">Short message to warn users there were issues when creating filters</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_USER_FRIENDLY_API_ERROR_PREFACE" resname="FILTER_USER_FRIENDLY_API_ERROR_PREFACE" sap:sc="XMSG">
+        <source>We detected problems in the URL used to access this story. If you came to this story from a URL you assembled yourself, please resolve the errors below. If you were brought here from a link, please contact your administrator.</source>
+        <note annotates="source" from="Developer">Explanation to user that something went wrong with their filters when opening story</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FILTER_REFER_TO_DOCS" resname="FILTER_REFER_TO_DOCS" sap:sc="XMSG">
+        <source>Please check that the parameters and values passed to the URL API are well-formed and properly encoded. For additional guidance on the usage of the API, please refer to the documentation at: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Prompt for user to refer to documentation when errors in filter URL API have occurred. Arg 0 = documentation URL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_INITIALIZE_FAIL" resname="ERROR_INITIALIZE_FAIL" sap:sc="XMSG">
+        <source>Failed to initialize</source>
+        <note annotates="source" from="Developer">Message to display when a dialog (or other UI Compoent) fails to initialize</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_SELECTOR_FILTER_DIMENSIONS" resname="RANGE_SELECTOR_FILTER_DIMENSIONS" sap:sc="XMSG">
+        <source>Filter <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Message that lists dimensions being filtered. E.g. "Filter Country, Region"</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_SELECTOR_FILTER_MEASURE" resname="RANGE_SELECTOR_FILTER_MEASURE" sap:sc="XMSG">
+        <source>By <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Message that describes which measure establishes a filter threshold. E.g. For a filter that selects values based on Quantity, it reads "By Quantity"</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_PANEL_APPLY_FILTER_TO_SUB_TOPICS" resname="STORYFLOW_FILTER_PANEL_APPLY_FILTER_TO_SUB_TOPICS" sap:sc="XFLD">
+        <source>Apply filter to sub-topics</source>
+        <note annotates="source" from="Developer">menu item label on Boardroom filter panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_PANEL_FILTER_NOT_USED" resname="STORYFLOW_FILTER_PANEL_FILTER_NOT_USED" sap:sc="XFLD">
+        <source>This filter does not apply to any pages yet.</source>
+        <note annotates="source" from="Developer">tip message in popup when the filter is unused on Boardroom filter panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OPEN_ENDED_RANGE_START_TEXT_PLACEHOLDER" resname="OPEN_ENDED_RANGE_START_TEXT_PLACEHOLDER" sap:sc="XMSG">
+        <source>Start</source>
+        <note annotates="source" from="Developer">Start text placeholder for the start of an open ended range filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OPEN_ENDED_RANGE_END_TEXT_PLACEHOLDER" resname="OPEN_ENDED_RANGE_END_TEXT_PLACEHOLDER" sap:sc="XMSG">
+        <source>End</source>
+        <note annotates="source" from="Developer">End text placeholder for the end of an open ended range filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_DISPLAY_NAME_FALLBACK_BACK_AND_AHEAD" resname="RANGE_DISPLAY_NAME_FALLBACK_BACK_AND_AHEAD" sap:sc="XTIT">
+        <source><ph id="1">{0}</ph> back <ph id="2">{1}</ph> ahead <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">Fallback fiscal range display name back and ahead if no metadata can be retrieved to form the correct display name, {0} is granularity {1} is start offset and {2} is end offset</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RANGE_DISPLAY_NAME_FALLBACK_BACK_AND_UP_TO_CURRENT_PERIOD" resname="RANGE_DISPLAY_NAME_FALLBACK_BACK_AND_UP_TO_CURRENT_PERIOD" sap:sc="XTIT">
+        <source><ph id="1">{0}</ph> back <ph id="2">{1}</ph> up to current period</source>
+        <note annotates="source" from="Developer">Fallback fiscal range display name back and up to current period if no metadata can be retrieved to form the correct display name, {0} is granularity and {1} is start offset</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTERPAUSE_OVERLAY_INFO" resname="FILTERPAUSE_OVERLAY_INFO" sap:sc="XMSG">
+        <source>Pick at least one value in your selected filter.</source>
+        <note annotates="source" from="Developer">Info message for the user to select a filter in pause mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INPUT_CONTROL_ASSOCIATED_CALCULATIONS" maxwidth="35" resname="INPUT_CONTROL_ASSOCIATED_CALCULATIONS" sap:sc="XTIT" size-unit="char">
+        <source>Associated Calculations</source>
+        <note annotates="source" from="Developer">the label of the input control associated calculations popup menu  KEY=INPUT_CONTROL_ASSOCIATED_CALCULATIONS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INPUT_CONTROL_NOT_IN_USE_TITLE" maxwidth="50" resname="INPUT_CONTROL_NOT_IN_USE_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Calculation Input Control Not in Use</source>
+        <note annotates="source" from="Developer">the label of the input control associated calculations popup menu  KEY=INPUT_CONTROL_NOT_IN_USE_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INPUT_CONTROL_INVALID_NO_SELECTED_VALUES" resname="INPUT_CONTROL_INVALID_NO_SELECTED_VALUES" sap:sc="XTOL">
+        <source>This calculation input control has no selected values. This makes all associated calculations invalid. Please select one or more values.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INPUT_CONTROL_INVALID_NOT_IN_CHART_INVALID_CALC_PRESENTER" resname="INPUT_CONTROL_INVALID_NOT_IN_CHART_INVALID_CALC_PRESENTER" sap:sc="XTOL">
+        <source>All the calculations associated with this calculation input control are either invalid, not used in a chart, or cannot be displayed in a chart.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INPUT_CONTROL_INVALID_NOT_IN_CHART_INVALID_CALC_DESIGNER" resname="INPUT_CONTROL_INVALID_NOT_IN_CHART_INVALID_CALC_DESIGNER" sap:sc="XTOL">
+        <source>All the calculations associated with this calculation input control are either invalid, not used in a chart, or cannot be displayed in a chart. To use this calculation input control add a valid associated calculation to a chart or add a new Input Parameter to your R visualization.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INPUT_CONTROL_INVALID_NO_REFERRING_CALC_DESIGNER" resname="INPUT_CONTROL_INVALID_NO_REFERRING_CALC_DESIGNER" sap:sc="XTOL">
+        <source>This calculation input control is not associated with any calculations or input parameter in an R visualization. To use this calculation input control create a calculation which references it and add the calculation to a chart or add a new input parameter to your R visualization which points to this calculation input control.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INPUT_CONTROL_INVALID_NO_REFERRING_CALC_PRESENTER" resname="INPUT_CONTROL_INVALID_NO_REFERRING_CALC_PRESENTER" sap:sc="XTOL">
+        <source>This calculation input control is not associated with any calculations or input parameter in an R visualization. A calculation or R input parameter which references it needs to be created.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INPUT_CONTROL_ASSOCIATED_R_PARAMETERS" maxwidth="35" resname="INPUT_CONTROL_ASSOCIATED_R_PARAMETERS" sap:sc="XTIT" size-unit="char">
+        <source>Associated Input Parameters</source>
+        <note annotates="source" from="Developer">the label of the input control associated calculations popup menu  KEY=INPUT_CONTROL_ASSOCIATED_R_PARAMETERS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_CASCADE_WARNING_TITLE" resname="FILTER_CASCADE_WARNING_TITLE" sap:sc="XTIT">
+        <source>Cascading Not Applied</source>
+        <note annotates="source" from="Developer">title for tooltip popup for cascading filter incomplete operation warning</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FILTER_CASCADE_WARNING_MESSAGE" resname="FILTER_CASCADE_WARNING_MESSAGE" sap:sc="XTOL">
+        <source>Cascading filters cannot be applied on this dimension because the system is taking too long or there are more than <ph id="1">{0}</ph> dimension values.</source>
+        <note annotates="source" from="Developer">detailed message about cascading operation not performed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FILTER_INCOMPATIBLE_WITH_DAC_MESSAGE" resname="FILTER_INCOMPATIBLE_WITH_DAC_MESSAGE" sap:sc="XTOL">
+        <source>This <ph id="1">{0}</ph> has filters based upon dimensions that have some members hidden for users without authorization. If only hidden members were selected for filtering, you may not see any data.</source>
+        <note annotates="source" from="Developer">message for tooltip popup for the warning when the filter is incompatible with data access control.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_INCOMPATIBLE_WITH_DAC_TITLE" resname="FILTER_INCOMPATIBLE_WITH_DAC_TITLE" sap:sc="XTIT">
+        <source>Data visibility warning</source>
+        <note annotates="source" from="Developer">title for tooltip popup for the warning when the filter is incompatible with data access control.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_PIPELINE_CCD_HEADER_TEXT" resname="FILTER_PIPELINE_CCD_HEADER_TEXT" sap:sc="XTIT">
+        <source>Linked to Current Date</source>
+        <note annotates="source" from="Developer">Header title for filter's linked Current Date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIME_FILTERS_SHORTCUTS" resname="TIME_FILTERS_SHORTCUTS" sap:sc="XMIT">
+        <source>Add Time Filters</source>
+        <note annotates="source" from="Developer">title for FilterPopUp section that holds buttons for quick creation of filters on time dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CURRENT" resname="CURRENT" sap:sc="XMIT">
+        <source>Current</source>
+        <note annotates="source" from="Developer">title for FilterPopUp section that holds buttons for quick creation of filters for current period</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREVIOUS" resname="PREVIOUS" sap:sc="XMIT">
+        <source>Previous</source>
+        <note annotates="source" from="Developer">title for FilterPopUp section that holds buttons for quick creation of filters for previous period</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NEXT" resname="NEXT" sap:sc="XMIT">
+        <source>Next</source>
+        <note annotates="source" from="Developer">title for FilterPopUp section that holds buttons for quick creation of filters for next period</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREVIOUS_AND_CURRENT" resname="PREVIOUS_AND_CURRENT" sap:sc="XMIT">
+        <source>Previous &amp; Current</source>
+        <note annotates="source" from="Developer">title for FilterPopUp section that holds buttons for quick creation of filters for previous and current periods</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CURRENT_AND_NEXT" resname="CURRENT_AND_NEXT" sap:sc="XMIT">
+        <source>Current &amp; Next</source>
+        <note annotates="source" from="Developer">title for FilterPopUp section that holds buttons for quick creation of filters for current and next periods</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIME_DIMENSIONS" resname="TIME_DIMENSIONS" sap:sc="XMIT">
+        <source>Time Dimensions</source>
+        <note annotates="source" from="Developer">title for FilterPopUp section that holds the multiple time dimensions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHORTCUTS_BUTTON_DISABLED" resname="SHORTCUTS_BUTTON_DISABLED" sap:sc="XMSG">
+        <source>Only one time filter per dimension can be added.</source>
+        <note annotates="source" from="Developer">Tooltip to explain quick filter creation button is disabled because there is a filter on the dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FULL_PERIOD" resname="FULL_PERIOD" sap:sc="XMIT">
+        <source>Full Period</source>
+        <note annotates="source" from="Developer">title for FilterPopUp flyout section that holds options for creating a filter for a full period</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TO_DATE" resname="TO_DATE" sap:sc="XMIT">
+        <source>To Date</source>
+        <note annotates="source" from="Developer">title for FilterPopUp flyout section that holds options for creating up to date filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FULL" resname="FULL" sap:sc="XMIT">
+        <source>Full</source>
+        <note annotates="source" from="Developer">part of tooltip for FilterPopUp flyout buttons that create a filter for a full period</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PERIOD_TOOLTIP" resname="PERIOD_TOOLTIP" sap:sc="XMIT">
+        <source><ph id="1">{0}</ph> <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">tooltip for FilterPopUp flyout buttons that explains filter for what perid will be created (Full Year, Full Month or Year To Date, Month To Date etc.)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FILTER_VALUES_N_MORE" resname="FILTER_VALUES_N_MORE" sap:sc="XSEL">
+        <source><ph id="1">{0}</ph> (and <ph id="2">{1}</ph> more)</source>
+        <note annotates="source" from="Developer">Displaying a list of filter values (0) but there are (1) too many values to show</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_CONTROL_FULL_SCREEN_PANEL" maxwidth="50" resname="FILTER_CONTROL_FULL_SCREEN_PANEL" sap:sc="XMSG" size-unit="char">
+        <source>Filter Controls</source>
+        <note annotates="source" from="Developer">Title of the Filter Control Panel for Mobile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_FILTERS_AVAILABLE_FULL_SCREEN_PANEL" maxwidth="60" resname="NO_FILTERS_AVAILABLE_FULL_SCREEN_PANEL" sap:sc="XMSG" size-unit="char">
+        <source>No Filters Available</source>
+        <note annotates="source" from="Developer">Show No Filters Available</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_FILTERS_VALUES_AVAILABLE_FULL_SCREEN_PANEL" maxwidth="60" resname="NO_FILTERS_VALUES_AVAILABLE_FULL_SCREEN_PANEL" sap:sc="XMSG" size-unit="char">
+        <source>No Values Available</source>
+        <note annotates="source" from="Developer">Show No Filter Values</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORY_FILTER_GROUP_FULL_SCREEN_PANEL" maxwidth="50" resname="STORY_FILTER_GROUP_FULL_SCREEN_PANEL" sap:sc="XMSG" size-unit="char">
+        <source>Story Filters (<ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Story Filter Group for Mobile Filter Control Panel and the number (0) of the story filters in the group</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PAGE_FILTER_GROUP_FULL_SCREEN_PANEL" maxwidth="50" resname="PAGE_FILTER_GROUP_FULL_SCREEN_PANEL" sap:sc="XMSG" size-unit="char">
+        <source>Page Filters (<ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Page Filter Group for Mobile Filter Control Panel and the number (0) of the page filters in the group</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="APPLY_BUTTON_FULLSCREEN_PANEL" maxwidth="30" resname="APPLY_BUTTON_FULLSCREEN_PANEL" sap:sc="XMSG" size-unit="char">
+        <source>Apply</source>
+        <note annotates="source" from="Developer">Apply Button for Mobile Filter Control Panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_VALUE_FULLSCREEN_PANAL" maxwidth="30" resname="SELECT_VALUE_FULLSCREEN_PANAL" sap:sc="XMSG" size-unit="char">
+        <source>Select Value</source>
+        <note annotates="source" from="Developer">Select Discrete Value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_RANGE_VALUE_FULLSCREEN_PANAL" maxwidth="30" resname="SELECT_RANGE_VALUE_FULLSCREEN_PANAL" sap:sc="XMSG" size-unit="char">
+        <source>Select Filter for Range</source>
+        <note annotates="source" from="Developer">Select Range Value</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UNABLE_TO_PRELOAD_MINMAX" resname="UNABLE_TO_PRELOAD_MINMAX" sap:sc="XMSG">
+        <source>Unable to preload the min and max data required for a successful model initialization.</source>
+        <note annotates="source" from="Developer">Message when we fail to initialize the range filter model because preloading the min and max failed to complete.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

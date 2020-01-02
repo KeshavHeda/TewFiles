@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-oem.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="14f6e82f2c1c75f9b254332dbe4b9d5e" form="base64">H4sIAAAAAAAAAKVWTW/bOBC951cQ6KEt0PV2F9lLgB4YiY6FyKKqjzTZC0FLjEOsTHkpKU3+/Q4p2ZYSOZG3l8CxZ96b4Tw+zgd0u4yvLlAlCpHVslSIKySeZFVLtUZxk2WiquY8q0tdoaxUqo06i+fxnH13WUx84iTMoUGAvqGwELwSKLZgiKMYhy8xfPkokHMA+vBmARCYNbpPDExOGk2j7rJPpORFIfNm0K2Dfd9z03gi7Q7hNGL3h9PnhH+n0Zm8E5l4zdGS63rAhxPMljhKJrLuMU7jpmTZZniqFmvNbUCvDHKbkMAlLlvgAE8rhTzVQuUiRyZleiVYyxXvU+PIu5xI2eae1vm9FEW+Lng1kNbcI7575eN4orjmB5QTdX0+kBf8O1HN56fKy97638/bcbw16/h8wXzvhkw0kqOQkyuzmb0CppMfOwGidanRBgyOrwW6h89roYTmxTu+VyH0G7rnsgDZ1iXKZbUt+DOQFVAqKu9f1DxipIc2qr0bu14c2i7YHHs+caGZ+SuO+kG8j96rdEKvv97coJ3dWH6hnUH9pvwv6I8/v55den/fAuIyxMEdoDnlZsvVcz/ixouSFPtsQeOEBXhJIOxG6rqBNhcllB/wjTiaENIoeZkQlrruJ5iGQG0eDZhPHWw/eKY3v8xaPXvui/gEXJGFOFnYmkH5TwDL64d+WBjR2zuW3IWEuWSOUz9hCaV+4oWQ5Ip73hQ1kpU9r0deNAI98AqthFBwWeAXhT5GZEkTwizSRzORe7lGW66h41poMziTDGbLVf029YHySBz0HAKdF5vzpQqFWmxkJY5HOz5NzSGZe6+VOIY7pxG7xM41vCEQfMmzf+BpAPTy6Rklz9sBgRfcYHjWe3rwFJyMzMd0sQsejmyXcGR0B4bBCA8046PcpY1pcZf7piZHATptjgJ0Gp377hf019cLhNurKmuxMcrIdbnNy58qKzerclU+zcyXmTFJ0ISCuyiqTMutOYFPVbNCpqvPCF2Tu28BBU3ETuSF7aklZHk28h0U9mkI9Llfj0FyPZYGt6x3fbwAxr2040C1rAsoR3XOjyC05yngFrwo12dHkr/1/AIOCKxtw1ubP5xpGuBLn8CdYjhNFiRIPBCCmUiq+AqowZJ4A/dD1RK0IGa7Z0SoqtECPZdmj9UiNwG8qBDX9h7KfDbOEmMwQScirqHC/oCo4mBz5i4eAPd80HQNJt6Z+nYLk7VeDRsDjJSrTAwIfYpdL7hiRp/Wg3gORjqbzdrjv7DaQgVficLCbLUARwAL/rcR+nmvDKsXWN68ODFoNx75AfaNfXrFnAWlMYl2Au60arEXUtVWLBZ6vzdXguvsYY89Dtu92WZtjUnCFl5g6t892gq2wt62W4l6nNMsz6fQzTH8iWkaOeQ15f4ZmtsBwMQz02riJRcosfocbbOV5ntNMoDxyYHvzgjK9AYMlykw7HFbQESv0aqp6/JIQ/AzOO/1sezMKKV4E8HBgUOMMB0bu+vUKYtmoxB9FPpRip/I7QDbr83dagqukcglbBroAcZRIZnvdxiH+ukyYPSGRAOy9mtz5nHnve6vMPac5iRqY1z2dTukf2jXIzFYj7r1BC7KT/AEBM9bWQu0KXM41Gabg0PYDak66x7dJXWJz9IQRk3G1p0up4/z6spbj+H5RirQIezGpZ6dXhxYSvuUjZQHdtQ+fiMF2rz/W+CZ77A4xHCpApp0qifufhWvdqt4teUZHJzUYDb/AdGV6VW7EAAA</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:58Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SFSF_QD_SELECT_CONN" resname="SFSF_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP SuccessFactors Live Connection</source>
+        <note annotates="source" from="Developer">selection an existing SuccessFactors connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONCUR_QD_SELECT_CONN" resname="CONCUR_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP Concur Live Connection</source>
+        <note annotates="source" from="Developer">selection an existing Concur connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CALLIDUS_QD_SELECT_CONN" resname="CALLIDUS_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP Callidus Live Connection</source>
+        <note annotates="source" from="Developer">selection an existing Callidus connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DWC_QD_SELECT_CONN" resname="DWC_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP DWC Live Connection</source>
+        <note annotates="source" from="Developer">selection an existing DWC connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_MART_QD_SELECT_CONN" resname="DATA_MART_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP Data Mart Live Connection</source>
+        <note annotates="source" from="Developer">selection an existing Data Mart connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXTENDED_HANA_QD_SELECT_CONN" resname="EXTENDED_HANA_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP Extended HANA Connection</source>
+        <note annotates="source" from="Developer">selection an existing OEM Live Integration connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ARIBA_QD_SELECT_CONN" resname="ARIBA_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP Ariba Live Connection</source>
+        <note annotates="source" from="Developer">selection an existing Ariba connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FIELDGLASS_QD_SELECT_CONN" resname="FIELDGLASS_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP Fieldglass Live Connection</source>
+        <note annotates="source" from="Developer">selection an existing fieldglass connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="C4C_QD_SELECT_CONN" resname="C4C_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP C4C Live Connection</source>
+        <note annotates="source" from="Developer">selection an existing C4C connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="S4H_LIVE_QD_SELECT_CONN" resname="S4H_LIVE_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP S/4 HANA Live Integration Connection</source>
+        <note annotates="source" from="Developer">selection an existing SAP S/4 HANA Live Integration connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_QD_SELECT_CONN" resname="LIVE_QD_SELECT_CONN" sap:sc="XMSG">
+        <source>Please Select a SAP Live Connection</source>
+        <note annotates="source" from="Developer">selection an existing Live connection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SFSF_QD_DISP_CONN_FAILED" resname="SFSF_QD_DISP_CONN_FAILED" sap:sc="XMSG">
+        <source>Failed to display the existing Live SAP SuccessFactors Connections</source>
+        <note annotates="source" from="Developer">Error message for general SuccessFactors Live Connections  - failed to display a list of existing Live SAP SuccessFactors connections</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_QD_DISP_CONN_FAILED" resname="LIVE_QD_DISP_CONN_FAILED" sap:sc="XMSG">
+        <source>Failed to display the existing Live SAP Connections</source>
+        <note annotates="source" from="Developer">Error message for general Live Connections  - failed to display a list of existing Live SAP  connections</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BIZX_COMPANY" maxwidth="120" resname="BIZX_COMPANY" sap:sc="XMSG" size-unit="char">
+        <source>Company</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIRTUAL_HOST_NAME" maxwidth="120" resname="VIRTUAL_HOST_NAME" sap:sc="XMSG" size-unit="char">
+        <source>Virtual Host Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIRTUAL_HOST_PORT" maxwidth="120" resname="VIRTUAL_HOST_PORT" sap:sc="XMSG" size-unit="char">
+        <source>Virtual Host Port</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONNECTION_LOCATION_ID" maxwidth="120" resname="CONNECTION_LOCATION_ID" sap:sc="XMSG" size-unit="char">
+        <source>Location ID</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXT_PATH" maxwidth="120" resname="CONTEXT_PATH" sap:sc="XMSG" size-unit="char">
+        <source>Context Path</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROXY_TYPE_DEFAULT_TOOLTIP" maxwidth="120" resname="PROXY_TYPE_DEFAULT_TOOLTIP" sap:sc="XMSG" size-unit="char">
+        <source>Default is the value has been set in 'REMOTE_PROXY' config parameter of the tenant</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROXY_TYPE_DEFAULT" maxwidth="120" resname="PROXY_TYPE_DEFAULT" sap:sc="XMSG" size-unit="char">
+        <source>Default</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROXY_TYPE_ON_PREMISE" maxwidth="120" resname="PROXY_TYPE_ON_PREMISE" sap:sc="XMSG" size-unit="char">
+        <source>On Premise</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROXY_TYPE_ON_CLOUD" maxwidth="120" resname="PROXY_TYPE_ON_CLOUD" sap:sc="XMSG" size-unit="char">
+        <source>Internet</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PROXY_TYPE_FOR_BACKEND" maxwidth="120" resname="PROXY_TYPE_FOR_BACKEND" sap:sc="XMSG" size-unit="char">
+        <source>Backend Proxy Type</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_COMPANY" maxwidth="120" resname="INVALID_COMPANY" sap:sc="XMSG" size-unit="char">
+        <source>Invalid Company</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_LOCATION_ID" maxwidth="120" resname="INVALID_LOCATION_ID" sap:sc="XMSG" size-unit="char">
+        <source>Invalid Location ID</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_CONTEXT_PATH" maxwidth="120" resname="INVALID_CONTEXT_PATH" sap:sc="XMSG" size-unit="char">
+        <source>Invalid Context Path</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_VIRTUAL_HOST_NAME" maxwidth="120" resname="INVALID_VIRTUAL_HOST_NAME" sap:sc="XMSG" size-unit="char">
+        <source>Invalid Virtual Host Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_VIRTUAL_HOST_PORT" maxwidth="120" resname="INVALID_VIRTUAL_HOST_PORT" sap:sc="XMSG" size-unit="char">
+        <source>Invalid Virtual Host Port</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_DESCRIPTION_ITEM" maxwidth="50" resname="NO_DESCRIPTION_ITEM" sap:sc="XFLD" size-unit="char">
+        <source>(no description)</source>
+        <note annotates="source" from="Developer">A list item in dropdowncombobox. in case of no description(sub text)  KEY=NO_DESCRIPTION_ITEM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONNECTION_INFORMATION" maxwidth="50" resname="CONNECTION_INFORMATION" sap:sc="XFLD" size-unit="char">
+        <source>Connection Information</source>
+        <note annotates="source" from="Developer">KEY=DI_UNX_CONNECTION_INFORMATION title on select UNX connection dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UNABLE_TO_AUTHENTICATE" maxwidth="120" resname="UNABLE_TO_AUTHENTICATE" sap:sc="XMSG" size-unit="char">
+        <source>Unable to authenticate. Please ensure your credentials are valid.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UNABLE_TO_SAVE_CREDENTIAL" maxwidth="120" resname="UNABLE_TO_SAVE_CREDENTIAL" sap:sc="XMSG" size-unit="char">
+        <source>Unable to save the credential. Please contact SAP Support for assistance.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOADING_TEXT" maxwidth="120" resname="LOADING_TEXT" sap:sc="XMSG" size-unit="char">
+        <source>Loading...</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXISTING_VIEW_DIALOG_CHOOSER_NAME" resname="EXISTING_VIEW_DIALOG_CHOOSER_NAME" sap:sc="XFLD">
+        <source>Name</source>
+        <note annotates="source" from="Developer">Name label for prepared query dropdown list</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXISTING_VIEW_DIALOG_SELECT_DATASET_HINT" resname="EXISTING_VIEW_DIALOG_SELECT_DATASET_HINT" sap:sc="XFLD">
+        <source>Select an Existing Dataset</source>
+        <note annotates="source" from="Developer">Hint text for Callidus search dropdown</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXISTING_VIEW_DIALOG_SELECT_FACT_SOURCE_HINT" resname="EXISTING_VIEW_DIALOG_SELECT_FACT_SOURCE_HINT" sap:sc="XFLD">
+        <source>Select an existing Fact Source</source>
+        <note annotates="source" from="Developer">Hint text for DWC search dropdown</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXISTING_VIEW_DIALOG_SELECT_DATA_TITLE" resname="EXISTING_VIEW_DIALOG_SELECT_DATA_TITLE" sap:sc="XTIT">
+        <source>Select Your Data</source>
+        <note annotates="source" from="Developer">Title for Callidus search dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXISTING_VIEW_DIALOG_OK" resname="EXISTING_VIEW_DIALOG_OK" sap:sc="XBUT">
+        <source>OK</source>
+        <note annotates="source" from="Developer">Callidus dialog OK button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXISTING_VIEW_DIALOG_CANCEL" resname="EXISTING_VIEW_DIALOG_CANCEL" sap:sc="XBUT">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">Callidus dialog cancel button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SFSF_QD_COLUMN_OVERVIEW_DIALOG_COLUMN_HINTS_ID" resname="SFSF_QD_COLUMN_OVERVIEW_DIALOG_COLUMN_HINTS_ID" sap:sc="XTIT">
+        <source>ID</source>
+        <note annotates="source" from="Developer">Column Overview Dialog column formular editor hints id</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SFSF_QD_COLUMN_OVERVIEW_DIALOG_COLUMN_HINTS_DESC" resname="SFSF_QD_COLUMN_OVERVIEW_DIALOG_COLUMN_HINTS_DESC" sap:sc="XTIT">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Column Overview Dialog column formular editor hints description</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REMOTE_MODEL_UPDATE_FAILED" resname="REMOTE_MODEL_UPDATE_FAILED" sap:sc="XMSG">
+        <source>Failed to update remote model. Please contact your administrator.</source>
+        <note annotates="source" from="Developer">error message displayed when remote model update fails</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REMOTE_MODEL_CREATION_FAILED" resname="REMOTE_MODEL_CREATION_FAILED" sap:sc="XMSG">
+        <source>Failed to create remote model. Please contact your administrator.</source>
+        <note annotates="source" from="Developer">error message displayed when remote model creation fails</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LC_SPACE_NOT_SELECTED" resname="LC_SPACE_NOT_SELECTED" sap:sc="XMSG">
+        <source>Please select a space first</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

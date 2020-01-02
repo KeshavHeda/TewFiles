@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-dashboard.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="9366fd88e1d797ca44f29e568985183e" form="base64">H4sIAAAAAAAAAL0823LjuHLv/Ars7MPsVtmOZ3Z9snFKtUVLlK0MLalEaryTSpWKEiGLGYrk4cUabSr/nu4GQII3Wd45OS+WBILdjUaj7/CPzF2YU8c2Xcv4ka1WoR9c5akXZaGXB3F0VRSBP/jtl5ubv12vf7n8+Ot2ffnhA7+5/O1v/7q9vP7t+vrj9fXm37zrj4bx4x9je3TBfrm+ZeyT9WXgTlzbMugvGzA3yEMOc+6Wbm2Oba0m0/HMKL/B3Em0jWHqo3N/wT5cq7nWYjFbrMbmxF65s9VwYQHNq9Gd0TMOcMZeEHKf5THbpNzLOct3nEX8wEZetlvHXupfvYbGGk3cNhI5WkNRJL5C0Qb/q4LuPJgLa7V0rMXKnjguQTS6BmuwU56nAX/hLAyynMVbVmQ8zRTHP9aAC2jwurPzUt6aM7JsC/ZafMCsEQ95zhWdv6lpw9l0PFk8rmhbxOQVzDB6xgGQmXJ2jAuWFSlywcvp18GLclyBT2hgPMjY/1z/L8thab+fi3X1NHEfVkKeXp9yNi1AAnsHxLz7XcnlhxtJyJ07Xc0+GeIDAML3rilDczq0bKP6ClOHXrThYfd0kk2j+orTSTJhOtCub5PpPNzNzMXIMaqvuF1KtDL1yq+tV1a2+WW2dFeO+dkaGd3DAMr2gCk5y7wXToJ6BjSSzD6Y8mFNcBE4CwnRVWu35bvDB3N6bzmr6UyR3PegInqz86JnnrFDEIYsinO25o2FlCpmaj2tXOsPF8GAxExMe3YvZan/EWCagp6YxtXWlADp8PdAPPEMQFp+kCuYDV1ZvkJzga13IFedo5ou7YPRfFu9h6hLrVFpvCaaB8ue0yJaBJRP8IyxFy8sONvGKSm9HIlicLxT/vciSLmvEN208cxtc2g9zOyRtTA6R5FZUc5T5uHucrbjlSrrIryL5FPEItCsQew55qaE3m11ysddxscj0xPFlbY9aXT6UNUftk8bLs/b88iHsUiTtZuazRX7WduHzmFtI8QGV9sdtkGToAnV7CzvxJHoGEPjVKwvc12M6+SpmW0Ku56ggk7QXfHC8Mi4pDcr1p0kn8H6id3N9Yn9CsPJpvg8hxlZTRVVJwSsN/7gqAtouhj2Ay+MnzXPSSOl8VtpEhffVrqgxLTjYcJy/g00+y4+RCzY6mhA5FFdwmkI/JY4aKeoY1ApHrbxovekcfk+yY81jjqE8rDjEWzALt6DVgbph187L2Pbkm/wrnJpfLZN4z2xBPwnb+1lXNAlrAnyfmG5i4kFBqY0O8aph0Dng4Z5Exehr2xEGHu+MBKVKlnwJPQ2HHYwBxKkeZXsyqr1RLH2FCQKV6dQeFF9SQ0Lupyan4Fg8w72snNUN+ysiLwX4JS3FtKq9vWuyPMYthM4u0FZZ0BwIZwbEPv4kLEkiKIgekYGIzt19hNB8+UduJcPyLUHx6j9AgLmABneRNb9ZbQeew5eAF3FqAZiDWuFElyw1zGqQ9wEvbDG1sIC3wtWVH1H4CnfgtUAZ4xcpZl9y9w4DvMgYXEJei1wIem+D+SDX5HmioENVOCOLFzHEB/oueHcN8DOdl7Ce2CDzz6HFYgP4bsnb6AbuLX3nvuATx5NcKMM8YHhFc59E/AoQZ8rjvI0DvuQTOfoss2m7mJmA7LaT4rpEMZQwMhazst8MvwE4c90tpq41iPsZf03OS9skvP92XSTCiSZbFBaugmo0GDSGdKOEdg25dmuvvL3GeksARaEb2E5D4b8BOAL8c5Z8EtL0hQM8HsN/INCAXPOAuYH2abIsi54o4kzXDoQVIhP6eeOxAsAowO+3O80eN7lynpleZweWUIy562zSsjRxaFhwmaORqs5SJ2hvqArBvPUrJrtELoWI2kIbtFsKcXSOJbPoHc4YBfm5KrLiiM6YcJI1Z16WLPniVBImua8Ok2iIu0A5i3DeNsHt2MDKifbFuiLaKpY18TOcghKykFSrJHyjWhovLTtL5Lss2YJNRoJ+nWVr9PxyioaJOJi0F6G8Qb8Vh8FDGfg+UcbGQbr1AP+N6z0eDIdrR5mj5YDzrA1NXqf4LGrI6yZ6G1cRP4ZBJNTU3tzBxIaopQqp2ITh2BG45RSWSBwEQ+B+uhrZZ8FVzHAHM+WUxHYNsYkuQKdR35AGEPwmZbEogqqHbU69Vaagu2CxWZ4LvyC1PQzz+kM7WMfiIJlvQQbzpI0Bqu/vxAeR54epV1Ft4W9BH/iVoijR+TQMu4tiI7d2eLL6nE2Ak+bMkpdgyI3gbwq00nVUSY6rmilcoCO+w7V0hr3SCRN1NJu2ZOXSqsv1LBan3Q6IwoYgMbDLs4Q5jHE2XvvqHZL5Mtkemsb8k1O5IQwmOVKwVQ2vLlnYnVo8kWCwJzP7Yml72DPDFSkLeDVOhVZYEx0ar0kCQNBLeWw6NhfsXnI0WGNEx5pzERtCPOPOLQvwwCMcNwyICEP/qE6A7r/T2uoDszKsVx3Mr13ZJLh9GMVHZAP7BDwbgo05BhJZMzhwoyAjr/zNl+fUxLuRy/Ac49ZrfOIFNmH04+Vjy7oA8x5DuKRdRMqtmsM6qdG44hvvSLMmZkk3EuJvpIu2vsxeB+dZPU9LUWDcHUTI8ko1tlpSvhRUNJLRDf+EvPMFpiDKMvTQqAil0Y5wmhvD3wNv5EgRY1Qygh6hJyfzN3JbCpiOhqdTB13sRyWo2g+hAyTz4QHEBWktFsIG+XXnn66ZQ/HhKfiKXr/KPMZHBdhPTDolNKxpeDooHyCisaSNAop7cn0k1H/SVJxYD54evgH0fwuPMVbZntrUJRq8UUaSq90G3CwADhOOfHKE1F4K7TLhb0Sful4Ytkjo2tQant8mZYK6gwtDGoABlNB1dOxhvUD13yBjtBcbj08IHwTesLeVEbgY8sIiPCJpCUTuv4ACFKOsd865LWUfy7JIR5eVasRTg0oeqP+E12siHHCF282BfokhEJCRDV8jIuUgceXg5GsYL+JYNoFNMfA7UzyQIWFKbDmyPi3IOugeLQENTzEPHjXIOXqCNYhyIW7HXl7madvgv4OguOozMT48vQ65rCHySNrbC7tGqPlkBQXInjNyVn1MQ8UdGL4R7G5yBBTEIksDpyFFsUgqkb9p6AURAy9O+lnVDyGgZcACSdgUiNsdnzztTxuHtgC8EiY9wwG4e2LKBeio6K0kFqH9C9ba8Eg0prWuC+HTq9J+atyE85Yonqja6m3qmwEk7ZBuhc+JeqdSsFJBaipYCpPySoAmEIHY6H+R7QeEB3aZHQ+1sQzX7l9AQfZpIIdeV7l1DKDRl7KRpBGpZGU72PQIYGcA5GTAiQWqWSXJlMKK+OyRkYieyXqWLdq1SrGxnX7ipBzGaBKdwDQnU27+FCfoVcnBRFUWvs+GqhMd4oEfYJezqvEXWUeRJozKrWSOPrET5TrNd+giyPFWxPr6Wxlz6b31mL12bQn0g41BiFumtnuZA4UfEFl3QtVCjKKa8ovgQQhGpXtJtlVJCPP5JzSPgbRNmYBbHBFIdbhFQVGawSzOVuqqPoxZoLJUKJoIdoXLw083Id4q9TVTyl/LsAsXoAcAtGbC7aOQ1/8lUM/Xwj3+ZjldIRRTo8RDGXBn7wOF5cAuK/QVQD7CFBxZI1BA6whA8MALv2RxPslyAoPD0EGopxdoJFNkX2YrK/KwkVC4ZVuwrIiSeIUkDVX1Qp/lNKDMFPUUhX7M+nSisXAIUxT0D7A/D0eZvWw8lhVsXP2GVTcZGRB1P84qdxm45xJQh+SWtPKoxXu6FiaopICFdisj/oOEJnASnBl4vSKgUdxZNsix3K6gi1fqM2s6rG595Uzvt2CW1raihuquTQ5Ry4dxhfoUr3A8dYSAyWVyDNJGZw1mVyazy1zgcdVSKfSr2AZTPQqO2IPfZ7I4GpsQs/OI4o1TmCKr8GyK7YkTxMNDW66xjY1NaZqFLyBYS36X4otGefS+RKoy0oEuvp1F3ddhWB+GoN3jXH1Ov6mycydOfx0v8AkBWVJ9fCw8xHGN0SSFt/d1h1sTEWi8y5LOKBJY6l2uLBBsBoInF+CuMjCo0YL6M4ZBVbWSI9yWsNYw0egDsE6D7mIwc8hgFoFuoloPhIpZaJlmYi6UDc1pBFwRxyxyfYbefLFwQ2g7y3GNJ/hDmlYdCbJ84O9Ucr7AL3qpaXCR6snywBIsSxKFXJtKqTTXYQGpbVT1D1cqX6MVqQl8VQogRt2wRJhkQqMKdl8eo/FsvvJGCI1TAehd+YxajFLAAb6zaUsivwTHp49qG2xFjIAATI7PyC/P3y4vvzl+jr5BqBIp/nAl8sPNziCCcATJ4rkqe8siaU2TlFjsDo/uDu3qscHMQ29pHQI6fSWuXOhBJQ4NxBC2DMzR8od6RknTRVjGg3R/vOkYThbLKwhBsZ1ftQeYM6CysvHhPYpiDZxmqLaZ1ZE/VdKWoI92lQSGFWvQpG4kIm4FCLfY11iTgvLPyWrhZnEvpSW9qyRzyLM/YJ4Dz62k3upSH8+P6tULiEQqVtz4dZ1WGsYUGpwbvuxLfgGOTcmbkh0wI9mArIkALYWYiva3NrK2+NU46qAv07DHOOLKCd5ewst84XlwKeJaasumjqeV7TVkL5Ooxl54TEPNpjNU2cja2+TxExJ5WEvYe3HFV2diF6nz5HxWx9FaOMmnTtXe1LRIQGewDzmXk55pJoMVZjHluku0bC2ZKbrCWqMGsATmJ94SOHOo8otNFE/WfYQTqSyTzruzkeAvAHzBHaHe+lmh7pyAoEF1kNa+B1wQYfURDGZOpP7B7eWZ+5+SGakAfm2jDCRjFGQJaF3rPQ0ZU6kW6T1qKBmP5Angmr1JeAHeEWLErVWEvbTPs4wVvvKQc2uj/IdWdb5+UTLCizDRm0/tZ66u1e0CTIfVpFI/UaqYFYSU4atpXH0gy0VY/QWnDKtgV3Ppbr/KLupQtoqymKoTgCVbQOORlifK+vjlICCWWsvVV3QsB9Ta2GoL5RrEO+djSiRJiw/jQvr3ij/LqDTvmPmHQGMCcDZSCU+itclNkVCB0IqHhvNAVmFfxU9ngPugZxqC8761zhdPhrqi1qd7O2pt9xVUtRsUVZtvlU3FHX16qa+Tt67yfs923JO1cWw2Hw9vgMXz3umONEYW5YNgd/KXg4/fUHfFSaP5WQbJ58ADGYDfQ4gJQdJzXWwYG7m2LE/Ml3ToYy7mvyIZVQdqIkxRJpLwHCag8hHXS+bPQDkZXRJPinY8WcuyjvvajS+IzFo04OkXBmjhXlP2nX1YFHb/wjJJF9bNs3WFih78FTwDRtL3amITNQuYaSFypDtraKiqmrJoqtVFsxEL4bCRmky0W4CtnlGXQzkLLpcJlRExMBTocMok0kkg+7aFCkqAtRSoiArXdas0PoZmoBVmkwBWTdbIEo4F8RO0ksHqQSTNMZ55QJuT9D5L8DVCo2PWX75OkDSyRrNplZVXTt44OEcdhQCiVLPNgD7H/yp/PWSBmopUmkmGQweZM5EWgCyBrn0ArT8FfnhSGeAD0DtokghTWPR7oJB5oKCuCfZOoHpO/m+1CSq1AIWxMMQLsjfAzeD52fBA3H29963YF/sVZ4MNwfCtCswa7wqB6IkE0AK4cJgH+jFjxslISL7qokWFa1k5UDU9GTeVxLqFynyouvk6+eWjqI4O5j+xo7c2kUUiNFCDyt8KMBGmwy9L0i+RFPbS1hY/4HmD7WBuMFEaQPaJPyyx7wbUIk59xQzkP8tk0K4QL88rYDmfWtJ74XCaWEY0CUaAbTqXVCgS/MKASeCxXMMEU8UJIW41vVetm7FlJDaFmmOUq31LVO6veouEWGHYz7O4aiptjBVjB4HaYbNyOBvWN8SDmKJQRVE56DOjI73BzgtjDF/ANp9n4SSsU20UumYw+FsOXXfjrbxfqmxMGO/AemP8h6MJAR/GZ94u8R2FGopVT0tfczFIvhfZy29PWA2uJUR2yNvpZWmk7ihlvh+P3fohTzywZb3R2Q/CWWoNDP5kiKgx8TtRgHgL/A8+1lmq03bmo7MRen1lngeVKdW3fd3a+365Wzqc/8uAqp29m4q2qzpyehKlUW139WMmiuM+k95NC9VU4jS5KrVXpYu8Z4fJZZmc2sqWvuxU0tlgs6eiTcfOHmCdKEA27jOwvg4u0OenIWzPbfCuo/XuDtn45WR+nmIOyZXmBMR1p+F+nG2QEUgwvATWDvmDR5JU1EOKVOq/+PNjX5bxXqcu1/kdYknczEFl9PoezBwq8sYG9GOp25SlKnLX67rFTt0YFRbpww04qh2VyFUDXKEFttDVY5KFvF6xtHKIfCyT6wTP/8WkIf4VjqsP0BY+4jpeUjmAQ12hUu1Q328btBVq7NR83NFFWh5a/4odId2r0hVgh6t6VLucJ2sUzPE3mnNah2XmYX0rPR7CT3jg/oNhX5Yqme7Y2zQ6t4+AUbc/G0PDfQqe8/LZNU+T6wno3N0cE+ehiMtHPnQKs9C1gx2RLMmlNj1RZJD9PckXiYbHTrTsI1cTisV23g+eAD/Pb5ATfyDIqedzMnECAaxdANoF4c+erltensaHpvZHf2y2ptmD8zsK3hDfy94lottJJIt1Ap6PVSFbUSPBpz0DPgCsL2dowO8aROv0TskJ5ickgru1XcgLLfk5NPBNM53spkZXU7q2jny/Af2XxEbUoyFQUJJl9IyEKP90JJLYm3jbHSMvXY29FfwJjDdtewaHGhXgftBkGXW+t9PPBt0N+iqaEJLs2uOS905qiX1US0Zfe/Vc/SnMWETpmgLdfVW0xYyavnowFi9P2BCI1BU3odZJaRfW6VKeevr7Hi3mdHuwFjLx7+GtlYA0HH3QTmd2u/3dDurI4Swv8jRhXYUPGM7DbtDa5zG8b4OUudHIzHfy4pG6p+I6n+3mdl/DaOsb96VVvstKMviqJC0t2FuC/nZKxXi/ST/mUQmUx7kr2Ci+vfXUEun8BwCyvbJVOSMopht1awtLfMVBHTnv1PxnlYEfTS2NUGbwlTMEfSdBH0edZph0cCIaHu0AgmoUWh7EBgu5SUO0RxOnWh0GUVKWGXg/l15IZm8U7QXuwnHBhTXRnSWivv7vvEqISroxxtBZ6yAmrnqK/h/oD5EkKLdqHcJFSWqKUouoee/9azU//ap/R688j9+qv8J0B4aOPK2vh7K9Su+B8sEt+mtNuM1QG9QpE0aa+ZI8+xEICtyQrqTeUL1i3OlepF/soOIsw8/9x+0pEZa/1J1qmSuSp9Vpawwp40HMqdLl5ibVwW4M3ZGxyKOOkbX37P2j//gtWtUqf5xCbQGTemhs3d6OlPPTq1Wl8s3bLLs2u70fnqIaCyuDujNqztPjk+s7tQ2nrs6jQiZCPKqK3dnyGvbcWvwDiac3L2WS/iGLfSSJOv3ILsI6d5BT6ehZxtPwyc2wpTvWemp7Tx/pSUlcjv7VQ/d+ae704/mwlVBtENRlbha7jZuooI2cfYIR8b7WdmURyUyWYfNmpPEUvKqWUFeaNtzurHeh35wFhhkMMV9WBy/apnKe+yxN+ivzKho9fOPqt70eeIsTXvyn8RUcd+3PTSoqlfy9jD2wgd/0o7+H3JokOv2TwAA</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:57Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TITLE" maxwidth="30" resname="TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Title</source>
+        <note annotates="source" from="Developer">KEY=TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_INFO" maxwidth="30" resname="TILE_INFO" sap:sc="XBUT" size-unit="char">
+        <source>Info</source>
+        <note annotates="source" from="Developer">KEY=TILE_INFO</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_FAIL_TO_CREATE_DB" maxwidth="100" resname="ERROR_FAIL_TO_CREATE_DB" sap:sc="XMSG" size-unit="char">
+        <source>Failed to create the new Dashboard.</source>
+        <note annotates="source" from="Developer">KEY=ERROR_FAIL_TO_CREATE_DB</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_FAIL_TO_EDIT_DB" maxwidth="100" resname="ERROR_FAIL_TO_EDIT_DB" sap:sc="XMSG" size-unit="char">
+        <source>Failed to update the Dashboard.</source>
+        <note annotates="source" from="Developer">KEY=ERROR_FAIL_TO_EDIT_DB</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHARE_USER_LIST_FAIL" maxwidth="40" resname="SHARE_USER_LIST_FAIL" sap:sc="XMSG" size-unit="char">
+        <source>Failed to retrieve list of users</source>
+        <note annotates="source" from="Developer">KEY=SHARE_USER_LIST_FAIL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHARE" maxwidth="20" resname="SHARE" sap:sc="XFLD" size-unit="char">
+        <source>Share</source>
+        <note annotates="source" from="Developer">KEY=SHARE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DELETE" maxwidth="20" resname="DELETE" sap:sc="XFLD" size-unit="char">
+        <source>Delete</source>
+        <note annotates="source" from="Developer">KEY=DELETE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="CONFIRM_TILE_DELETE_MSG" maxwidth="80" resname="CONFIRM_TILE_DELETE_MSG" sap:sc="XMSG" size-unit="char">
+        <source>Are you sure that you want to delete this <ph id="1">{0}</ph> tile?</source>
+        <note annotates="source" from="Developer">KEY=CONFIRM_TILE_DELETE_MSG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="CONFIRM_TILE_DELETE_MSG_WITH_TITLE" maxwidth="80" resname="CONFIRM_TILE_DELETE_MSG_WITH_TITLE" sap:sc="XMSG" size-unit="char">
+        <source>Are you sure that you want to delete tile "<ph id="1">{0}</ph>"?</source>
+        <note annotates="source" from="Developer">KEY=CONFIRM_TILE_DELETE_MSG_WITH_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BTN_OK" maxwidth="15" resname="BTN_OK" sap:sc="XBUT" size-unit="char">
+        <source>OK</source>
+        <note annotates="source" from="Developer">KEY=BTN_OK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BTN_CANCEL" maxwidth="15" resname="BTN_CANCEL" sap:sc="XBUT" size-unit="char">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">KEY=BTN_CANCEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BTN_CREATE" maxwidth="15" resname="BTN_CREATE" sap:sc="XBUT" size-unit="char">
+        <source>Create</source>
+        <note annotates="source" from="Developer">KEY=BTN_CREATE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASHBOARDS" maxwidth="20" resname="DASHBOARDS" sap:sc="XTIT" size-unit="char">
+        <source>Dashboards</source>
+        <note annotates="source" from="Developer">KEY=DASHBOARDS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASHBOARD_LAYOUT_SAVED" maxwidth="40" resname="DASHBOARD_LAYOUT_SAVED" sap:sc="XTIT" size-unit="char">
+        <source>Layout saved.</source>
+        <note annotates="source" from="Developer">KEY=DASHBOARD_LAYOUT_SAVED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASHBOARD_LAYOUT_SAVE_FAILED" maxwidth="40" resname="DASHBOARD_LAYOUT_SAVE_FAILED" sap:sc="XTIT" size-unit="char">
+        <source>Failed to save layout.</source>
+        <note annotates="source" from="Developer">KEY=DASHBOARD_LAYOUT_SAVE_FAILED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LAYOUT_CHANGES_NOT_SAVED" maxwidth="80" resname="LAYOUT_CHANGES_NOT_SAVED" sap:sc="XMSG" size-unit="char">
+        <source>Layout changes will not be saved.</source>
+        <note annotates="source" from="Developer">KEY=LAYOUT_CHANGES_NOT_SAVED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NEW_TEXT_NOTE_DIALOG_TITLE" maxwidth="30" resname="NEW_TEXT_NOTE_DIALOG_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>New Note</source>
+        <note annotates="source" from="Developer">KEY=NEW_TEXT_NOTE_DIALOG_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EDIT_TEXT_NOTE_DIALOG_TITLE" maxwidth="30" resname="EDIT_TEXT_NOTE_DIALOG_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Edit Note</source>
+        <note annotates="source" from="Developer">KEY=EDIT_TEXT_NOTE_DIALOG_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TEXT_NOTE_TITLE_LABEL" maxwidth="30" resname="TEXT_NOTE_TITLE_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Title</source>
+        <note annotates="source" from="Developer">KEY=TEXT_NOTE_TITLE_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TEXT_NOTE_LABEL" maxwidth="30" resname="TEXT_NOTE_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Notes</source>
+        <note annotates="source" from="Developer">KEY=TEXT_NOTE_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TEXT_NOTE_TITLE_HELP_TEXT" maxwidth="100" resname="TEXT_NOTE_TITLE_HELP_TEXT" sap:sc="XFLD" size-unit="char">
+        <source>A value for the title is required</source>
+        <note annotates="source" from="Developer">KEY=TEXT_NOTE_TITLE_HELP_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TEXT_NOTE_PLACEHOLDER" maxwidth="50" resname="TEXT_NOTE_PLACEHOLDER" sap:sc="XFLD" size-unit="char">
+        <source>Enter a note here</source>
+        <note annotates="source" from="Developer">KEY=TEXT_NOTE_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TEXT_NOTE_HELP_TEXT" maxwidth="100" resname="TEXT_NOTE_HELP_TEXT" sap:sc="XFLD" size-unit="char">
+        <source>A value for the notes is required</source>
+        <note annotates="source" from="Developer">KEY=TEXT_NOTE_HELP_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_FAIL_TO_CREATE_TEXT_NOTE" maxwidth="100" resname="ERROR_FAIL_TO_CREATE_TEXT_NOTE" sap:sc="XMSG" size-unit="char">
+        <source>Failed to create a new note</source>
+        <note annotates="source" from="Developer">KEY=ERROR_FAIL_TO_CREATE_TEXT_NOTE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_FAIL_TO_EDIT_TEXT_NOTE" maxwidth="100" resname="ERROR_FAIL_TO_EDIT_TEXT_NOTE" sap:sc="XMSG" size-unit="char">
+        <source>Failed to save the amended note</source>
+        <note annotates="source" from="Developer">KEY=ERROR_FAIL_TO_EDIT_TEXT_NOTE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_TITLE_PLACEHOLDER" maxwidth="50" resname="TILE_TITLE_PLACEHOLDER" sap:sc="XFLD" size-unit="char">
+        <source>Enter a title for the tile</source>
+        <note annotates="source" from="Developer">KEY=TILE_TITLE_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LABEL_TILE_SUBTITLE" maxwidth="50" resname="LABEL_TILE_SUBTITLE" sap:sc="XFLD" size-unit="char">
+        <source>Sub-title</source>
+        <note annotates="source" from="Developer">KEY=LABEL_TILE_SUBTITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_SUBTITLE_PLACEHOLDER" maxwidth="50" resname="TILE_SUBTITLE_PLACEHOLDER" sap:sc="XFLD" size-unit="char">
+        <source>Optionally enter a subtitle for the tile</source>
+        <note annotates="source" from="Developer">KEY=TILE_SUBTITLE_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_FAIL_TO_EDIT_TILE" maxwidth="100" resname="ERROR_FAIL_TO_EDIT_TILE" sap:sc="XMSG" size-unit="char">
+        <source>Failed to save the amended tile details.</source>
+        <note annotates="source" from="Developer">KEY=ERROR_FAIL_TO_EDIT_TILE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TITLE_EDIT_TILE" maxwidth="30" resname="TITLE_EDIT_TILE" sap:sc="XTIT" size-unit="char">
+        <source>Edit Tile Title</source>
+        <note annotates="source" from="Developer">the title of the edit tile title dialog  KEY=TITLE_EDIT_TILE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_TITLE_HELP_TEXT" maxwidth="30" resname="TILE_TITLE_HELP_TEXT" sap:sc="XTIT" size-unit="char">
+        <source>Title can't be empty</source>
+        <note annotates="source" from="Developer">help text shown if tile title is not valid  KEY=TILE_TITLE_HELP_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FAILED_TO_RETRIEVE_DASHBOARD" maxwidth="100" resname="FAILED_TO_RETRIEVE_DASHBOARD" sap:sc="XMSG" size-unit="char">
+        <source>Home screen could not be loaded.</source>
+        <note annotates="source" from="Developer">Shown when a home screen has failed to be retrieved from the database  KEY=FAILED_TO_RETRIEVE_DASHBOARD</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASHBOARD_UNAVAILABLE" maxwidth="100" resname="DASHBOARD_UNAVAILABLE" sap:sc="XFLD" size-unit="char">
+        <source>Dashboard unavailable</source>
+        <note annotates="source" from="Developer">Replacement dashboard title shown when no dashboard or homescreen can be retrieved  KEY=DASHBOARD_UNAVAILABLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLISH_TO_HS" maxwidth="30" resname="PUBLISH_TO_HS" sap:sc="XMIT" size-unit="char">
+        <source>Pin to Home</source>
+        <note annotates="source" from="Developer">Button in action menu that allows pinning to the home screen  KEY=PUBLISH_TO_HS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PUBLISH_TO" maxwidth="30" resname="PUBLISH_TO" sap:sc="XMIT" size-unit="char">
+        <source>Pin to <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Button in action menu that allows pinning to a given dashboard  KEY=PUBLISH_TO</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREFERENCES" maxwidth="30" resname="PREFERENCES" sap:sc="XMIT" size-unit="char">
+        <source>Preferences</source>
+        <note annotates="source" from="Developer">Button in action menu for the dashboard  KEY=PREFERENCES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CHARTS" resname="CHARTS" sap:sc="XTOL">
+        <source>Charts</source>
+        <note annotates="source" from="Developer">Tooltip on action button to add a chart to the dashboard  KEY=CHARTS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHAPES" resname="SHAPES" sap:sc="XTOL">
+        <source>Shapes</source>
+        <note annotates="source" from="Developer">Tooltip on action button to add a shape to the dashboard  KEY=SHAPES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IMAGES" resname="IMAGES" sap:sc="XTOL">
+        <source>Images</source>
+        <note annotates="source" from="Developer">Tooltip on action button to add an image to the dashboard  KEY=IMAGES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INPUT_CONTROLS" resname="INPUT_CONTROLS" sap:sc="XTOL">
+        <source>Input Controls</source>
+        <note annotates="source" from="Developer">Tooltip on action button to add an input control to the dashboard  KEY=INPUT_CONTROLS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PICKER_NO_ITEMS" maxwidth="30" resname="PICKER_NO_ITEMS" sap:sc="XFLD" size-unit="char">
+        <source>No Items</source>
+        <note annotates="source" from="Developer">KEY=PICKER_NO_ITEMS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TEXT" resname="TEXT" sap:sc="XTOL">
+        <source>Text</source>
+        <note annotates="source" from="Developer">Tooltip on action button to add text to a dashboard  KEY=TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REFRESH" maxwidth="30" resname="REFRESH" sap:sc="XMIT" size-unit="char">
+        <source>Refresh</source>
+        <note annotates="source" from="Developer">Button in action menu to refresh the dashboard's data  KEY=REFRESH</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAVE" maxwidth="30" resname="SAVE" sap:sc="XMIT" size-unit="char">
+        <source>Save</source>
+        <note annotates="source" from="Developer">Button in action menu to save the dashboard  KEY=SAVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DISCUSS" maxwidth="30" resname="DISCUSS" sap:sc="XMIT" size-unit="char">
+        <source>New Discussion</source>
+        <note annotates="source" from="Developer">Button in action menu to discuss the dashboard  KEY=DISCUSS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADD_PAGE" maxwidth="30" resname="ADD_PAGE" sap:sc="XMIT" size-unit="char">
+        <source>Add new page</source>
+        <note annotates="source" from="Developer">Button to the right of the story page tabs to add a new page  KEY=ADD_PAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_FAIL_TO_ADD_TILE_TO_HS" maxwidth="100" resname="ERROR_FAIL_TO_ADD_TILE_TO_HS" sap:sc="XMSG" size-unit="char">
+        <source>Failed to pin to home screen.</source>
+        <note annotates="source" from="Developer">shown to user if pinning a chart to the gallery failed.  KEY=ERROR_FAIL_TO_ADD_TILE_TO_HS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SUCCESS_ADDED_TILE_SUCCESSFULLY_TO_HS" maxwidth="100" resname="SUCCESS_ADDED_TILE_SUCCESSFULLY_TO_HS" sap:sc="XMSG" size-unit="char">
+        <source>Pinned to home screen successfully.</source>
+        <note annotates="source" from="Developer">shown to user if a chart was shared successfully to the homescreen  KEY=SUCCESS_ADDED_TILE_SUCCESSFULLY_TO_HS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FAILED_TO_FIND_HOMESCREEN" maxwidth="100" resname="FAILED_TO_FIND_HOMESCREEN" sap:sc="XMSG" size-unit="char">
+        <source>The homescreen could not be found.</source>
+        <note annotates="source" from="Developer">shown to user if the homescreen was not located in the content library  KEY=FAILED_TO_FIND_HOMESCREEN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_TILE_NOT_FOUND" maxwidth="100" resname="DASH_TILE_NOT_FOUND" sap:sc="XMSG" size-unit="char">
+        <source>The tile can no longer be found on the dashboard.</source>
+        <note annotates="source" from="Developer">shown to user if the tile could not be highlighted from collaboration panel link  KEY=DASH_TILE_NOT_FOUND</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GET_STORY_MODEL_FAIL" maxwidth="100" resname="GET_STORY_MODEL_FAIL" sap:sc="XMSG" size-unit="char">
+        <source>Cannot retrieve the story model. The story might have been deleted.</source>
+        <note annotates="source" from="Developer">Error message due to getstorymodel service problem, when trying to load viz in story tile  KEY=GET_STORY_MODEL_FAIL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_TILE_STORY_PREFS_NOT_APPLIED" resname="DASH_TILE_STORY_PREFS_NOT_APPLIED" sap:sc="XMSG">
+        <source>Story preferences have been updated but may not be applied to this chart. Please open the story to apply them.</source>
+        <note annotates="source" from="Developer">Warning tooltip message shown in a tile whose styling may not be updated to reflect the latest story preferences  KEY=DASH_TILE_STORY_PREFS_NOT_APPLIED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_HOMESCREEN_SETTINGS_TITLE" maxwidth="50" resname="DASH_HOMESCREEN_SETTINGS_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>Edit Home Screen</source>
+        <note annotates="source" from="Developer">Title for Edit Homescreen dialog  KEY=DASH_HOMESCREEN_SETTINGS_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_HOMESCREEN_SETTINGS_LABEL" maxwidth="50" resname="DASH_HOMESCREEN_SETTINGS_LABEL" sap:sc="XTIT" size-unit="char">
+        <source>Home Screen Settings</source>
+        <note annotates="source" from="Developer">Title for Homescreen Tiles Section of Background Maintenance dialog  KEY=DASH_HOMESCREEN_SETTINGS_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_STORYFONT_SETTINGS_LABEL" maxwidth="50" resname="DASH_STORYFONT_SETTINGS_LABEL" sap:sc="XTIT" size-unit="char">
+        <source>Story Fonts</source>
+        <note annotates="source" from="Developer">Title for Story Fonts Section of Default Appearance KEY=DASH_STORYFONT_SETTINGS_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_FONT_SETTINGS_LABEL" maxwidth="50" resname="DASH_FONT_SETTINGS_LABEL" sap:sc="XTIT" size-unit="char">
+        <source>Fonts</source>
+        <note annotates="source" from="Developer">Title for Fonts Subsection of Default Appearance Key=DASH_FONT_SETTINGS_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_INSTRUCTION_TEXT" maxwidth="50" resname="FONT_INSTRUCTION_TEXT" sap:sc="XTOL" size-unit="char">
+        <source>Please add the link to the font.</source>
+        <note annotates="source" from="Developer">instruction text for the add web fonts section  KEY=FONT_DESCRIPTION_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_HELP_LINK" resname="FONT_HELP_LINK" sap:sc="XLNK">
+        <source>How do I do that?</source>
+        <note annotates="source" from="Developer">Hyperlink that opens up the help dialog for how to add web fonts KEY=FONT_HELP_LINK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_URL_INPUT_FIELD" resname="FONT_URL_INPUT_FIELD" sap:sc="XFLD">
+        <source>The web link should be a URL only that leads to a font-face declaration.</source>
+        <note annotates="source" from="Developer">Label for the url input field for users to add a web font KEY=FONT_URL_INPUT_FIELD</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_ERROR_GET" maxwidth="120" resname="FONT_ERROR_GET" sap:sc="XMSG" size-unit="char">
+        <source>An error occured when retrieving your custom web fonts.</source>
+        <note annotates="source" from="Developer">Error message that appears when we are unable to retrieve the web fonts. KEY=FONT_ERROR_GET</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="FONT_ERROR_DUPLICATE" maxwidth="120" resname="FONT_ERROR_DUPLICATE" sap:sc="XMSG" size-unit="char">
+        <source>A font with the name "<ph id="1">{0}</ph>" already exists.</source>
+        <note annotates="source" from="Developer">Error message that appears when the user adds a font that already exists. KEY=FONT_ERROR_DUPLICATE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_ERROR_DEFAULT" maxwidth="120" resname="FONT_ERROR_DEFAULT" sap:sc="XMSG" size-unit="char">
+        <source>The font being added is one of the default fonts.</source>
+        <note annotates="source" from="Developer">Error message that appears when the user adds one of the default SAC fonts. KEY=FONT_ERROR_DEFAULT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_ERROR_URL" maxwidth="120" resname="FONT_ERROR_URL" sap:sc="XMSG" size-unit="char">
+        <source>There was problem with the provided url. Please check the url and try again.</source>
+        <note annotates="source" from="Developer">Error message that appears when the user adds a font using invalid url. KEY=FONT_ERROR_URL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_ERROR_CONTENT" maxwidth="120" resname="FONT_ERROR_CONTENT" sap:sc="XMSG" size-unit="char">
+        <source>There was problem with the content of the provided url. Please check the url content and try again.</source>
+        <note annotates="source" from="Developer">Error message that appears when the the user provided url has invalid content. KEY=FONT_ERROR_CONTENT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_DELETE_DIALOG_MESSAGE" resname="FONT_DELETE_DIALOG_MESSAGE" sap:sc="XMSG">
+        <source>This font may be used in stories. Deleting this font from the application will remove it from all stories and the font will be reset to default.</source>
+        <note annotates="source" from="Developer">delete confirmation for web fonts dialog KEY=FONT_DELETE_DIALOG_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_DELETE_DIALOG_CONFIRM_BUTTON" resname="FONT_DELETE_DIALOG_CONFIRM_BUTTON" sap:sc="XBUT">
+        <source>Delete</source>
+        <note annotates="source" from="Developer">confirm button for deleting web fonts dialog KEY=FONT_DELETE_DIALOG_CONFIRM_BUTTON</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_DELETE_DIALOG_CANCEL_BUTTON" resname="FONT_DELETE_DIALOG_CANCEL_BUTTON" sap:sc="XBUT">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">cancel button for deleting web fonts dialog KEY=FONT_DELETE_DIALOG_CANCEL_BUTTON</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_NO_LONGER_VALID_TOOLTIP" maxwidth="120" resname="FONT_NO_LONGER_VALID_TOOLTIP" sap:sc="XMSG" size-unit="char">
+        <source>Your font has become invalid. Please try re-adding the font.</source>
+        <note annotates="source" from="Developer">Tooltip when an already added font has become invalid. KEY=FONT_NO_LONGER_VALID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FONT_INFO_TOOLTIP" resname="FONT_INFO_TOOLTIP" sap:sc="XMSG">
+        <source>If you don't link all the variants of a font (regular, italic, bold, bold italic), the system will synthesize the variants for you. However, for best consistency and visual results, we recommend that you upload a font that supports all the variants.</source>
+        <note annotates="source" from="Developer">Tooltip for adding web font info icon KEY=FONT_INFO_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_CHANGES_OVERRIDE_ADMIN_SETTINGS" resname="DASH_CHANGES_OVERRIDE_ADMIN_SETTINGS" sap:sc="XMSG">
+        <source>These changes will override any default settings applied by the system administrator.  Any future changes by the administrator will not take effect.</source>
+        <note annotates="source" from="Developer">Warning message about saving the settings will override admin settings  KEY=DASH_CHANGES_OVERRIDE_ADMIN_SETTINGS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TENANT_HOMESCREEN_SETTINGS_INFO_MESSAGE" maxwidth="500" resname="TENANT_HOMESCREEN_SETTINGS_INFO_MESSAGE" sap:sc="XMSG" size-unit="char">
+        <source>Changes will only affect the system's default settings. Users without the system default option selected will not see your changes.</source>
+        <note annotates="source" from="Developer">Warning message for tenant level homescreen settings in system area  KEY=APPEARANCE_INFO_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_BACKGROUND_ITEM_TITLE" maxwidth="50" resname="DASH_BACKGROUND_ITEM_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Select Background:</source>
+        <note annotates="source" from="Developer">Label for the background drop down box  KEY=DASH_BACKGROUND_ITEM_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_LOGO_STORED_LABEL" resname="DASH_LOGO_STORED_LABEL" sap:sc="XFLD">
+        <source>Logo Stored</source>
+        <note annotates="source" from="Developer">Label to show when a logo has been stored previously  KEY=DASH_LOGO_STORED_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_LOGO_NOT_STORED_LABEL" resname="DASH_LOGO_NOT_STORED_LABEL" sap:sc="XFLD">
+        <source>No Logo Uploaded</source>
+        <note annotates="source" from="Developer">Label to show when a logo has not been stored previously  KEY=DASH_LOGO_NOT_STORED_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_LOGO_SYSTEM_LOGO_LABEL" resname="DASH_LOGO_SYSTEM_LOGO_LABEL" sap:sc="XFLD">
+        <source>System Logo Stored</source>
+        <note annotates="source" from="Developer">Label to show that the System Logo has been stored previously  KEY=DASH_LOGO_SYSTEM_LOGO_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_LOGO_INFO_MESSAGE" maxwidth="500" resname="DASH_LOGO_INFO_MESSAGE" sap:sc="XFLD" size-unit="char">
+        <source>If you are adding a custom logo, please use a PNG or GIF file with a transparent background. The optimal image size is between 110-300px wide and 50-150px high.</source>
+        <note annotates="source" from="Developer">Information regarding the log image that can be uploaded to the application  KEY=DASH_LOGO_INFO_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_LOGO_ITEM_TITLE" maxwidth="50" resname="DASH_LOGO_ITEM_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Select Logo:</source>
+        <note annotates="source" from="Developer">Label for the logo drop down box  KEY=DASH_LOGO_ITEM_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_LOGO_UPLOAD_BUTTON" maxwidth="50" resname="DASH_LOGO_UPLOAD_BUTTON" sap:sc="XBUT" size-unit="char">
+        <source>Choose Logo</source>
+        <note annotates="source" from="Developer">Caption for the button to select a logo  KEY=DASH_LOGO_UPLOAD_BUTTON</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_LOGO_INCORRECT_FILE" maxwidth="500" resname="DASH_LOGO_INCORRECT_FILE" sap:sc="XFLD" size-unit="char">
+        <source>File type is incorrect. Ensure you are importing an image file, preferrably a PNG or GIF with a transparent background.</source>
+        <note annotates="source" from="Developer">Information regarding the log image that can be uploaded to the application  KEY=DASH_LOGO_INCORRECT_FILE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_HOMESCREEN_TILES_LABEL" maxwidth="50" resname="DASH_HOMESCREEN_TILES_LABEL" sap:sc="XTIT" size-unit="char">
+        <source>Home Screen Tiles</source>
+        <note annotates="source" from="Developer">Title for Homescreen Tiles Section of Background Maintenance dialog  KEY=DASH_HOMESCREEN_TILES_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_GET_STARTED_LABEL" maxwidth="50" resname="DASH_GET_STARTED_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Get Started:</source>
+        <note annotates="source" from="Developer">Label for the Get Started toggle  KEY=DASH_GET_STARTED_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_RECENT_FILES_LABEL" maxwidth="50" resname="DASH_RECENT_FILES_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Recent Files:</source>
+        <note annotates="source" from="Developer">Label for the Recent Files toggle on Edit Homescreen KEY=DASH_RECENT_FILES_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_RECENT_PRESENTATIONS_LABEL" maxwidth="50" resname="DASH_RECENT_PRESENTATIONS_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Recent Presentations:</source>
+        <note annotates="source" from="Developer">Label for the Recent Presentations toggle on Edit Homescreen KEY=DASH_RECENT_PRESENTATIONS_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_RECENT_APPLICATIONS_LABEL" maxwidth="50" resname="DASH_RECENT_APPLICATIONS_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Recent Analytic Applications:</source>
+        <note annotates="source" from="Developer">Label for the Recent Analytic Applications toggle  KEY=DASH_RECENT_APPLICATIONS_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_RECENT_STORIES_LABEL" maxwidth="50" resname="DASH_RECENT_STORIES_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Recent Stories:</source>
+        <note annotates="source" from="Developer">Label for the Recent Stories toggle  KEY=DASH_RECENT_STORIES_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_FEATURED_FILES_LABEL" maxwidth="50" resname="DASH_FEATURED_FILES_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Featured Files:</source>
+        <note annotates="source" from="Developer">Label for the Featured Files toggle  KEY=DASH_FEATURED_FILES_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_WELCOME_MESSAGE_LABEL" maxwidth="50" resname="DASH_WELCOME_MESSAGE_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Welcome Message:</source>
+        <note annotates="source" from="Developer">Label for the Welcome Message toggle  KEY=DASH_WELCOME_MESSAGE_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_SEARCH_TO_INSIGHT_LABEL" maxwidth="50" resname="DASH_SEARCH_TO_INSIGHT_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Search to Insight:</source>
+        <note annotates="source" from="Developer">Label for the Search to Insight toggle  KEY=DASH_SEARCH_TO_INSIGHT_LABEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASHBOARD_UNAVAILABLE_SELECT_NEW" maxwidth="150" resname="DASHBOARD_UNAVAILABLE_SELECT_NEW" sap:sc="XMSG" size-unit="char">
+        <source>The dashboard is no longer available. Please select a different dashboard from the list.</source>
+        <note annotates="source" from="Developer">Displayed to the user when a dashboard that was being viewed has become unavailable (most likely by being deleted)  KEY=DASHBOARD_UNAVAILABLE_SELECT_NEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DESIGNER" maxwidth="20" resname="DESIGNER" sap:sc="XTIT" size-unit="char">
+        <source>Designer</source>
+        <note annotates="source" from="Developer">the label and tooltip of the designer button in the toolbar  KEY=DESIGNER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_FILTER" maxwidth="20" resname="PAGE_FILTER" sap:sc="XTIT" size-unit="char">
+        <source>Page Filter</source>
+        <note annotates="source" from="Developer">the label and tooltip of the page filter button in the toolbar  KEY=PAGE_FILTER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PAGE_FILTERS_ADD" maxwidth="20" resname="PAGE_FILTERS_ADD" sap:sc="XTIT" size-unit="char">
+        <source>Add Page Filter</source>
+        <note annotates="source" from="Developer">the label and tooltip of the filter icon in the filter bar  KEY=PAGE_FILTERS_ADD</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PAGE_NUM" maxwidth="20" resname="PAGE_NUM" sap:sc="XTIT" size-unit="char">
+        <source>Page <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">the label for each of the pages in the toolbar  KEY=PAGE_NUM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASHBOARD_SAVED" maxwidth="100" resname="DASHBOARD_SAVED" sap:sc="XMSG" size-unit="char">
+        <source>Dashboard saved</source>
+        <note annotates="source" from="Developer">KEY=DASHBOARD_SAVED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FEELING_LUCKY" maxwidth="50" resname="FEELING_LUCKY" sap:sc="XTIT" size-unit="char">
+        <source>I'm Feeling Lucky</source>
+        <note annotates="source" from="Developer">the label for "I'm feeling lucky" drag area</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREPARE_DATASET" maxwidth="50" resname="PREPARE_DATASET" sap:sc="XTIT" size-unit="char">
+        <source>Prepare Model</source>
+        <note annotates="source" from="Developer">the label for "Prepare Dataset" drag area</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DRAG_FILE_HERE" maxwidth="50" resname="DRAG_FILE_HERE" sap:sc="XTIT" size-unit="char">
+        <source>Drag file here</source>
+        <note annotates="source" from="Developer">A short label to indicate the drag-n-drop target for "Feeling Lucky" and "Prepare Dataset" area.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CREATE_STORY_FAIL" maxwidth="50" resname="CREATE_STORY_FAIL" sap:sc="XTIT" size-unit="char">
+        <source>Create Story Failed.</source>
+        <note annotates="source" from="Developer">the failed message of creating story of "Prepare Dataset"</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DI_PROCESS_FILE" maxwidth="120" resname="DI_PROCESS_FILE" sap:sc="XTIT" size-unit="char">
+        <source>Your file has been successfully uploaded, and is now being processed.</source>
+        <note annotates="source" from="Developer">KEY=DI_PROCESS_FILE Tell the customer that his file has currently been uploaded sucessfully.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DI_PROCESS_DONE" resname="DI_PROCESS_DONE" sap:sc="XTIT">
+        <source>Please wait while we are finalizing the processed data</source>
+        <note annotates="source" from="Developer">Tell the customer that his/her file has done processing</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DI_FILE_TOO_LARGE" resname="DI_FILE_TOO_LARGE" sap:sc="XMSG">
+        <source>We couldn't upload the file "<ph id="1">{0}</ph>" because it's bigger than the maximum supported size. See the help for file size limits.</source>
+        <note annotates="source" from="Developer">System warning when a user tries to upload a file that is too large</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DELETE_STORY_FAIL" maxwidth="150" resname="DELETE_STORY_FAIL" sap:sc="XMSG" size-unit="char">
+        <source>Failed to delete story.</source>
+        <note annotates="source" from="Developer">KEY=DELETE_STORY_FAIL occurs when users cancel upload during "I'm feeling lucky" or "Prepare Model" and it fails to delete the blank story</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="REJECT_DATA_INFO" maxwidth="150" resname="REJECT_DATA_INFO" sap:sc="XMSG" size-unit="char">
+        <source><ph id="1">{0}</ph> lines have been rejected. Please go to 'Data Manipulation' page to see further details.</source>
+        <note annotates="source" from="Developer">KEY=REJECT_DATA_INFO show user how many lines are rejected when drag file to 'I'm feeling lucky' area</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GET_STARTED_SAMPLE" resname="GET_STARTED_SAMPLE" sap:sc="XBUT">
+        <source>Explore a sample story</source>
+        <note annotates="source" from="Developer">KEY=GET_STARTED_SAMPLE Button text for First Time Experience widget</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GET_CREATE_ACCOUNT" resname="GET_CREATE_ACCOUNT" sap:sc="XBUT">
+        <source>Create an account</source>
+        <note annotates="source" from="Developer">KEY=GET_CREATE_ACCOUNT Button text for First Time Experience widget</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GET_CREATE_STORY" resname="GET_CREATE_STORY" sap:sc="XBUT">
+        <source>Create your first story</source>
+        <note annotates="source" from="Developer">KEY=GET_CREATE_STORY Button text for First Time Experience widget</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GET_STARTED_HELP" resname="GET_STARTED_HELP" sap:sc="XBUT">
+        <source>Learn more in the help center</source>
+        <note annotates="source" from="Developer">KEY=GET_STARTED_HELP Button text for First Time Experience widget</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_CALENDAR_LABEL" maxwidth="50" resname="DASH_CALENDAR_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Calendar Highlights:</source>
+        <note annotates="source" from="Developer">Label for the Calendar toggle on Edit Homescreen (the currently most important calendar events)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_CALENDAR_TILE_TITLE" maxwidth="50" resname="DASH_CALENDAR_TILE_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Calendar Highlights</source>
+        <note annotates="source" from="Developer">Title for the Calendar Tile (the currently most important calendar events)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DEFAULT_OPTION" maxwidth="50" resname="DEFAULT_OPTION" sap:sc="XFLD" size-unit="char">
+        <source><ph id="1">{0}</ph> - Default</source>
+        <note annotates="source" from="Developer">Label  system default option  KEY=DEFAULT_OPTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILECONTENTLISTITEM_OPEN_EDIT_MODE_BUTTON" resname="TILECONTENTLISTITEM_OPEN_EDIT_MODE_BUTTON" sap:sc="XMSG">
+        <source>Open in edit mode</source>
+        <note annotates="source" from="Developer">KEY=TILECONTENTLISTITEM_OPEN_EDIT_MODE_BUTTON</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILECONTENTLISTITEM_OPEN_MOBILE_MODE_BUTTON" resname="TILECONTENTLISTITEM_OPEN_MOBILE_MODE_BUTTON" sap:sc="XMSG">
+        <source>Open in mobile mode</source>
+        <note annotates="source" from="Developer">KEY=TILECONTENTLISTITEM_OPEN_MOBILE_MODE_BUTTON</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILECONTENTLISTITEM_OPEN_PRESENT_MODE_BUTTON" resname="TILECONTENTLISTITEM_OPEN_PRESENT_MODE_BUTTON" sap:sc="XMSG">
+        <source>Open in present mode</source>
+        <note annotates="source" from="Developer">KEY=TILECONTENTLISTITEM_OPEN_PRESENT_MODE_BUTTON</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILECONTENTLISTITEM_MORE_ACTIONS_BUTTON" resname="TILECONTENTLISTITEM_MORE_ACTIONS_BUTTON" sap:sc="XMSG">
+        <source>More actions</source>
+        <note annotates="source" from="Developer">KEY=TILECONTENTLISTITEM_MORE_ACTIONS_BUTTON</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_EMPTY_TITLE_WARNING" maxwidth="255" resname="TILE_EMPTY_TITLE_WARNING" sap:sc="XMSG" size-unit="char">
+        <source>Tile title cannot be empty.</source>
+        <note annotates="source" from="Developer">KEY=TILE_EMPTY_TITLE_WARNING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_FULLSCREEN_TOOLTIP" maxwidth="30" resname="TILE_FULLSCREEN_TOOLTIP" sap:sc="XFLD" size-unit="char">
+        <source>Full Screen</source>
+        <note annotates="source" from="Developer">Tooltip for full screen button on dashboard tiles  KEY=TILE_FULLSCREEN_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_EXIT_FULLSCREEN_TOOLTIP" maxwidth="30" resname="TILE_EXIT_FULLSCREEN_TOOLTIP" sap:sc="XFLD" size-unit="char">
+        <source>Exit full screen</source>
+        <note annotates="source" from="Developer">Tooltip for exiting full screen button on dashboard tiles  KEY=TILE_EXIT_FULLSCREEN_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_SETTINGS_MENU_BUTTON_TOOLTIP" maxwidth="200" resname="TILE_SETTINGS_MENU_BUTTON_TOOLTIP" sap:sc="XTOL" size-unit="char">
+        <source>Tile Settings</source>
+        <note annotates="source" from="Developer">Tooltip for the settings menu button on an EPM Tile  KEY=TILE_SETTINGS_MENU_BUTTON_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_ACTION_PREFERENCES" maxwidth="30" resname="TILE_ACTION_PREFERENCES" sap:sc="XBUT" size-unit="char">
+        <source>Preferences</source>
+        <note annotates="source" from="Developer">KEY=TILE_ACTION_PREFERENCES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_ACTION_DISCUSS" maxwidth="30" resname="TILE_ACTION_DISCUSS" sap:sc="XBUT" size-unit="char">
+        <source>New Discussion</source>
+        <note annotates="source" from="Developer">KEY=TILE_ACTION_DISCUSS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_ACTION_DELETE" maxwidth="30" resname="TILE_ACTION_DELETE" sap:sc="XBUT" size-unit="char">
+        <source>Delete</source>
+        <note annotates="source" from="Developer">KEY=TILE_ACTION_DELETE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_ACTION_STORYVIEW" maxwidth="30" resname="TILE_ACTION_STORYVIEW" sap:sc="XBUT" size-unit="char">
+        <source>Go to Story</source>
+        <note annotates="source" from="Developer">KEY=TILE_ACTION_STORYVIEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DASH_HOMESCREEN_WELCOME_MESSAGE" resname="DASH_HOMESCREEN_WELCOME_MESSAGE" sap:sc="XTIT">
+        <source>Hello, <ph id="1">{0}</ph>!</source>
+        <note annotates="source" from="Developer">Welcome text on Homescreen with display name passed in  KEY=DASH_HOMESCREEN_WELCOME_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_HOMESCREEN_SEARCH_TO_INSIGHT_PLACEHOLDER" resname="DASH_HOMESCREEN_SEARCH_TO_INSIGHT_PLACEHOLDER" sap:sc="XTIT">
+        <source>Ask a question</source>
+        <note annotates="source" from="Developer">Search to Insight search bar placeholder text on Homescreen  KEY=DASH_HOMESCREEN_SEARCH_TO_INSIGHT_PLACEHOLDER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HOMESCREEN_EMPTYSTATE" resname="HOMESCREEN_EMPTYSTATE" sap:sc="XTIT">
+        <source>Pin objects to your homescreen.</source>
+        <note annotates="source" from="Developer">Empty homescreen message  KEY=HOMESCREEN_EMPTYSTATE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HOMESCREEN_EMPTYSTATE_MESSAGE" resname="HOMESCREEN_EMPTYSTATE_MESSAGE" sap:sc="XTIT">
+        <source>Nothing to see here yet! \n Customize your home screen now!</source>
+        <note annotates="source" from="Developer">Empty homescreen message  KEY=HOMESCREEN_EMPTYSTATE_MESSAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_ACTION_DISCUSS" maxwidth="30" resname="DASH_ACTION_DISCUSS" sap:sc="XBUT" size-unit="char">
+        <source>New Discussion</source>
+        <note annotates="source" from="Developer">KEY=DASH_ACTION_DISCUSS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_ACTION_NEW_NOTE" maxwidth="30" resname="DASH_ACTION_NEW_NOTE" sap:sc="XBUT" size-unit="char">
+        <source>New Note</source>
+        <note annotates="source" from="Developer">KEY=DASH_ACTION_NEW_NOTE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_ACTION_EDIT_HOMESCREEN" maxwidth="30" resname="DASH_ACTION_EDIT_HOMESCREEN" sap:sc="XBUT" size-unit="char">
+        <source>Edit Home Screen</source>
+        <note annotates="source" from="Developer">KEY=DASH_ACTION_EDIT_HOMESCREEN</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_FILES_TILE_TITLE" resname="RECENT_FILES_TILE_TITLE" sap:sc="XTIT">
+        <source>Recent Files</source>
+        <note annotates="source" from="Developer">KEY=RECENT_FILES_TILE_TITLE Title for the Recent Files Tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_FILES_TILE_LINK_TEXT" resname="RECENT_FILES_TILE_LINK_TEXT" sap:sc="XTIT">
+        <source>Go to Your Files</source>
+        <note annotates="source" from="Developer">KEY=RECENT_FILES_TILE_LINK_TEXT Text for the Recent Files Tile link</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_STORIES_TILE_TITLE" resname="RECENT_STORIES_TILE_TITLE" sap:sc="XTIT">
+        <source>Recent Stories</source>
+        <note annotates="source" from="Developer">KEY=RECENT_STORIES_TILE_TITLE Title for the Recent Stories Tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_APPLICATIONS_TILE_TITLE" resname="RECENT_APPLICATIONS_TILE_TITLE" sap:sc="XTIT">
+        <source>Recent Analytic Applications</source>
+        <note annotates="source" from="Developer">KEY=RECENT_APPLICATIONS_TILE_TITLE Title for the Recent Applications Tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASH_RECENT_PRESENTATIONS_TILE_TITLE" maxwidth="50" resname="DASH_RECENT_PRESENTATIONS_TILE_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>Recent Digital Boardroom Presentations</source>
+        <note annotates="source" from="Developer">Title for the Recent Presentations Tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FEATURED_FILES_TILE_TITLE" resname="FEATURED_FILES_TILE_TITLE" sap:sc="XTIT">
+        <source>Featured Files</source>
+        <note annotates="source" from="Developer">KEY=FEATURED_FILES_TILE_TITLE Title for the Featured Files Tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FEATURED_FILES_TILE_BUTTON" resname="FEATURED_FILES_TILE_BUTTON" sap:sc="XTIT">
+        <source>Go to Featured Files</source>
+        <note annotates="source" from="Developer">KEY=FEATURED_FILES_TILE_BUTTON Button on the Featured Files Tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FEATURED_FILES_TILE_TEXT" resname="FEATURED_FILES_TILE_TEXT" sap:sc="XTIT">
+        <source>Want to see the full list?</source>
+        <note annotates="source" from="Developer">KEY=FEATURED_FILES_TILE_TEXT Text for the Featured Files Tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FEATURED_FILES_TILE_EMPTY_TEXT" resname="FEATURED_FILES_TILE_EMPTY_TEXT" sap:sc="XTIT">
+        <source>Nothing to see here yet!</source>
+        <note annotates="source" from="Developer">KEY=FEATURED_FILES_TILE_EMPTY_TEXT Text for the Featured Files Tile when there are no featured files</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_FILES_TILE_EMPTY_TEXT" resname="RECENT_FILES_TILE_EMPTY_TEXT" sap:sc="XTIT">
+        <source>Nothing to see here yet!</source>
+        <note annotates="source" from="Developer">KEY=RECENT_FILES_TILE_EMPTY_TEXT Text for the Recent Files Tile when there are no recent files</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HOMESCREEN_FILES_TILE_CREATED_ON" resname="HOMESCREEN_FILES_TILE_CREATED_ON" sap:sc="XTIT">
+        <source>Created on</source>
+        <note annotates="source" from="Developer">KEY=HOMESCREEN_FILES_TILE_CREATED_ON Text for the Last Updated field of a tile on the homescreen; displays the time the resource was created</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HOMESCREEN_FILES_TILE_CHANGED_ON" resname="HOMESCREEN_FILES_TILE_CHANGED_ON" sap:sc="XTIT">
+        <source>Changed on</source>
+        <note annotates="source" from="Developer">KEY=HOMESCREEN_FILES_TILE_CHANGED_ON Text for Last Updated field of a tile on the homescreen; displays the time the resource was last changed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_INFO_TITLE" maxwidth="30" resname="TILE_INFO_TITLE" sap:sc="XBUT" size-unit="char">
+        <source>Title</source>
+        <note annotates="source" from="Developer">KEY=TILE_INFO_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_INFO_SUBTITLE" maxwidth="30" resname="TILE_INFO_SUBTITLE" sap:sc="XBUT" size-unit="char">
+        <source>Subtitle</source>
+        <note annotates="source" from="Developer">KEY=TILE_INFO_SUBTITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_PRESENTATIONS_TILE_HEADER_TITLE" resname="RECENT_PRESENTATIONS_TILE_HEADER_TITLE" sap:sc="XMSG">
+        <source>Recent Digital Boardroom Presentations</source>
+        <note annotates="source" from="Developer">KEY=RECENT_PRESENTATIONS_TILE_HEADER_TITLE Title for the Recent Stories Tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_PRESENTATIONS_TILE_PLACEHOLDER_CREATE_PRESENTATION" resname="RECENT_PRESENTATIONS_TILE_PLACEHOLDER_CREATE_PRESENTATION" sap:sc="XMSG">
+        <source>Create one to start this list.</source>
+        <note annotates="source" from="Developer">KEY=RECENT_STORIES_TILE_PLACEHOLDER_OPEN_STORY placeholder for the Recent Presentation Tile content (Line 1) when there are no recent presentations</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_PRESENTATIONS_TILE_PLACEHOLDER_EMPTY_LIST" resname="RECENT_PRESENTATIONS_TILE_PLACEHOLDER_EMPTY_LIST" sap:sc="XMSG">
+        <source>There are no presentations yet!</source>
+        <note annotates="source" from="Developer">KEY=RECENT_PRESENTATIONS_TILE_PLACEHOLDER_EMPTY_LIST placeholder for the Recent Presentation Tile content (Line 2) when there are no recent presentations</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_STORIES_TILE_PLACEHOLDER_NO_STORIES" resname="RECENT_STORIES_TILE_PLACEHOLDER_NO_STORIES" sap:sc="XMSG">
+        <source>There are no recent stories yet!</source>
+        <note annotates="source" from="Developer">KEY=RECENT_STORIES_TILE_PLACEHOLDER_NO_STORIES placeholder for the Recent Stories Tile content (Line 1) when there are no recent stories</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_STORIES_TILE_PLACEHOLDER_OPEN_STORY" resname="RECENT_STORIES_TILE_PLACEHOLDER_OPEN_STORY" sap:sc="XMSG">
+        <source>Open a story to start this list.</source>
+        <note annotates="source" from="Developer">KEY=RECENT_STORIES_TILE_PLACEHOLDER_OPEN_STORY placeholder for the Recent Stories Tile content (Line 2) when there are no recent stories</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_APPLICATIONS_TILE_PLACEHOLDER_NO_APPS" resname="RECENT_APPLICATIONS_TILE_PLACEHOLDER_NO_APPS" sap:sc="XMSG">
+        <source>There are no recent applications yet!</source>
+        <note annotates="source" from="Developer">KEY=RECENT_APPLICATIONS_TILE_PLACEHOLDER_NO_APPS placeholder for the Recent Applications Tile content (Line 1) when there are no recent apps</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECENT_APPLICATIONS_TILE_PLACEHOLDER_OPEN_APP" resname="RECENT_APPLICATIONS_TILE_PLACEHOLDER_OPEN_APP" sap:sc="XMSG">
+        <source>Open one to start this list.</source>
+        <note annotates="source" from="Developer">KEY=RECENT_APPLICATIONS_TILE_PLACEHOLDER_OPEN_APP placeholder for the Recent Applications Tile content (Line 2) when there are no recent apps</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SMART_INSIGHTS_HOME_PAGE" resname="SMART_INSIGHTS_HOME_PAGE" sap:sc="XTOL">
+        <source>Smart Insights are not available for the Home Page.</source>
+        <note annotates="source" from="Developer">KEY=SMART_INSIGHTS_HOME_PAGE Tooltip message on Smart Insights button that indicates Smart Insights are not available for homepage</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="GO_TO" maxwidth="30" resname="GO_TO" sap:sc="XBUT" size-unit="char">
+        <source>Go to <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">KEY=GO_TO</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VISUALIZATION_FAIL" maxwidth="250" resname="VISUALIZATION_FAIL" sap:sc="XMSG" size-unit="char">
+        <source>Failed to load visualization</source>
+        <note annotates="source" from="Developer">KEY=VISUALIZATION_FAIL</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-adhoc.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="466617284f932cd9bf0345575182a6d5" form="base64">H4sIAAAAAAAAALVYTXObOhTd51doppu+RdJVN53JQgElYcqHCzhNumEUUGLmYcQTImn669+9Amxsg3HT6Sox6J5zdHV1P/hA4pWoBdHip64JV4I0tchIXpKl8/lciYJr+PlU8XNeVSSVmTg7+3B/7dpfyK3gmVDkSSqiRCpKTYq81mhqc81JJBuVCmLnvJDPZ/iofdI+uGhNXLS4JKH5UbwZciSIAxcI5Avgo7IDkrQQXJHHRmtZHsO2zLrLbj2aGnQn/kLiXBfCAJ8iV5vVlyQShUj10AQBvejmC2FKAViGb+r2Dc1WMr3INljtiktiyabISCnRWbkGgvyX2DHsIeN+73oliM9f8meuc1kueCmKqHnsTkDlzyt9ZtPEp3cL6jM3iZZXt4zaLExcdh0nNous0FnETuAD+5j29xJ1LKFzcxsnV0vHhV9AcdXkBRiMw3uC140SNcnytShroMGYwTcGf59+hy9m93HiMe+KhRHweGL9KFT9m9soxNPoLoyv6B11XHrlssSJmYck9IXnBX+E43e0WE+Q9ZuyZKl5XmLcYsTsindigPUYjZYhixIr8GPq+Oiw3nocO5SvJ+CGwfcdTGP2J4BW4C49fxfTkkWzLv/YB7bjMT+CcNxBt/t42OKjx7cZAEnw8AgywENPlI0gcNXVG1zcuir4GwkqbRCGpMgBgQOcS9bdCCdauPQhCcylwFPet+8VQNicn67CsWeIHRu4YNX74G1Rpyo3Cuc2uHvlB3Z/m9mxE+rbewJg27zMRnWcriGSSs+QR0EYY5bGle/d6BNvCk0ChQlszsnXdOnGSRC2aW/X9n38tIbaleXl8ww3jSzm245/gxlqY/N3OeFM2ZYVDlMMeE1P0IETuMgNyY0ASWqhySoXiqt09Ya5nkPqb8vsIV2CfMmtw0IaWrcPwHPbm15cXMwTca1VDo0B1JeTmBZhsGBh7DBMAgslK6F0LuqOa69T2N3JCPRGN2QY6gY3bb4zfcPAcnNMLn8UxeZ4BsigI5Ov5Qw2bGLoH4S9WoLgVphR27dIA5zOGlbGgZ9ELG7l7VvLf+eNg69gG3zdN015mcK+Zs0t6lvMxbJiDCYc/pLXOVbfanM4Y57fnuOY6w8xJsi01AVHAlMNpsMmDmLqYshEK/lKYql5Uc8E5yuvCP+Zj5amFjT6ThcJvXcMLi6nuHw25LVhJ59IBf07dMgldOnQyxf5cwlrR1PmcBMJdZ0bHx5gIFClePksJjAhWuXrvKAmW02TLu1b00isK46NdOfoo5i/hALgpqqguagnKhD0vIsFtFVR8oOFgfFgZ0B+gPm2oFNsN58kMNQ1x52uuIbZYg3DBoGjR2rTxmD66P+ttWpSbR7Wpm+vZG0C6hOqgmIDU8tQU8i84A6SJo3ivt8DQQ+ywathADpCk5UHpBeEwoQj8IksxYZ/3cCDR9GH8cVwM8IMFf1uagjHss18WiLM60q0zTWMVjCdSNFuYMU7dtNz1+hlnqboLXxoRgRa8uLtV1cEgwRul+dEUVvPcSuZ3EUqBdpzqCdwxda5OaljuNtdxFIWOq+2xarmlZPK8hwHtvPHpigETqEf4e7CxjbtOIZHDQEKzf0/O+6HTODvN/IQ7IEbOwtMWJMwv60oLSQMzydIstwgYgeaup54o8yahpuXJrJcdz4azJJdrhxxkE1jGgXL0GKbjNkLCcZB5jV0YZ2ne5e0uxAOXNbBdkOzeho13UkG+5heEB4gelIdwVMw9xgc8pFn2WD+hCjFd7tOora9HVSAo52wtlx0DOIk8s5LW+MnJdcjCjqvbUVch4G3LyOcBDvmWDPGTfmiez3jjn4+POKRdH9cPC5k3C+jasZdcyhp3DuzusxhrfsPFVs3rQ+/XUzGzmbQnwuiadDfE9i5bwTueHyNCD0SaMfg5w/6ZJ9OxuC4W8eD8Sj0tFjxs8JpdcS6VT35flctu1/gJDwieC9rsSm8o/4seFWPHkcr8siKvdIUuC5dRKNxsCfUmsY8/CT0XyPUW9tr9XOBKW/bseDbkoUPieNfB30FastkNx5gW9fVxFPQNx+bDmHbr04tngMmas31iZrbJyVfT0C3T3zqsUvyzaz1ce0JyDCLvOT4PXIa3PwPk82dg98nWxLUj4Nqa3sqmWkyTUVvKvgzwWcaVuwLkuUC/gCbi3ambVsau/8B2a3X3zAYAAA=</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:56Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DataSourceDialog.recentList" resname="DataSourceDialog.recentList" sap:sc="XFLD">
+        <source>Recently used</source>
+        <note annotates="source" from="Developer">Header for recent list in Data Source Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DataSourceDialog.recentListClear" resname="DataSourceDialog.recentListClear" sap:sc="XTOL">
+        <source>clear list</source>
+        <note annotates="source" from="Developer">Hover text for recent list clear button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DataSourceDialog.title" resname="DataSourceDialog.title" sap:sc="XTIT">
+        <source>Select Data Source</source>
+        <note annotates="source" from="Developer">Title for Data Source Dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="Adhoc.dataSourceError" resname="Adhoc.dataSourceError" sap:sc="XMSG">
+        <source>Could not initialize data source</source>
+        <note annotates="source" from="Developer">Error data source</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_SUBHEADER_LEFT_DESCRIPTION" resname="DA_NAVPANEL_SUBHEADER_LEFT_DESCRIPTION" sap:sc="XMSG">
+        <source>Data Source</source>
+        <note annotates="source" from="Developer">Text for the NavigationPanelSubHeader right</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_HEADER_RIGHT_BUILDER" resname="DA_NAVPANEL_HEADER_RIGHT_BUILDER" sap:sc="XMSG">
+        <source>Builder</source>
+        <note annotates="source" from="Developer">Text for the NavigationPanelSubHeader right</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_TEXT_MEMBERS" resname="DA_NAVPANEL_TEXT_MEMBERS" sap:sc="XMSG">
+        <source>Members</source>
+        <note annotates="source" from="Developer">Text for the Measures dimension in the right NavigationPanel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_HEADER_LEFT_AVAILABLE_ITEMS" resname="DA_NAVPANEL_HEADER_LEFT_AVAILABLE_ITEMS" sap:sc="XMSG">
+        <source>Available Items</source>
+        <note annotates="source" from="Developer">Text for the NavigationPanelSubHeader left</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_TITLE_MEASURES_CONTAINER" resname="DA_NAVPANEL_TITLE_MEASURES_CONTAINER" sap:sc="XMSG">
+        <source>Measures</source>
+        <note annotates="source" from="Developer">Text for the MeasuresContainer title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_TITLE_ROWS_CONTAINER" resname="DA_NAVPANEL_TITLE_ROWS_CONTAINER" sap:sc="XMSG">
+        <source>Rows</source>
+        <note annotates="source" from="Developer">Text for the RowsContainer title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_TITLE_COLUMNS_CONTAINER" resname="DA_NAVPANEL_TITLE_COLUMNS_CONTAINER" sap:sc="XMSG">
+        <source>Columns</source>
+        <note annotates="source" from="Developer">Text for the RowsContainer title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_TITLE_DIMENSIONS_CONTAINER" resname="DA_NAVPANEL_TITLE_DIMENSIONS_CONTAINER" sap:sc="XMSG">
+        <source>Dimensions</source>
+        <note annotates="source" from="Developer">Text for the MeasuresContainer title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXTMENUE_LEFT_DISPLAY_OPTIONS" resname="DA_NAVPANEL_CONTEXTMENUE_LEFT_DISPLAY_OPTIONS" sap:sc="XMSG">
+        <source>Display Options</source>
+        <note annotates="source" from="Developer">Item text for the left ContextMenue entry Display Options</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXTMENUE_LEFT_ID" resname="DA_NAVPANEL_CONTEXTMENUE_LEFT_ID" sap:sc="XMSG">
+        <source>ID</source>
+        <note annotates="source" from="Developer">Sub-Item text for the left ContextMenue entry ID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXTMENUE_LEFT_DESCRIPTION" resname="DA_NAVPANEL_CONTEXTMENUE_LEFT_DESCRIPTION" sap:sc="XMSG">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Sub-Item text for the left ContextMenue entry Description</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXTMENUE_LEFT_ID_AND_DESCRIPTION" resname="DA_NAVPANEL_CONTEXTMENUE_LEFT_ID_AND_DESCRIPTION" sap:sc="XMSG">
+        <source>ID and Description</source>
+        <note annotates="source" from="Developer">Sub-Item text for the left ContextMenue entry Description</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXTMENUE_LEFT_SORT" resname="DA_NAVPANEL_CONTEXTMENUE_LEFT_SORT" sap:sc="XMSG">
+        <source>Sort</source>
+        <note annotates="source" from="Developer">Item text for the left ContextMenue entry Sort</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXTMENUE_LEFT_DEFAULT_ORDER" resname="DA_NAVPANEL_CONTEXTMENUE_LEFT_DEFAULT_ORDER" sap:sc="XMSG">
+        <source>Default Order</source>
+        <note annotates="source" from="Developer">Sub-Item text for the left ContextMenue entry Default Order</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXTMENUE_LEFT_ASCENDING" resname="DA_NAVPANEL_CONTEXTMENUE_LEFT_ASCENDING" sap:sc="XMSG">
+        <source>Ascending</source>
+        <note annotates="source" from="Developer">Sub-Item text for the left ContextMenue entry Ascending</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXTMENUE_LEFT_DESECENDING" resname="DA_NAVPANEL_CONTEXTMENUE_LEFT_DESECENDING" sap:sc="XMSG">
+        <source>Desecending</source>
+        <note annotates="source" from="Developer">Sub-Item text for the left ContextMenue entry Ascending</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXT_MENU_HIERARCHY" resname="DA_NAVPANEL_CONTEXT_MENU_HIERARCHY" sap:sc="XFLD">
+        <source>Hierarchy...</source>
+        <note annotates="source" from="Developer">Context menu item to set hierarchy in a dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXT_MENU_PROPERTIES" resname="DA_NAVPANEL_CONTEXT_MENU_PROPERTIES" sap:sc="XFLD">
+        <source>Properties...</source>
+        <note annotates="source" from="Developer">Context menu item to set attributes in a dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_HIERARCHY_DIALOG_TITLE" resname="DA_NAVPANEL_HIERARCHY_DIALOG_TITLE" sap:sc="XTIT">
+        <source>Set hierarchy</source>
+        <note annotates="source" from="Developer">Title for set hierarchy dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_HIERARCHY_DIALOG_TEXT" resname="DA_NAVPANEL_HIERARCHY_DIALOG_TEXT" sap:sc="XMSG">
+        <source>Hierarchy</source>
+        <note annotates="source" from="Developer">Label for the hierarchy dropdown</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_DIALOG_BUTTON_SET" resname="DA_NAVPANEL_DIALOG_BUTTON_SET" sap:sc="XBUT">
+        <source>Set</source>
+        <note annotates="source" from="Developer">dialog set button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_DIALOG_BUTTON_OK" resname="DA_NAVPANEL_DIALOG_BUTTON_OK" sap:sc="XBUT">
+        <source>OK</source>
+        <note annotates="source" from="Developer">dialog ok button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_DIALOG_BUTTON_CANCEL" resname="DA_NAVPANEL_DIALOG_BUTTON_CANCEL" sap:sc="XBUT">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">dialog cancel button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_PROPERTIES_DIALOG_TITLE" resname="DA_NAVPANEL_PROPERTIES_DIALOG_TITLE" sap:sc="XTIT">
+        <source>Set visible properties</source>
+        <note annotates="source" from="Developer">Title for set visible properties dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXT_MENU_TOTALS" resname="DA_NAVPANEL_CONTEXT_MENU_TOTALS" sap:sc="XTIT">
+        <source>Show Totals</source>
+        <note annotates="source" from="Developer">Title for set totlas display</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXT_MENU_SWAP_AXIS" resname="DA_NAVPANEL_CONTEXT_MENU_SWAP_AXIS" sap:sc="XFLD">
+        <source>Swap Axis</source>
+        <note annotates="source" from="Developer">Context menu item to swap axis</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXT_MENU_TOTALS_ALIGNMENT" resname="DA_NAVPANEL_CONTEXT_MENU_TOTALS_ALIGNMENT" sap:sc="XFLD">
+        <source>Arrange totals / parent nodes below</source>
+        <note annotates="source" from="Developer">Context menu item to set totals / parent nodes alignment</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXT_MENU_UDH" resname="DA_NAVPANEL_CONTEXT_MENU_UDH" sap:sc="XFLD">
+        <source>Compact Display</source>
+        <note annotates="source" from="Developer">Context menu item to set udh</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CONTEXT_SUPPRESS_ZEROS" resname="DA_NAVPANEL_CONTEXT_SUPPRESS_ZEROS" sap:sc="XFLD">
+        <source>Suppress Zeros</source>
+        <note annotates="source" from="Developer">Context menu item to zero suppression</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_REMOVE_LAST_MEASURE" resname="DA_NAVPANEL_REMOVE_LAST_MEASURE" sap:sc="XMSG">
+        <source>You can not remove the last measure. At least one measure must be visible.</source>
+        <note annotates="source" from="Developer">An info message that remove last measure in measure structure is not possible/supported</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NO_PERMISSION" resname="DA_NO_PERMISSION" sap:sc="XMSG">
+        <source>You do not have the necessary permission to access the Data Analyzer.</source>
+        <note annotates="source" from="Developer">An error message shown in a toast when the user does not have the rights to access the Data Analyzer</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_OPEN_AVAILABLE_ITEMS_TOOLTIP" resname="DA_NAVPANEL_OPEN_AVAILABLE_ITEMS_TOOLTIP" sap:sc="XMSG">
+        <source>Open available items panel</source>
+        <note annotates="source" from="Developer">Tooltip text for sapIcon-list-bulleted (open available items panel)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_CLOSE_AVAILABLE_ITEMS_PANEL_TOOLTIP" resname="DA_NAVPANEL_CLOSE_AVAILABLE_ITEMS_PANEL_TOOLTIP" sap:sc="XMSG">
+        <source>Close available items panel</source>
+        <note annotates="source" from="Developer">Tooltip text for sapIcon-list-bulleted (close available items panel)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_OPEN_DATASOURCE_DIALOG_TOOLTIP" resname="DA_NAVPANEL_OPEN_DATASOURCE_DIALOG_TOOLTIP" sap:sc="XMSG">
+        <source>Open data source dialog</source>
+        <note annotates="source" from="Developer">Tooltip text for sapIcon-edit (open data source dialog)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_REMOVE_ICON_TOOLTIP" resname="DA_NAVPANEL_REMOVE_ICON_TOOLTIP" sap:sc="XMSG">
+        <source>Remove</source>
+        <note annotates="source" from="Developer">Tooltip text for sapIcon-remove icon</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_MORE_ICON_TOOLTIP" resname="DA_NAVPANEL_MORE_ICON_TOOLTIP" sap:sc="XMSG">
+        <source>More</source>
+        <note annotates="source" from="Developer">Tooltip text for context menu icon</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_ADD_DIMENSION_TO_ROWS_TOOLTIP" resname="DA_NAVPANEL_ADD_DIMENSION_TO_ROWS_TOOLTIP" sap:sc="XMSG">
+        <source>Add dimension to rows</source>
+        <note annotates="source" from="Developer">Tooltip text for rows icon (add dimension to rows)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_REMOVE_DIMENSION_FROM_ROWS_TOOLTIP" resname="DA_NAVPANEL_REMOVE_DIMENSION_FROM_ROWS_TOOLTIP" sap:sc="XMSG">
+        <source>Remove dimension from rows</source>
+        <note annotates="source" from="Developer">Tooltip text for rows icon (remove dimension from rows)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_ADD_DIMENSION_TO_COLUMNS_TOOLTIP" resname="DA_NAVPANEL_ADD_DIMENSION_TO_COLUMNS_TOOLTIP" sap:sc="XMSG">
+        <source>Add dimension to columns</source>
+        <note annotates="source" from="Developer">Tooltip text for columns icon (add dimension to columns)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_REMOVE_DIMENSION_FROM_COLUMNS_TOOLTIP" resname="DA_NAVPANEL_REMOVE_DIMENSION_FROM_COLUMNS_TOOLTIP" sap:sc="XMSG">
+        <source>Remove dimension from columns</source>
+        <note annotates="source" from="Developer">Tooltip text for columns icon (remove dimension from columns)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_ADD_MEASURES_DIMENSION_TO_ROWS_TOOLTIP" resname="DA_NAVPANEL_ADD_MEASURES_DIMENSION_TO_ROWS_TOOLTIP" sap:sc="XMSG">
+        <source>Add measures dimension to rows</source>
+        <note annotates="source" from="Developer">Tooltip text for rows measures icon (add measures dimension to rows)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_REMOVE_MEASURES_DIMENSION_FROM_ROWS_TOOLTIP" resname="DA_NAVPANEL_REMOVE_MEASURES_DIMENSION_FROM_ROWS_TOOLTIP" sap:sc="XMSG">
+        <source>Remove measures dimension from rows</source>
+        <note annotates="source" from="Developer">Tooltip text for rows measures icon (remove measures dimension from rows)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_ADD_MEASURES_DIMENSION_TO_COLUMNS_TOOLTIP" resname="DA_NAVPANEL_ADD_MEASURES_DIMENSION_TO_COLUMNS_TOOLTIP" sap:sc="XMSG">
+        <source>Add measures dimension to columns</source>
+        <note annotates="source" from="Developer">Tooltip text for columns measures icon (add measures dimension to columns)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_EXPAND_MEASURES_DIMENSION_ICON_TOOLTIP" resname="DA_NAVPANEL_EXPAND_MEASURES_DIMENSION_ICON_TOOLTIP" sap:sc="XMSG">
+        <source>Expand measures dimension</source>
+        <note annotates="source" from="Developer">Tooltip text for expand measures dimension icon (expand measures dimension)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_NAVPANEL_COLLAPSE_MEASURES_DIMENSION_ICON_TOOLTIP" resname="DA_NAVPANEL_COLLAPSE_MEASURES_DIMENSION_ICON_TOOLTIP" sap:sc="XMSG">
+        <source>Collapse measures dimension</source>
+        <note annotates="source" from="Developer">Tooltip text for collapse measures dimension icon (collapse measures dimension)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_QUERY_INFO_DIALOG_CLOSE_BUTTON_TEXT" resname="DA_QUERY_INFO_DIALOG_CLOSE_BUTTON_TEXT" sap:sc="XMSG">
+        <source>Close</source>
+        <note annotates="source" from="Developer">Text for query info dialog close button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_QUERY_INFO_DIALOG_TITLE_TEXT" resname="DA_QUERY_INFO_DIALOG_TITLE_TEXT" sap:sc="XMSG">
+        <source>Information</source>
+        <note annotates="source" from="Developer">Text for query info dialog title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_QUERY_INFO_DIALOG_QUERY_NAME" resname="DA_QUERY_INFO_DIALOG_QUERY_NAME" sap:sc="XMSG">
+        <source>Query Name</source>
+        <note annotates="source" from="Developer">Text for query info dialog query name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_QUERY_INFO_DIALOG_INFO_PROVIDER_NAME" resname="DA_QUERY_INFO_DIALOG_INFO_PROVIDER_NAME" sap:sc="XMSG">
+        <source>Info Provider Name</source>
+        <note annotates="source" from="Developer">Text for query info dialog provider name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DA_QUERY_INFO_DIALOG_LAST_DATA_UPDATE" resname="DA_QUERY_INFO_DIALOG_LAST_DATA_UPDATE" sap:sc="XMSG">
+        <source>Last Data Update</source>
+        <note annotates="source" from="Developer">Text for query info dialog last data update</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

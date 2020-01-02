@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-dataPreparation.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="c9d920a61edaf67d78ff9ac0bcf0f7f8" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:56Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPLORER_STORY_BUTTON_LABEL" resname="EXPLORER_STORY_BUTTON_LABEL" sap:sc="XTXT">
+        <source>Story</source>
+        <note annotates="source" from="Developer">Title for Story toggle button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COLUMN_DETAILS" resname="COLUMN_DETAILS" sap:sc="XTIT">
+        <source>Column Details</source>
+        <note annotates="source" from="Developer">Title for column details side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COLUMN_DETAILS_FOR" resname="COLUMN_DETAILS_FOR" sap:sc="XFLD">
+        <source>Viewing column details for:</source>
+        <note annotates="source" from="Developer">Label for column details side panel column selection</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_LABEL" resname="DATATYPE_LABEL" sap:sc="XFLD">
+        <source>Data Type</source>
+        <note annotates="source" from="Developer">Data Type dropdown label for selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_DATE" resname="DATATYPE_DATE" sap:sc="XMIT">
+        <source>Date</source>
+        <note annotates="source" from="Developer">Data type for selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_INTEGER" resname="DATATYPE_INTEGER" sap:sc="XMIT">
+        <source>Integer</source>
+        <note annotates="source" from="Developer">Data type for selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_NUMBER" resname="DATATYPE_NUMBER" sap:sc="XMIT">
+        <source>Decimal</source>
+        <note annotates="source" from="Developer">Data type for selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_STRING" resname="DATATYPE_STRING" sap:sc="XMIT">
+        <source>String</source>
+        <note annotates="source" from="Developer">Data type for selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_TIME" resname="DATATYPE_TIME" sap:sc="XMIT">
+        <source>Time</source>
+        <note annotates="source" from="Developer">Data type for selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_DATETIME" resname="DATATYPE_DATETIME" sap:sc="XMIT">
+        <source>Date and Time</source>
+        <note annotates="source" from="Developer">Data type for selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_BOOLEAN" resname="DATATYPE_BOOLEAN" sap:sc="XMIT">
+        <source>Boolean</source>
+        <note annotates="source" from="Developer">Data type for selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_SPATIAL" resname="DATATYPE_SPATIAL" sap:sc="XMIT">
+        <source>Spatial</source>
+        <note annotates="source" from="Developer">Data type for selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COLUMN_REFERENCED" resname="COLUMN_REFERENCED" sap:sc="XTIT">
+        <source>Column referenced in:</source>
+        <note annotates="source" from="Developer">title to show a list of all the model entities this column is referenced to</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="USE_AS_MEASURE" resname="USE_AS_MEASURE" sap:sc="XBUT">
+        <source>Use as measure</source>
+        <note annotates="source" from="Developer">button to let user create measure from selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="USE_AS_DIMENSION" resname="USE_AS_DIMENSION" sap:sc="XBUT">
+        <source>Use as dimension</source>
+        <note annotates="source" from="Developer">button to let user create dimension from selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_DISTRIBUTION" resname="DATA_DISTRIBUTION" sap:sc="XBUT">
+        <source>Data Distribution</source>
+        <note annotates="source" from="Developer">Segmented button (left) that displays distribution details</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_VALIDATION" resname="DATA_VALIDATION" sap:sc="XBUT">
+        <source>Validation</source>
+        <note annotates="source" from="Developer">Segmented button (right) that displays validation details</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_VALIDATION_TYPE_FULL" resname="DATA_VALIDATION_TYPE_FULL" sap:sc="XFLD">
+        <source>Validation on full data</source>
+        <note annotates="source" from="Developer">Info field area text telling what kind of validation we are doing on user data - full data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_VALIDATION_TYPE_FULL_INFO" resname="DATA_VALIDATION_TYPE_FULL_INFO" sap:sc="XFLD">
+        <source>Validation on full data is validating this column against the full data including what is not visible in the grid</source>
+        <note annotates="source" from="Developer">Info box explaining what full data validation means</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_VALIDATION_TYPE_SAMPLE" resname="DATA_VALIDATION_TYPE_SAMPLE" sap:sc="XFLD">
+        <source>Validation on sample data</source>
+        <note annotates="source" from="Developer">Info field area text telling what kind of validation we are doing on user data - sampled</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_VALIDATION_TYPE_SAMPLE_INFO" resname="DATA_VALIDATION_TYPE_SAMPLE_INFO" sap:sc="XFLD">
+        <source>Validation on sample data is validating this column against only the data visible in the grid</source>
+        <note annotates="source" from="Developer">Info box explaining what sample data validation means</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_VALIDATION_NO_ERRORS" resname="DATA_VALIDATION_NO_ERRORS" sap:sc="XFLD">
+        <source>No errors detected</source>
+        <note annotates="source" from="Developer">text to show to user that there are no validations errors</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_VALIDATION_VALUE" resname="DATA_VALIDATION_VALUE" sap:sc="XFLD">
+        <source>Value</source>
+        <note annotates="source" from="Developer">table header for value column when full data validation is toggled off</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_VALIDATION_UNIQUE_VALUE" resname="DATA_VALIDATION_UNIQUE_VALUE" sap:sc="XFLD">
+        <source>Unique Value</source>
+        <note annotates="source" from="Developer">table header for value column when full data validation is toggled on</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_VALIDATION_COUNT" resname="DATA_VALIDATION_COUNT" sap:sc="XFLD">
+        <source>Count</source>
+        <note annotates="source" from="Developer">table header for count column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DATA_VALIDATION_SHOWING_COUNTER" resname="DATA_VALIDATION_SHOWING_COUNTER" sap:sc="XFLD">
+        <source>Showing <ph id="1">{0}</ph> of <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">label indicating how many error are visible</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DATA_VALIDATION_SHOW_MORE" resname="DATA_VALIDATION_SHOW_MORE" sap:sc="XBUT">
+        <source>Show <ph id="1">{0}</ph> more</source>
+        <note annotates="source" from="Developer">button text to show more errors in list</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA_VALIDATION_RESTRICTION" resname="DATA_VALIDATION_RESTRICTION" sap:sc="XMSG">
+        <source>Currently, only data type conversion is fully validated.</source>
+        <note annotates="source" from="Developer">popover message to inform on limits of AgileBI full data validation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_INT" resname="INVALID_INT" sap:sc="XTIT">
+        <source>Invalid Integer</source>
+        <note annotates="source" from="Developer">Validation status for invalid integers in a column of type Integer</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_INT_DESC" resname="INVALID_INT_DESC" sap:sc="XMSG">
+        <source>The values will not be displayed in visualizations because they are not valid integers.</source>
+        <note annotates="source" from="Developer">Validation warning for invalid integers in a column of type Integer</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_LAT" resname="INVALID_LAT" sap:sc="XTIT">
+        <source>Invalid Latitude Coordinate</source>
+        <note annotates="source" from="Developer">Validation status for invalid Latitude coordinates in a column used as geo latitude</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_LAT_DESC" resname="INVALID_LAT_DESC" sap:sc="XMSG">
+        <source>Please ensure that your location coordinate values are between -85 and 85. Your current values are not supported and cannot be displayed in a geo map.</source>
+        <note annotates="source" from="Developer">Validation warning for invalid Latitude coordinates in a column used as geo latitude</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_LONG" resname="INVALID_LONG" sap:sc="XTIT">
+        <source>Invalid Longitude Coordinate</source>
+        <note annotates="source" from="Developer">Validation status for invalid Longitude coordinates in a column used as geo longitude</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_LONG_DESC" resname="INVALID_LONG_DESC" sap:sc="XMSG">
+        <source>Please ensure that your location coordinate values are between -180 and 180. Your current values are not supported and cannot be displayed in a geo map.</source>
+        <note annotates="source" from="Developer">Validation warning for invalid Longitude coordinates in a column used as geo longitude</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRECISION_LOST_INT" resname="PRECISION_LOST_INT" sap:sc="XTIT">
+        <source>Precision Lost</source>
+        <note annotates="source" from="Developer">Validation status for decimal precision values in a column of type Integer</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRECISION_LOST_INT_DESC" resname="PRECISION_LOST_INT_DESC" sap:sc="XMSG">
+        <source>Any digits after the decimal point will not appear in visualizations as this is an integer type column</source>
+        <note annotates="source" from="Developer">Validation warning for decimal precision values in a column of type Integer</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_NUM" resname="INVALID_NUM" sap:sc="XTIT">
+        <source>Invalid Number</source>
+        <note annotates="source" from="Developer">Validation status for invalid numbers in a column of type Number</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_NUM_DESC" resname="INVALID_NUM_DESC" sap:sc="XMSG">
+        <source>These values will not appear in visualizations as they are not valid numbers.</source>
+        <note annotates="source" from="Developer">Validation warning for invalid numbers in a column of type Number</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_DATE" resname="INVALID_DATE" sap:sc="XTIT">
+        <source>Invalid Date</source>
+        <note annotates="source" from="Developer">Validation status for invalid dates in a column of type Date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_DATE_DESC" resname="INVALID_DATE_DESC" sap:sc="XMSG">
+        <source>These values will not appear in visualizations as they are not valid dates.</source>
+        <note annotates="source" from="Developer">Validation warning for invalid Dates in a column of type Date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_DATETIME" resname="INVALID_DATETIME" sap:sc="XTIT">
+        <source>Invalid Date and Time</source>
+        <note annotates="source" from="Developer">Validation status for invalid Date and Time in a column of type Date and Time</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_DATETIME_DESC" resname="INVALID_DATETIME_DESC" sap:sc="XMSG">
+        <source>These values will not appear in visualizations as they are not valid as Date and Time.</source>
+        <note annotates="source" from="Developer">Validation warning for invalid Date and Time in a column of type Date and Time</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_TIME" resname="INVALID_TIME" sap:sc="XTIT">
+        <source>Invalid Time</source>
+        <note annotates="source" from="Developer">Validation status for invalid Time in a column of type Time</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_TIME_DESC" resname="INVALID_TIME_DESC" sap:sc="XMSG">
+        <source>These values will not appear in visualizations as they are not valid as time.</source>
+        <note annotates="source" from="Developer">Validation warning for invalid Time in a column of type Time</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DUPLICATE_MEMBER_ID" resname="DUPLICATE_MEMBER_ID" sap:sc="XTIT">
+        <source>Duplicate Member ID</source>
+        <note annotates="source" from="Developer">Validation status for duplicate member id validation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DUPLICATE_MEMBER_ID_DESC" resname="DUPLICATE_MEMBER_ID_DESC" sap:sc="XMSG">
+        <source>The same member ID corresponds to multiple attribute members. A random attribute member will be chosen.</source>
+        <note annotates="source" from="Developer">Validation warning for duplicate member id validation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INT_OUT_OF_BOUNDS" resname="INT_OUT_OF_BOUNDS" sap:sc="XTIT">
+        <source>Integer Out of Bounds</source>
+        <note annotates="source" from="Developer">Validation status for values outside of the 32-bit signed integer bounds in a column of type Integer</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INT_OUT_OF_BOUNDS_DESC" resname="INT_OUT_OF_BOUNDS_DESC" sap:sc="XMSG">
+        <source>Please ensure that the values are between -2,147,483,648 and 2,147,483,647. Values outside of the range will not appear in visualizations.</source>
+        <note annotates="source" from="Developer">Validation warning for values outside of the 32-bit signed integer bounds in a column of type Integer</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOKEN_MSR_TO_DIM" resname="TOKEN_MSR_TO_DIM" sap:sc="XMIT">
+        <source>Change to a Dimension</source>
+        <note annotates="source" from="Developer">Token menu item; changes selected measure to a dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BATCH_MSR_TO_DIM" resname="BATCH_MSR_TO_DIM" sap:sc="XMIT">
+        <source>Change to Dimensions</source>
+        <note annotates="source" from="Developer">Measure group menu; Batch convert to dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOKEN_DELETE" resname="TOKEN_DELETE" sap:sc="XMIT">
+        <source>Delete</source>
+        <note annotates="source" from="Developer">Token menu item; deletes selected dimension/measure</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOKEN_MENU_ITEM_NOT_AVAILABLE_ONE_DIM_REQUIRED" resname="TOKEN_MENU_ITEM_NOT_AVAILABLE_ONE_DIM_REQUIRED" sap:sc="XMSG">
+        <source>A model needs to have at least 1 dimension.</source>
+        <note annotates="source" from="Developer">Token menu item tooltip when there is only one dimension token left</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOKEN_MENU_ITEM_NOT_AVAILABLE_MULTI_DIMENSIONS_SELECTED" resname="TOKEN_MENU_ITEM_NOT_AVAILABLE_MULTI_DIMENSIONS_SELECTED" sap:sc="XMSG">
+        <source>Please ensure no more than 1 dimension is selected.</source>
+        <note annotates="source" from="Developer">Token menu item tooltip when there are multiple dimensions selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOKEN_MENU_ITEM_NOT_AVAILABLE_MULTI_MEASURES_SELECTED" resname="TOKEN_MENU_ITEM_NOT_AVAILABLE_MULTI_MEASURES_SELECTED" sap:sc="XMSG">
+        <source>Please ensure no more than 1 measure is selected.</source>
+        <note annotates="source" from="Developer">Token menu item tooltip when there are multiple measures selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOKEN_DIM_TO_MSR" resname="TOKEN_DIM_TO_MSR" sap:sc="XMIT">
+        <source>Change to a Measure</source>
+        <note annotates="source" from="Developer">Token menu item; changes selected dimension to a measure</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BATCH_DIM_TO_MSR" resname="BATCH_DIM_TO_MSR" sap:sc="XMIT">
+        <source>Change to Measures</source>
+        <note annotates="source" from="Developer">Dimension group menu; Batch convert to measure</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIM_TO_MSR_FAIL" resname="DIM_TO_MSR_FAIL" sap:sc="XMSG">
+        <source>Failed to convert dimension to measure.</source>
+        <note annotates="source" from="Developer">Error message displayed when dimension to measure conversion fails</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BATCH_DIM_TO_MSR_FAIL" resname="BATCH_DIM_TO_MSR_FAIL" sap:sc="XMSG">
+        <source>Failed to convert dimensions to measures.</source>
+        <note annotates="source" from="Developer">Error message displayed when batch dimension to measure conversion fails</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOKEN_GRP_HIER_BY_ID" resname="TOKEN_GRP_HIER_BY_ID" sap:sc="XMIT">
+        <source>Order in Grid</source>
+        <note annotates="source" from="Developer">Token menu item; will group hiearchies by ID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOKEN_EDIT" resname="TOKEN_EDIT" sap:sc="XMIT">
+        <source>Edit</source>
+        <note annotates="source" from="Developer">Token menu item; lets user edit the selected dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TOKEN_RENAME" resname="TOKEN_RENAME" sap:sc="XMIT">
+        <source>Rename</source>
+        <note annotates="source" from="Developer">Token menu item; lets user rename the selected dimension</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIM_FROM_COL" resname="DIM_FROM_COL" sap:sc="XMIT">
+        <source>Create Dimension from Selected Column</source>
+        <note annotates="source" from="Developer">Column menu item; creates a dimension from the selected column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIM_FROM_COL_MULTI" resname="DIM_FROM_COL_MULTI" sap:sc="XMIT">
+        <source>Create Dimension from Selected Columns</source>
+        <note annotates="source" from="Developer">Column menu item; creates dimensions form all selected columns</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GEO_COORDINATES" resname="GEO_COORDINATES" sap:sc="XMIT">
+        <source>Coordinates</source>
+        <note annotates="source" from="Developer">Geo Enrichment menu item; opens enrichment dialog based on Lat/Long</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GEO_AREA" resname="GEO_AREA" sap:sc="XMIT">
+        <source>Area Name</source>
+        <note annotates="source" from="Developer">Geo Enrichment menu item; opens enrichment dialog based on Geo Area</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GEO_ENRICH_BY" resname="GEO_ENRICH_BY" sap:sc="XTIT">
+        <source>Geo Enrich By</source>
+        <note annotates="source" from="Developer">Geo Enrichment menu title</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GEO_COUNTRY" resname="GEO_COUNTRY" sap:sc="XFLD">
+        <source>Country</source>
+        <note annotates="source" from="Developer">Label button group on Geo Area side-panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSR_FROM_COL" resname="MSR_FROM_COL" sap:sc="XMIT">
+        <source>Create Measure from Selected Numeric Column</source>
+        <note annotates="source" from="Developer">Column menu item; creates a measure from the selected numeric column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSR_FROM_COL_MULTI" resname="MSR_FROM_COL_MULTI" sap:sc="XMIT">
+        <source>Create Measures from Selected Numeric Columns</source>
+        <note annotates="source" from="Developer">Column menu item; creates measures from all selected numeric columns</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSFORM_FAILURE" resname="TRANSFORM_FAILURE" sap:sc="XMSG">
+        <source>Failed to execute transform.</source>
+        <note annotates="source" from="Developer">Error message when requested transform cannot be executed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_CONVERSION_FAILURE" resname="DATATYPE_CONVERSION_FAILURE" sap:sc="XMSG">
+        <source>Failed to change data type.</source>
+        <note annotates="source" from="Developer">Error message when data type conversion cannot be executed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATATYPE_FORMAT_CONVERSION_FAILURE" resname="DATATYPE_FORMAT_CONVERSION_FAILURE" sap:sc="XMSG">
+        <source>Failed to change conversion format.</source>
+        <note annotates="source" from="Developer">Error message when data type format conversion cannot be executed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ADD_SPATIAL_MASTER_DATA_FAILURE" resname="ADD_SPATIAL_MASTER_DATA_FAILURE" sap:sc="XMSG">
+        <source>Geo Enrichment service is unavailable. For assistance, please contact your system administrator.</source>
+        <note annotates="source" from="Developer">Error message when geo enrichment service is unavailable</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIALOG_TYPE_INVALID" resname="DIALOG_TYPE_INVALID" sap:sc="XMSG">
+        <source>Dialog type is invalid.</source>
+        <note annotates="source" from="Developer">Error message when an invalid dialog type is opened/closed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="HIER_FIX_ALL_ERRORS" resname="HIER_FIX_ALL_ERRORS" sap:sc="XMSG">
+        <source>Please fix all errors in <ph id="1">{0}</ph> before proceeding.</source>
+        <note annotates="source" from="Developer">Warning displayed if level-based hierarchy creation panel is dismissed with outstanding issues/errors</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIM_PROPERTIES" resname="DIM_PROPERTIES" sap:sc="XTIT">
+        <source>Dimension Properties</source>
+        <note annotates="source" from="Developer">Title for Dimension Details side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOT_MAPPED_TO_COL" resname="NOT_MAPPED_TO_COL" sap:sc="XMIT">
+        <source>Not mapped to any column</source>
+        <note annotates="source" from="Developer">Placeholder menu item if dimension description is not mapped to any column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TYPELABEL_DESC" resname="TYPELABEL_DESC" sap:sc="XFLD">
+        <source>Description</source>
+        <note annotates="source" from="Developer">Label for description property in dimension details sidepanel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TYPELABEL_LAT" resname="TYPELABEL_LAT" sap:sc="XFLD">
+        <source>Latitude</source>
+        <note annotates="source" from="Developer">Label for latitude property in dimension details sidepanel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TYPELABEL_LONG" resname="TYPELABEL_LONG" sap:sc="XFLD">
+        <source>Longitude</source>
+        <note annotates="source" from="Developer">Label for longitude property in dimension details sidepanel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DETAILS_FOR" resname="DETAILS_FOR" sap:sc="XFLD">
+        <source>Viewing details for:</source>
+        <note annotates="source" from="Developer">Label for dimension details sie panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GEO_ENRICH_DIM" resname="GEO_ENRICH_DIM" sap:sc="XBUT">
+        <source>Enrich Dimension</source>
+        <note annotates="source" from="Developer">Segmented button (left) for Geo by Lat/Long creation sidepanel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GEO_CREATE_NEW_DIM" resname="GEO_CREATE_NEW_DIM" sap:sc="XBUT">
+        <source>Create New Dimension</source>
+        <note annotates="source" from="Developer">Segmented button (right) Geo by Lat/Long creation sidepanel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GEO_LCTN_PLACEHOLDER" resname="GEO_LCTN_PLACEHOLDER" sap:sc="XTXT">
+        <source>Enter location dimension name</source>
+        <note annotates="source" from="Developer">Placeholder text for Location drop-down in Geo by Lat/Long creation sidepanel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSR_PROPERTIES" resname="MSR_PROPERTIES" sap:sc="XTIT">
+        <source>Measure Properties</source>
+        <note annotates="source" from="Developer">Title for Measure Details side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSR_UNITS" resname="MSR_UNITS" sap:sc="XFLD">
+        <source>Measure Units:</source>
+        <note annotates="source" from="Developer">Label for measure units input in Measure Details side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MSR_UNITS_PLACEHOLDER" resname="MSR_UNITS_PLACEHOLDER" sap:sc="XTXT">
+        <source>Type a measure unit (limit 20 characters)</source>
+        <note annotates="source" from="Developer">Placeholder text for Measure Units input field in Measure Details side panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TOTAL_ROW_COUNT" resname="TOTAL_ROW_COUNT" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> rows</source>
+        <note annotates="source" from="Developer">Row count in Model Summary panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TOTAL_COL_COUNT" resname="TOTAL_COL_COUNT" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> columns</source>
+        <note annotates="source" from="Developer">Column count in Model Summary panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MEASURES" resname="MEASURES" sap:sc="XTIT">
+        <source>Measures (<ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Sub-title for measures in model in Model Summary panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DIMENSIONS" resname="DIMENSIONS" sap:sc="XTIT">
+        <source>Dimensions (<ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Sub-title for dimensions in model in Model Summary panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DATA_SOURCE" resname="DATA_SOURCE" sap:sc="XTXT">
+        <source>Source: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Sample data information in Model Summary/Info panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DATA_UPLOADED" resname="DATA_UPLOADED" sap:sc="XTXT">
+        <source>Data uploaded: <ph id="1">{0}</ph> rows, <ph id="2">{1}</ph> columns</source>
+        <note annotates="source" from="Developer">Sample data information in Model Summary/Info panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SAMPLE_SIZE" resname="SAMPLE_SIZE" sap:sc="XTXT">
+        <source>Sampled size: <ph id="1">{0}</ph> rows</source>
+        <note annotates="source" from="Developer">Sample data information in Model Summary/Info panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAMPLE_DATA" resname="SAMPLE_DATA" sap:sc="XTIT">
+        <source>Sample Data</source>
+        <note annotates="source" from="Developer">Sample data information in Model Summary/Info panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GOT_IT" resname="GOT_IT" sap:sc="XBUT">
+        <source>Got it!</source>
+        <note annotates="source" from="Developer">Popover information dismissal button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="HIER_DESC_FROM_COUNT" resname="HIER_DESC_FROM_COUNT" sap:sc="XTXT">
+        <source>Hierarchy <ph id="1">{0}</ph> Description</source>
+        <note annotates="source" from="Developer">Default Hierarchy description from hierarchy count</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="HIER_DESC_FROM_LVL" resname="HIER_DESC_FROM_LVL" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> Hierarchy</source>
+        <note annotates="source" from="Developer">Default Hierarchy description with lowest level name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HIER_DESC_NEW" resname="HIER_DESC_NEW" sap:sc="XTXT">
+        <source>New Hierarchy</source>
+        <note annotates="source" from="Developer">Default Hierarchy description</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="HIER_NAME_IN_USE" resname="HIER_NAME_IN_USE" sap:sc="XMSG">
+        <source>"<ph id="1">{0}</ph>" is already in use.</source>
+        <note annotates="source" from="Developer">Error message for duplicate hierarchy name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HIER_INVALID_NAME" resname="HIER_INVALID_NAME" sap:sc="XMSG">
+        <source>Please provide a valid name for hierarchy.</source>
+        <note annotates="source" from="Developer">Error message for invalid hierarchy name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_REPLACE_SUGGEST" resname="TRNSFRM_REPLACE_SUGGEST" sap:sc="XMIT">
+        <source>Replace "<ph id="1">{0}</ph>" with "<ph id="2">{1}</ph>"</source>
+        <note annotates="source" from="Developer">Suggestion menu item for Replace transform</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_SPLIT_SUGGEST" resname="TRNSFRM_SPLIT_SUGGEST" sap:sc="XMIT">
+        <source>Split on "<ph id="1">{0}</ph>"</source>
+        <note annotates="source" from="Developer">Suggestion menu item for Split transform</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_SPLIT_SUGGEST_COL" resname="TRNSFRM_SPLIT_SUGGEST_COL" sap:sc="XMIT">
+        <source>Split on "<ph id="1">{0}</ph>", making <ph id="2">{1}</ph> columns</source>
+        <note annotates="source" from="Developer">Suggestion menu item for Split transform</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_CONVERT" resname="TRNSFRM_CONVERT" sap:sc="XMIT">
+        <source>Change</source>
+        <note annotates="source" from="Developer">ConvertCase transform bar dropdown option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_CONVERT_COL_TO" resname="TRNSFRM_CONVERT_COL_TO" sap:sc="XMSG">
+        <source>Changed <ph id="1">{0}</ph> to <ph id="2">{1}</ph>.</source>
+        <note annotates="source" from="Developer">Changed x to LowerCase,UpperCase or titlecase</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_CONVERT_PREFIX" resname="TRNSFRM_CONVERT_PREFIX" sap:sc="XTXT">
+        <source>Change</source>
+        <note annotates="source" from="Developer">ConvertCase transform bar prefix</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_CONVERT_LOWER" resname="TRNSFRM_CONVERT_LOWER" sap:sc="XMIT">
+        <source>lowercase</source>
+        <note annotates="source" from="Developer">ConvertCase transform option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_CONVERT_UPPER" resname="TRNSFRM_CONVERT_UPPER" sap:sc="XMIT">
+        <source>UPPERCASE</source>
+        <note annotates="source" from="Developer">ConvertCase transform option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_CONVERT_TITLE" resname="TRNSFRM_CONVERT_TITLE" sap:sc="XMIT">
+        <source>TitleCase</source>
+        <note annotates="source" from="Developer">ConvertCase transform option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_CONVERT_MENU_GROUP" resname="TRNSFRM_CONVERT_MENU_GROUP" sap:sc="XMIT">
+        <source>Change Case</source>
+        <note annotates="source" from="Developer">ConvertCase transform Column Menu Group</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_CONVERT_SUGGEST" resname="TRNSFRM_CONVERT_SUGGEST" sap:sc="XMIT">
+        <source>Change to <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">ConverCase transform suggestion</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_COL_PLACEHOLDER" resname="TRNSFRM_COL_PLACEHOLDER" sap:sc="XTXT">
+        <source>Column</source>
+        <note annotates="source" from="Developer">Transform bar "Column" placeholder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_VAL_PLACEHOLDER" resname="TRNSFRM_VAL_PLACEHOLDER" sap:sc="XTXT">
+        <source>value</source>
+        <note annotates="source" from="Developer">Transform bar "value" placeholder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER" resname="TRNSFRM_FILTER" sap:sc="XMIT">
+        <source>Filter</source>
+        <note annotates="source" from="Developer">Filter transform bar dropdown option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_PREFIX" resname="TRNSFRM_FILTER_PREFIX" sap:sc="XTXT">
+        <source>Filter values in</source>
+        <note annotates="source" from="Developer">Filter transform bar prefix</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_SELECT_RNG" resname="TRNSFRM_FILTER_SELECT_RNG" sap:sc="XTXT">
+        <source>Please select range...</source>
+        <note annotates="source" from="Developer">Filter transform range placeholder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_DELIMITER" resname="TRNSFRM_FILTER_DELIMITER" sap:sc="XTXT">
+        <source>and</source>
+        <note annotates="source" from="Developer">Filter transform DatePicker delimiter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_SEP_VALUES" resname="TRNSFRM_FILTER_SEP_VALUES" sap:sc="XTXT">
+        <source>values (separate many values with ';')</source>
+        <note annotates="source" from="Developer">Filter transform 'values' placeholder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_RNG_FROM" resname="TRNSFRM_FILTER_RNG_FROM" sap:sc="XTXT">
+        <source>from</source>
+        <note annotates="source" from="Developer">Filter transform range start indicator</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_RNG_TO" resname="TRNSFRM_FILTER_RNG_TO" sap:sc="XTXT">
+        <source>to</source>
+        <note annotates="source" from="Developer">Filter transform range end indicator</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_RNG_AND" resname="TRNSFRM_FILTER_RNG_AND" sap:sc="XTXT">
+        <source>and</source>
+        <note annotates="source" from="Developer">Filter transform range range stop-word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_RNG" resname="TRNSFRM_FILTER_RNG" sap:sc="XTXT">
+        <source>between</source>
+        <note annotates="source" from="Developer">Filter transform keyword for a range of values to filter by</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_KEEP" resname="TRNSFRM_FILTER_KEEP" sap:sc="XTXT">
+        <source>matching</source>
+        <note annotates="source" from="Developer">Filter transform for terms that we will keep after a filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_DELETE" resname="TRNSFRM_FILTER_DELETE" sap:sc="XTXT">
+        <source>not matching</source>
+        <note annotates="source" from="Developer">Filter transform for terms we will delete after a filter</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_FILTER_INCLUDE_COMPLETE" resname="TRNSFRM_FILTER_INCLUDE_COMPLETE" sap:sc="XMSG">
+        <source>Keep rows with "<ph id="1">{0}</ph>"</source>
+        <note annotates="source" from="Developer">Filter include toast message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_FILTER_EXCLUDE_COMPLETE" resname="TRNSFRM_FILTER_EXCLUDE_COMPLETE" sap:sc="XMSG">
+        <source>Delete rows with "<ph id="1">{0}</ph>"</source>
+        <note annotates="source" from="Developer">Filter exclude toast message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_FILTER_RANGE_COMPLETE" resname="TRNSFRM_FILTER_RANGE_COMPLETE" sap:sc="XMSG">
+        <source>Delete rows outside "<ph id="1">{0}</ph>" and "<ph id="2">{1}</ph>"</source>
+        <note annotates="source" from="Developer">Filter range toast message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_MATCH_STOP_WORD" resname="TRNSFRM_MATCH_STOP_WORD" sap:sc="XTXT">
+        <source>matching</source>
+        <note annotates="source" from="Developer">Transform matching stop word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_MERGE" resname="TRNSFRM_MERGE" sap:sc="XTXT">
+        <source>Concatenate</source>
+        <note annotates="source" from="Developer">Merge transform bar dropdown option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_CONCATENATE_HISTORY" resname="TRNSFRM_CONCATENATE_HISTORY" sap:sc="XMSG">
+        <source>Concatenate <ph id="1">{0}</ph> and <ph id="2">{1}</ph> using <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">concatenate on history panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_CONCATENATE_THREE_COLS_HISTORY" resname="TRNSFRM_CONCATENATE_THREE_COLS_HISTORY" sap:sc="XMSG">
+        <source>Concatenate <ph id="1">{0}</ph>, and <ph id="2">{1}</ph> using <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">concatenate multiple columns on history panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_MERGE_PREFIX" resname="TRNSFRM_MERGE_PREFIX" sap:sc="XTXT">
+        <source>Concatenate</source>
+        <note annotates="source" from="Developer">Concatenate transform bar prefix</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_MERGE_SUGGEST" resname="TRNSFRM_MERGE_SUGGEST" sap:sc="XMIT">
+        <source>Concatenate using "<ph id="1">{0}</ph>"</source>
+        <note annotates="source" from="Developer">Concatenate suggestion text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_MERGE_STOP_WORD" resname="TRNSFRM_MERGE_STOP_WORD" sap:sc="XTXT">
+        <source>using</source>
+        <note annotates="source" from="Developer">Concatenate transform stop-word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPLACE" resname="TRNSFRM_REPLACE" sap:sc="XMIT">
+        <source>Replace</source>
+        <note annotates="source" from="Developer">ConvertCase transform bar dropdown option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPLACE_PREFIX" resname="TRNSFRM_REPLACE_PREFIX" sap:sc="XTXT">
+        <source>Replace</source>
+        <note annotates="source" from="Developer">Replace transform bar prefix</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPLACE_CONTENT" resname="TRNSFRM_REPLACE_CONTENT" sap:sc="XMIT">
+        <source>content</source>
+        <note annotates="source" from="Developer">Replace transform option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPLACE_CELL" resname="TRNSFRM_REPLACE_CELL" sap:sc="XMIT">
+        <source>cell</source>
+        <note annotates="source" from="Developer">Replace transform option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPLACE_ALL" resname="TRNSFRM_REPLACE_ALL" sap:sc="XMIT">
+        <source>all values</source>
+        <note annotates="source" from="Developer">Replace transform option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPLACE_WHERE" resname="TRNSFRM_REPLACE_WHERE" sap:sc="XMIT">
+        <source>where</source>
+        <note annotates="source" from="Developer">Replace transform extra option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPLACE_IN" resname="TRNSFRM_REPLACE_IN" sap:sc="XTXT">
+        <source>in</source>
+        <note annotates="source" from="Developer">Replace transform prefix</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPLACE_WITH" resname="TRNSFRM_REPLACE_WITH" sap:sc="XTXT">
+        <source>with</source>
+        <note annotates="source" from="Developer">Replace transform stop-word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPLACE_MATCHES" resname="TRNSFRM_REPLACE_MATCHES" sap:sc="XTXT">
+        <source>matches</source>
+        <note annotates="source" from="Developer">Replace transform stop-word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_SPLIT" resname="TRNSFRM_SPLIT" sap:sc="XMIT">
+        <source>Split</source>
+        <note annotates="source" from="Developer">Split transform bar dropdown option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_SPLIT_PREFIX" resname="TRNSFRM_SPLIT_PREFIX" sap:sc="XTXT">
+        <source>Split</source>
+        <note annotates="source" from="Developer">Split transform bar prefix</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_SPLIT_ON" resname="TRNSFRM_SPLIT_ON" sap:sc="XTXT">
+        <source>on</source>
+        <note annotates="source" from="Developer">Split transform stop-word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_DELETE_COLUMN_HISTORY" resname="TRNSFRM_DELETE_COLUMN_HISTORY" sap:sc="XTXT">
+        <source>Column has been deleted</source>
+        <note annotates="source" from="Developer">delete column transform transform message for 1 column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_DELETE_MANY_COLUMN_HISTORY" resname="TRNSFRM_DELETE_MANY_COLUMN_HISTORY" sap:sc="XTXT">
+        <source>Columns have been deleted</source>
+        <note annotates="source" from="Developer">delete column transform transform message for many columns</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REMOVE_TRANSFORM" resname="TRNSFRM_REMOVE_TRANSFORM" sap:sc="XTXT">
+        <source>Transform has been successfully removed</source>
+        <note annotates="source" from="Developer">removing a transform message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_SPLIT_HISTORY" resname="TRNSFRM_SPLIT_HISTORY" sap:sc="XMSG">
+        <source>Split <ph id="1">{0}</ph> into <ph id="2">{1}</ph> new columns on <ph id="3">{2}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_SPLIT_REPEAT" resname="TRNSFRM_SPLIT_REPEAT" sap:sc="XTXT">
+        <source>repeat</source>
+        <note annotates="source" from="Developer">Split transform stop-word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_SPLIT_DELIMITER" resname="TRNSFRM_SPLIT_DELIMITER" sap:sc="XTXT">
+        <source>delimiter</source>
+        <note annotates="source" from="Developer">Split transform delimiter placeholder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_SPLIT_TIMES" resname="TRNSFRM_SPLIT_TIMES" sap:sc="XTXT">
+        <source>times</source>
+        <note annotates="source" from="Developer">Split transform times placeholder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT" resname="TRNSFRM_EXTRACT" sap:sc="XMIT">
+        <source>Extract</source>
+        <note annotates="source" from="Developer">Extract transform bar dropdown option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_PREFIX" resname="TRNSFRM_EXTRACT_PREFIX" sap:sc="XTXT">
+        <source>Extract</source>
+        <note annotates="source" from="Developer">Extract transform bar prefix</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_FROM" resname="TRNSFRM_EXTRACT_FROM" sap:sc="XTXT">
+        <source>from</source>
+        <note annotates="source" from="Developer">Extract transform stop-word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_AND" resname="TRNSFRM_EXTRACT_AND" sap:sc="XTXT">
+        <source>and</source>
+        <note annotates="source" from="Developer">Extract transform stop-word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_OF" resname="TRNSFRM_EXTRACT_OF" sap:sc="XTXT">
+        <source>of</source>
+        <note annotates="source" from="Developer">Extract transform stop-word</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_NUMBER" resname="TRNSFRM_EXTRACT_NUMBER" sap:sc="XMIT">
+        <source>number</source>
+        <note annotates="source" from="Developer">Extract transform type option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_WORD" resname="TRNSFRM_EXTRACT_WORD" sap:sc="XMIT">
+        <source>word</source>
+        <note annotates="source" from="Developer">Extract transform type option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_EVERYTHING" resname="TRNSFRM_EXTRACT_EVERYTHING" sap:sc="XMIT">
+        <source>everything</source>
+        <note annotates="source" from="Developer">Extract transform type option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_BEFORE" resname="TRNSFRM_EXTRACT_BEFORE" sap:sc="XMIT">
+        <source>before</source>
+        <note annotates="source" from="Developer">Extract transform condition option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_AFTER" resname="TRNSFRM_EXTRACT_AFTER" sap:sc="XMIT">
+        <source>after</source>
+        <note annotates="source" from="Developer">Extract transform condition option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_BETWEEN" resname="TRNSFRM_EXTRACT_BETWEEN" sap:sc="XMIT">
+        <source>between</source>
+        <note annotates="source" from="Developer">Extract transform condition option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_CONTAINING" resname="TRNSFRM_EXTRACT_CONTAINING" sap:sc="XMIT">
+        <source>containing</source>
+        <note annotates="source" from="Developer">Extract transform condition option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_EQUAL_TO" resname="TRNSFRM_EXTRACT_EQUAL_TO" sap:sc="XMIT">
+        <source>equal to</source>
+        <note annotates="source" from="Developer">Extract transform condition option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_FIRST" resname="TRNSFRM_EXTRACT_FIRST" sap:sc="XMIT">
+        <source>first</source>
+        <note annotates="source" from="Developer">Extract transform occurrence option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_LAST" resname="TRNSFRM_EXTRACT_LAST" sap:sc="XMIT">
+        <source>last</source>
+        <note annotates="source" from="Developer">Extract transform occurrence option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_EXTRACT_OCCURRENCE" resname="TRNSFRM_EXTRACT_OCCURRENCE" sap:sc="XMIT">
+        <source>occurrence</source>
+        <note annotates="source" from="Developer">Extract transform occurrence option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_EXTRACT_EXCLUDE" resname="TRNSFRM_EXTRACT_EXCLUDE" sap:sc="XMIT">
+        <source>exclude <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Extract transform exclude option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_EXTRACT_INCLUDE" resname="TRNSFRM_EXTRACT_INCLUDE" sap:sc="XMIT">
+        <source>include <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Extract transform include option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_EXTRACT_COMPLETE" resname="TRNSFRM_EXTRACT_COMPLETE" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> has been extracted from [<ph id="2">{1}</ph>]</source>
+        <note annotates="source" from="Developer">Extract toast message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_DUPLICATE_COMPLETE" resname="TRNSFRM_DUPLICATE_COMPLETE" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> has been duplicated</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_COMBINE_MSG" resname="TRNSFRM_COMBINE_MSG" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> and <ph id="2">{1}</ph> have been successfully combined.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_TRIM_WHITESPACE_COMPLETED" resname="TRNSFRM_TRIM_WHITESPACE_COMPLETED" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> has been trimmed.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_UNPIVOT_SUCCESSFUL" resname="TRNSFRM_UNPIVOT_SUCCESSFUL" sap:sc="XMSG">
+        <source>Successfully transposed columns</source>
+        <note annotates="source" from="Developer">Unpivot transform successful.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_UNPIVOT_NOT_ALLOWED" resname="TRNSFRM_UNPIVOT_NOT_ALLOWED" sap:sc="XMSG">
+        <source>A new transpose action cannot be done as a previous transpose has been performed. To learn more about the previous transformations, please check the transformation history.</source>
+        <note annotates="source" from="Developer">Description text for blocking unpivot transform</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TRNSFRM_UNPIVOT_HISTORY" resname="TRNSFRM_UNPIVOT_HISTORY" sap:sc="XMSG">
+        <source>Transpose <ph id="1">{0}</ph> columns</source>
+        <note annotates="source" from="Developer">Unpivot 'number' columns</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_GENERIC_SUCCESS" resname="TRNSFRM_GENERIC_SUCCESS" sap:sc="XMSG">
+        <source>Transform Successful</source>
+        <note annotates="source" from="Developer">Generic transform successful</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QA_DUPLICATE_COL" resname="QA_DUPLICATE_COL" sap:sc="XMIT">
+        <source>Duplicate Column</source>
+        <note annotates="source" from="Developer">Column QuickActions option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QA_DELETE_COL" resname="QA_DELETE_COL" sap:sc="XMIT">
+        <source>Delete Column</source>
+        <note annotates="source" from="Developer">Column QuickActions option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QA_TRNSFRM_TRIM_WHITESPACE" resname="QA_TRNSFRM_TRIM_WHITESPACE" sap:sc="XMIT">
+        <source>Trim Whitespace</source>
+        <note annotates="source" from="Developer">Column QuickActions option</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="QA_TRNSFRM_NOT_SUPPORTED" resname="QA_TRNSFRM_NOT_SUPPORTED" sap:sc="XMSG">
+        <source>Transform <ph id="1">{0}</ph> is not supported.</source>
+        <note annotates="source" from="Developer">Error message for non-supported quick action transforms</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TITLE_WARNING" resname="TITLE_WARNING" sap:sc="XTIT">
+        <source>Warning</source>
+        <note annotates="source" from="Developer">warning header</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QA_WARNING_COLS" resname="QA_WARNING_COLS" sap:sc="XFLD">
+        <source>Columns</source>
+        <note annotates="source" from="Developer">Column QuickActions warning table header</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QA_WARNING_ENTITY" resname="QA_WARNING_ENTITY" sap:sc="XFLD">
+        <source>Associated Entities</source>
+        <note annotates="source" from="Developer">Column QuickActions warning data header</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TITLE_ERROR" resname="TITLE_ERROR" sap:sc="XTIT">
+        <source>Error</source>
+        <note annotates="source" from="Developer">error header</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QA_ERROR_CAUSING_ZERO_DIMENSION" resname="QA_ERROR_CAUSING_ZERO_DIMENSION" sap:sc="XMSG">
+        <source>A model needs to have at least 1 dimension. Performing this delete transform will remove any dimensions in your model.</source>
+        <note annotates="source" from="Developer">Column QuickActions error message when performing the delete transform that remove any dimensions in the model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BTN_PROCEED" resname="BTN_PROCEED" sap:sc="XBUT">
+        <source>Proceed</source>
+        <note annotates="source" from="Developer">Dialog button text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BTN_CANCEL" resname="BTN_CANCEL" sap:sc="XBUT">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">Dialog button text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BTN_OK" resname="BTN_OK" sap:sc="XBUT">
+        <source>OK</source>
+        <note annotates="source" from="Developer">Dialog button text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TILE_MENU_INVALID_TYPE" resname="TILE_MENU_INVALID_TYPE" sap:sc="XMSG">
+        <source>Invalid tile menu type.</source>
+        <note annotates="source" from="Developer">Error message when using invalid tile menu type</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_CREATE" resname="TRNSFRM_CREATE" sap:sc="XTXT">
+        <source>Create Transform</source>
+        <note annotates="source" from="Developer">Transform bar placeholder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_SEL_VALID_COL" resname="TRNSFRM_SEL_VALID_COL" sap:sc="XMSG">
+        <source>Please select a valid column.</source>
+        <note annotates="source" from="Developer">Transform validation message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_SAME_COL_TWICE" resname="TRNSFRM_SAME_COL_TWICE" sap:sc="XMSG">
+        <source>The same column cannot be used twice.</source>
+        <note annotates="source" from="Developer">Transform validation message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_BY_RANGE_NON_NUMERIC_BOUND" resname="TRNSFRM_FILTER_BY_RANGE_NON_NUMERIC_BOUND" sap:sc="XMSG">
+        <source>Numeric bounds must be well-formatted or empty</source>
+        <note annotates="source" from="Developer">Transform validation message when user tries to do filter by range with a numeric column but inputs a non-number bound</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_BY_RANGE_OUT_OF_NUMERIC_BOUNDS_UPPER" resname="TRNSFRM_FILTER_BY_RANGE_OUT_OF_NUMERIC_BOUNDS_UPPER" sap:sc="XMSG">
+        <source>Upper bound is out of range for data type</source>
+        <note annotates="source" from="Developer">Transform validation message when user tries to do filter by range with a numeric column but inputs a valid number for upper bound that's too big or too small</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_FILTER_BY_RANGE_OUT_OF_NUMERIC_BOUNDS_LOWER" resname="TRNSFRM_FILTER_BY_RANGE_OUT_OF_NUMERIC_BOUNDS_LOWER" sap:sc="XMSG">
+        <source>Lower bound is out of range for data type</source>
+        <note annotates="source" from="Developer">Transform validation message when user tries to do filter by range with a numeric column but inputs a valid number for lower bound that's too big or too small</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_TYPE_NO_SUPPORT" resname="TRNSFRM_TYPE_NO_SUPPORT" sap:sc="XMSG">
+        <source>Column's datatype is not supported for this transform.</source>
+        <note annotates="source" from="Developer">Transform validation message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_STRING_ONLY" resname="TRNSFRM_STRING_ONLY" sap:sc="XMSG">
+        <source>Transform is only supported on columns of data type 'string'.</source>
+        <note annotates="source" from="Developer">Transform validation message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_NO_CALC_COL" resname="TRNSFRM_NO_CALC_COL" sap:sc="XMSG">
+        <source>Transform is not supported on calculated columns.</source>
+        <note annotates="source" from="Developer">Transform validation message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPL_WHERE_TYPE" resname="TRNSFRM_REPL_WHERE_TYPE" sap:sc="XMSG">
+        <source>Where clause's column's datatype is not supported for this transform.</source>
+        <note annotates="source" from="Developer">Replace transform validation message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_REPL_WHERE_COL" resname="TRNSFRM_REPL_WHERE_COL" sap:sc="XMSG">
+        <source>Please select valid column for where clause.</source>
+        <note annotates="source" from="Developer">Replace transform validation message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_MERGE_COL_VALID" resname="TRNSFRM_MERGE_COL_VALID" sap:sc="XMSG">
+        <source>Please ensure all merging columns are valid.</source>
+        <note annotates="source" from="Developer">Merge transform validation message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_SPLIT_ENTER_REPEAT" resname="TRNSFRM_SPLIT_ENTER_REPEAT" sap:sc="XMSG">
+        <source>Please enter a valid number for repeat times.</source>
+        <note annotates="source" from="Developer">Split transform validation message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_SPLIT_MAX_REPEAT" resname="TRNSFRM_SPLIT_MAX_REPEAT" sap:sc="XMSG">
+        <source>The maximum number of times to split is limited to 50.</source>
+        <note annotates="source" from="Developer">Split transform validation message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_TITLECASE_MAX_REACHED" resname="TRNSFRM_TITLECASE_MAX_REACHED" sap:sc="XMSG">
+        <source>You have reached the maximum number of TitleCase transforms.</source>
+        <note annotates="source" from="Developer">TitleCase transform validation message when reached maximum</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRNSFRM_PANEL_DATASET_TITLE" resname="TRNSFRM_PANEL_DATASET_TITLE" sap:sc="XTIT">
+        <source>Transformation Log for Dataset</source>
+        <note annotates="source" from="Developer">Title for Transformation Log for Dataset</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATASET_OVERVIEW_SIDE_PANEL" resname="DATASET_OVERVIEW_SIDE_PANEL" sap:sc="XTIT">
+        <source>Dataset Overview</source>
+        <note annotates="source" from="Developer">Title for Dataset Overview panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_OVERVIEW_SIDE_PANEL" resname="MODEL_OVERVIEW_SIDE_PANEL" sap:sc="XTIT">
+        <source>Model Overview</source>
+        <note annotates="source" from="Developer">Title for Model overview panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DETAILS_SIDE_PANEL" resname="DETAILS_SIDE_PANEL" sap:sc="XTIT">
+        <source>Details</source>
+        <note annotates="source" from="Developer">Title for the Details panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIEW_IMPORT_MAPPING_DIALOG_NOT_AVAILABLE" resname="VIEW_IMPORT_MAPPING_DIALOG_NOT_AVAILABLE" sap:sc="XMSG">
+        <source>There is no mapping or transform information available to display.</source>
+        <note annotates="source" from="Developer">Error message for when there is no mapping available to display</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIEW_IMPORT_MAPPING_DIALOG_INCOMPATIBLE_VERSION" resname="VIEW_IMPORT_MAPPING_DIALOG_INCOMPATIBLE_VERSION" sap:sc="XMSG">
+        <source>The import mapping cannot be displayed because it is in an older, unsupported format for viewing. To gain access to this functionality, please re-create the import.</source>
+        <note annotates="source" from="Developer">Error message for when the mapping version cannot be displayed because the mapping version is too old</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIEW_IMPORT_MAPPING_SECTION_TITLE" resname="VIEW_IMPORT_MAPPING_SECTION_TITLE" sap:sc="XTIT">
+        <source>Mapping Summary</source>
+        <note annotates="source" from="Developer">Title for View Import Mapping Section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIEW_IMPORT_TRANSFORM_SECTION_TITLE" resname="VIEW_IMPORT_TRANSFORM_SECTION_TITLE" sap:sc="XTIT">
+        <source>Action Log</source>
+        <note annotates="source" from="Developer">Title for View Import Transform Section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VIEW_IMPORT_TRANSFORM_SECTION_TITLE_WITH_COLUMN" resname="VIEW_IMPORT_TRANSFORM_SECTION_TITLE_WITH_COLUMN" sap:sc="XTIT">
+        <source>Action Log for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Title for View Import Transform Section for a specific column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIEW_IMPORT_TRANSFORM_SECTION_RESET" resname="VIEW_IMPORT_TRANSFORM_SECTION_RESET" sap:sc="XBUT">
+        <source>Reset</source>
+        <note annotates="source" from="Developer">Reset button for View Import Transform Section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIEW_IMPORT_MAPPING_TABLE_MAPPING_TARGET" resname="VIEW_IMPORT_MAPPING_TABLE_MAPPING_TARGET" sap:sc="XTIT">
+        <source>Mapping Target</source>
+        <note annotates="source" from="Developer">Title for View Import Mapping Table Mapping Target</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIEW_IMPORT_MAPPING_TABLE_ATTRIBUTE" resname="VIEW_IMPORT_MAPPING_TABLE_ATTRIBUTE" sap:sc="XTIT">
+        <source>Attribute</source>
+        <note annotates="source" from="Developer">Title for View Import Mapping Table Attribute Column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIEW_IMPORT_MAPPING_TABLE_MAPPED_COLUMN" resname="VIEW_IMPORT_MAPPING_TABLE_MAPPED_COLUMN" sap:sc="XTIT">
+        <source>Mapped Column</source>
+        <note annotates="source" from="Developer">Title for View Import Mapping Table Mapped Column Column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VIEW_IMPORT_MAPPING_TABLE_MAPPING_NOT_AVAILABLE" resname="VIEW_IMPORT_MAPPING_TABLE_MAPPING_NOT_AVAILABLE" sap:sc="XMSG">
+        <source>Mapping not available</source>
+        <note annotates="source" from="Developer">Value when the mapped column information is not available</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VIEW_IMPORT_MAPPING_ACTION_VERSION_MAPPING" resname="VIEW_IMPORT_MAPPING_ACTION_VERSION_MAPPING" sap:sc="XMSG">
+        <source>Mapped values <ph id="1">{0}</ph> in <ph id="2">{1}</ph> to versions <ph id="3">{2}</ph></source>
+        <note annotates="source" from="Developer">Action log text for version mapping</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VIEW_IMPORT_MAPPING_ACTION_RENAME_COLUMN" resname="VIEW_IMPORT_MAPPING_ACTION_RENAME_COLUMN" sap:sc="XMSG">
+        <source>Renamed <ph id="1">{0}</ph> to <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Action log text for renaming a column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SLIDING_SIDE_PANEL_TITLE" resname="SLIDING_SIDE_PANEL_TITLE" sap:sc="XMSG">
+        <source>Navigate to <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Tooltip for Sliding Side Panel Headers</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FULL_DATA_VALIDATION_TOGGLE_TEXT" resname="FULL_DATA_VALIDATION_TOGGLE_TEXT" sap:sc="XTIT">
+        <source>Full Data Validation</source>
+        <note annotates="source" from="Developer">Text for the Full data validation toggle</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEVEL_BASED_HIERARCHY_LEVELS_TITLE" resname="LEVEL_BASED_HIERARCHY_LEVELS_TITLE" sap:sc="XTIT">
+        <source>Levels</source>
+        <note annotates="source" from="Developer">Title for Levels section</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_NAME_LBL" resname="MODEL_NAME_LBL" sap:sc="XFLD">
+        <source>Model Name:</source>
+        <note annotates="source" from="Developer">Edit model name dialog input label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_NAME_INVALID" resname="MODEL_NAME_INVALID" sap:sc="XMSG">
+        <source>Model name must begin and end with a non-space character.</source>
+        <note annotates="source" from="Developer">Edit model name dialog model name input invalid message</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_DESC_LBL" resname="MODEL_DESC_LBL" sap:sc="XFLD">
+        <source>Description:</source>
+        <note annotates="source" from="Developer">Edit model name dialog input label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_DESC_PLACEHOLDER" resname="MODEL_DESC_PLACEHOLDER" sap:sc="XTXT">
+        <source>optional description here...</source>
+        <note annotates="source" from="Developer">Edit model name dialog placeholder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_SUM_DIM_VAL_ISSUES" resname="MODEL_SUM_DIM_VAL_ISSUES" sap:sc="XTXT">
+        <source>The following dimensions contain data quality issues:</source>
+        <note annotates="source" from="Developer">Dimension validation info text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_SUM_MSR_VAL_ISSUES" resname="MODEL_SUM_MSR_VAL_ISSUES" sap:sc="XTXT">
+        <source>The following measures contain data quality issues:</source>
+        <note annotates="source" from="Developer">Measure validation info text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MODEL_SUM_MORE_DIMS_VAL" resname="MODEL_SUM_MORE_DIMS_VAL" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> more dimensions</source>
+        <note annotates="source" from="Developer">Dimension validation info text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="MODEL_SUM_MORE_MSRS_VAL" resname="MODEL_SUM_MORE_MSRS_VAL" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> more measures</source>
+        <note annotates="source" from="Developer">Measure validation info text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="TOKEN_VAL_ISSUES" resname="TOKEN_VAL_ISSUES" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> Issues</source>
+        <note annotates="source" from="Developer">Token validation information text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VALIDATION_LIST_TITLE" resname="VALIDATION_LIST_TITLE" sap:sc="XTXT">
+        <source><ph id="1">{0}</ph> Issue Types</source>
+        <note annotates="source" from="Developer">Validation title text in the Validation list area</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VALIDATION_LIST_TITLE_SINGLE_ISSUE" resname="VALIDATION_LIST_TITLE_SINGLE_ISSUE" sap:sc="XTXT">
+        <source>1 Issue Type</source>
+        <note annotates="source" from="Developer">Validation title text for single issue in the Validation list area</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_VALUE" resname="NO_VALUE" sap:sc="XFLD">
+        <source>(No Value)</source>
+        <note annotates="source" from="Developer">this is the text displayed when the value stored in the table is empty</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UPDATE_MODEL_GENERIC_ERROR" resname="UPDATE_MODEL_GENERIC_ERROR" sap:sc="XMSG">
+        <source>There was an issue updating the model. Check that your data set is valid and try again.</source>
+        <note annotates="source" from="Developer">Generic error when there was an issue with updating the model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UPDATE_MODEL_INVALID_NAME" resname="UPDATE_MODEL_INVALID_NAME" sap:sc="XMSG">
+        <source>There was an issue with the data set name which prevented updating the model. Check the name and try again.</source>
+        <note annotates="source" from="Developer">Invalid data set name</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="HIER_AUTOCREATE_MOD" resname="HIER_AUTOCREATE_MOD" sap:sc="XMSG">
+        <source>Your dimension selection was modified to exclude <ph id="1">{0}</ph> dimension(s) already used in existing hierarchies.</source>
+        <note annotates="source" from="Developer">Info message for hierarchy quick-action (auto-) creation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HIER_SAVE_SUCCESS" resname="HIER_SAVE_SUCCESS" sap:sc="XMSG">
+        <source>Your hierarchy was saved successfully.</source>
+        <note annotates="source" from="Developer">Success message for hierarchy creation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REBUILD_MODEL_PLANNING_CHECKBOX_DISABLED" maxwidth="150" resname="REBUILD_MODEL_PLANNING_CHECKBOX_DISABLED" sap:sc="XMSG" size-unit="char">
+        <source>The Type of a model can only be set during initial model creation, and this option is not available during model rebuild</source>
+        <note annotates="source" from="Developer">KEY=REBUILD_MODEL_PLANNING_CHECKBOX_DISABLED Tooltip explaining why the planning checkbox is disabled during rebuild model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_HIER_EXIST" maxwidth="150" resname="NO_HIER_EXIST" sap:sc="XMSG" size-unit="char">
+        <source>No hierarchies exist</source>
+        <note annotates="source" from="Developer">KEY=NO_HIER_EXIST Info message that says that no hierarchies exist</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONVERSION_FORMAT" maxwidth="50" resname="CONVERSION_FORMAT" sap:sc="XMSG" size-unit="char">
+        <source>Conversion Format</source>
+        <note annotates="source" from="Developer">KEY=CONVERSION_FORMAT Title of combo box to change data type format</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GEO_LAT_LONG_FAILURE" resname="GEO_LAT_LONG_FAILURE" sap:sc="XMSG">
+        <source>Failed to Geo Enrich by Coordinates</source>
+        <note annotates="source" from="Developer">Error message when geo by coordinates conversion cannot be executed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GEO_AREA_FAILURE" resname="GEO_AREA_FAILURE" sap:sc="XMSG">
+        <source>Failed to Geo Enrich by Area</source>
+        <note annotates="source" from="Developer">Error message when geo by areas cannot be executed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UNPIVOT_FAILURE" resname="UNPIVOT_FAILURE" sap:sc="XMSG">
+        <source>Failed to transpose columns to rows</source>
+        <note annotates="source" from="Developer">Error message when unpivot cannot be executed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LEVEL_BASED_HIERARCHY_FAILURE" resname="LEVEL_BASED_HIERARCHY_FAILURE" sap:sc="XMSG">
+        <source>Failed to create level-based hierarchy</source>
+        <note annotates="source" from="Developer">Error message when Level base hierarchy cannot be executed</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

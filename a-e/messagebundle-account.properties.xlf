@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-account.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="30e73e4ccb972ded93a7d0d577260aad" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:57Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit datatype="plaintext" id="PKG_ACC_SUMM_HEADER" resname="PKG_ACC_SUMM_HEADER">
+        <source>Account Summary</source>
+        <note annotates="source" from="Developer">TRANSLATE
+__ldi.translation.uuid=835560b3-24fb-11e5-867f-0800200c9a26
+XBLI, 50: Headline of the account page for paid users</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_GEN_INFO_HEADER" maxwidth="50" resname="PKG_GEN_INFO_HEADER" sap:sc="XBLI" size-unit="char">
+        <source>General Information</source>
+        <note annotates="source" from="Developer">Headline of the account detail for paid user</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_LICENSES_USED" maxwidth="50" resname="PKG_LICENSES_USED" sap:sc="XBLI" size-unit="char">
+        <source>Licenses Used:</source>
+        <note annotates="source" from="Developer">Title for number of licenses used</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_NUM_USERS" maxwidth="50" resname="PKG_NUM_USERS" sap:sc="XBLI" size-unit="char">
+        <source>Users in Account:</source>
+        <note annotates="source" from="Developer">Title for number of users</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_LICENSES_UNASSIGNED" maxwidth="50" resname="PKG_LICENSES_UNASSIGNED" sap:sc="XBLI" size-unit="char">
+        <source>Unassigned Licenses:</source>
+        <note annotates="source" from="Developer">Title for unassigned licenses</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_STARTED_ZISSOU" maxwidth="50" resname="PKG_STARTED_ZISSOU" sap:sc="XBLI" size-unit="char">
+        <source>Package Started on:</source>
+        <note annotates="source" from="Developer">Title for package start date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_EXPIRES_ZISSOU" maxwidth="50" resname="PKG_EXPIRES_ZISSOU" sap:sc="XBLI" size-unit="char">
+        <source>Package Expires on:</source>
+        <note annotates="source" from="Developer">Title for package expire date</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_INFO_SUPPORT_ACCESS" maxwidth="50" resname="PKG_INFO_SUPPORT_ACCESS" sap:sc="XBLI" size-unit="char">
+        <source>24/7 SAP Support</source>
+        <note annotates="source" from="Developer">Description that tells the user that they have access to SAP support</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_BUY_NOW" maxwidth="50" resname="PKG_BUY_NOW" sap:sc="XBUT" size-unit="char">
+        <source>Buy Now</source>
+        <note annotates="source" from="Developer">Button to buy package</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HEADLINE_ACTION" maxwidth="50" resname="HEADLINE_ACTION" sap:sc="XHED" size-unit="char">
+        <source>Take off with</source>
+        <note annotates="source" from="Developer">This is the text precedes "SAP Analytics Cloud" in the headline of the Account page. "SAP Analytics Cloud" is the product name that will not be translated</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_UPGRADE" maxwidth="50" resname="PKG_UPGRADE" sap:sc="XBLI" size-unit="char">
+        <source>Upgrade</source>
+        <note annotates="source" from="Developer">Button text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REQUEST_TIMEOUT" maxwidth="200" resname="REQUEST_TIMEOUT" sap:sc="XTOL" size-unit="char">
+        <source>Request Timeout</source>
+        <note annotates="source" from="Developer">Text for timeout error.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UNKNOWN_ERROR" maxwidth="200" resname="UNKNOWN_ERROR" sap:sc="XTOL" size-unit="char">
+        <source>Unknown Error</source>
+        <note annotates="source" from="Developer">Text for unknown error.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FAIL_TO_GET_ACCOUNT_INFO" maxwidth="200" resname="FAIL_TO_GET_ACCOUNT_INFO" sap:sc="XTOL" size-unit="char">
+        <source>Trouble connecting to the SAP Store. Please try again later.</source>
+        <note annotates="source" from="Developer">The error message to display when the store api is not responding.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALID_NUMBER_PARAM" maxwidth="200" resname="INVALID_NUMBER_PARAM" sap:sc="XTOL" size-unit="char">
+        <source>Invalid numbers</source>
+        <note annotates="source" from="Developer">The error message to display if the price parameters are undefined or non integer format</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="USER_EXCEED_LIMITS" resname="USER_EXCEED_LIMITS" sap:sc="XMSG">
+        <source>You are adding more users than your current package allows. Please upgrade the account first if you would like to add more people.</source>
+        <note annotates="source" from="Developer">User exceeded the maximum allowable users for that tenant.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOT_AUTHORIZED_TO_VIEW_ACCOUNT_PAGE" resname="NOT_AUTHORIZED_TO_VIEW_ACCOUNT_PAGE" sap:sc="XMSG">
+        <source>You are not authorized to view the Account page</source>
+        <note annotates="source" from="Developer">toast message when a user tries to access account page in absence of sufficient privilege</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_BUSINESS" resname="PKG_BUSINESS" sap:sc="XTIT">
+        <source>Business</source>
+        <note annotates="source" from="Developer">Name for business package</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_PRICE_UNIT_SUBTITLE_MONTHLY" resname="PKG_PRICE_UNIT_SUBTITLE_MONTHLY" sap:sc="XTIT">
+        <source>Per user/month</source>
+        <note annotates="source" from="Developer">This is displayed under the price</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_DETAIL_BI" resname="PKG_DETAIL_BI" sap:sc="XMSG">
+        <source>Complete BI functionality</source>
+        <note annotates="source" from="Developer">Bullet point for package about BI functionality</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_DETAIL_PREDICTIVE" resname="PKG_DETAIL_PREDICTIVE" sap:sc="XMSG">
+        <source>Smart Assist features, powered by Predictive Analytics</source>
+        <note annotates="source" from="Developer">Bullet point for package about predictive analytics features</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_DETAIL_USERS_LIMIT" resname="PKG_DETAIL_USERS_LIMIT" sap:sc="XMSG">
+        <source>Up to 20 users.</source>
+        <note annotates="source" from="Developer">Bullet point for package about the maximum number of users</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_DETAIL_USERS_LIMIT_PROMPT" resname="PKG_DETAIL_USERS_LIMIT_PROMPT" sap:sc="XMSG">
+        <source>Contact our sales team for more</source>
+        <note annotates="source" from="Developer">Upsell link shown after the users limit, clicking on it will let the user contact sales to purchase more users</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_DETAIL_DATASOURCE" resname="PKG_DETAIL_DATASOURCE" sap:sc="XMSG">
+        <source>Basic data source connections (excel, csv, and Google Sheets)</source>
+        <note annotates="source" from="Developer">Bullet point for package about the available datasources that can be integrated in our product</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_DETAIL_PREMISE_DATASOURCE_LINK" resname="PKG_DETAIL_PREMISE_DATASOURCE_LINK" sap:sc="XMSG">
+        <source>On-premise data source connections</source>
+        <note annotates="source" from="Developer">Bullet point for package about the datasources for on-premise (linked to Connections help page)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_DETAIL_PREMISE_DATASOURCE_EXAMPLES" resname="PKG_DETAIL_PREMISE_DATASOURCE_EXAMPLES" sap:sc="XMSG">
+        <source>(SAP HANA, SQL, OData Services etc.)</source>
+        <note annotates="source" from="Developer">Examples of the available datasources for on-premise (shown in the same bullet point as the above)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_DETAIL_COLLABORATION" resname="PKG_DETAIL_COLLABORATION" sap:sc="XMSG">
+        <source>Team collaboration features with more than 1 user</source>
+        <note annotates="source" from="Developer">Bullet point for package about team collaboration features</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PKG_FOOTNOTE_CURRENCY" resname="PKG_FOOTNOTE_CURRENCY" sap:sc="XMSG">
+        <source>Prices quoted are in USD</source>
+        <note annotates="source" from="Developer">Footnote shown after package, describing the prices shown</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

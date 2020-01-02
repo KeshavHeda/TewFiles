@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-ei.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="f84ecfe745cb210c87ee495dd42fb819" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:58Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CANCEL" maxwidth="120" resname="CANCEL" sap:sc="XMSG" size-unit="char">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">KEY=CANCEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CANCELLED" maxwidth="120" resname="CANCELLED" sap:sc="XMSG" size-unit="char">
+        <source>Cancelled</source>
+        <note annotates="source" from="Developer">KEY=CANCELLED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CANCELLED_STATUS" maxwidth="120" resname="CANCELLED_STATUS" sap:sc="XMSG" size-unit="char">
+        <source>Cancelled!</source>
+        <note annotates="source" from="Developer">KEY=CANCELLED_STATUS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CANNOT_FIND_OBJECT_TO_IMPORT" maxwidth="130" resname="CANNOT_FIND_OBJECT_TO_IMPORT" sap:sc="XMSG" size-unit="char">
+        <source>This package is no longer available. It was either deleted by an administrator, or deleted automatically because it expired.</source>
+        <note annotates="source" from="Developer">KEY=CANNOT_FIND_OBJECT_TO_IMPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONFIG_TRANSPORT_CONNECTION" maxwidth="120" resname="CONFIG_TRANSPORT_CONNECTION" sap:sc="XMSG" size-unit="char">
+        <source>Only Lifecycle Administrator can run Transport. Configure Transport Connection first in HANA Lifecycle Management</source>
+        <note annotates="source" from="Developer">KEY=CONFIG_TRANSPORT_CONNECTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONFIRM" maxwidth="120" resname="CONFIRM" sap:sc="XMSG" size-unit="char">
+        <source>Confirm</source>
+        <note annotates="source" from="Developer">KEY=CONFIRM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONFIRM_DELETE_HISTORY" maxwidth="120" resname="CONFIRM_DELETE_HISTORY" sap:sc="XMSG" size-unit="char">
+        <source>Confirm delete history?</source>
+        <note annotates="source" from="Developer">KEY=CONFIRM_DELETE_HISTORY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONFIRM_UNIT_EXIST_OVERWRITE" maxwidth="120" resname="CONFIRM_UNIT_EXIST_OVERWRITE" sap:sc="XMSG" size-unit="char">
+        <source>Unit already exists, overwrite it?</source>
+        <note annotates="source" from="Developer">KEY=CONFIRM_UNIT_EXIST_OVERWRITE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTENT_DELIVERY_UNEXPECTED_ERROR" maxwidth="120" resname="CONTENT_DELIVERY_UNEXPECTED_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Unexpected Error encountered with the Content Delivery Service. Please try again or contact your Server Administrator.</source>
+        <note annotates="source" from="Developer">KEY=CONTENT_DELIVERY_UNEXPECTED_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATA" maxwidth="120" resname="DATA" sap:sc="XMSG" size-unit="char">
+        <source>Data</source>
+        <note annotates="source" from="Developer">KEY=DATA</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DELETE" maxwidth="120" resname="DELETE" sap:sc="XMSG" size-unit="char">
+        <source>Delete</source>
+        <note annotates="source" from="Developer">KEY=DELETE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DESCRIPTION_LONG" maxwidth="120" resname="DESCRIPTION_LONG" sap:sc="XMSG" size-unit="char">
+        <source>Long Description</source>
+        <note annotates="source" from="Developer">KEY=DESCRIPTION_LONG</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CATEGORY" maxwidth="120" resname="CATEGORY" sap:sc="XMSG" size-unit="char">
+        <source>Category</source>
+        <note annotates="source" from="Developer">Label for dropdown in Export to Content Store dialog, with ZISSOU ON</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DESCRIPTION_SHORT" maxwidth="120" resname="DESCRIPTION_SHORT" sap:sc="XMSG" size-unit="char">
+        <source>Summary</source>
+        <note annotates="source" from="Developer">KEY=DESCRIPTION_SHORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DROP_OBJECT" maxwidth="120" resname="DROP_OBJECT" sap:sc="XMSG" size-unit="char">
+        <source>Drop Objects</source>
+        <note annotates="source" from="Developer">KEY=DROP_OBJECT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR" maxwidth="120" resname="ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Error</source>
+        <note annotates="source" from="Developer">KEY=ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ERROR_STATUS" maxwidth="120" resname="ERROR_STATUS" sap:sc="XMSG" size-unit="char">
+        <source>The action has finished with errors! (<ph id="1">{0}</ph>/<ph id="2">{1}</ph>)</source>
+        <note annotates="source" from="Developer">KEY=ERROR_STATUS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPORT" maxwidth="120" resname="EXPORT" sap:sc="XMSG" size-unit="char">
+        <source>Export</source>
+        <note annotates="source" from="Developer">KEY=EXPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPORT_PAGE_UNEXPECTED_ERROR" maxwidth="120" resname="EXPORT_PAGE_UNEXPECTED_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Unexpected error encountered with the Export page. Please contact your administrator or SAP Support.</source>
+        <note annotates="source" from="Developer">KEY=EXPORT_PAGE_UNEXPECTED_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPORT_DIALOG_BOX" maxwidth="120" resname="EXPORT_DIALOG_BOX" sap:sc="XMSG" size-unit="char">
+        <source>Export to File</source>
+        <note annotates="source" from="Developer">KEY=EXPORT_DIALOG_BOX</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EXPORT_TO_CONTENT_STORE" maxwidth="120" resname="EXPORT_TO_CONTENT_STORE" sap:sc="XMSG" size-unit="char">
+        <source>Export to Content Store</source>
+        <note annotates="source" from="Developer">KEY=EXPORT_TO_CONTENT_STORE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FINISHED_AT" maxwidth="120" resname="FINISHED_AT" sap:sc="XMSG" size-unit="char">
+        <source>Finished at</source>
+        <note annotates="source" from="Developer">KEY=FINISHED_AT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="HISTORY_DELETED" maxwidth="120" resname="HISTORY_DELETED" sap:sc="XMSG" size-unit="char">
+        <source>History deleted</source>
+        <note annotates="source" from="Developer">KEY=HISTORY_DELETED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IMPORT" maxwidth="120" resname="IMPORT" sap:sc="XMSG" size-unit="char">
+        <source>Import</source>
+        <note annotates="source" from="Developer">KEY=IMPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IMPORT_DATA_ONLY" maxwidth="120" resname="IMPORT_DATA_ONLY" sap:sc="XMSG" size-unit="char">
+        <source>Import Data Only</source>
+        <note annotates="source" from="Developer">KEY=IMPORT_DATA_ONLY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IN_PROCESS" maxwidth="120" resname="IN_PROCESS" sap:sc="XMSG" size-unit="char">
+        <source>In process</source>
+        <note annotates="source" from="Developer">KEY=IN_PROCESS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INTERNALERROR" maxwidth="150" resname="INTERNALERROR" sap:sc="XMSG" size-unit="char">
+        <source>Internal server error encountered with the Content Delivery Service. Please try again or contact your Server Administrator.</source>
+        <note annotates="source" from="Developer">KEY=INTERNALERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INTERNAL_ERROR" maxwidth="120" resname="INTERNAL_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Internal Error</source>
+        <note annotates="source" from="Developer">KEY=INTERNAL_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALIDJOBID" maxwidth="150" resname="INVALIDJOBID" sap:sc="XMSG" size-unit="char">
+        <source>Sorry, the server could not identify the job in which to perform your action.  Please try again or contact your Server Administrator.</source>
+        <note annotates="source" from="Developer">KEY=INVALIDJOBID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALIDPACKAGEID" maxwidth="150" resname="INVALIDPACKAGEID" sap:sc="XMSG" size-unit="char">
+        <source>Sorry, the server could not identify the package in which to perform your action.  Please try again or contact your Server Administrator.</source>
+        <note annotates="source" from="Developer">KEY=INVALIDPACKAGEID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INVALIDPACKAGESTRUCTURE" maxwidth="150" resname="INVALIDPACKAGESTRUCTURE" sap:sc="XMSG" size-unit="char">
+        <source>Sorry, the server could not retrieve information for your package or package details.  Please try again or contact your Server Administrator.</source>
+        <note annotates="source" from="Developer">KEY=INVALIDPACKAGESTRUCTURE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOCAL" maxwidth="120" resname="LOCAL" sap:sc="XMSG" size-unit="char">
+        <source>Local</source>
+        <note annotates="source" from="Developer">KEY=LOCAL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NAME" maxwidth="120" resname="NAME" sap:sc="XMSG" size-unit="char">
+        <source>Name</source>
+        <note annotates="source" from="Developer">KEY=NAME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NAME_RULE" maxwidth="200" resname="NAME_RULE" sap:sc="XMSG" size-unit="char">
+        <source>Name must have at most 20 characters and can only contain alphabets(A-Za-z), numbers(0-9) or underscore(_)</source>
+        <note annotates="source" from="Developer">KEY=NAME_RULE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTENT_LIBRARY_NAME_RULE" maxwidth="200" resname="CONTENT_LIBRARY_NAME_RULE" sap:sc="XMSG" size-unit="char">
+        <source>Name can only contain alphabets(A-Za-z), numbers(0-9), spaces( ), period(.), ampersand(&amp;), dash(-) or underscore(_)</source>
+        <note annotates="source" from="Developer">KEY=CONTENT_LIBRARY_NAME_RULE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NEW" maxwidth="120" resname="NEW" sap:sc="XMSG" size-unit="char">
+        <source>New</source>
+        <note annotates="source" from="Developer">KEY=NEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NEW_IMPORT" maxwidth="120" resname="NEW_IMPORT" sap:sc="XMSG" size-unit="char">
+        <source>New Import</source>
+        <note annotates="source" from="Developer">KEY=NEW_IMPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_EXPORT_HISTORY" maxwidth="120" resname="NO_EXPORT_HISTORY" sap:sc="XMSG" size-unit="char">
+        <source>There is no export history.</source>
+        <note annotates="source" from="Developer">KEY=NO_EXPORT_HISTORY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_IMPORT_HISTORY" maxwidth="120" resname="NO_IMPORT_HISTORY" sap:sc="XMSG" size-unit="char">
+        <source>There is no import history.</source>
+        <note annotates="source" from="Developer">KEY=NO_IMPORT_HISTORY</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_OBJECTS_TO_EXPORT" maxwidth="120" resname="NO_OBJECTS_TO_EXPORT" sap:sc="XMSG" size-unit="char">
+        <source>Select objects to be exported.</source>
+        <note annotates="source" from="Developer">KEY=NO_SOURCE_FILE_SELECTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_SOURCE_FILE_SELECTED" maxwidth="120" resname="NO_SOURCE_FILE_SELECTED" sap:sc="XMSG" size-unit="char">
+        <source>No source file selected</source>
+        <note annotates="source" from="Developer">KEY=NO_SOURCE_FILE_SELECTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTHING_EXPORTED" maxwidth="120" resname="NOTHING_EXPORTED" sap:sc="XMSG" size-unit="char">
+        <source>Nothing has been exported</source>
+        <note annotates="source" from="Developer">KEY=NOTHING_EXPORTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NOTHING_IMPORTED" maxwidth="120" resname="NOTHING_IMPORTED" sap:sc="XMSG" size-unit="char">
+        <source>Nothing can be imported</source>
+        <note annotates="source" from="Developer">KEY=NOTHING_IMPORTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OBJECT" maxwidth="120" resname="OBJECT" sap:sc="XMSG" size-unit="char">
+        <source>Object</source>
+        <note annotates="source" from="Developer">KEY=OBJECT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="OBJECTS_COUNT" maxwidth="120" resname="OBJECTS_COUNT" sap:sc="XMSG" size-unit="char">
+        <source><ph id="1">{0}</ph> Object(s)</source>
+        <note annotates="source" from="Developer">KEY=OBJECTS_COUNT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OBJECTS_TO_IMPORT" maxwidth="120" resname="OBJECTS_TO_IMPORT" sap:sc="XMSG" size-unit="char">
+        <source>Objects to Import</source>
+        <note annotates="source" from="Developer">KEY=OBJECTS_TO_IMPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OK" maxwidth="120" resname="OK" sap:sc="XMSG" size-unit="char">
+        <source>OK</source>
+        <note annotates="source" from="Developer">KEY=OK</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OPTIONS" maxwidth="120" resname="OPTIONS" sap:sc="XMSG" size-unit="char">
+        <source>Options</source>
+        <note annotates="source" from="Developer">KEY=OPTIONS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="OVERWRITE" maxwidth="120" resname="OVERWRITE" sap:sc="XMSG" size-unit="char">
+        <source>Overwrite</source>
+        <note annotates="source" from="Developer">KEY=OVERWRITE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PACKAGENOTFOUND" maxwidth="120" resname="PACKAGENOTFOUND" sap:sc="XMSG" size-unit="char">
+        <source>The package which you specified does not appear to exist.  Please try again or contact your Server Administrator.</source>
+        <note annotates="source" from="Developer">KEY=PACKAGENOTFOUND</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PACKAGE_ID" maxwidth="120" resname="PACKAGE_ID" sap:sc="XMSG" size-unit="char">
+        <source>Package ID</source>
+        <note annotates="source" from="Developer">KEY=PACKAGE_ID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ILLEGAL_PARAMETER_VALUE" maxwidth="180" resname="ILLEGAL_PARAMETER_VALUE" sap:sc="XMSG" size-unit="char">
+        <source>Illegal value <ph id="1">{0}</ph> for parameter <ph id="2">{1}</ph>; At most <ph id="3">{2}</ph> characters, allow (A-Z, a-z, 0-9, underscore or dot) only, cannot start or end with dot</source>
+        <note annotates="source" from="Developer">KEY=ILLEGAL_PARAMETER_VALUE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PING_TIME_OUT" maxwidth="120" resname="PING_TIME_OUT" sap:sc="XMSG" size-unit="char">
+        <source>Ping system time out</source>
+        <note annotates="source" from="Developer">KEY=PING_TIME_OUT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PREVIEW" maxwidth="120" resname="PREVIEW" sap:sc="XMSG" size-unit="char">
+        <source>Preview</source>
+        <note annotates="source" from="Developer">KEY=PREVIEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INITIALIZING" maxwidth="120" resname="INITIALIZING" sap:sc="XMSG" size-unit="char">
+        <source>Initializing ...</source>
+        <note annotates="source" from="Developer">KEY=INITIALIZING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PROCESSING_STATUS" maxwidth="120" resname="PROCESSING_STATUS" sap:sc="XMSG" size-unit="char">
+        <source>Processing "<ph id="1">{0}</ph>" (<ph id="2">{1}</ph>/<ph id="3">{2}</ph>) ...</source>
+        <note annotates="source" from="Developer">KEY=PROCESSING_STATUS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REFRESH" maxwidth="120" resname="REFRESH" sap:sc="XMSG" size-unit="char">
+        <source>Refresh</source>
+        <note annotates="source" from="Developer">KEY=REFRESH</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REMOVE" maxwidth="120" resname="REMOVE" sap:sc="XMSG" size-unit="char">
+        <source>Remove</source>
+        <note annotates="source" from="Developer">KEY=REMOVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MUST_REMOVE_MODEL_FIRST" maxwidth="120" resname="MUST_REMOVE_MODEL_FIRST" sap:sc="XMSG" size-unit="char">
+        <source>The dependent model must be removed first</source>
+        <note annotates="source" from="Developer">KEY=SHOUDL_REMOVE_MODEL_FIRST Tooltip shown when the remove button is disabled in the export panel, indicating the reason why the data locking object cannot be removed</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REMOVE_ALL" maxwidth="120" resname="REMOVE_ALL" sap:sc="XMSG" size-unit="char">
+        <source>Remove All</source>
+        <note annotates="source" from="Developer">KEY=REMOVE_ALL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="REQUEST_CANNOT_PROCESS" maxwidth="120" resname="REQUEST_CANNOT_PROCESS" sap:sc="XMSG" size-unit="char">
+        <source>The request cannot be processed</source>
+        <note annotates="source" from="Developer">KEY=REQUEST_CANNOT_PROCESS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SAVE" maxwidth="120" resname="SAVE" sap:sc="XMSG" size-unit="char">
+        <source>Save</source>
+        <note annotates="source" from="Developer">KEY=SAVE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_ALL" maxwidth="120" resname="SELECT_ALL" sap:sc="XMSG" size-unit="char">
+        <source>Select All</source>
+        <note annotates="source" from="Developer">KEY=SELECT_ALL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_SOURCE_FILE" maxwidth="120" resname="SELECT_SOURCE_FILE" sap:sc="XMSG" size-unit="char">
+        <source>Select Source File</source>
+        <note annotates="source" from="Developer">KEY=SELECT_SOURCE_FILE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_ID" maxwidth="120" resname="SHOW_ID" sap:sc="XMSG" size-unit="char">
+        <source>Show ID</source>
+        <note annotates="source" from="Developer">KEY=SHOW_ID</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STARTED_AT" maxwidth="120" resname="STARTED_AT" sap:sc="XMSG" size-unit="char">
+        <source>Started at</source>
+        <note annotates="source" from="Developer">KEY=STARTED_AT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STATUS" maxwidth="120" resname="STATUS" sap:sc="XMSG" size-unit="char">
+        <source>Status</source>
+        <note annotates="source" from="Developer">KEY=STATUS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SUCCESS" maxwidth="120" resname="SUCCESS" sap:sc="XMSG" size-unit="char">
+        <source>Success</source>
+        <note annotates="source" from="Developer">KEY=SUCCESS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SUCCESS_STATUS" maxwidth="120" resname="SUCCESS_STATUS" sap:sc="XMSG" size-unit="char">
+        <source>The action has finished successfully! (<ph id="1">{0}</ph>/<ph id="2">{1}</ph>)</source>
+        <note annotates="source" from="Developer">KEY=SUCCESS_STATUS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="EXPORT_SUCCESS_STATUS" resname="EXPORT_SUCCESS_STATUS" sap:sc="XMSG">
+        <source>The action has finished successfully! (<ph id="1">{0}</ph>/<ph id="2">{1}</ph>). Export content has version <ph id="3">{2}</ph>. Content is intended for importing back to the current and next <ph id="4">{3}</ph> version only.</source>
+        <note annotates="source" from="Developer">KEY=EXPORT_SUCCESS_STATUS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="AGNOSTIC_EXPORT_SUCCESS_STATUS" resname="AGNOSTIC_EXPORT_SUCCESS_STATUS" sap:sc="XMSG">
+        <source>The action has finished successfully! (<ph id="1">{0}</ph>/<ph id="2">{1}</ph>). Export content has version <ph id="3">{2}</ph>. Content is intended for importing back to any version.</source>
+        <note annotates="source" from="Developer">KEY=AGNOSTIC_EXPORT_SUCCESS_STATUS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SYSTEM" maxwidth="120" resname="SYSTEM" sap:sc="XMSG" size-unit="char">
+        <source>System</source>
+        <note annotates="source" from="Developer">KEY=SYSTEM</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TARGET" maxwidth="120" resname="TARGET" sap:sc="XMSG" size-unit="char">
+        <source>Target</source>
+        <note annotates="source" from="Developer">KEY=TARGET</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORT" maxwidth="120" resname="TRANSPORT" sap:sc="XMSG" size-unit="char">
+        <source>Transport</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORT_CREATE_ROUTE_FAILED" maxwidth="120" resname="TRANSPORT_CREATE_ROUTE_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Transport: create transport route failed</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORT_CREATE_ROUTE_FAILED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORT_ERROR" maxwidth="120" resname="TRANSPORT_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Transport error</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORT_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORT_EXPORTING" maxwidth="120" resname="TRANSPORT_EXPORTING" sap:sc="XMSG" size-unit="char">
+        <source>Transport exporting</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORT_EXPORTING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORT_FILE_TRANSFERRING" maxwidth="120" resname="TRANSPORT_FILE_TRANSFERRING" sap:sc="XMSG" size-unit="char">
+        <source>Transport file transferring</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORT_FILE_TRANSFERRING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORT_FINISHED" maxwidth="120" resname="TRANSPORT_FINISHED" sap:sc="XMSG" size-unit="char">
+        <source>Transport finished</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORT_FINISHED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORT_IMPORTING" maxwidth="120" resname="TRANSPORT_IMPORTING" sap:sc="XMSG" size-unit="char">
+        <source>Transport importing</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORT_IMPORTING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORT_INITIALIZING" maxwidth="120" resname="TRANSPORT_INITIALIZING" sap:sc="XMSG" size-unit="char">
+        <source>Transport initializing</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORT_INITIALIZING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORT_START_FAILED" maxwidth="120" resname="TRANSPORT_START_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Transport: start transport failed</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORT_START_FAILED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORT_STARTED" maxwidth="120" resname="TRANSPORT_STARTED" sap:sc="XMSG" size-unit="char">
+        <source>Transport started</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORT_STARTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRANSPORTING" maxwidth="120" resname="TRANSPORTING" sap:sc="XMSG" size-unit="char">
+        <source>Transporting</source>
+        <note annotates="source" from="Developer">KEY=TRANSPORTING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TYPE" maxwidth="120" resname="TYPE" sap:sc="XMSG" size-unit="char">
+        <source>Type</source>
+        <note annotates="source" from="Developer">KEY=TYPE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UNITS" maxwidth="120" resname="UNITS" sap:sc="XMSG" size-unit="char">
+        <source>Units</source>
+        <note annotates="source" from="Developer">KEY=UNITS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UNPROCESSED" maxwidth="120" resname="UNPROCESSED" sap:sc="XMSG" size-unit="char">
+        <source>Unprocessed</source>
+        <note annotates="source" from="Developer">KEY=UNPROCESSED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UPDATE_EXISTING_OBJECT" maxwidth="120" resname="UPDATE_EXISTING_OBJECT" sap:sc="XMSG" size-unit="char">
+        <source>Update Existing Object</source>
+        <note annotates="source" from="Developer">KEY=UPDATE_EXISTING_OBJECT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UPLOAD" maxwidth="120" resname="UPLOAD" sap:sc="XMSG" size-unit="char">
+        <source>Upload</source>
+        <note annotates="source" from="Developer">KEY=UPLOAD</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UPLOAD_FROM_LOCAL_FILE" maxwidth="120" resname="UPLOAD_FROM_LOCAL_FILE" sap:sc="XMSG" size-unit="char">
+        <source>Upload from Local File</source>
+        <note annotates="source" from="Developer">KEY=UPLOAD_FROM_LOCAL_FILE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UPLOAD_BY_TRANSPORT" maxwidth="120" resname="UPLOAD_BY_TRANSPORT" sap:sc="XMSG" size-unit="char">
+        <source>Upload by Transport</source>
+        <note annotates="source" from="Developer">KEY=UPLOAD_BY_TRANSPORT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DU_UPLOAD_ERROR" maxwidth="120" resname="DU_UPLOAD_ERROR" sap:sc="XMSG" size-unit="char">
+        <source>Delivery Unit upload failed</source>
+        <note annotates="source" from="Developer">KEY=DU_UPLOAD_ERROR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VENDOR" maxwidth="120" resname="VENDOR" sap:sc="XMSG" size-unit="char">
+        <source>Vendor</source>
+        <note annotates="source" from="Developer">KEY=VENDOR</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WARNING" maxwidth="120" resname="WARNING" sap:sc="XMSG" size-unit="char">
+        <source>Warning</source>
+        <note annotates="source" from="Developer">KEY=WARNING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="WARNING_STATUS" maxwidth="120" resname="WARNING_STATUS" sap:sc="XMSG" size-unit="char">
+        <source>The action has finished with warnings! (<ph id="1">{0}</ph>/<ph id="2">{1}</ph>)</source>
+        <note annotates="source" from="Developer">KEY=WARNING_STATUS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WARNING_DROP_OBJECT" maxwidth="120" resname="WARNING_DROP_OBJECT" sap:sc="XMSG" size-unit="char">
+        <source>Warning: All selected objects to import will be tried to be dropped first before import</source>
+        <note annotates="source" from="Developer">KEY=WARNING_DROP_OBJECT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="WARNING_UPDATE_EXISTING_OBJECT" resname="WARNING_UPDATE_EXISTING_OBJECT" sap:sc="XMSG">
+        <source>Warning: Existing objects will be overwritten by selected objects to import if their names are identical</source>
+        <note annotates="source" from="Developer">KEY=WARNING_UPDATE_EXISTING_OBJECT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="YOUR_CHANGES_SAVED" maxwidth="120" resname="YOUR_CHANGES_SAVED" sap:sc="XMSG" size-unit="char">
+        <source>Your changes have been saved</source>
+        <note annotates="source" from="Developer">KEY=YOUR_CHANGES_SAVED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INCLUDE_AUDIT" maxwidth="120" resname="INCLUDE_AUDIT" sap:sc="XMSG" size-unit="char">
+        <source>Include Audit Data</source>
+        <note annotates="source" from="Developer">KEY=INCLUDE_AUDIT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MISSING_CREADENTIAL_TITLE" maxwidth="120" resname="MISSING_CREADENTIAL_TITLE" sap:sc="XMSG" size-unit="char">
+        <source>Missing Credentials</source>
+        <note annotates="source" from="Developer">KEY=MISSING_CREADENTIAL_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTER_CREDENTIAL_PROMPT" resname="ENTER_CREDENTIAL_PROMPT" sap:sc="YMSG">
+        <source>Credentials were not imported with your new connections. Would you like to go to the Connection page and enter your credentials now?</source>
+        <note annotates="source" from="Developer">KEY=ENTER_CREDENTIAL_PROMPT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="GO_TO_PAGE" maxwidth="120" resname="GO_TO_PAGE" sap:sc="XMSG" size-unit="char">
+        <source>Go to Page</source>
+        <note annotates="source" from="Developer">KEY=GO_TO_PAGE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOAD_SEARCH_DATA" maxwidth="120" resname="LOAD_SEARCH_DATA" sap:sc="XMSG" size-unit="char">
+        <source>Loading more search results</source>
+        <note annotates="source" from="Developer">KEY=LOAD_SEARCH_DATA</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

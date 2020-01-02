@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-nlq.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="9491218c2432612e58b020230bbd0f7b" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:56Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CLOSE_SEARCH" resname="CLOSE_SEARCH" sap:sc="XBUT">
+        <source>Exit Search to Insight</source>
+        <note annotates="source" from="Developer">Text for the close button on the Search to Insight (NLQ) dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CANCEL_DELETE_ALL" resname="CANCEL_DELETE_ALL" sap:sc="XBUT">
+        <source>Cancel</source>
+        <note annotates="source" from="Developer">Text for the cancel button in confirmation of delete all dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DELETE_ALL" resname="DELETE_ALL" sap:sc="XBUT">
+        <source>Delete</source>
+        <note annotates="source" from="Developer">Text for the delete button in confirmation of delete all dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DESCRIBE_MODEL_BUTTON_TEXT_MULTI" resname="DESCRIBE_MODEL_BUTTON_TEXT_MULTI" sap:sc="XBUT">
+        <source>Show suggested models...</source>
+        <note annotates="source" from="Developer">Text for the describe button for a more than one model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DESCRIBE_MODEL_BUTTON_TEXT_SINGLE" resname="DESCRIBE_MODEL_BUTTON_TEXT_SINGLE" sap:sc="XBUT">
+        <source>Show details for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Text for the describe button for a single model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EMBED_MODE_GO_TO_SEARCH_TO_INSIGHT" resname="EMBED_MODE_GO_TO_SEARCH_TO_INSIGHT" sap:sc="XBUT">
+        <source>Go to Search to Insight</source>
+        <note annotates="source" from="Developer">Button text for the entry point (button) to open the "Search to Insight" feature when in embed mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALL_IN_STORY" resname="ALL_IN_STORY" sap:sc="XFLD">
+        <source>All story models</source>
+        <note annotates="source" from="Developer">Label for all story models in model context selector menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALL_MODELS" resname="ALL_MODELS" sap:sc="XFLD">
+        <source>All available models</source>
+        <note annotates="source" from="Developer">Label for all models in model context selector menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="AUTOCOMPLETE_MEMBER_LABEL" resname="AUTOCOMPLETE_MEMBER_LABEL" sap:sc="XFLD">
+        <source>Member of <ph id="1">{0}</ph> in <ph id="2">{1}</ph></source>
+        <note annotates="source" from="Developer">Autocomplete item member label: Member of {Dimension Name} in {Model Name}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="AUTOCOMPLETE_MEASURE_LABEL" resname="AUTOCOMPLETE_MEASURE_LABEL" sap:sc="XFLD">
+        <source>Measure in <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Autocomplete item measure label: Measure in {Model Name}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="AUTOCOMPLETE_DIMENSION_LABEL" resname="AUTOCOMPLETE_DIMENSION_LABEL" sap:sc="XFLD">
+        <source>Dimension in <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Autocomplete item dimension label: Dimension in {Model Name}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="AUTOCOMPLETE_MODEL_LABEL" resname="AUTOCOMPLETE_MODEL_LABEL" sap:sc="XFLD">
+        <source>Model</source>
+        <note annotates="source" from="Developer">Autocomplete item model label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="AUTOCOMPLETE_CURRENCY_LABEL" resname="AUTOCOMPLETE_CURRENCY_LABEL" sap:sc="XFLD">
+        <source>Currency in <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Autocomplete item currency label: Currency in {Model Name}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DATE_DIVIDER_TODAY" resname="DATE_DIVIDER_TODAY" sap:sc="XFLD">
+        <source>Today</source>
+        <note annotates="source" from="Developer">Label for the date divider to indicate that the date corresponds to today</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DESCRIBE_BUTTON_TOOLTIP" resname="DESCRIBE_BUTTON_TOOLTIP" sap:sc="XFLD">
+        <source>Show model details</source>
+        <note annotates="source" from="Developer">Tooltip for Describe Button button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="INTERPRETATION_NUM_OTHERS" resname="INTERPRETATION_NUM_OTHERS" sap:sc="XFLD">
+        <source><ph id="1">{0}</ph> other results...</source>
+        <note annotates="source" from="Developer">Text for the button indicating the number of other interpretations available</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INTERPRETATION_NUM_OTHERS_SINGLE" resname="INTERPRETATION_NUM_OTHERS_SINGLE" sap:sc="XFLD">
+        <source>1 other result...</source>
+        <note annotates="source" from="Developer">Text for the button indicating that 1 other interpretation is available.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_NOT_SUPPORTED_TOOLTIP" resname="MODEL_NOT_SUPPORTED_TOOLTIP" sap:sc="XTOL">
+        <source>This model is not indexed for Search to Insight</source>
+        <note annotates="source" from="Developer">Tooptip of MenuItem for Unsupported models</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_NOT_FOUND_TOOLTIP" resname="MODEL_NOT_FOUND_TOOLTIP" sap:sc="XTOL">
+        <source>This model cannot be found</source>
+        <note annotates="source" from="Developer">Tooptip of MenuItem for models whose metadata cannot be fetched (possibly due to lacking access right)</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MORE_ACTIONS" resname="MORE_ACTIONS" sap:sc="XTOL">
+        <source>More actions</source>
+        <note annotates="source" from="Developer">Tooltip for the "More Actions" button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECOMMENDATION_TITLE_NEXT" resname="RECOMMENDATION_TITLE_NEXT" sap:sc="XFLD">
+        <source>Next actions</source>
+        <note annotates="source" from="Developer">If there are no recommendations, the user can use these other actions instead.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUESTION_COPY_MENU_TOOLTIP" resname="QUESTION_COPY_MENU_TOOLTIP" sap:sc="XTOL">
+        <source>Copy options</source>
+        <note annotates="source" from="Developer">Tooltip for question toolbar item for copy menu options</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUESTION_EXPORT_AS_CSV" resname="QUESTION_EXPORT_AS_CSV" sap:sc="XFLD">
+        <source>Export as CSV</source>
+        <note annotates="source" from="Developer">Label of Export as CSV Button in the menu of question</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="QUESTION_DELETE" resname="QUESTION_DELETE" sap:sc="XFLD">
+        <source>Delete</source>
+        <note annotates="source" from="Developer">Label of Delete Button in the menu of question</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECOMMENDATION_TITLE_ALTERNATIVES" resname="RECOMMENDATION_TITLE_ALTERNATIVES" sap:sc="XFLD">
+        <source>other actions</source>
+        <note annotates="source" from="Developer">Instead of using the suggested charts, try these other methods</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_MODEL" resname="SELECT_MODEL" sap:sc="XFLD">
+        <source>Choose a model...</source>
+        <note annotates="source" from="Developer">Label for selecting a model in model selector menu</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_BAR_PLACEHOLDER" resname="SEARCH_BAR_PLACEHOLDER" sap:sc="XFLD">
+        <source>Ask a question</source>
+        <note annotates="source" from="Developer">Search to Insight search bar placeholder text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_BAR_PLACEHOLDER_UNAVAILABLE" resname="SEARCH_BAR_PLACEHOLDER_UNAVAILABLE" sap:sc="XFLD">
+        <source>Search to Insight temporarily unavailable</source>
+        <note annotates="source" from="Developer">Search to Insight search bar placeholder text when Search to Insight is not available</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_HEADER_TOOLTIP_CLEAR_ALL" resname="SEARCH_HEADER_TOOLTIP_CLEAR_ALL" sap:sc="XTOL">
+        <source>Delete all results</source>
+        <note annotates="source" from="Developer">Tooltip for header toolbar item that deletes all questions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_HEADER_TOOLTIP_COPY_PASTE_SELECTED" resname="SEARCH_HEADER_TOOLTIP_COPY_PASTE_SELECTED" sap:sc="XTOL">
+        <source>Copy and paste selected results</source>
+        <note annotates="source" from="Developer">Tooltip for header toolbar item that copies selected questions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_HEADER_TOOLTIP_DELETE_SELECTED" resname="SEARCH_HEADER_TOOLTIP_DELETE_SELECTED" sap:sc="XTOL">
+        <source>Delete selected results</source>
+        <note annotates="source" from="Developer">Tooltip for header toolbar item that deletes selected questions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_HEADER_TOOLTIP_EDIT_PROMPTS" resname="SEARCH_HEADER_TOOLTIP_EDIT_PROMPTS" sap:sc="XTOL">
+        <source>Edit prompts</source>
+        <note annotates="source" from="Developer">Tooltip for header toolbar item that opens the prompt dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCHING_ALL_MODELS" resname="SEARCHING_ALL_MODELS" sap:sc="XFLD">
+        <source>Search all available models</source>
+        <note annotates="source" from="Developer">Label for searching all available models</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SEARCHING_MODEL" resname="SEARCHING_MODEL" sap:sc="XFLD">
+        <source>Search <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Label for the current model being searched</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHOW_MORE" resname="SHOW_MORE" sap:sc="XFLD">
+        <source>Show more...</source>
+        <note annotates="source" from="Developer">Label for showing more items in measure/dimension list</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECOMMENDATION_TITLE_INITIAL" resname="RECOMMENDATION_TITLE_INITIAL" sap:sc="XFLD">
+        <source>Recommendations to start your search</source>
+        <note annotates="source" from="Developer">Initial chart suggestions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RECOMMENDATION_TITLE_SINGLE_MODEL" resname="RECOMMENDATION_TITLE_SINGLE_MODEL" sap:sc="XFLD">
+        <source>Recommendations for <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Text for recommendation title for a single model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RECOMMENDATION_TITLE_NON_INITIAL" resname="RECOMMENDATION_TITLE_NON_INITIAL" sap:sc="XFLD">
+        <source>Recommendations for a new search</source>
+        <note annotates="source" from="Developer">Chart recommendations after the user has searched in the past</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_REFRESH" resname="ERROR_REFRESH" sap:sc="XFLD">
+        <source>Try again</source>
+        <note annotates="source" from="Developer">Label for Error page refresh button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EMBED_MODE_HELP_CENTER_LINK" resname="EMBED_MODE_HELP_CENTER_LINK" sap:sc="XLNK">
+        <source>Help Center</source>
+        <note annotates="source" from="Developer">Link to open the "Help Center" feature</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COPY_QUESTION_MENU_ITEM_TEXT" resname="COPY_QUESTION_MENU_ITEM_TEXT" sap:sc="XMIT">
+        <source>Reuse Question</source>
+        <note annotates="source" from="Developer">Menu Item Text for copying a question via the Question Toolbar</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COPY_QUESTION_CLIPBOARD_TEXT" resname="COPY_QUESTION_CLIPBOARD_TEXT" sap:sc="XMIT">
+        <source>Copy</source>
+        <note annotates="source" from="Developer">Menu Item Text for copying a question to clipboard</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORY_N_UNINDEXED_MODELS" resname="STORY_N_UNINDEXED_MODELS" sap:sc="XTOL">
+        <source>Story contains <ph id="1">{0}</ph> models that have not been indexed.</source>
+        <note annotates="source" from="Developer">Tooltip for story item in model menu when there are no models in the story</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORY_NO_MODELS" resname="STORY_NO_MODELS" sap:sc="XTOL">
+        <source>Story does not contain any models</source>
+        <note annotates="source" from="Developer">Tooltip for story item in model menu when there are no models in the story</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COPY_TO_CANVAS_MESSAGE_SUCCESS" resname="COPY_TO_CANVAS_MESSAGE_SUCCESS" sap:sc="XMSG">
+        <source>Chart has been successfully copied to new Canvas page</source>
+        <note annotates="source" from="Developer">Message shown in a toast for copying visualization to a new Canvas Page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COPY_TO_CLIPBOARD_MESSAGE_SUCCESS" resname="COPY_TO_CLIPBOARD_MESSAGE_SUCCESS" sap:sc="XMSG">
+        <source>Chart has been successfully copied to clipboard</source>
+        <note annotates="source" from="Developer">Message shown in a toast for copying visualization to clipboard</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="COPY_TO_RESPONSIVE_MESSAGE_SUCCESS" resname="COPY_TO_RESPONSIVE_MESSAGE_SUCCESS" sap:sc="XMSG">
+        <source>Chart has been successfully copied to new Responsive page</source>
+        <note annotates="source" from="Developer">Message shown in a toast for copying visualization to a new Responsive Page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="COPY_TO_TARGET_PAGE_MESSAGE_SUCCESS" resname="COPY_TO_TARGET_PAGE_MESSAGE_SUCCESS" sap:sc="XMSG">
+        <source>Chart has been successfully copied to '<ph id="1">{0}</ph>'</source>
+        <note annotates="source" from="Developer">Message shown in a toast for copying visualization to a specific page with title {0}</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CSV_EXPORT_CANNOT_START" resname="CSV_EXPORT_CANNOT_START" sap:sc="XMSG">
+        <source>Chart cannot be exported. The data source may not be accessible.</source>
+        <note annotates="source" from="Developer">Message shown in message center when CSV export encounters unexpected error.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DELETE_ALL_QUERIES_MSG" resname="DELETE_ALL_QUERIES_MSG" sap:sc="XMSG">
+        <source>Do you really want to delete all of your search results?</source>
+        <note annotates="source" from="Developer">Message shown in confirmation dialog for deleting all queries</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_PAGE_TITLE" resname="ERROR_PAGE_TITLE" sap:sc="XMSG">
+        <source>Search to Insight is temporarily unavailable</source>
+        <note annotates="source" from="Developer">Heading displayed for the Search to Insight error page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FAILED_TO_ADD_DATASET_TITLE" resname="FAILED_TO_ADD_DATASET_TITLE" sap:sc="XMSG">
+        <source>Failed to Add Dataset</source>
+        <note annotates="source" from="Developer">Label for nlq search can't load dataset found</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FAILED_TO_ADD_DATASET_SUBTITLE" resname="FAILED_TO_ADD_DATASET_SUBTITLE" sap:sc="XMSG">
+        <source>Please either select a valid dataset or provide the correct password</source>
+        <note annotates="source" from="Developer">Label for nlq search can't load dataset description</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="INTERPRETATION_FOUND_IN_MODEL" resname="INTERPRETATION_FOUND_IN_MODEL" sap:sc="XMSG">
+        <source>Found in model: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Label to indicate which data model the interpretation was found in</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INTERPRETATION_FOUND_IN_OTHER_MODELS" resname="INTERPRETATION_FOUND_IN_OTHER_MODELS" sap:sc="XMSG">
+        <source>Also found results in other models:</source>
+        <note annotates="source" from="Developer">Label to indicate that interpretations were also found in other models</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INTERPRETATION_SHOWING_FOR" resname="INTERPRETATION_SHOWING_FOR" sap:sc="XMSG">
+        <source>Showing results for:</source>
+        <note annotates="source" from="Developer">Label to indicate which question the interpretations are being displayed for</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INTRO_IMAGE_TITLE" resname="INTRO_IMAGE_TITLE" sap:sc="XMSG">
+        <source>What do you want to know?</source>
+        <note annotates="source" from="Developer">Heading displayed for the Search to Insight feature</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_CONCURRENT_INDEXING_INFO" resname="LIVE_CONCURRENT_INDEXING_INFO" sap:sc="XMSG">
+        <source>Another model is currently being indexed. Please try again later.</source>
+        <note annotates="source" from="Developer">Message displayed when the user is trying to perform concurrent indexing on the same browser</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_DELETE_INDEX_CONFIRMATION" resname="LIVE_DELETE_INDEX_CONFIRMATION" sap:sc="XMSG">
+        <source>Are you sure you want to delete the index and exclude your model from Search to Insight?</source>
+        <note annotates="source" from="Developer">Label for warning message for deleting NLQ index</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_INDEXING_BROWSER_WARNING" resname="LIVE_INDEXING_BROWSER_WARNING" sap:sc="XMSG">
+        <source>Do not close or refresh your browser during indexing.</source>
+        <note annotates="source" from="Developer">Label for warning to not close or refresh browser during NLQ indexing</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_INDEXING_CONFIRMATION" resname="LIVE_INDEXING_CONFIRMATION" sap:sc="XMSG">
+        <source>Do you want to proceed?</source>
+        <note annotates="source" from="Developer">Label for confirmation to index model for NLQ</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIVE_INDEXING_DIMENSION_TIMEOUT" resname="LIVE_INDEXING_DIMENSION_TIMEOUT" sap:sc="XMSG">
+        <source>Due to a slow response, <ph id="1">{0}</ph> has not been indexed.</source>
+        <note annotates="source" from="Developer">Message displayed when a dimension is skipped because it is taking too long to be indexed. {0} is the name of the dimension.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIVE_INDEXING_MODEL_ESTIMATION" resname="LIVE_INDEXING_MODEL_ESTIMATION" sap:sc="XMSG">
+        <source>Estimated indexing time for this model: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Label for nlq indexing model estimation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_INDEXING_VARIABLE_INFO" resname="LIVE_INDEXING_VARIABLE_INFO" sap:sc="XMSG">
+        <source>Please note, all variables set on this model when indexed will apply to all users when searching this model using Search to Insight.</source>
+        <note annotates="source" from="Developer">Label for NLQ indexing model with variables info text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_INDEXED_MEMBERS_ONLY_INFO" resname="LIVE_INDEXED_MEMBERS_ONLY_INFO" sap:sc="XMSG">
+        <source>Please note, the variables set on this model have been set by your administrator to use for Search to Insight.</source>
+        <note annotates="source" from="Developer">Label for the info text inside the variable dialog for NLQ live models</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_NOTIFICATION_BATCHING_NOT_SUPPORTED" resname="LIVE_NOTIFICATION_BATCHING_NOT_SUPPORTED" sap:sc="XMSG">
+        <source>The live data source does not support query batching.</source>
+        <note annotates="source" from="Developer">Message to describe live system doesn't support batching</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIVE_NOTIFICATION_DELETE_INDEXING_FAIL" resname="LIVE_NOTIFICATION_DELETE_INDEXING_FAIL" sap:sc="XMSG">
+        <source>Unable to delete index for <ph id="1">{0}</ph> for Search to Insight.</source>
+        <note annotates="source" from="Developer">Message displayed inside a notification when deleting a data model index fails</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIVE_NOTIFICATION_DELETE_INDEXING_SUCCESS" resname="LIVE_NOTIFICATION_DELETE_INDEXING_SUCCESS" sap:sc="XMSG">
+        <source>Successfully deleted <ph id="1">{0}</ph> index for Search to Insight.</source>
+        <note annotates="source" from="Developer">Message displayed inside a notification when deleting a data model index finishes successfully</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIVE_NOTIFICATION_INDEXING_FINISHED_FAIL" resname="LIVE_NOTIFICATION_INDEXING_FINISHED_FAIL" sap:sc="XMSG">
+        <source>Unable to index <ph id="1">{0}</ph> for Search to Insight.</source>
+        <note annotates="source" from="Developer">Message displayed inside a notification when data model indexing fails</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIVE_NOTIFICATION_INDEXING_FINISHED_FAIL_SIZE" resname="LIVE_NOTIFICATION_INDEXING_FINISHED_FAIL_SIZE" sap:sc="XMSG">
+        <source>Unable to index <ph id="1">{0}</ph> for Search to Insight because the model index exceeds size limit. Try to limit the dimension members.</source>
+        <note annotates="source" from="Developer">Message displayed inside a notification when data model indexing fails due to file size limit</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIVE_NOTIFICATION_INDEXING_FINISHED_SUCCESS" resname="LIVE_NOTIFICATION_INDEXING_FINISHED_SUCCESS" sap:sc="XMSG">
+        <source>Indexing <ph id="1">{0}</ph> completed successfully for Search to Insight.</source>
+        <note annotates="source" from="Developer">Message displayed inside a notification when data model indexing finishes successfully</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIVE_NOTIFICATION_INDEXING_FINISHED_ERRORS" resname="LIVE_NOTIFICATION_INDEXING_FINISHED_ERRORS" sap:sc="XMSG">
+        <source>Indexing <ph id="1">{0}</ph> completed for Search to Insight with errors.</source>
+        <note annotates="source" from="Developer">Message displayed inside a notification when data model indexing finishes successfully with errors</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIVE_REMOTE_TIME_FILTERS_NOT_SUPPORTED" resname="LIVE_REMOTE_TIME_FILTERS_NOT_SUPPORTED" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> is not supported for model <ph id="2">{1}</ph> based on Live Data Connection <ph id="3">{2}</ph>.</source>
+        <note annotates="source" from="Developer">Message displayed inside the chart preview when the time filters for the remote data model are not supported.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_RESULT_TITLE" resname="NO_RESULT_TITLE" sap:sc="XMSG">
+        <source>No Results Found</source>
+        <note annotates="source" from="Developer">Label for nlq search no results found</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_RESULT_SUBTITLE" resname="NO_RESULT_SUBTITLE" sap:sc="XMSG">
+        <source>Please refine your search and try again</source>
+        <note annotates="source" from="Developer">Label for nlq search no results found description</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INDEX_NOT_READY_ERROR_PAGE_TITLE" resname="INDEX_NOT_READY_ERROR_PAGE_TITLE" sap:sc="XMSG">
+        <source>Indexing in progress</source>
+        <note annotates="source" from="Developer">Heading displayed for error page when index is not ready and user can't search</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="INDEX_EXCEED_MEMBER_LIMIT" resname="INDEX_EXCEED_MEMBER_LIMIT" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> has not been indexed because the number of members exceeds the maximum limit.</source>
+        <note annotates="source" from="Developer">Message displayed inside a notification when indexing a dimensione exceeds the member limit</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="VARIABLES_OPTION_NLQ" resname="VARIABLES_OPTION_NLQ" sap:sc="XMSG">
+        <source>Use Search To Insight Variables</source>
+        <note annotates="source" from="Developer">Label for Search to Insight variables radio button inside the variable dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_DESCRIBE_SUGGESTIONS" resname="NO_DESCRIBE_SUGGESTIONS" sap:sc="XMSG">
+        <source>Model suggestions will be available once you view a story.</source>
+        <note annotates="source" from="Developer">Message displayed for no suggested models in describe container.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DELETE_ALL_QUERIES_TITLE" resname="DELETE_ALL_QUERIES_TITLE" sap:sc="XTIT">
+        <source>Delete All Search Results</source>
+        <note annotates="source" from="Developer">Title displayed in dialog for deleting all queries</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DESCRIBE_DIMENSIONS" resname="DESCRIBE_DIMENSIONS" sap:sc="XTIT">
+        <source>Dimensions (<ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Title displayed for dimensions list in describe container. {0} is the number of dimensions.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DESCRIBE_MEASURES" resname="DESCRIBE_MEASURES" sap:sc="XTIT">
+        <source>Measures (<ph id="1">{0}</ph>)</source>
+        <note annotates="source" from="Developer">Title displayed for measures list in describe container. {0} is the number of measures.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DESCRIBE_SUGGESTIONS" resname="DESCRIBE_SUGGESTIONS" sap:sc="XTIT">
+        <source>Suggested models</source>
+        <note annotates="source" from="Developer">Title displayed for suggested models in describe container.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="DESCRIBE_TITLE" resname="DESCRIBE_TITLE" sap:sc="XTIT">
+        <source>Details for &lt;strong&gt;<ph id="1">{0}</ph>&lt;/strong&gt;</source>
+        <note annotates="source" from="Developer">Title displayed for the describe container. {0} is the model name. Please do not translate html tags &lt;strong&gt; and &lt;/strong&gt;.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_TITLE_DELETE_INDEX" resname="LIVE_TITLE_DELETE_INDEX" sap:sc="XTIT">
+        <source>Delete Index</source>
+        <note annotates="source" from="Developer">Title for indexing model data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_TITLE_INDEXING_MODEL" resname="LIVE_TITLE_INDEXING_MODEL" sap:sc="XTIT">
+        <source>Indexing Model Data</source>
+        <note annotates="source" from="Developer">Title for indexing model data</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIVE_TITLE_INFORMATION_DIALOG" resname="LIVE_TITLE_INFORMATION_DIALOG" sap:sc="XTIT">
+        <source>Information</source>
+        <note annotates="source" from="Developer">Title for information dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_MENU_TITLE" resname="MODEL_MENU_TITLE" sap:sc="XTIT">
+        <source>Search within:</source>
+        <note annotates="source" from="Developer">Title displayed for model context menu.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_YOUR_DATA" resname="SELECT_YOUR_DATA" sap:sc="XTIT">
+        <source>Select Your Data</source>
+        <note annotates="source" from="Developer">Title displayed for select your data dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="NO_RESULT_WARNING_ICON_TOOLTIP" resname="NO_RESULT_WARNING_ICON_TOOLTIP" sap:sc="XTOL">
+        <source>No results found in <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Tooltip displayed for the warning icon when there are no interpretation results found in {0}, which refers to the context of data model(s) selected (e.g. name of the current Story or data model).</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_RESULT_WARNING_ICON_TOOLTIP_ALL_MODELS" resname="NO_RESULT_WARNING_ICON_TOOLTIP_ALL_MODELS" sap:sc="XTOL">
+        <source>No results found in all available models</source>
+        <note annotates="source" from="Developer">Tooltip displayed for the warning icon when there are no interpretation results found in all available data models.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FAILED_TO_LOAD_DATASET_WARNING_ICON_TOOLTIP" resname="FAILED_TO_LOAD_DATASET_WARNING_ICON_TOOLTIP" sap:sc="XTOL">
+        <source>Failed to add the dataset</source>
+        <note annotates="source" from="Developer">Tooltip displayed for the warning icon when failed to load the dataset</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DIALOG_CHANGE_DATA_SOURCE_INDEX_DO_NOT_SHOW" resname="DIALOG_CHANGE_DATA_SOURCE_INDEX_DO_NOT_SHOW" sap:sc="XTXT">
+        <source>Do not show this message again.</source>
+        <note annotates="source" from="Developer">KEY=DIALOG_CHANGE_DATA_SOURCE_INDEX_DO_NOT_SHOW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CHANGE_DATA_SOURCE_INDEX_WARNING" resname="CHANGE_DATA_SOURCE_INDEX_WARNING" sap:sc="XTXT">
+        <source>If your model is indexed for Search to Insight, changing the data source will delete the index once the model is saved.</source>
+        <note annotates="source" from="Developer">KEY=CHANGE_DATA_SOURCE_INDEX_WARNING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="EMBED_MODE_HELP_TEXT" resname="EMBED_MODE_HELP_TEXT" sap:sc="XTXT">
+        <source>See more example questions like <ph id="1">{0}</ph> in the <ph id="2">{1}</ph>.</source>
+        <note annotates="source" from="Developer">Message displayed to inform the user of example questions.</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UTILITY_SEARCH_TO_INSIGHT" resname="UTILITY_SEARCH_TO_INSIGHT" sap:sc="XTXT">
+        <source>Search to Insight</source>
+        <note annotates="source" from="Developer">KEY=UTILITY_SEARCH_TO_INSIGHT Title for Search to Insight</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UTILITY_LIVE_DATA_MODEL_SEARCH_TO_INSIGHT_INDEXING_ENABLED" resname="UTILITY_LIVE_DATA_MODEL_SEARCH_TO_INSIGHT_INDEXING_ENABLED" sap:sc="XTXT">
+        <source>Select Refresh to update the index of your live model. Select Delete to delete the current index and exclude this model from Search to Insight.</source>
+        <note annotates="source" from="Developer">KEY=UTILITY_LIVE_DATA_MODEL_SEARCH_TO_INSIGHT_INDEXING_ENABLED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UTILITY_MODEL_SEARCH_TO_INSIGHT_START_INDEXING" resname="UTILITY_MODEL_SEARCH_TO_INSIGHT_START_INDEXING" sap:sc="XTXT">
+        <source>Create Index</source>
+        <note annotates="source" from="Developer">KEY=UTILITY_MODEL_SEARCH_TO_INSIGHT_START_INDEXING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UTILITY_MODEL_SEARCH_TO_INSIGHT_CURRENT_INDEX" resname="UTILITY_MODEL_SEARCH_TO_INSIGHT_CURRENT_INDEX" sap:sc="XTXT">
+        <source>Current index created on: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">KEY=UTILITY_MODEL_SEARCH_TO_INSIGHT_CUURENT_INDEX</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UTILITY_SEARCH_TO_INSIGHT_STATE_INITIAL" resname="UTILITY_SEARCH_TO_INSIGHT_STATE_INITIAL" sap:sc="XTXT">
+        <source>To index this model, the model has to be saved first.</source>
+        <note annotates="source" from="Developer">KEY=UTILITY_SEARCH_TO_INSIGHT_STATE_INITIAL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UTILITY_SEARCH_TO_INSIGHT_STATE_SAVED_NOT_INDEXED" maxwidth="250" resname="UTILITY_SEARCH_TO_INSIGHT_STATE_SAVED_NOT_INDEXED" sap:sc="XTXT" size-unit="char">
+        <source>Select Create Index to index your live model. Only metadata will be stored on SAP servers.</source>
+        <note annotates="source" from="Developer">KEY=UTILITY_SEARCH_TO_INSIGHT_STATE_SAVED_NOT_INDEXED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UTILITY_SEARCH_TO_INSIGHT_HANA_VERSION_NOT_SUPPORTED" resname="UTILITY_SEARCH_TO_INSIGHT_HANA_VERSION_NOT_SUPPORTED" sap:sc="XTXT">
+        <source>Search to Insight isn't available for this model because you're using an older version of SAP HANA. For more information, see the help topic <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">KEY=UTILITY_SEARCH_TO_INSIGHT_HANA_VERSION_NOT_SUPPORTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="UTILITY_SEARCH_TO_INSIGHT_NOT_SUPPORTED" resname="UTILITY_SEARCH_TO_INSIGHT_NOT_SUPPORTED" sap:sc="XTXT">
+        <source>Search to Insight does not support this model. For more information, see the help topic <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">KEY=UTILITY_SEARCH_TO_INSIGHT_NOT_SUPPORTED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UTILITY_SEARCH_TO_INSIGHT_MODEL_PREFERENCES" resname="UTILITY_SEARCH_TO_INSIGHT_MODEL_PREFERENCES" sap:sc="XTXT">
+        <source>Model Preferences</source>
+        <note annotates="source" from="Developer">KEY=UTILITY_SEARCH_TO_INSIGHT_MODEL_PREFERENCES</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UTILITY_MODEL_SEARCH_TO_INSIGHT_UNAVAILABLE" resname="UTILITY_MODEL_SEARCH_TO_INSIGHT_UNAVAILABLE" sap:sc="XTXT">
+        <source>Service is currently unavailable.</source>
+        <note annotates="source" from="Developer">KEY=UTILITY_MODEL_SEARCH_TO_INSIGHT_UNAVAILABLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INTRO_IMAGE_SUBTITLE" resname="INTRO_IMAGE_SUBTITLE" sap:sc="YDES">
+        <source>You can ask questions about your data, and immediately see your answers as visualizations. These visualizations can always be added to your story.</source>
+        <note annotates="source" from="Developer">Description for the Search to Insight feature</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_PAGE_MSG" resname="ERROR_PAGE_MSG" sap:sc="YDES">
+        <source>There is a temporary problem connecting to Search to Insight. Please try again later. Feel free to use other SAP Analytics Cloud features.</source>
+        <note annotates="source" from="Developer">Description for Search to Insight error info</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="INDEX_NOT_READY_ERROR_PAGE_MSG" resname="INDEX_NOT_READY_ERROR_PAGE_MSG" sap:sc="YDES">
+        <source>Models are currently being indexed to enable Search to Insight. Please try again later. Feel free to use other SAP Analytics Cloud features.</source>
+        <note annotates="source" from="Developer">Description for Search to Insight error info when index is not ready and user can't search</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_ENGLISH_ONLY_WARNING" resname="SEARCH_ENGLISH_ONLY_WARNING" sap:sc="YMSG">
+        <source>Search to Insight currently supports searches in English. Model, dimension, and measure names are detected in the original language.</source>
+        <note annotates="source" from="Developer">Long Message to notify the user that NLQ Search supports only queries in English</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FAILED_TO_GENERATE_CHART" resname="FAILED_TO_GENERATE_CHART" sap:sc="XTIT">
+        <source>Chart Generation Error</source>
+        <note annotates="source" from="Developer">Error when an unknown fatal occurred while generating chart</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FAILED_TO_GENERATE_CHART_MSG" resname="FAILED_TO_GENERATE_CHART_MSG" sap:sc="XMSG">
+        <source>Due to an internal issue, the chart can't be generated. To help diagnose the problem, please send the contents of your browser's error console to SAP Support.</source>
+        <note annotates="source" from="Developer">Message displayed to the user when</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECTED_GRANULARITY_NOT_AVAILABLE" resname="SELECTED_GRANULARITY_NOT_AVAILABLE" sap:sc="XMSG">
+        <source>The specified date/time granularity is not available</source>
+        <note annotates="source" from="Developer">Error when the user specified date/time granularity is not available in the model that's queried</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TIME_DIMENSION_NOT_AVAILABLE" resname="TIME_DIMENSION_NOT_AVAILABLE" sap:sc="XMSG">
+        <source>No time dimension is recognizable</source>
+        <note annotates="source" from="Developer">Error when no time/date dimension is available in the queried model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FISCAL_NOT_AVAILABLE" resname="FISCAL_NOT_AVAILABLE" sap:sc="XMSG">
+        <source>The model does not contain a Fiscal dimension</source>
+        <note annotates="source" from="Developer">Error when no Fiscal dimension is available in the queried model</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CALENDAR_NOT_AVAILABLE" resname="CALENDAR_NOT_AVAILABLE" sap:sc="XMSG">
+        <source>The model does not contain a Calendar dimension</source>
+        <note annotates="source" from="Developer">Error when no Calendar dimension is available in the queried model</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

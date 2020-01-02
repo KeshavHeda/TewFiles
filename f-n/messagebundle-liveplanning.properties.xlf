@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-liveplanning.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="e2671ef6202d42a3c31e6a9b2a9c445d" form="base64">H4sIAAAAAAAAAK1XTXOjOBC98ytUlcNeJi5nksxmt8oHYssONQQ8BmeTvVAyKFi1RLBITJKdmv++LQE2NtiT2LmZltXv9XfrBPkz0/Fs08fGCQqCJGI9mRMuEiJZyntFwaLB1fnl5Zf+4vz088Xj4vTsjF6eXn35/fG0f9Xvf+73wz/I+YVhnNz7lv8JXfb/RD6TCUXpI4oYSdIYPaY5CnMKKnmMCLqeDlGWEM7Vp6D/FpSHFP1DXwdwEkxtIIS/BcMZBlbByDJtdxKAbhsbvzhHA617Wuv2Kt0fws3DNh76lutsUuoWAxPPnHazQX7O4pjmwGpsjz6hC2BlCVQIGmk2CVnQBDGOFlmIEvadrvigr/ihzQMEwa07wnaby+pI8aEJDSUiHOEXJrS5t2lEk4+koWIDP751M6lPG2TavgY613N/kwqnLxItCilTrggJfRnSs45hNyEH3/ttIkoKBBxQeZTlAb63PN9yJqWDPaNb3EgEGzShYcp5Rf5472/7u+nhriI4EGmdXatkOoa71lH6yWj83p+iq/rVKiwn8G8sLzCnU9samiq+yM20VzULmUKSZCQnkqInpQFx8kSF0XVvgCyO5JIJZHKSvEoWIjPLEhbqDrgT2vPd2cO7QMsbazhPpvlrS79p24Hr3+BZnUBbECRJlPYEFLf+OkAmnKZySfPScaIOkVKvtN9Z+K8qiG+M2POSQsUt02f1BaiitE2ADRCns36/slUucwp/SyKjgTFAd4zqmz/6P1XT/XH2cx+zVf5+GLl2L98i2iiZDq6tKhKtgFWl1xUzxb5qVqCijEtFEMwhVfsyujSsiqFxq9frAfqtNwHkWzCWxLT0QMHJAoYaZEeSkgh8JKQyYA1VAc0d89rGwQz7Mwvf4TXWfFNBebEHg+oVkZiAAlgHaN47sOABbTIB0xzzFhvND0CuZiFyoFSOVD/C3nBmTVVRGx2yBtiIijBnWVnfD5YzhrUgTRPJMgRRqwYNpJBEQpJcCkRfaFjokIJbO4YWkpVmxoHwkzrS19f3oN55KlGWCsGUq+EwooLFgMOe9D5CskyoBafeb2oToFcpM6yJo+MFZjykBQoJ/02ivKh6yTOLYiq3tO7yp6xs3elR7PgAvBG2tkjPGEoEBT1ZIYHH2g18TzTfia4iaLRF+9CjZngPSqm6KUDPxlPP2PzsGq7QzGkmPgQtsF1zBAuE0S0GdBtqVF1up6HYx0LqGg/TpHjie6pJt4gbbI7A0wrZaElUcwKgD8RRpjpqaRrPnWFZwHuPmyEYFzzcF+oD6JiTySywoUPaxg65GrVxnNNYLwnIpt93r0OHEhhbNmR9B4PyACiMWSL1O+JXG/OqMhr78qqaGttyhwxg3K/Hdubmg6lLuO+59MYOHbFyyD6++YFZE8Ejyzd2HQAzDKoPolZ7/b2EIJo+PFh817V9a9pJbfMve969m9sCeIfDClnIZZqz/8rchaFfjim6foPVcPgeDwPH9QNz7t+4M+tvPKrmD8mpHmi1rnI53VakVqnulUXdVZxV0kBtrB5F5TIJE63cm6o86/TfukEqhspLq31Gr5h6j6vmLtkN1jP+BzZExnoFEQAA</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:58Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BPC_PLANSEQ_CREATE_DIALOG_TITLE" maxwidth="50" resname="BPC_PLANSEQ_CREATE_DIALOG_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>BPC Planning Sequence</source>
+        <note annotates="source" from="Developer">Title of dialog for creating a BPC planning sequence key=BPC_PLANSEQ_CREATE_DIALOG_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECTION_DIALOG_TITLE" maxwidth="50" resname="SELECTION_DIALOG_TITLE" sap:sc="XTIT" size-unit="char">
+        <source>SAP BPC Planning Sequence Trigger</source>
+        <note annotates="source" from="Developer">Title of dialog for creating a BPC planning sequence key=SELECTION_DIALOG_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECTION_DIALOG_SEL_MODEL" maxwidth="40" resname="SELECTION_DIALOG_SEL_MODEL" sap:sc="XFLD" size-unit="char">
+        <source>Select an Existing Model</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=SELECTION_DIALOG_SEL_MODEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECTION_DIALOG_SEL_PLAN_SEQ" maxwidth="40" resname="SELECTION_DIALOG_SEL_PLAN_SEQ" sap:sc="XFLD" size-unit="char">
+        <source>Select a planning sequence</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=SELECTION_DIALOG_SEL_PLAN_SEQ</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECTION_DIALOG_NEXT" resname="SELECTION_DIALOG_NEXT" sap:sc="XBUT">
+        <source>Next</source>
+        <note annotates="source" from="Developer">Is used for next button in selection dialog  KEY=SELECTION_DIALOG_NEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_EXISTING_MODELS" maxwidth="40" resname="SELECT_EXISTING_MODELS" sap:sc="XFLD" size-unit="char">
+        <source>SAP BPC Live Connection Model</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=SELECT_EXISTING_MODELS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_PLAN_SEQ" maxwidth="40" resname="SELECT_PLAN_SEQ" sap:sc="XFLD" size-unit="char">
+        <source>Planning Sequence</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=SELECT_PLAN_SEQ</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEL_MODEL" maxwidth="40" resname="SEL_MODEL" sap:sc="XFLD" size-unit="char">
+        <source>Model</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=SEL_MODEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="MODEL_EXIST" maxwidth="40" resname="MODEL_EXIST" sap:sc="XFLD" size-unit="char">
+        <source>Select an Existing Model</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=MODEL_EXIST</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IN_THIS_APPLICATION" maxwidth="50" resname="IN_THIS_APPLICATION" sap:sc="XTIT" size-unit="char">
+        <source>In this Analytic Application</source>
+        <note annotates="source" from="Developer">KEY=IN_THIS_APPLICATION Option used to separate model names</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="IN_THIS_STORY" maxwidth="50" resname="IN_THIS_STORY" sap:sc="XTIT" size-unit="char">
+        <source>In this Story</source>
+        <note annotates="source" from="Developer">KEY=IN_THIS_STORY Option used to separate model names</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ALL_OTHER_MODELS" maxwidth="50" resname="ALL_OTHER_MODELS" sap:sc="XTIT" size-unit="char">
+        <source>All other Models</source>
+        <note annotates="source" from="Developer">KEY=ALL_OTHER_MODELS Option used to all modles</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VIEW_MODEL" maxwidth="50" resname="VIEW_MODEL" sap:sc="XFLD" size-unit="char">
+        <source>Viewing <ph id="1">{0}</ph> of <ph id="2">{1}</ph> Models</source>
+        <note annotates="source" from="Developer">KEY=VIEW_MODEL Is used for label in bpc liveplanning  when showing less models than 100 model threshold</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="VIEW_PLAN_SEQ" maxwidth="50" resname="VIEW_PLAN_SEQ" sap:sc="XFLD" size-unit="char">
+        <source>Viewing <ph id="1">{0}</ph> of <ph id="2">{1}</ph> Planning Sequences</source>
+        <note annotates="source" from="Developer">KEY=VIEW_PLAN_SEQ Is used for label in bpc liveplanning  when showing less models than 100 planning sequence threshold</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SELECT_OTHER_MODELS" maxwidth="50" resname="SELECT_OTHER_MODELS" sap:sc="XTIT" size-unit="char">
+        <source>Select other model...</source>
+        <note annotates="source" from="Developer">KEY=SELECT_OTHER_MODELS Option for selecting other models in a dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UNABLE_RETRIEVE_MODELS" resname="UNABLE_RETRIEVE_MODELS" sap:sc="XMSG">
+        <source>Unable to load models. Try again later.</source>
+        <note annotates="source" from="Developer">Message when unable to load list of models in dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRIGGER_NAME" maxwidth="40" resname="TRIGGER_NAME" sap:sc="XFLD" size-unit="char">
+        <source>Trigger Name</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=TRIGGER_NAME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRIGGER_DESCRIPTION" maxwidth="40" resname="TRIGGER_DESCRIPTION" sap:sc="XFLD" size-unit="char">
+        <source>Trigger Description</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=TRIGGER_DESCRIPTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BPCPLANSEQ_TRIGGER_APP_DESIGN_MODE" resname="BPCPLANSEQ_TRIGGER_APP_DESIGN_MODE" sap:sc="YINF">
+        <source>You can't run this widget at design time</source>
+        <note annotates="source" from="Developer">Tooltip on button that starts execution of a planning sequence trigger informing that execution is not possible at design time of apps</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTER_TRIGGER_NAME" maxwidth="40" resname="ENTER_TRIGGER_NAME" sap:sc="XFLD" size-unit="char">
+        <source>Please input the trigger name</source>
+        <note annotates="source" from="Developer">Is used for tooltip in bpc liveplanning  KEY=ENTER_TRIGGER_NAME</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ENTER_TRIGGER_DESC" maxwidth="40" resname="ENTER_TRIGGER_DESC" sap:sc="XFLD" size-unit="char">
+        <source>Please input the trigger description</source>
+        <note annotates="source" from="Developer">Is used for tooltip in bpc liveplanning  KEY=ENTER_TRIGGER_DESC</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLAN_SEQ_STEPS" maxwidth="40" resname="PLAN_SEQ_STEPS" sap:sc="XFLD" size-unit="char">
+        <source>Planning Sequence Steps</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=PLAN_SEQ_STEPS</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PLAN_SEQ_STEPS_LOADING" maxwidth="40" resname="PLAN_SEQ_STEPS_LOADING" sap:sc="XFLD" size-unit="char">
+        <source>Loading planning sequence steps</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=PLAN_SEQ_STEPS_LOADING</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_HEADER_STEP" maxwidth="40" resname="TABLE_HEADER_STEP" sap:sc="XFLD" size-unit="char">
+        <source>Step</source>
+        <note annotates="source" from="Developer">Is used for table column in bpc liveplanning  KEY=TABLE_HEADER_STEP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_HEADER_PLANNING_FUNCTION" maxwidth="40" resname="TABLE_HEADER_PLANNING_FUNCTION" sap:sc="XFLD" size-unit="char">
+        <source>Planning Function</source>
+        <note annotates="source" from="Developer">Is used for table column in bpc liveplanning  KEY=TABLE_HEADER_PLANNING_FUNCTION</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_HEADER_AGGR_LEVEL" maxwidth="40" resname="TABLE_HEADER_AGGR_LEVEL" sap:sc="XFLD" size-unit="char">
+        <source>Aggregation Level</source>
+        <note annotates="source" from="Developer">Is used for table column in bpc liveplanning  KEY=TABLE_HEADER_AGGR_LEVEL</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TABLE_HEADER_AGGR_FILTER" maxwidth="40" resname="TABLE_HEADER_AGGR_FILTER" sap:sc="XFLD" size-unit="char">
+        <source>Filter</source>
+        <note annotates="source" from="Developer">Is used for table column in bpc liveplanning  KEY=TABLE_HEADER_AGGR_FILTER</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRIGGER_DIALOG_NEXT" resname="TRIGGER_DIALOG_NEXT" sap:sc="XBUT">
+        <source>OK</source>
+        <note annotates="source" from="Developer">Is used for next button in trigger dialog  KEY=TRIGGER_DIALOG_NEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="TRIGGER_DIALOG_TITLE" maxwidth="40" resname="TRIGGER_DIALOG_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>SAP BPC Planning Sequence</source>
+        <note annotates="source" from="Developer">Is used for label in bpc liveplanning  KEY=TRIGGER_DIALOG_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BPC_PLANSEQ_TRIGGER_EDIT" resname="BPC_PLANSEQ_TRIGGER_EDIT" sap:sc="YINF">
+        <source>Edit BPC Planning Sequence</source>
+        <note annotates="source" from="Developer">Tooltip on button that starts editing of a BPC planning sequence key=BPC_PLANSEQ_TRIGGER_EDIT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="BPC_PLANSEQ_TRIGGER_BUTTON_TOOLTIP" resname="BPC_PLANSEQ_TRIGGER_BUTTON_TOOLTIP" sap:sc="YINF">
+        <source>BPC Planning Sequence</source>
+        <note annotates="source" from="Developer">Tooltip on button that trigger a BPC planning sequence key=BPC_PLANSEQ_TRIGGER_BUTTON_TOOLTIP</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PLANSEQ_EXEC_NOT_AUTHORIZED" resname="PLANSEQ_EXEC_NOT_AUTHORIZED" sap:sc="XMSG">
+        <source>You are not authorized to execute sequence <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Message of no authorization to execute sequence</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PLAN_SEQ_NOT_BPC_MODELS" resname="PLAN_SEQ_NOT_BPC_MODELS" sap:sc="XMSG">
+        <source>Model <ph id="1">{0}</ph> is not a BPC live connection model.</source>
+        <note annotates="source" from="Developer">Message when not BPC live connection model is selected for BPC planning sequence</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,2095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-presentation.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="e2aab6e4db69a916abcb966af7780036" form="base64">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</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:58Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHARE_MENU_ITEM" resname="SHARE_MENU_ITEM" sap:sc="XMIT">
+        <source>Share</source>
+        <note annotates="source" from="Developer">Menu item for sharing a boardroom agenda</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHARE_MENU_SHARE" resname="SHARE_MENU_SHARE" sap:sc="XMIT">
+        <source>Share...</source>
+        <note annotates="source" from="Developer">Menu item for sharing a boardroom agenda</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SHARE_MENU_SHARE_SETTINGS" resname="SHARE_MENU_SHARE_SETTINGS" sap:sc="XMIT">
+        <source>Sharing Settings...</source>
+        <note annotates="source" from="Developer">Menu item for opening the sharing settings</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PUBLISH_TO_CATALOG" resname="PUBLISH_TO_CATALOG" sap:sc="XMIT">
+        <source>Publish to Catalog...</source>
+        <note annotates="source" from="Developer">Menu item for opening publish to catalog dialog</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_GROUP_VIEW" resname="PRESENTATION_GROUP_VIEW" sap:sc="XMIT">
+        <source>View</source>
+        <note annotates="source" from="Developer">Menu item of Toolbar in presentation Builder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_PANEL" resname="PRESENTATION_DESIGNER_PANEL" sap:sc="XMIT">
+        <source>Designer</source>
+        <note annotates="source" from="Developer">Menu item of Toolbar in presentation Builder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LIBRARY_PANEL" resname="PRESENTATION_LIBRARY_PANEL" sap:sc="XMIT">
+        <source>Library</source>
+        <note annotates="source" from="Developer">Menu Item of Toolbar in presentation Builder</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_GENERIC_OK_BUTTON" resname="PRESENTATION_GENERIC_OK_BUTTON" sap:sc="XBUT">
+        <source>Ok</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_GENERIC_CANCEL_BUTTON" resname="PRESENTATION_GENERIC_CANCEL_BUTTON" sap:sc="XBUT">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LOADING" resname="PRESENTATION_LOADING" sap:sc="XMSG">
+        <source>Loading presentation...</source>
+        <note annotates="source" from="Developer">Busy dialog message for loading presentation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER" resname="PRESENTATION_DESIGNER_BUILDER" sap:sc="XFLD">
+        <source>Build</source>
+        <note annotates="source" from="Developer">Designer Panel Elements</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_STYLING" resname="PRESENTATION_DESIGNER_STYLING" sap:sc="XFLD">
+        <source>Style</source>
+        <note annotates="source" from="Developer">Designer Panel Elements</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_PREVIEW" resname="PRESENTATION_DESIGNER_PREVIEW" sap:sc="XFLD">
+        <source>Theme Preview</source>
+        <note annotates="source" from="Developer">Designer Panel Elements</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_OPEN_THEME_PREVIEW" resname="PRESENTATION_DESIGNER_OPEN_THEME_PREVIEW" sap:sc="XTOL">
+        <source>Open Theme Preview</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_CLOSE_THEME_PREVIEW" resname="PRESENTATION_DESIGNER_CLOSE_THEME_PREVIEW" sap:sc="XTOL">
+        <source>Close Theme Preview</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_THEME_SECTION_HEADER" resname="PRESENTATION_THEME_SECTION_HEADER" sap:sc="XFLD">
+        <source>Presentation Theme</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_THEME" resname="PRESENTATION_THEME" sap:sc="XFLD">
+        <source>Theme</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_STORY_STYLING" resname="PRESENTATION_STORY_STYLING" sap:sc="XFLD">
+        <source>Story Styling</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_STYLING_SELECT_STORY" resname="PRESENTATION_STYLING_SELECT_STORY" sap:sc="XFLD">
+        <source>Import Styling</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_STYLING_CUSTOM_LABEL" resname="PRESENTATION_STYLING_CUSTOM_LABEL" sap:sc="XFLD">
+        <source>Custom Styling</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_STYLING_CREATE_STYLING" resname="PRESENTATION_STYLING_CREATE_STYLING" sap:sc="XFLD">
+        <source>Create Custom</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_STORY_STYLING_MSG" resname="PRESENTATION_STORY_STYLING_MSG" sap:sc="XFLD">
+        <source>Import a story or create a custom styling to use as presentation override for all pages</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_STORY_PREF_MOBILE" resname="PRESENTATION_STORY_PREF_MOBILE" sap:sc="XFLD">
+        <source>Presentation Story styling is currently not supported on mobile.</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_STORY_SELECT_DIALOG" resname="PRESENTATION_STORY_SELECT_DIALOG" sap:sc="XFLD">
+        <source>Select a story as styling base</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_STORY_SELECT_DIALOG_SELECT" resname="PRESENTATION_STORY_SELECT_DIALOG_SELECT" sap:sc="XFLD">
+        <source>Select</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_STORY_STYLING_BACKGROUND_WITH_IMAGE_UNSUPPORTED" resname="PRESENTATION_STORY_STYLING_BACKGROUND_WITH_IMAGE_UNSUPPORTED" sap:sc="XFLD">
+        <source>Background images or gradients from the story weren't imported. To set a background color, edit the imported Styling.</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_STORY_STYLING_NO_IMPORT" resname="PRESENTATION_STORY_STYLING_NO_IMPORT" sap:sc="XFLD">
+        <source>The story you tried to import has no story preferences.</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_FOOTER_SETTINGS" resname="PRESENTATION_FOOTER_SETTINGS" sap:sc="XFLD">
+        <source>Footer</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_FOOTER_SETTINGS_UPLOAD_IMAGE_LBL" resname="PRESENTATION_FOOTER_SETTINGS_UPLOAD_IMAGE_LBL" sap:sc="XFLD">
+        <source>Upload Footer Image</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_TABS_CLOSE_UNSAVED_ENTITY" resname="PRESENTATION_TABS_CLOSE_UNSAVED_ENTITY" sap:sc="XFLD">
+        <source>You haven't saved your changes to '<ph id="1">{0}</ph>'. Are you sure you want to remove the tab?</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TABS_REMOVE_TAB" resname="PRESENTATION_TABS_REMOVE_TAB" sap:sc="XFLD">
+        <source>Remove Tab</source>
+        <note annotates="source" from="Developer">Label '</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TABS_LIMIT_REACHED" resname="PRESENTATION_TABS_LIMIT_REACHED" sap:sc="XFLD">
+        <source>You have reached the limit of 5 active tabs. Please close a tab before opening a new one.</source>
+        <note annotates="source" from="Developer">Label</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SAVE" resname="PRESENTATION_SAVE" sap:sc="XFLD">
+        <source>Save</source>
+        <note annotates="source" from="Developer">Tooltip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS" resname="PRESENTATION_SETTINGS" sap:sc="XFLD">
+        <source>Presentation Settings</source>
+        <note annotates="source" from="Developer">Tooltip</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_PRESENT" resname="PRESENTATION_PRESENT" sap:sc="XFLD">
+        <source>Start Presentation</source>
+        <note annotates="source" from="Developer">Tooltip, 'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CREATE_PRESENTATION_V2" resname="CREATE_PRESENTATION_V2" sap:sc="XFLD">
+        <source>Create a Digital Boardroom Presentation</source>
+        <note annotates="source" from="Developer">Tooltip, 'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_SOURCE_STORY" resname="PRESENTATION_DESIGNER_BUILDER_SOURCE_STORY" sap:sc="XFLD">
+        <source>Source Story</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_OPEN_SOURCE_STORY" resname="PRESENTATION_DESIGNER_BUILDER_OPEN_SOURCE_STORY" sap:sc="XTOL">
+        <source>Open Story</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_PAGE_TITLE" resname="PRESENTATION_DESIGNER_BUILDER_PAGE_TITLE" sap:sc="XFLD">
+        <source>Page Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_SELECTED_PAGE" resname="PRESENTATION_DESIGNER_BUILDER_SELECTED_PAGE" sap:sc="XFLD">
+        <source>Selected Page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_SELECTED_TOPIC" resname="PRESENTATION_DESIGNER_BUILDER_SELECTED_TOPIC" sap:sc="XFLD">
+        <source>Selected Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_TOPIC_STRUCTURE" resname="PRESENTATION_DESIGNER_BUILDER_TOPIC_STRUCTURE" sap:sc="XFLD">
+        <source>Topic Structure</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_CHILD_TOPICS" resname="PRESENTATION_DESIGNER_BUILDER_CHILD_TOPICS" sap:sc="XFLD">
+        <source>Child Topics</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_NO_CHILD_TOPICS" resname="PRESENTATION_DESIGNER_BUILDER_NO_CHILD_TOPICS" sap:sc="XFLD">
+        <source>No child topics available</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_CHILD_TOPICS_INFO" resname="PRESENTATION_DESIGNER_BUILDER_CHILD_TOPICS_INFO" sap:sc="XTOL">
+        <source>Reordering child topics will update the topic order in the hierarchy tree</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_SELECTED_AGENDA_ITEM" resname="PRESENTATION_DESIGNER_BUILDER_SELECTED_AGENDA_ITEM" sap:sc="XFLD">
+        <source>Selected Agenda Item</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_PRESENTATION_PROPERTIES" resname="PRESENTATION_DESIGNER_BUILDER_PRESENTATION_PROPERTIES" sap:sc="XFLD">
+        <source>Presentation Properties</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_PRESENTATION_TITLE" resname="PRESENTATION_DESIGNER_BUILDER_PRESENTATION_TITLE" sap:sc="XFLD">
+        <source>Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_PRESENTATION_DESCRIPTION" resname="PRESENTATION_DESIGNER_BUILDER_PRESENTATION_DESCRIPTION" sap:sc="XFLD">
+        <source>Description</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_PRESENTATION_LOCATION" resname="PRESENTATION_DESIGNER_BUILDER_PRESENTATION_LOCATION" sap:sc="XFLD">
+        <source>Location</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DESIGNER_BUILDER_PRESENTATION_DATE" resname="PRESENTATION_DESIGNER_BUILDER_PRESENTATION_DATE" sap:sc="XFLD">
+        <source>Date</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SAVE_AS" resname="PRESENTATION_SAVE_AS" sap:sc="XMIT">
+        <source>Save As</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_FILE_UPLOAD_REMOVE" resname="PRESENTATION_FILE_UPLOAD_REMOVE" sap:sc="XBUT">
+        <source>Remove</source>
+        <note annotates="source" from="Developer">Button text for removal of uploaded file</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TITLE" resname="PRESENTATION_TITLE" sap:sc="XFLD">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TYPE" resname="PRESENTATION_TYPE" sap:sc="XFLD">
+        <source>Presentation Type</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_BACKGROUND" resname="PRESENTATION_BACKGROUND" sap:sc="XFLD">
+        <source>Background</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_BLACK_THEME" resname="PRESENTATION_BLACK_THEME" sap:sc="XFLD">
+        <source>SAP Brand</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LIGHT_THEME" resname="PRESENTATION_LIGHT_THEME" sap:sc="XFLD">
+        <source>Fiori Belize Light</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DARK_THEME" resname="PRESENTATION_DARK_THEME" sap:sc="XFLD">
+        <source>Digital Boardroom Dark</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_THEME" resname="PRESENTATION_CUSTOM_THEME" sap:sc="XFLD">
+        <source>Custom Theme</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_BACKGROUND_SOLID" resname="PRESENTATION_BACKGROUND_SOLID" sap:sc="XFLD">
+        <source>Solid Color</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_BACKGROUND_IMAGE" resname="PRESENTATION_BACKGROUND_IMAGE" sap:sc="XFLD">
+        <source>Image</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_IMAGE_MODE" resname="PRESENTATION_IMAGE_MODE" sap:sc="XFLD">
+        <source>Display Mode</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_IMAGE_MODE_COVER" resname="PRESENTATION_IMAGE_MODE_COVER" sap:sc="XFLD">
+        <source>Cover</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_IMAGE_MODE_STRETCH" resname="PRESENTATION_IMAGE_MODE_STRETCH" sap:sc="XFLD">
+        <source>Stretch</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_IMAGE_MODE_REPEAT" resname="PRESENTATION_IMAGE_MODE_REPEAT" sap:sc="XFLD">
+        <source>Repeat</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_FONT_COLOR" resname="PRESENTATION_CUSTOM_FONT_COLOR" sap:sc="XFLD">
+        <source>Font Color</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_PRIMARY_COLOR" resname="PRESENTATION_CUSTOM_PRIMARY_COLOR" sap:sc="XFLD">
+        <source>Primary Color</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_SECONDARY_COLOR" resname="PRESENTATION_CUSTOM_SECONDARY_COLOR" sap:sc="XFLD">
+        <source>Secondary Color</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_ACTION_BAR_BACKGROUND" resname="PRESENTATION_CUSTOM_ACTION_BAR_BACKGROUND" sap:sc="XFLD">
+        <source>Background</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_ACTION_BAR_ICONS" resname="PRESENTATION_CUSTOM_ACTION_BAR_ICONS" sap:sc="XFLD">
+        <source>Icons &amp; Labels</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_CONTROLS_BACKGROUND" resname="PRESENTATION_CUSTOM_CONTROLS_BACKGROUND" sap:sc="XFLD">
+        <source>Background</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_CONTROLS_PRIMARY_FONT" resname="PRESENTATION_CUSTOM_CONTROLS_PRIMARY_FONT" sap:sc="XFLD">
+        <source>Primary Font</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_CONTROLS_SECONDARY_FONT" resname="PRESENTATION_CUSTOM_CONTROLS_SECONDARY_FONT" sap:sc="XFLD">
+        <source>Secondary Font</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_CONTROLS_PRIMARY_HIGHLIGHT" resname="PRESENTATION_CUSTOM_CONTROLS_PRIMARY_HIGHLIGHT" sap:sc="XFLD">
+        <source>Primary Highlight</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_CONTROLS_SECONDARY_HIGHLIGHT" resname="PRESENTATION_CUSTOM_CONTROLS_SECONDARY_HIGHLIGHT" sap:sc="XFLD">
+        <source>Secondary Highlight</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_DIALOGS_LIGHT" resname="PRESENTATION_CUSTOM_DIALOGS_LIGHT" sap:sc="XFLD">
+        <source>Light</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_DIALOGS_DARK" resname="PRESENTATION_CUSTOM_DIALOGS_DARK" sap:sc="XFLD">
+        <source>Dark</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_PRESENTATION_LAYER" resname="PRESENTATION_CUSTOM_PRESENTATION_LAYER" sap:sc="XFLD">
+        <source>Presentation Layer</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_ACTION_BAR" resname="PRESENTATION_CUSTOM_ACTION_BAR" sap:sc="XFLD">
+        <source>Action Bar</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_CONTROLS" resname="PRESENTATION_CUSTOM_CONTROLS" sap:sc="XFLD">
+        <source>Controls</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CUSTOM_DIALOGS" resname="PRESENTATION_CUSTOM_DIALOGS" sap:sc="XFLD">
+        <source>Dialogs &amp; Overlay Theme</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_SAVE_SUCCESS" resname="PRESENTATION_SAVE_SUCCESS" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> saved successfully</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_IMAGE_UPLOAD_FILE_TYPE" resname="PRESENTATION_IMAGE_UPLOAD_FILE_TYPE" sap:sc="XMSG">
+        <source>The file type "<ph id="1">{0}</ph>" is not permitted. Only images of type "<ph id="2">{1}</ph>" can be uploaded.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_IMAGE_UPLOAD_FILE_SIZE" resname="PRESENTATION_IMAGE_UPLOAD_FILE_SIZE" sap:sc="XMSG">
+        <source>The file size <ph id="1">{0}</ph> MB is too large. Only images with a max. file size of <ph id="2">{1}</ph> MB can be uploaded.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_PAGE_NAV" maxwidth="15" resname="CONTEXTMENU_PAGE_NAV" sap:sc="XFLD" size-unit="char">
+        <source>Page jump off</source>
+        <note annotates="source" from="Developer">Label for a page jump off target that has no title set</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_WIDGET_NAV" maxwidth="15" resname="CONTEXTMENU_WIDGET_NAV" sap:sc="XFLD" size-unit="char">
+        <source>Tile jump off</source>
+        <note annotates="source" from="Developer">Label for a tile jump off target that has no title set</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_CLOSE_DASHBOARD" maxwidth="15" resname="CONTEXTMENU_CLOSE_DASHBOARD" sap:sc="XFLD" size-unit="char">
+        <source>Close</source>
+        <note annotates="source" from="Developer">Label for the item that closes the presentation</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_CLOSE_OVERLAY" maxwidth="15" resname="CONTEXTMENU_CLOSE_OVERLAY" sap:sc="XFLD" size-unit="char">
+        <source>Close Overlay</source>
+        <note annotates="source" from="Developer">Label for the item that closes an overlay</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_RESIZE_OVERLAY_SMALL" maxwidth="15" resname="CONTEXTMENU_RESIZE_OVERLAY_SMALL" sap:sc="XFLD" size-unit="char">
+        <source>Small Size</source>
+        <note annotates="source" from="Developer">Label for the item that resizes the overlay to the small size</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_RESIZE_OVERLAY_DEFAULT" maxwidth="15" resname="CONTEXTMENU_RESIZE_OVERLAY_DEFAULT" sap:sc="XFLD" size-unit="char">
+        <source>Default Size</source>
+        <note annotates="source" from="Developer">Label for the item that resizes the overlay to the default size</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_RESIZE_OVERLAY_LARGE" maxwidth="15" resname="CONTEXTMENU_RESIZE_OVERLAY_LARGE" sap:sc="XFLD" size-unit="char">
+        <source>Large Size</source>
+        <note annotates="source" from="Developer">Label for the item that resizes the overlay to the large size</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_QUICK_ACTIONS" maxwidth="15" resname="CONTEXTMENU_QUICK_ACTIONS" sap:sc="XFLD" size-unit="char">
+        <source>Chart Actions</source>
+        <note annotates="source" from="Developer">Label for the parent item containing chart actions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_QA_SORTING" maxwidth="15" resname="CONTEXTMENU_QA_SORTING" sap:sc="XFLD" size-unit="char">
+        <source>Sort</source>
+        <note annotates="source" from="Developer">Label for the item that triggers the 'sort' chart action</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_QA_RANKING" maxwidth="15" resname="CONTEXTMENU_QA_RANKING" sap:sc="XFLD" size-unit="char">
+        <source>Rank</source>
+        <note annotates="source" from="Developer">Label for the item that triggers the 'rank' chart action</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_QA_NORMALIZATION" maxwidth="15" resname="CONTEXTMENU_QA_NORMALIZATION" sap:sc="XFLD" size-unit="char">
+        <source>Normalize</source>
+        <note annotates="source" from="Developer">Label for the item that triggers the 'normalize' chart action</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_AGENDA" maxwidth="15" resname="CONTEXTMENU_AGENDA" sap:sc="XFLD" size-unit="char">
+        <source>Agenda</source>
+        <note annotates="source" from="Developer">Label for the item containing sub presentation items in an agenda</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_DASHBOARD" maxwidth="15" resname="CONTEXTMENU_DASHBOARD" sap:sc="XFLD" size-unit="char">
+        <source>Dashboard</source>
+        <note annotates="source" from="Developer">Label for the item containing sub presentation items in a dashboard</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_SEARCH" maxwidth="15" resname="CONTEXTMENU_SEARCH" sap:sc="XFLD" size-unit="char">
+        <source>Search</source>
+        <note annotates="source" from="Developer">Label for the item that opens the search overlay</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_FILTER" maxwidth="15" resname="CONTEXTMENU_FILTER" sap:sc="XFLD" size-unit="char">
+        <source>Filter</source>
+        <note annotates="source" from="Developer">Label for the item that opens the filter overlay/panel</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_JUMP_OFF" maxwidth="15" resname="CONTEXTMENU_JUMP_OFF" sap:sc="XFLD" size-unit="char">
+        <source>Jump to...</source>
+        <note annotates="source" from="Developer">Label for the parent item containing jump off targets</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_JUMP_OFF_BACK" maxwidth="15" resname="CONTEXTMENU_JUMP_OFF_BACK" sap:sc="XFLD" size-unit="char">
+        <source>Back</source>
+        <note annotates="source" from="Developer">Label for the item that navigates back one step in the navigation stack</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_EXPLORER" maxwidth="15" resname="CONTEXTMENU_EXPLORER" sap:sc="XFLD" size-unit="char">
+        <source>Explorer</source>
+        <note annotates="source" from="Developer">Label for the item that opens the explorer overlay</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_VDT" maxwidth="15" resname="CONTEXTMENU_VDT" sap:sc="XFLD" size-unit="char">
+        <source>VDT</source>
+        <note annotates="source" from="Developer">Label for the item that opens the VDT overlay</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_PREFERENCES" maxwidth="15" resname="CONTEXTMENU_PREFERENCES" sap:sc="XFLD" size-unit="char">
+        <source>Preferences</source>
+        <note annotates="source" from="Developer">Label for the parent item containing preferences</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_PREF_FULLSCREEN" maxwidth="15" resname="CONTEXTMENU_PREF_FULLSCREEN" sap:sc="XFLD" size-unit="char">
+        <source>Maximize</source>
+        <note annotates="source" from="Developer">Label for the item that maximizes a page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_PREF_FULLSCREEN_HELPTEXT" resname="CONTEXTMENU_PREF_FULLSCREEN_HELPTEXT" sap:sc="XFLD">
+        <source>Maximize/Minimize is not applicable with a topic that contains a canvas page</source>
+        <note annotates="source" from="Developer">Help text when maximize button is disabled</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_PREF_FULLSCREEN_HELPTEXT_NO_PAGE_SELECTED" resname="CONTEXTMENU_PREF_FULLSCREEN_HELPTEXT_NO_PAGE_SELECTED" sap:sc="XFLD">
+        <source>Select a page to Maximize/Minimize</source>
+        <note annotates="source" from="Developer">Help text when maximize button is disabled and page has not been selected</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_PREF_EXIT_FULLSCREEN" maxwidth="15" resname="CONTEXTMENU_PREF_EXIT_FULLSCREEN" sap:sc="XFLD" size-unit="char">
+        <source>Minimize</source>
+        <note annotates="source" from="Developer">Label for the item that leaves the 'maximized' state of a page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_PREF_MANUAL_SETUP" maxwidth="15" resname="CONTEXTMENU_PREF_MANUAL_SETUP" sap:sc="XFLD" size-unit="char">
+        <source>Lane Setup</source>
+        <note annotates="source" from="Developer">Label for the item that opens the lane setup overlay</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_PREF_MANUAL_SETUP_HELPTEXT_FULLSCREEN" resname="CONTEXTMENU_PREF_MANUAL_SETUP_HELPTEXT_FULLSCREEN" sap:sc="XFLD">
+        <source>Manual lane setup is not applicable with fullscreen mode</source>
+        <note annotates="source" from="Developer">Help text when lane setting is disabled in fullscreen mode</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_PREF_MANUAL_SETUP_HELPTEXT_CANVAS" resname="CONTEXTMENU_PREF_MANUAL_SETUP_HELPTEXT_CANVAS" sap:sc="XFLD">
+        <source>Manual lane setup is not applicable with canvas page</source>
+        <note annotates="source" from="Developer">Help text when lane setting is disabled in canvas page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_DETAILS" maxwidth="15" resname="CONTEXTMENU_DETAILS" sap:sc="XFLD" size-unit="char">
+        <source>Details</source>
+        <note annotates="source" from="Developer">Label for the parent item containing page details</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_DETAILS_DEFAULT_LABEL" maxwidth="15" resname="CONTEXTMENU_DETAILS_DEFAULT_LABEL" sap:sc="XFLD" size-unit="char">
+        <source>Detail Page</source>
+        <note annotates="source" from="Developer">Label for a detail page target that has no title set</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_REFRESH_DATA_PAGE" maxwidth="15" resname="CONTEXTMENU_REFRESH_DATA_PAGE" sap:sc="XFLD" size-unit="char">
+        <source>Refresh Page</source>
+        <note annotates="source" from="Developer">Label for the item that refreshes a page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_REFRESH_DATA_TOPIC" maxwidth="15" resname="CONTEXTMENU_REFRESH_DATA_TOPIC" sap:sc="XFLD" size-unit="char">
+        <source>Refresh Topic</source>
+        <note annotates="source" from="Developer">Label for the item that refreshes the current topic</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_RESET_DATA_TOPIC" maxwidth="15" resname="CONTEXTMENU_RESET_DATA_TOPIC" sap:sc="XFLD" size-unit="char">
+        <source>Reset Topic</source>
+        <note annotates="source" from="Developer">Label for the item that resets all story/filter changes in the current topic</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_VARIABLES" maxwidth="15" resname="CONTEXTMENU_VARIABLES" sap:sc="XFLD" size-unit="char">
+        <source>Edit Prompts</source>
+        <note annotates="source" from="Developer">Label for the item that opens the 'edit prompts' overlay</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_COLLABORATION" maxwidth="15" resname="CONTEXTMENU_COLLABORATION" sap:sc="XFLD" size-unit="char">
+        <source>Share</source>
+        <note annotates="source" from="Developer">Label for the parent item containing sharing/collaboration actions</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_COLLABORATION_WIDGET" maxwidth="15" resname="CONTEXTMENU_COLLABORATION_WIDGET" sap:sc="XFLD" size-unit="char">
+        <source>Share tile</source>
+        <note annotates="source" from="Developer">Label for the item that shares a specific tile</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_COLLABORATION_PAGE" maxwidth="15" resname="CONTEXTMENU_COLLABORATION_PAGE" sap:sc="XFLD" size-unit="char">
+        <source>Share page</source>
+        <note annotates="source" from="Developer">Label for the item that shares the entire page</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_CREATE_RUUM" maxwidth="15" resname="CONTEXTMENU_CREATE_RUUM" sap:sc="XFLD" size-unit="char">
+        <source>Create Ruum</source>
+        <note annotates="source" from="Developer">Label for the item that creates a Ruum</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="CONTEXTMENU_VARIANCE" maxwidth="15" resname="CONTEXTMENU_VARIANCE" sap:sc="XFLD" size-unit="char">
+        <source>Variance</source>
+        <note annotates="source" from="Developer">Label for the item that creates a variance</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_RSS_ITEM" resname="ACTIONBAR_RSS_ITEM" sap:sc="XFLD">
+        <source>RSS Feed</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_ITEM_EDIT_PROMPTS" resname="ACTIONBAR_ITEM_EDIT_PROMPTS" sap:sc="XFLD">
+        <source>Edit Prompts</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_ITEM_PIN" resname="ACTIONBAR_ITEM_PIN" sap:sc="XFLD">
+        <source>Pin Action Bar</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_ITEM_UNPIN" resname="ACTIONBAR_ITEM_UNPIN" sap:sc="XFLD">
+        <source>Unpin Action Bar</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_ITEM_LEAVE" resname="ACTIONBAR_ITEM_LEAVE" sap:sc="XFLD">
+        <source>Leave</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_ITEM_ANNOTATION" resname="ACTIONBAR_ITEM_ANNOTATION" sap:sc="XFLD">
+        <source>Annotation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="EDITPROMPTS_DIALOG_EMPTY_TEXT" resname="EDITPROMPTS_DIALOG_EMPTY_TEXT" sap:sc="XFLD">
+        <source>Select a Page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_ITEM_MORE" resname="ACTIONBAR_ITEM_MORE" sap:sc="XFLD">
+        <source>More</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_ITEM_TOPIC_FILTER" resname="ACTIONBAR_ITEM_TOPIC_FILTER" sap:sc="XFLD">
+        <source>Filter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_ITEM_MY_RUUMS" maxwidth="15" resname="ACTIONBAR_ITEM_MY_RUUMS" sap:sc="XFLD" size-unit="char">
+        <source>My Ruums</source>
+        <note annotates="source" from="Developer">Label for the item that lists the user's Ruums</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_ITEM_REFRESH_DATA_TOPIC" resname="ACTIONBAR_ITEM_REFRESH_DATA_TOPIC" sap:sc="XFLD">
+        <source>Refresh Topic</source>
+        <note annotates="source" from="Developer">Label for the item that refreshes the current topic</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ACTIONBAR_ITEM_RESET_DATA_TOPIC" resname="ACTIONBAR_ITEM_RESET_DATA_TOPIC" sap:sc="XFLD">
+        <source>Reset Topic</source>
+        <note annotates="source" from="Developer">Label for the item that resets all story/filter changes in the current topic</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_EXTERNAL_FILES_HEADER" resname="LIBRARY_EXTERNAL_FILES_HEADER" sap:sc="XHED">
+        <source>External Files</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_STORIES_HEADER" resname="LIBRARY_STORIES_HEADER" sap:sc="XHED">
+        <source>Stories</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_IMPORTED_STORIES" resname="STORYLIBRARY_IMPORTED_STORIES" sap:sc="XFLD">
+        <source>Imported Stories</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_IMPORT_STORIES" resname="STORYLIBRARY_IMPORT_STORIES" sap:sc="XFLD">
+        <source>Import Stories</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_IMPORT_BUTTON" resname="STORYLIBRARY_IMPORT_BUTTON" sap:sc="XBUT">
+        <source>Import</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_EXPAND_BUTTON" resname="STORYLIBRARY_EXPAND_BUTTON" sap:sc="XBUT">
+        <source>Expand</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_COLLAPSE_BUTTON" resname="STORYLIBRARY_COLLAPSE_BUTTON" sap:sc="XBUT">
+        <source>Collapse</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_DEFAULT_EMPTY_TEXT" resname="STORYLIBRARY_DEFAULT_EMPTY_TEXT" sap:sc="XFLD">
+        <source>Stories will appear here after importing.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_SEARCH_EMPTY_TEXT" resname="STORYLIBRARY_SEARCH_EMPTY_TEXT" sap:sc="XFLD">
+        <source>No stories match your search.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_FILTER_EMPTY_TEXT" resname="STORYLIBRARY_FILTER_EMPTY_TEXT" sap:sc="XFLD">
+        <source>No stories match your filter.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYLIBRARY_IMPORT_SUCCESS_SINGLE" resname="STORYLIBRARY_IMPORT_SUCCESS_SINGLE" sap:sc="XMSG">
+        <source>Successfully imported <ph id="1">{0}</ph>.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYLIBRARY_IMPORT_SUCCESS_MULTIPLE" resname="STORYLIBRARY_IMPORT_SUCCESS_MULTIPLE" sap:sc="XMSG">
+        <source>Successfully imported <ph id="1">{0}</ph> stories.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYLIBRARY_IMPORT_WARNING_ALREADY_IMPORTED" resname="STORYLIBRARY_IMPORT_WARNING_ALREADY_IMPORTED" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> has already been imported.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYLIBRARY_IMPORT_WARNING_CONTAINS_GRID_PAGES" resname="STORYLIBRARY_IMPORT_WARNING_CONTAINS_GRID_PAGES" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> contains unsupported grid pages.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYLIBRARY_IMPORT_WARNING_CONTAINS_ONLY_GRID_PAGES" resname="STORYLIBRARY_IMPORT_WARNING_CONTAINS_ONLY_GRID_PAGES" sap:sc="XMSG">
+        <source>Could not import <ph id="1">{0}</ph> because it only contains unsupported grid pages.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_UPDATING" resname="STORYLIBRARY_UPDATING" sap:sc="XMSG">
+        <source>Updating Story Library</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_INUSE_DIALOG_TITLE" resname="STORYLIBRARY_INUSE_DIALOG_TITLE" sap:sc="XFLD">
+        <source>Remove stories from Story Library</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_INUSE_DIALOG_REMOVAL_ALLOWED_INFO" resname="STORYLIBRARY_INUSE_DIALOG_REMOVAL_ALLOWED_INFO" sap:sc="XFLD">
+        <source>Are you sure you want to remove the following stories?</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYLIBRARY_INUSE_DIALOG_REMOVE_AMOUNT" resname="STORYLIBRARY_INUSE_DIALOG_REMOVE_AMOUNT" sap:sc="XFLD">
+        <source>Stories to be removed (<ph id="1">{0}</ph>)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_INUSE_DIALOG_REMOVAL_DISALLOWED_INFO" resname="STORYLIBRARY_INUSE_DIALOG_REMOVAL_DISALLOWED_INFO" sap:sc="XFLD">
+        <source>The following stories cannot be removed because they are currently in use.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYLIBRARY_INUSE_DIALOG_INUSE_AMOUNT" resname="STORYLIBRARY_INUSE_DIALOG_INUSE_AMOUNT" sap:sc="XFLD">
+        <source>Stories in use (<ph id="1">{0}</ph>)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_SORT" resname="STORYLIBRARY_SORT" sap:sc="XTOL">
+        <source>Sort</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_AZ_SORT" resname="STORYLIBRARY_AZ_SORT" sap:sc="XMIT">
+        <source>A-Z</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_ZA_SORT" resname="STORYLIBRARY_ZA_SORT" sap:sc="XMIT">
+        <source>Z-A</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_DEFAULT_SORT" resname="STORYLIBRARY_DEFAULT_SORT" sap:sc="XMIT">
+        <source>Default</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_DELETE" resname="STORYLIBRARY_DELETE" sap:sc="XTOL">
+        <source>Delete</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_FILTER" resname="STORYLIBRARY_FILTER" sap:sc="XTOL">
+        <source>Filter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_FILTER_INUSE" resname="STORYLIBRARY_FILTER_INUSE" sap:sc="XMIT">
+        <source>Used stories</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_FILTER_NOT_INUSE" resname="STORYLIBRARY_FILTER_NOT_INUSE" sap:sc="XMIT">
+        <source>Unused stories</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_FILTER_SHOW_ALL" resname="STORYLIBRARY_FILTER_SHOW_ALL" sap:sc="XMIT">
+        <source>All imported stories</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_DELETE_DIALOG_OK_BUTTON" resname="STORYLIBRARY_DELETE_DIALOG_OK_BUTTON" sap:sc="XBUT">
+        <source>Remove</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_INUSE_POPOVER_TOPIC_LABEL" resname="STORYLIBRARY_INUSE_POPOVER_TOPIC_LABEL" sap:sc="XTOL">
+        <source>Used in a topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYLIBRARY_INUSE_POPOVER_DETAIL_LABEL" resname="STORYLIBRARY_INUSE_POPOVER_DETAIL_LABEL" sap:sc="XTOL">
+        <source>Used as a detail page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_EXTERNAL_FILES_INUSE_DIALOG_TITLE" resname="LIBRARY_EXTERNAL_FILES_INUSE_DIALOG_TITLE" sap:sc="XFLD">
+        <source>Remove files from External Files Library</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_EXTERNAL_FILES_INUSE_DIALOG_REMOVAL_ALLOWED_INFO" resname="LIBRARY_EXTERNAL_FILES_INUSE_DIALOG_REMOVAL_ALLOWED_INFO" sap:sc="XFLD">
+        <source>Are you sure you want to remove the following files?</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIBRARY_EXTERNAL_FILES_INUSE_DIALOG_REMOVE_AMOUNT" resname="LIBRARY_EXTERNAL_FILES_INUSE_DIALOG_REMOVE_AMOUNT" sap:sc="XFLD">
+        <source>Files to be removed (<ph id="1">{0}</ph>)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_EXTERNAL_FILES_INUSE_DIALOG_REMOVAL_DISALLOWED_INFO" resname="LIBRARY_EXTERNAL_FILES_INUSE_DIALOG_REMOVAL_DISALLOWED_INFO" sap:sc="XFLD">
+        <source>The following files cannot be removed because they are currently in use.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIBRARY_EXTERNAL_FILES_INUSE_DIALOG_INUSE_AMOUNT" resname="LIBRARY_EXTERNAL_FILES_INUSE_DIALOG_INUSE_AMOUNT" sap:sc="XFLD">
+        <source>Files in use (<ph id="1">{0}</ph>)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_IMAGES_HEADER" resname="LIBRARY_IMAGES_HEADER" sap:sc="XHED">
+        <source>Images</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_IMAGES_INFO_TOOLTIP" resname="LIBRARY_IMAGES_INFO_TOOLTIP" sap:sc="XTOL">
+        <source>Image dimensions for an optimal user experience are 1920x1080.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="LIBRARY_IMAGES_BELOW_RECOMMENDED_SIZE" resname="LIBRARY_IMAGES_BELOW_RECOMMENDED_SIZE" sap:sc="XMSG">
+        <source>User experience will be affected by the small size of <ph id="1">{0}</ph>.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_POWERPOINTS_HEADER" resname="LIBRARY_POWERPOINTS_HEADER" sap:sc="XHED">
+        <source>PowerPoint Presentations</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_IMAGES_DEFAULT_EMPTY_TEXT" resname="LIBRARY_IMAGES_DEFAULT_EMPTY_TEXT" sap:sc="XFLD">
+        <source>Images will appear here after importing.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_IMAGES_SEARCH_EMPTY_TEXT" resname="LIBRARY_IMAGES_SEARCH_EMPTY_TEXT" sap:sc="XFLD">
+        <source>No images match your search.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_POWERPOINTS_DEFAULT_EMPTY_TEXT" resname="LIBRARY_POWERPOINTS_DEFAULT_EMPTY_TEXT" sap:sc="XFLD">
+        <source>PowerPoint Presentations will appear here after importing.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LIBRARY_POWERPOINTS_SEARCH_EMPTY_TEXT" resname="LIBRARY_POWERPOINTS_SEARCH_EMPTY_TEXT" sap:sc="XFLD">
+        <source>No PowerPoint Presentations match your search.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DELETED_OBJECTS_HEADER" resname="PRESENTATION_DELETED_OBJECTS_HEADER" sap:sc="XMSG">
+        <source>Deleted objects</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DELETED_OBJECTS_MESSAGE" resname="PRESENTATION_DELETED_OBJECTS_MESSAGE" sap:sc="XMSG">
+        <source>The following objects have been deleted:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_DELETED_OBJECTS_DASHBOARDS" resname="PRESENTATION_DELETED_OBJECTS_DASHBOARDS" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> dashboard(s) with live link</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DELETED_OBJECTS_QUESTION" resname="PRESENTATION_DELETED_OBJECTS_QUESTION" sap:sc="XMSG">
+        <source>Do you want to keep the reference?</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DELETED_OBJECTS_REMOVE" resname="PRESENTATION_DELETED_OBJECTS_REMOVE" sap:sc="XMSG">
+        <source>Remove</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DELETED_OBJECTS_KEEP" resname="PRESENTATION_DELETED_OBJECTS_KEEP" sap:sc="XMSG">
+        <source>Keep</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_PAGES_DELETED_ERROR" resname="PRESENTATION_PAGES_DELETED_ERROR" sap:sc="XMSG">
+        <source>The presentation contains <ph id="1">{0}</ph> deleted page(s). Be aware that these pages will not be available during consumption.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_PRESENTATION_DELETED" resname="PRESENTATION_PRESENTATION_DELETED" sap:sc="XMSG">
+        <source>This Dashboard has been deleted.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DASHBOARD_REFERENCE" resname="DASHBOARD_REFERENCE" sap:sc="XMSG">
+        <source>Dashboard reference</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_CONTAINS_PAGES" resname="STORYFLOW_CONTAINS_PAGES" sap:sc="XFLD">
+        <source>Contains <ph id="1">{0}</ph> page(s)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_CONTAINS_TOPICS" resname="STORYFLOW_CONTAINS_TOPICS" sap:sc="XFLD">
+        <source>Contains <ph id="1">{0}</ph> child topic(s)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_CONTAINS_PAGES_ZOOM" resname="STORYFLOW_CONTAINS_PAGES_ZOOM" sap:sc="XFLD">
+        <source><ph id="1">{0}</ph> page(s)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_CONTAINS_TOPICS_ZOOM" resname="STORYFLOW_CONTAINS_TOPICS_ZOOM" sap:sc="XFLD">
+        <source><ph id="1">{0}</ph> child topic(s)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_DEFAULT_TITLE" resname="STORYFLOW_TOPIC_DEFAULT_TITLE" sap:sc="XFLD">
+        <source>Topic title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_ADD_TOPIC" resname="STORYFLOW_ADD_TOPIC" sap:sc="XFLD">
+        <source>Add Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NEW_TOPIC" resname="STORYFLOW_NEW_TOPIC" sap:sc="XMIT">
+        <source>New Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_EXISTING_TOPIC" resname="STORYFLOW_EXISTING_TOPIC" sap:sc="XMIT">
+        <source>Select existing ...</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_EMPTY_TOPIC" resname="STORYFLOW_EMPTY_TOPIC" sap:sc="XTOL">
+        <source>Drag &amp; drop pages from Story Library</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_EMPTY_TOPIC_ZOOM" resname="STORYFLOW_EMPTY_TOPIC_ZOOM" sap:sc="XFLD">
+        <source>Empty topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_COLLAPSE_TOPIC_TREE" resname="STORYFLOW_COLLAPSE_TOPIC_TREE" sap:sc="XFLD">
+        <source>Expand/collapse topic tree</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_PAGE_ALREADY_IN_TOPIC" resname="STORYFLOW_PAGE_ALREADY_IN_TOPIC" sap:sc="XMSG">
+        <source><ph id="1">{0}</ph> already exists in Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_DELETE_PAGE_TOPIC_FILTER" resname="STORYFLOW_DELETE_PAGE_TOPIC_FILTER" sap:sc="XMSG">
+        <source>Deleted topic filter(s) for dataset(s) <ph id="1">{0}</ph>.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_DELETE" resname="STORYFLOW_TOPIC_DELETE" sap:sc="XMIT">
+        <source>Delete Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_LIVELINK_DELETE" resname="STORYFLOW_LIVELINK_DELETE" sap:sc="XTOL">
+        <source>Remove Dashboard</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_DISCONNECT_FROM_PARENT" resname="STORYFLOW_TOPIC_DISCONNECT_FROM_PARENT" sap:sc="XMIT">
+        <source>Disconnect from parent</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_EXPANDCONDENSE" resname="STORYFLOW_TOPIC_EXPANDCONDENSE" sap:sc="XTOL">
+        <source>Expand/condense Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_PAGE_TILE_TOOLTIP" resname="STORYFLOW_PAGE_TILE_TOOLTIP" sap:sc="XFLD">
+        <source>From <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_ROOT" resname="STORYFLOW_TOPIC_ROOT" sap:sc="XTOL">
+        <source>Root Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_DEFAULT_TOPIC_TITLE" resname="STORYFLOW_DEFAULT_TOPIC_TITLE" sap:sc="XFLD">
+        <source>Untitled Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_MORE_ACTIONS" resname="STORYFLOW_TOPIC_MORE_ACTIONS" sap:sc="XTOL">
+        <source>More actions</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_TOPIC_MAX_SUGGESTED_PAGETILES_INFO" resname="STORYFLOW_TOPIC_MAX_SUGGESTED_PAGETILES_INFO" sap:sc="XMSG">
+        <source>This Topic contains more than <ph id="1">{0}</ph> pages which may result in a decreased performance</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_HIDE_IN_PRESENTATION" resname="STORYFLOW_TOPIC_HIDE_IN_PRESENTATION" sap:sc="XMIT">
+        <source>Hide in Presentation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_SHOW_IN_PRESENTATION" resname="STORYFLOW_TOPIC_SHOW_IN_PRESENTATION" sap:sc="XMIT">
+        <source>Show in Presentation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_HIDE_IN_MOBILE" resname="STORYFLOW_TOPIC_HIDE_IN_MOBILE" sap:sc="XMIT">
+        <source>Hide in Mobile</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_SHOW_IN_MOBILE" resname="STORYFLOW_TOPIC_SHOW_IN_MOBILE" sap:sc="XMIT">
+        <source>Show in Mobile</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_DUPLICATE_TOPIC" resname="STORYFLOW_TOPIC_DUPLICATE_TOPIC" sap:sc="XMIT">
+        <source>Duplicate Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_VIEW_TOPIC_IN_LAYER" resname="STORYFLOW_TOPIC_VIEW_TOPIC_IN_LAYER" sap:sc="XMIT">
+        <source>View Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_VIEW_LIVELINK_DASHBOARD_IN_LAYER" resname="STORYFLOW_TOPIC_VIEW_LIVELINK_DASHBOARD_IN_LAYER" sap:sc="XMIT">
+        <source>View Dashboard</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_TOPIC_COPY_OF_TITLE" resname="STORYFLOW_TOPIC_COPY_OF_TITLE" sap:sc="XFLD">
+        <source>Copy of <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_HIDDEN" resname="STORYFLOW_TOPIC_HIDDEN" sap:sc="XTOL">
+        <source>Hidden in Presentation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PAGE_ADD_CANVAS_WARNING" resname="STORYFLOW_PAGE_ADD_CANVAS_WARNING" sap:sc="XMSG">
+        <source>You added a canvas page to the presentation. This will affect the user experience and is not supported in the mobile application.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PAGE_ADD_IMAGE_WARNING" resname="STORYFLOW_PAGE_ADD_IMAGE_WARNING" sap:sc="XMSG">
+        <source>You added an image page to the presentation. This will affect the user experience and is not supported in the mobile application.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_SEARCH_PLACEHOLDER" resname="STORYFLOW_TOPIC_SEARCH_PLACEHOLDER" sap:sc="XFLD">
+        <source>Search topic titles...</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_ADD_FEATURED" resname="STORYFLOW_TOPIC_ADD_FEATURED" sap:sc="XFLD">
+        <source>Add as featured</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_REMOVE_FEATURED" resname="STORYFLOW_TOPIC_REMOVE_FEATURED" sap:sc="XFLD">
+        <source>Remove as featured</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_FEATURED" resname="STORYFLOW_TOPIC_FEATURED" sap:sc="XTOL">
+        <source>Featured Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPIC_FEATURED_MOBILE_WARNING" resname="STORYFLOW_TOPIC_FEATURED_MOBILE_WARNING" sap:sc="XMSG">
+        <source>Featured topics are currently not supported on mobile.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NEW_AGENDAITEM" resname="STORYFLOW_NEW_AGENDAITEM" sap:sc="XMIT">
+        <source>New Agenda Item</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_AGENDAITEM_TITLE_PLACEHOLDER" resname="STORYFLOW_AGENDAITEM_TITLE_PLACEHOLDER" sap:sc="XFLD">
+        <source>Agenda Item title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_AGENDAITEM_PRESENTER_PLACEHOLDER" resname="STORYFLOW_AGENDAITEM_PRESENTER_PLACEHOLDER" sap:sc="XFLD">
+        <source>Presenter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_AGENDAITEM_TIME_PLACEHOLDER" resname="STORYFLOW_AGENDAITEM_TIME_PLACEHOLDER" sap:sc="XFLD">
+        <source>Time</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_REMOVE_IMAGE" resname="STORYFLOW_REMOVE_IMAGE" sap:sc="XBUT">
+        <source>Remove Image</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_DEFAULT_AGENDAITEM_TITLE" resname="STORYFLOW_DEFAULT_AGENDAITEM_TITLE" sap:sc="XFLD">
+        <source>Untitled Agenda Item</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_ATLEAST_ONE_AGENDAITEM_MSG" resname="STORYFLOW_ATLEAST_ONE_AGENDAITEM_MSG" sap:sc="XMSG">
+        <source>Agendas must contain at least one agenda item.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_UPLOAD_IMAGE_NO_FILE_CHOSEN" resname="STORYFLOW_UPLOAD_IMAGE_NO_FILE_CHOSEN" sap:sc="XTOL">
+        <source>No file chosen</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_LIVELINK_CANCEL_TITLE" resname="STORYFLOW_LIVELINK_CANCEL_TITLE" sap:sc="XFLD">
+        <source>Cancel Live Link</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_LIVELINK_CANCEL_TEXT" resname="STORYFLOW_LIVELINK_CANCEL_TEXT" sap:sc="YTXT">
+        <source>The live link has to be removed before editing a referenced Digital Boardroom presentation. Automatic updates won't happen anymore.</source>
+        <note annotates="source" from="Developer">'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_LIVELINK_CANCEL_FOOTER" resname="STORYFLOW_LIVELINK_CANCEL_FOOTER" sap:sc="YTXT">
+        <source>Are you sure you want to enable editing by cancelling the live link?</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_LIVELINK_ICON_TOOLTIP" resname="STORYFLOW_LIVELINK_ICON_TOOLTIP" sap:sc="XFLD">
+        <source>Source Digital Boardroom presentation: <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_LIVELINK_INUSE_TITLE" resname="STORYFLOW_LIVELINK_INUSE_TITLE" sap:sc="XFLD">
+        <source>Topic In Use</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_LIVELINK_INUSE_TEXT" resname="STORYFLOW_LIVELINK_INUSE_TEXT" sap:sc="XFLD">
+        <source>This Topic is in use in another Digital Boardroom presentation. Deleting it will remove it from any linked Digital Boardroom presentation.</source>
+        <note annotates="source" from="Developer">'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_LIVELINK_CANCEL_LINK_BUTTON" resname="STORYFLOW_LIVELINK_CANCEL_LINK_BUTTON" sap:sc="XBUT">
+        <source>Cancel Live Link</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_LIVELINK_KEEP_LINK_BUTTON" resname="STORYFLOW_LIVELINK_KEEP_LINK_BUTTON" sap:sc="XBUT">
+        <source>Keep Live Link</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_TITLE_PLACEHOLDER" resname="STORYFLOW_PRESENTATION_TITLE_PLACEHOLDER" sap:sc="XFLD">
+        <source>Enter a title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_DESCRIPTION_PLACEHOLDER" resname="STORYFLOW_PRESENTATION_DESCRIPTION_PLACEHOLDER" sap:sc="XFLD">
+        <source>Enter a description</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_LOCATION_PLACEHOLDER" resname="STORYFLOW_PRESENTATION_LOCATION_PLACEHOLDER" sap:sc="XFLD">
+        <source>Enter a location</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_DATE_PLACEHOLDER" resname="STORYFLOW_PRESENTATION_DATE_PLACEHOLDER" sap:sc="XFLD">
+        <source>Enter a date</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_MOBILE_ENABLED_LABEL" resname="STORYFLOW_PRESENTATION_MOBILE_ENABLED_LABEL" sap:sc="XFLD">
+        <source>Mobile enabled</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOOLBAR_FILE" resname="STORYFLOW_TOOLBAR_FILE" sap:sc="XFLD">
+        <source>File</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOOLBAR_INSERT" resname="STORYFLOW_TOOLBAR_INSERT" sap:sc="XFLD">
+        <source>Insert</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOOLBAR_TOOLS" resname="STORYFLOW_TOOLBAR_TOOLS" sap:sc="XFLD">
+        <source>Tools</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_INSERT" resname="PRESENTATION_INSERT" sap:sc="XTOL">
+        <source>Insert</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LIBRARY" resname="PRESENTATION_LIBRARY" sap:sc="XTOL">
+        <source>Story Library</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_SELECTION_SCREEN_HEADER" resname="STORYFLOW_SELECTION_SCREEN_HEADER" sap:sc="XFLD">
+        <source>Choose your Digital Boardroom presentation type...</source>
+        <note annotates="source" from="Developer">'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_SELECTION_SCREEN_AGENDA" resname="STORYFLOW_SELECTION_SCREEN_AGENDA" sap:sc="XFLD">
+        <source>Agenda</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_SELECTION_SCREEN_DASHBOARD" resname="STORYFLOW_SELECTION_SCREEN_DASHBOARD" sap:sc="XFLD">
+        <source>Dashboard</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_SELECTION_SCREEN_AGENDA_INFO" resname="STORYFLOW_SELECTION_SCREEN_AGENDA_INFO" sap:sc="XTXT">
+        <source>Your traditional boardroom meeting structure. Create agenda items then add &amp; combine pages from any story into your topics.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_SELECTION_SCREEN_DASHBOARD_INFO" resname="STORYFLOW_SELECTION_SCREEN_DASHBOARD_INFO" sap:sc="XTXT">
+        <source>A modern, exploratory, corporate steering dashboard. Create freeform topics to match your business organization, then add &amp; combine pages from any story.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_OPEN_TOOLTIP" resname="STORYFLOW_NAV_PANEL_OPEN_TOOLTIP" sap:sc="XTOL">
+        <source>Navigation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_HEADER" resname="STORYFLOW_NAV_PANEL_HEADER" sap:sc="XFLD">
+        <source>Navigation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_EMPTY_STATE" resname="STORYFLOW_NAV_PANEL_EMPTY_STATE" sap:sc="XTOL">
+        <source>Select a page to setup navigations.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_EMPTY_WIDGET_NAVS" resname="STORYFLOW_NAV_PANEL_EMPTY_WIDGET_NAVS" sap:sc="XTOL">
+        <source>Add new jump points (+) to create tile navigations</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_SELECTED_PAGE" resname="STORYFLOW_NAV_PANEL_SELECTED_PAGE" sap:sc="XFLD">
+        <source>Selected Page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_PAGE_NAVS" resname="STORYFLOW_NAV_PANEL_PAGE_NAVS" sap:sc="XFLD">
+        <source>Page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_WIDGET_NAVS" resname="STORYFLOW_NAV_PANEL_WIDGET_NAVS" sap:sc="XFLD">
+        <source>Tile</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_ADD_TARGET" resname="STORYFLOW_NAV_PANEL_ADD_TARGET" sap:sc="XBUT">
+        <source>Add Jump Target</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_TARGET_LABEL" resname="STORYFLOW_NAV_PANEL_TARGET_LABEL" sap:sc="XFLD">
+        <source>Enter a label</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_TARGET_TOPIC" resname="STORYFLOW_NAV_PANEL_TARGET_TOPIC" sap:sc="XFLD">
+        <source>Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_TARGET_PAGE" resname="STORYFLOW_NAV_PANEL_TARGET_PAGE" sap:sc="XFLD">
+        <source>Page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_APPLY_FILTER" resname="STORYFLOW_NAV_PANEL_APPLY_FILTER" sap:sc="XFLD">
+        <source>Apply selected dimension as a filter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_FILTER_MOBILE" resname="STORYFLOW_NAV_FILTER_MOBILE" sap:sc="XFLD">
+        <source>Navigation with Filter is not supported on mobile</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_NAV_PANEL_TARGET_CHANGED_MSG" resname="STORYFLOW_NAV_PANEL_TARGET_CHANGED_MSG" sap:sc="XFLD">
+        <source>Your <ph id="1">{0}</ph> navigation '<ph id="2">{1}</ph>' is no longer valid because the target was deleted or moved.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_SAME_PAGE_SELECTED_INFO" resname="STORYFLOW_NAV_PANEL_SAME_PAGE_SELECTED_INFO" sap:sc="XMSG">
+        <source>Navigations can only be set on other pages.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_DELETED_PAGE_SELECTED_INFO" resname="STORYFLOW_NAV_PANEL_DELETED_PAGE_SELECTED_INFO" sap:sc="XMSG">
+        <source>Navigations cannot be set on deleted pages.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_NEW_TILE_NAVIGATION_TOOLTIP" resname="STORYFLOW_NAV_PANEL_NEW_TILE_NAVIGATION_TOOLTIP" sap:sc="XTOL">
+        <source>New jump point</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_UNTITLED_NAVIGATION" resname="STORYFLOW_NAV_PANEL_UNTITLED_NAVIGATION" sap:sc="XFLD">
+        <source>Untitled</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_MAP_WIDGET_DEFAULT_LABEL" resname="STORYFLOW_NAV_PANEL_MAP_WIDGET_DEFAULT_LABEL" sap:sc="XFLD">
+        <source>Map Widget</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_TABLE_WIDGET_DEFAULT_LABEL" resname="STORYFLOW_NAV_PANEL_TABLE_WIDGET_DEFAULT_LABEL" sap:sc="XFLD">
+        <source>Table Widget</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_SHAPE_WIDGET_DEFAULT_LABEL" resname="STORYFLOW_NAV_PANEL_SHAPE_WIDGET_DEFAULT_LABEL" sap:sc="XFLD">
+        <source>Shape Widget</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_IMAGE_WIDGET_DEFAULT_LABEL" resname="STORYFLOW_NAV_PANEL_IMAGE_WIDGET_DEFAULT_LABEL" sap:sc="XFLD">
+        <source>Image Widget</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_TEXT_WIDGET_DEFAULT_LABEL" resname="STORYFLOW_NAV_PANEL_TEXT_WIDGET_DEFAULT_LABEL" sap:sc="XFLD">
+        <source>Text Widget</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_CLOCK_WIDGET_DEFAULT_LABEL" resname="STORYFLOW_NAV_PANEL_CLOCK_WIDGET_DEFAULT_LABEL" sap:sc="XFLD">
+        <source>Clock Widget</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_RSS_WIDGET_DEFAULT_LABEL" resname="STORYFLOW_NAV_PANEL_RSS_WIDGET_DEFAULT_LABEL" sap:sc="XFLD">
+        <source>RSS Widget</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_VDT_WIDGET_DEFAULT_LABEL" resname="STORYFLOW_NAV_PANEL_VDT_WIDGET_DEFAULT_LABEL" sap:sc="XFLD">
+        <source>VDT Widget</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_LANE_TITLE_WIDGET_DEFAULT_LABEL" resname="STORYFLOW_NAV_PANEL_LANE_TITLE_WIDGET_DEFAULT_LABEL" sap:sc="XFLD">
+        <source>Lane Title Widget</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_WIDGET_SELECT_DIALOG_TITLE" resname="STORYFLOW_NAV_PANEL_WIDGET_SELECT_DIALOG_TITLE" sap:sc="XFLD">
+        <source>Select a tile to add as navigation jump point</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_WIDGET_SELECT_DIALOG_OK_BUTTON" resname="STORYFLOW_NAV_PANEL_WIDGET_SELECT_DIALOG_OK_BUTTON" sap:sc="XBUT">
+        <source>Add</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_NAV_PANEL_WIDGET_SELECT_DIALOG_WIDGET_NOT_ALLOWED" resname="STORYFLOW_NAV_PANEL_WIDGET_SELECT_DIALOG_WIDGET_NOT_ALLOWED" sap:sc="XMSG">
+        <source>This type of widget does not support navigations.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_DETAILS_PANEL_HEADER" resname="STORYFLOW_DETAILS_PANEL_HEADER" sap:sc="XFLD">
+        <source>Details</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_DETAILS_PANEL_OPEN_TOOLTIP" resname="STORYFLOW_DETAILS_PANEL_OPEN_TOOLTIP" sap:sc="XTOL">
+        <source>Details</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_DETAILS_PANEL_EMPTY_STATE" resname="STORYFLOW_DETAILS_PANEL_EMPTY_STATE" sap:sc="XFLD">
+        <source>Select a page to setup details.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_DETAILS_PANEL_ADD_DETAIL_PAGE" resname="STORYFLOW_DETAILS_PANEL_ADD_DETAIL_PAGE" sap:sc="XBUT">
+        <source>Add Detail Page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_DETAILS_PANEL_ADD_DETAIL_IMAGE" resname="STORYFLOW_DETAILS_PANEL_ADD_DETAIL_IMAGE" sap:sc="XBUT">
+        <source>Add Detail Image</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_DETAILS_PANEL_TARGET_STORY" resname="STORYFLOW_DETAILS_PANEL_TARGET_STORY" sap:sc="XFLD">
+        <source>Story</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_DETAILS_PANEL_TARGET_PAGE" resname="STORYFLOW_DETAILS_PANEL_TARGET_PAGE" sap:sc="XFLD">
+        <source>Page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_DETAILS_PANEL_TARGET_IMAGE" resname="STORYFLOW_DETAILS_PANEL_TARGET_IMAGE" sap:sc="XFLD">
+        <source>Image</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PROMPT_TOPIC_FILTER_VALUES_CHANGED" resname="STORYFLOW_PROMPT_TOPIC_FILTER_VALUES_CHANGED" sap:sc="XFLD">
+        <source>Topic filters values have been changed.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_PANEL_PROMPT_INFO_TEXT" resname="STORYFLOW_FILTER_PANEL_PROMPT_INFO_TEXT" sap:sc="XFLD">
+        <source>Underlying variables will only affect topic filters.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_PANEL_HEADER" resname="STORYFLOW_FILTER_PANEL_HEADER" sap:sc="XFLD">
+        <source>Topic Filter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_PANEL_EMPTY_STATE" resname="STORYFLOW_FILTER_PANEL_EMPTY_STATE" sap:sc="XFLD">
+        <source>Select a topic to create filters.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_PANEL_NO_FILTER" resname="STORYFLOW_FILTER_PANEL_NO_FILTER" sap:sc="XFLD">
+        <source>Add a new filter using the button above.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_PANEL_ADD_TT" resname="STORYFLOW_FILTER_PANEL_ADD_TT" sap:sc="XTOL">
+        <source>Add Topic Filter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_PANEL_EDIT_PROMPT_TT" resname="STORYFLOW_FILTER_PANEL_EDIT_PROMPT_TT" sap:sc="XTOL">
+        <source>Prompts only affect the member visibility of topic filters.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_PANEL_SECTION_TITLE" resname="STORYFLOW_FILTER_PANEL_SECTION_TITLE" sap:sc="XFLD">
+        <source>Topic Filter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_DATASET_ERROR" resname="STORYFLOW_FILTER_DATASET_ERROR" sap:sc="XFLD">
+        <source>An error occured during retrieval of model information.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_OVERLAY_EMPTY_TOPIC" resname="STORYFLOW_FILTER_OVERLAY_EMPTY_TOPIC" sap:sc="XFLD">
+        <source>No topic filter set.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_OVERLAY_EMPTY_STORY" resname="STORYFLOW_FILTER_OVERLAY_EMPTY_STORY" sap:sc="XFLD">
+        <source>No story filter set.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_PANEL_PARENT_TOPIC_FILTER_SECTION_TITLE" resname="STORYFLOW_FILTER_PANEL_PARENT_TOPIC_FILTER_SECTION_TITLE" sap:sc="XFLD">
+        <source>From Parent Topics</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_APPLIES_TO_SUB_TOPICS" resname="STORYFLOW_FILTER_APPLIES_TO_SUB_TOPICS" sap:sc="XFLD">
+        <source>This filter is applied to all sub-topics.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_FILTER_APPLIES_TO_SUB_TOPICS_REMOVED" resname="STORYFLOW_FILTER_APPLIES_TO_SUB_TOPICS_REMOVED" sap:sc="XFLD">
+        <source>This filter is removed from all sub-topics.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_OVERLAY_SECTION_TOPIC" resname="FILTER_OVERLAY_SECTION_TOPIC" sap:sc="XTIT">
+        <source>Topic Filter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="FILTER_OVERLAY_SECTION_STORY" resname="FILTER_OVERLAY_SECTION_STORY" sap:sc="XTIT">
+        <source>Story Filter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_ZOOM_IN_BUTTON" resname="STORYFLOW_ZOOM_IN_BUTTON" sap:sc="XTOL">
+        <source>Zoom in</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_ZOOM_OUT_BUTTON" resname="STORYFLOW_ZOOM_OUT_BUTTON" sap:sc="XTOL">
+        <source>Zoom out</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_CENTER_ROOT_BUTTON" resname="STORYFLOW_CENTER_ROOT_BUTTON" sap:sc="XTOL">
+        <source>Center Root Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_ZOOM_INTERACTION_INFO_LABEL" resname="STORYFLOW_ZOOM_INTERACTION_INFO_LABEL" sap:sc="XFLD">
+        <source>Current zoom level limits topic &amp; page interaction.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_ZOOM_ADDING_PAGES_INFO_MSG" resname="STORYFLOW_ZOOM_ADDING_PAGES_INFO_MSG" sap:sc="XFLD">
+        <source>You can add pages to topics in the default zoom level.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="THEME_PREVIEW_SHOW_PREVIEW" resname="THEME_PREVIEW_SHOW_PREVIEW" sap:sc="XFLD">
+        <source>Show Preview:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="THEME_PREVIEW_TAG_HIERARCHY_TREE" resname="THEME_PREVIEW_TAG_HIERARCHY_TREE" sap:sc="XFLD">
+        <source>Hierarchy Tree</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="THEME_PREVIEW_TAG_CONTEXT_MENU" resname="THEME_PREVIEW_TAG_CONTEXT_MENU" sap:sc="XFLD">
+        <source>Context Menu</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="THEME_PREVIEW_TAG_TOOL_TIP" resname="THEME_PREVIEW_TAG_TOOL_TIP" sap:sc="XFLD">
+        <source>Tool Tip</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="THEME_PREVIEW_TAG_FEED_OVERLAY" resname="THEME_PREVIEW_TAG_FEED_OVERLAY" sap:sc="XFLD">
+        <source>Feed Overlay</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="THEME_PREVIEW_TAG_SEARCH_OVERLAY" resname="THEME_PREVIEW_TAG_SEARCH_OVERLAY" sap:sc="XFLD">
+        <source>Search Overlay</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="THEME_PREVIEW_TAG_AGENDA" resname="THEME_PREVIEW_TAG_AGENDA" sap:sc="XFLD">
+        <source>Agenda</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="THEME_PREVIEW_BREADCRUMB" resname="THEME_PREVIEW_BREADCRUMB" sap:sc="XFLD">
+        <source>Presentation Title &gt; Root Topic Title &gt; Active Topic Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_CLOSE_PANEL_BUTTON" resname="STORYFLOW_CLOSE_PANEL_BUTTON" sap:sc="XBUT">
+        <source>Close</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DIALOG_CONTENTLIB_TITLE" resname="STORYFLOW_TOPICLIST_DIALOG_CONTENTLIB_TITLE" sap:sc="XFLD">
+        <source>Select existing Digital Boardroom presentation</source>
+        <note annotates="source" from="Developer">'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_LIVELINK_CHECKBOX" resname="STORYFLOW_TOPICLIST_LIVELINK_CHECKBOX" sap:sc="XFLD">
+        <source>Live link - updates when changes are made</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_RESOURCE_PRESENTATION" resname="STORYFLOW_TOPICLIST_RESOURCE_PRESENTATION" sap:sc="XFLD">
+        <source>Digital Boardroom</source>
+        <note annotates="source" from="Developer">'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_RESOURCE_TOPIC" resname="STORYFLOW_TOPICLIST_RESOURCE_TOPIC" sap:sc="XFLD">
+        <source>Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DEFAULT_TOPIC_TITLE" resname="STORYFLOW_TOPICLIST_DEFAULT_TOPIC_TITLE" sap:sc="XFLD">
+        <source>Topic title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DIALOG_IMPORT" resname="STORYFLOW_TOPICLIST_DIALOG_IMPORT" sap:sc="XBUT">
+        <source>Import</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DIALOG_BACK" resname="STORYFLOW_TOPICLIST_DIALOG_BACK" sap:sc="XBUT">
+        <source>Back</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DIALOG_CANCEL" resname="STORYFLOW_TOPICLIST_DIALOG_CANCEL" sap:sc="XBUT">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DIALOG_TEXT" resname="STORYFLOW_TOPICLIST_DIALOG_TEXT" sap:sc="XMSG">
+        <source>Choose to import the entire Digital Boardroom presentation or select individual topics. You can also decide if the Digital Boardroom presentation should keep a reference to the original to receive updates.</source>
+        <note annotates="source" from="Developer">'Digital Boardroom' is a Brand name, do not translate</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="STORYFLOW_TOPICLIST_DIALOG_TITLE" resname="STORYFLOW_TOPICLIST_DIALOG_TITLE" sap:sc="XFLD">
+        <source>Import '<ph id="1">{0}</ph>'</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_TABLE_COL_NAME" resname="STORYFLOW_TOPICLIST_TABLE_COL_NAME" sap:sc="XFLD">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_TABLE_COL_TYPE" resname="STORYFLOW_TOPICLIST_TABLE_COL_TYPE" sap:sc="XFLD">
+        <source>Type</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_TABLE_COL_PAGES" resname="STORYFLOW_TOPICLIST_TABLE_COL_PAGES" sap:sc="XFLD">
+        <source>Pages</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DIALOG_ALREADY_IMPORTED_WARNING" resname="STORYFLOW_TOPICLIST_DIALOG_ALREADY_IMPORTED_WARNING" sap:sc="XMSG">
+        <source>The chosen Dashboard has already been imported.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DIALOG_IMPORT_ITSELF_WARNING" resname="STORYFLOW_TOPICLIST_DIALOG_IMPORT_ITSELF_WARNING" sap:sc="XMSG">
+        <source>A Dashboard cannot import itself.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DIALOG_CANVAS_USED_WARNING" resname="STORYFLOW_TOPICLIST_DIALOG_CANVAS_USED_WARNING" sap:sc="XMSG">
+        <source>Non responsive pages are used in this presentation. This will affect the user experience and is not supported in the mobile application.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DIALOG_CONTAINS_NO_TOPICS" resname="STORYFLOW_TOPICLIST_DIALOG_CONTAINS_NO_TOPICS" sap:sc="XMSG">
+        <source>The chosen Dashboard contains no topics.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_TOPICLIST_DIALOG_NOT_A_DASHBOARD" resname="STORYFLOW_TOPICLIST_DIALOG_NOT_A_DASHBOARD" sap:sc="XMSG">
+        <source>The chosen item is not a Dashboard.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_TITLE" resname="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_TITLE" sap:sc="XTIT">
+        <source>Table of Contents</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_LIVE_LINK" resname="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_LIVE_LINK" sap:sc="XFLD">
+        <source>(Live Link)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_BOARDROOM_TITLE_LABEL" resname="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_BOARDROOM_TITLE_LABEL" sap:sc="XFLD">
+        <source>Digital Boardroom Presentation Title:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_TABLE_COLUMN_TOPICS" resname="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_TABLE_COLUMN_TOPICS" sap:sc="XFLD">
+        <source>Topics</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_TABLE_COLUMN_STORIES" resname="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_TABLE_COLUMN_STORIES" sap:sc="XFLD">
+        <source>Stories</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_TABLE_COLUMN_PAGES" resname="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_TABLE_COLUMN_PAGES" sap:sc="XFLD">
+        <source>Pages</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_TABLE_COLUMN_PARENT_TOPIC" resname="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_TABLE_COLUMN_PARENT_TOPIC" sap:sc="XFLD">
+        <source>Parent Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_CLOSE" resname="STORYFLOW_PRESENTATION_STRUCTURE_DIALOG_CLOSE" sap:sc="XBUT">
+        <source>Close</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_NOT_COMPLETED_ERROR" resname="PRESENTATION_NOT_COMPLETED_ERROR" sap:sc="XFLD">
+        <source>This presentation is not configured yet. Please return to the builder and complete your presentation.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_NO_PAGES_IN_ROOT_TOPIC" resname="PRESENTATION_NO_PAGES_IN_ROOT_TOPIC" sap:sc="XFLD">
+        <source>The Root Topic contains no pages. Please add pages in the builder.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_NO_TOPIC_IN_AGENDA" resname="PRESENTATION_NO_TOPIC_IN_AGENDA" sap:sc="XFLD">
+        <source>This Agenda Item contains no Topics</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TOPIC_NOT_IN_AGENDA" resname="PRESENTATION_TOPIC_NOT_IN_AGENDA" sap:sc="XFLD">
+        <source>The requested Topic does not exist in this Agenda Item.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_AGENDA_ITEM_NOT_IN_AGENDA" resname="PRESENTATION_AGENDA_ITEM_NOT_IN_AGENDA" sap:sc="XFLD">
+        <source>The requested Agenda Item does not exist in this Agenda.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TOPIC_NOT_IN_DASHBOARD" resname="PRESENTATION_TOPIC_NOT_IN_DASHBOARD" sap:sc="XFLD">
+        <source>The requested Topic does not exist in this Dashboard. You have been navigated to the Root Topic.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_NO_PAGE_IN_TOPIC" resname="PRESENTATION_NO_PAGE_IN_TOPIC" sap:sc="XFLD">
+        <source>Oops, there are no pages added in this Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_NOT_AUTHORIZED_FOR_PAGE" resname="PRESENTATION_NOT_AUTHORIZED_FOR_PAGE" sap:sc="XFLD">
+        <source>You are not authorized to view this page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TARGET_PAGE_DOESNT_EXIST" resname="PRESENTATION_TARGET_PAGE_DOESNT_EXIST" sap:sc="XFLD">
+        <source>The navigation target does not exist anymore. Please check navigations in the builder.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_DEEPLINK_TARGET_PAGE_DOESNT_EXIST" resname="PRESENTATION_DEEPLINK_TARGET_PAGE_DOESNT_EXIST" sap:sc="XFLD">
+        <source>The target page does not exist in this topic. Please check this topic in the builder.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_EMPTY_SETTING_DOESNT_EXIST_VIEWER" resname="PRESENTATION_EMPTY_SETTING_DOESNT_EXIST_VIEWER" sap:sc="XFLD">
+        <source>Presentation setting does not exist. Displaying presentation with default values.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_EMPTY_SETTING_DOESNT_EXIST_BUILDER" resname="PRESENTATION_EMPTY_SETTING_DOESNT_EXIST_BUILDER" sap:sc="XFLD">
+        <source>Presentation setting does not exist. Loading default settings.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_PAGE_NOT_AVAILABLE" resname="PRESENTATION_PAGE_NOT_AVAILABLE" sap:sc="XFLD">
+        <source>Page has been deleted</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_PAGE_NOT_AVAILABLE_SMALL_ZOOM" resname="PRESENTATION_PAGE_NOT_AVAILABLE_SMALL_ZOOM" sap:sc="XFLD">
+        <source>Page deleted</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_PAGE_HIDDEN_IN_STORY" resname="PRESENTATION_PAGE_HIDDEN_IN_STORY" sap:sc="XTOL">
+        <source>(hidden in Story)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_EXPLORER_WITH_FOOTER" resname="PRESENTATION_EXPLORER_WITH_FOOTER" sap:sc="XFLD">
+        <source>The tile footer cannot be shown in Explorer mode.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_OVERLAY_TITLE" resname="PRESENTATION_LANE_SETUP_OVERLAY_TITLE" sap:sc="XFLD">
+        <source>Lane Setup</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_EXPLORER_OVERLAY_TITLE" resname="PRESENTATION_EXPLORER_OVERLAY_TITLE" sap:sc="XFLD">
+        <source>Explorer</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_PAGE_OVERLAY_TITLE" resname="PRESENTATION_PAGE_OVERLAY_TITLE" sap:sc="XFLD">
+        <source>Search result page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SEARCH_OVERLAY_TITLE" resname="PRESENTATION_SEARCH_OVERLAY_TITLE" sap:sc="XFLD">
+        <source>Search</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SELECT_WIDGET_MANDATORY" resname="PRESENTATION_SELECT_WIDGET_MANDATORY" sap:sc="XFLD">
+        <source>A widget has to be selected</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_OVERLAY_TITLE" resname="PRESENTATION_SETTINGS_OVERLAY_TITLE" sap:sc="XFLD">
+        <source>Presentation Settings</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_VDT_OVERLAY_TITLE" resname="PRESENTATION_VDT_OVERLAY_TITLE" sap:sc="XFLD">
+        <source>Value Driver Tree</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_OK_BUTTON" resname="PRESENTATION_SETTINGS_OK_BUTTON" sap:sc="XBUT">
+        <source>Apply</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_TITLE" resname="PRESENTATION_SETTINGS_LAYOUT_TITLE" sap:sc="XFLD">
+        <source>Layout</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_LBL" resname="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_LBL" sap:sc="XFLD">
+        <source>Lane Setup</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_LABEL_INFO_TEXT" resname="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_LABEL_INFO_TEXT" sap:sc="XFLD">
+        <source>Choose a default lane setup for this presentation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_DOUBLE_SPACE" resname="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_DOUBLE_SPACE" sap:sc="XFLD">
+        <source>Enable double space between pages (multi screen setup)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_OPTION_ONE_PAGE_PREVIEW" resname="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_OPTION_ONE_PAGE_PREVIEW" sap:sc="XFLD">
+        <source>1 page + preview</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_OPTION_MULTIPLE_PAGES" resname="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_OPTION_MULTIPLE_PAGES" sap:sc="XFLD">
+        <source><ph id="1">{0}</ph> page(s)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_OPTION_PREVIEW" resname="PRESENTATION_SETTINGS_LAYOUT_LANE_SETUP_OPTION_PREVIEW" sap:sc="XFLD">
+        <source>Enable Preview (only applicable with single lane)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_AGENDA_ORIENTATION_LBL" resname="PRESENTATION_SETTINGS_LAYOUT_AGENDA_ORIENTATION_LBL" sap:sc="XFLD">
+        <source>Agenda orientation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_ROOT_TOPIC_PAGE_ALIGNMENT_LBL" resname="PRESENTATION_SETTINGS_LAYOUT_ROOT_TOPIC_PAGE_ALIGNMENT_LBL" sap:sc="XFLD">
+        <source>Root Topic page alignment</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_ROOT_TOPIC_PAGE_ALIGNMENT_INFO" resname="PRESENTATION_SETTINGS_LAYOUT_ROOT_TOPIC_PAGE_ALIGNMENT_INFO" sap:sc="XTOL">
+        <source>This setting is only applied if the Root Topic consists of a single page.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_ROOT_TOPIC_PAGE_ALIGNMENT_CENTERED" resname="PRESENTATION_SETTINGS_LAYOUT_ROOT_TOPIC_PAGE_ALIGNMENT_CENTERED" sap:sc="XMIT">
+        <source>Centered</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_ROOT_TOPIC_PAGE_ALIGNMENT_FULLSCREEN" resname="PRESENTATION_SETTINGS_LAYOUT_ROOT_TOPIC_PAGE_ALIGNMENT_FULLSCREEN" sap:sc="XMIT">
+        <source>Fullscreen</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_ROOT_TOPIC_PAGE_ALIGNMENT_DEFAULT" resname="PRESENTATION_SETTINGS_LAYOUT_ROOT_TOPIC_PAGE_ALIGNMENT_DEFAULT" sap:sc="XMIT">
+        <source>Default</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_AGENDA_ORIENTATION_VERTICAL" resname="PRESENTATION_SETTINGS_LAYOUT_AGENDA_ORIENTATION_VERTICAL" sap:sc="XMIT">
+        <source>Vertical</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_AGENDA_ORIENTATION_HORIZONTAL" resname="PRESENTATION_SETTINGS_LAYOUT_AGENDA_ORIENTATION_HORIZONTAL" sap:sc="XMIT">
+        <source>Horizontal</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_LAYOUT_MAXIMIZE_BY_DEFAULT" resname="PRESENTATION_SETTINGS_LAYOUT_MAXIMIZE_BY_DEFAULT" sap:sc="XFLD">
+        <source>Maximize pages by default (pages will open in fullscreen and lane setup will not be applied)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_DISPLAY_TITLE" resname="PRESENTATION_SETTINGS_DISPLAY_TITLE" sap:sc="XFLD">
+        <source>Display</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_AGENDA_FONT_SIZE_SMALL" resname="PRESENTATION_SETTINGS_GENERAL_AGENDA_FONT_SIZE_SMALL" sap:sc="XMIT">
+        <source>Small (default)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_AGENDA_FONT_SIZE_MEDIUM" resname="PRESENTATION_SETTINGS_GENERAL_AGENDA_FONT_SIZE_MEDIUM" sap:sc="XMIT">
+        <source>Medium</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_AGENDA_FONT_SIZE_LARGE" resname="PRESENTATION_SETTINGS_GENERAL_AGENDA_FONT_SIZE_LARGE" sap:sc="XMIT">
+        <source>Large</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_NAVIGATION_BUTTONS_LEFT" resname="PRESENTATION_SETTINGS_GENERAL_NAVIGATION_BUTTONS_LEFT" sap:sc="XFLD">
+        <source>Left</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_NAVIGATION_BUTTONS_RIGHT" resname="PRESENTATION_SETTINGS_GENERAL_NAVIGATION_BUTTONS_RIGHT" sap:sc="XFLD">
+        <source>Right</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_NAVIGATION_BUTTONS_SPLIT" resname="PRESENTATION_SETTINGS_GENERAL_NAVIGATION_BUTTONS_SPLIT" sap:sc="XFLD">
+        <source>Split</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_ACTION_BAR" resname="PRESENTATION_SETTINGS_GENERAL_ACTION_BAR" sap:sc="XFLD">
+        <source>Action Bar position</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_ACTION_BAR_TOP" resname="PRESENTATION_SETTINGS_GENERAL_ACTION_BAR_TOP" sap:sc="XFLD">
+        <source>Top</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_ACTION_BAR_BOTTOM" resname="PRESENTATION_SETTINGS_GENERAL_ACTION_BAR_BOTTOM" sap:sc="XFLD">
+        <source>Bottom</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_ACTION_BAR_LEFT" resname="PRESENTATION_SETTINGS_GENERAL_ACTION_BAR_LEFT" sap:sc="XFLD">
+        <source>Left</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_ACTION_BAR_RIGHT" resname="PRESENTATION_SETTINGS_GENERAL_ACTION_BAR_RIGHT" sap:sc="XFLD">
+        <source>Right</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_FOOTER" resname="PRESENTATION_SETTINGS_GENERAL_FOOTER" sap:sc="XFLD">
+        <source>Footer</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_GENERAL_FOOTER_LOGO_UPLOAD" resname="PRESENTATION_SETTINGS_GENERAL_FOOTER_LOGO_UPLOAD" sap:sc="XFLD">
+        <source>Upload</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_SETTINGS_GENERAL_FOOTER_LOGO_UPLOAD_HINT" resname="PRESENTATION_SETTINGS_GENERAL_FOOTER_LOGO_UPLOAD_HINT" sap:sc="XFLD">
+        <source>Logo will be scaled to fit the maximum size of <ph id="1">{0}</ph>x<ph id="2">{1}</ph>px.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_TITLE" resname="PRESENTATION_SETTINGS_ACTION_BAR_TITLE" sap:sc="XFLD">
+        <source>Action Bar</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_CONTEXTMENU_TITLE" resname="PRESENTATION_SETTINGS_CONTEXTMENU_TITLE" sap:sc="XFLD">
+        <source>Context Menu</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_CONTEXTMENU_ACTION_SELECTION" resname="PRESENTATION_SETTINGS_CONTEXTMENU_ACTION_SELECTION" sap:sc="XFLD">
+        <source>Action Selection</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_CONTEXTMENU_GROUP" resname="PRESENTATION_SETTINGS_CONTEXTMENU_GROUP" sap:sc="XFLD">
+        <source>Group</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_CONTEXTMENU_RESET_TO_DEFAULT" resname="PRESENTATION_SETTINGS_CONTEXTMENU_RESET_TO_DEFAULT" sap:sc="XBUT">
+        <source>Reset to default</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_CONTEXTMENU_INFO_LABEL" resname="PRESENTATION_SETTINGS_CONTEXTMENU_INFO_LABEL" sap:sc="XMIT">
+        <source>Drag &amp; drop actions to customize the Context Menu</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTIONBAR_INFO_LABEL" resname="PRESENTATION_SETTINGS_ACTIONBAR_INFO_LABEL" sap:sc="XMIT">
+        <source>Drag &amp; drop actions to customize the Action Bar</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTIONBAR_ALIGNED_LEFT" resname="PRESENTATION_SETTINGS_ACTIONBAR_ALIGNED_LEFT" sap:sc="XFLD">
+        <source>Left Aligned</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTIONBAR_ALIGNED_CENTER" resname="PRESENTATION_SETTINGS_ACTIONBAR_ALIGNED_CENTER" sap:sc="XFLD">
+        <source>Centered</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTIONBAR_ALIGNED_RIGHT" resname="PRESENTATION_SETTINGS_ACTIONBAR_ALIGNED_RIGHT" sap:sc="XFLD">
+        <source>Right Aligned</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_CONTEXTMENU_GET_DEFAULTS_ERROR" resname="PRESENTATION_SETTINGS_CONTEXTMENU_GET_DEFAULTS_ERROR" sap:sc="XMSG">
+        <source>The default actions for the Context Menu could not be loaded</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_GET_DEFAULTS_ERROR" resname="PRESENTATION_SETTINGS_ACTION_BAR_GET_DEFAULTS_ERROR" sap:sc="XMSG">
+        <source>The default settings for the Action Bar could not be loaded</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ENABLE_SWIPE_LBL" resname="PRESENTATION_SETTINGS_ENABLE_SWIPE_LBL" sap:sc="XFLD">
+        <source>Enable swipe for page navigation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_FIXED" resname="PRESENTATION_SETTINGS_ACTION_BAR_FIXED" sap:sc="XFLD">
+        <source>Fix Action Bar to selected position</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_VIEW_OPTIONS" resname="PRESENTATION_SETTINGS_ACTION_BAR_VIEW_OPTIONS" sap:sc="XFLD">
+        <source>View Action Bar as</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_STACKED_OPTION" resname="PRESENTATION_SETTINGS_ACTION_BAR_STACKED_OPTION" sap:sc="XFLD">
+        <source>Stacked Header/Footer</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_COMBINED_OPTION" resname="PRESENTATION_SETTINGS_ACTION_BAR_COMBINED_OPTION" sap:sc="XFLD">
+        <source>Combined Header/Footer</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_COMBINED_OPTION_ADDITIONAL_TEXT" resname="PRESENTATION_SETTINGS_ACTION_BAR_COMBINED_OPTION_ADDITIONAL_TEXT" sap:sc="XFLD">
+        <source>(Right aligned only)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_FOOTER_OPTION" resname="PRESENTATION_SETTINGS_ACTION_BAR_FOOTER_OPTION" sap:sc="XFLD">
+        <source>Footer</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_FOOTER_OPTION_ADDITIONAL_TEXT" resname="PRESENTATION_SETTINGS_ACTION_BAR_FOOTER_OPTION_ADDITIONAL_TEXT" sap:sc="XFLD">
+        <source>(Hides navigation breadcrumbs and Logo)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_FOOTER_OPTION_TOOLTIP" resname="PRESENTATION_SETTINGS_ACTION_BAR_FOOTER_OPTION_TOOLTIP" sap:sc="XFLD">
+        <source>Action Bar footer is only supported for Bottom Action Bar.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_COMBINED_OPTION_TOOLTIP" resname="PRESENTATION_SETTINGS_ACTION_BAR_COMBINED_OPTION_TOOLTIP" sap:sc="XFLD">
+        <source>The Action Bar combined option isn't supported when the page title is displayed in the Page Header.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_ACTION_BAR_ITEM_TITLES_HIDDEN" resname="PRESENTATION_SETTINGS_ACTION_BAR_ITEM_TITLES_HIDDEN" sap:sc="XFLD">
+        <source>Hide action bar item titles</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_NAV_BUTTON_POS_LBL" resname="PRESENTATION_SETTINGS_NAV_BUTTON_POS_LBL" sap:sc="XFLD">
+        <source>Navigation Button position</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_INTERACTION_LBL" resname="PRESENTATION_SETTINGS_INTERACTION_LBL" sap:sc="XFLD">
+        <source>Interaction</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_NO_ITEMS" resname="PRESENTATION_SETTINGS_NO_ITEMS" sap:sc="XFLD">
+        <source>No items</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_NAME_PLACEHOLDER" resname="PRESENTATION_SETTINGS_NAME_PLACEHOLDER" sap:sc="XFLD">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_URL_PLACEHOLDER" resname="PRESENTATION_SETTINGS_URL_PLACEHOLDER" sap:sc="XFLD">
+        <source>http://</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_RSS_FEED_LBL" resname="PRESENTATION_SETTINGS_RSS_FEED_LBL" sap:sc="XFLD">
+        <source>RSS Feed Settings</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_RSS_FEED_ADD_BUTTON_TEXT" resname="PRESENTATION_SETTINGS_RSS_FEED_ADD_BUTTON_TEXT" sap:sc="XFLD">
+        <source>RSS Feed</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_PAGE_TITLE_POS_WARNING_MSG" resname="PRESENTATION_SETTINGS_PAGE_TITLE_POS_WARNING_MSG" sap:sc="XFLD">
+        <source>You can't combine the page title and the Action Bar in the Page Header. If your Action Bar position was set to combined and top, it will change to stacked and top.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_PAGE_TITLE_POS_TAB" resname="PRESENTATION_SETTINGS_PAGE_TITLE_POS_TAB" sap:sc="XFLD">
+        <source>Tabs</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_PAGE_TITLE_POS_PAGE_HEADER" resname="PRESENTATION_SETTINGS_PAGE_TITLE_POS_PAGE_HEADER" sap:sc="XFLD">
+        <source>Page Header</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_PAGE_TITLE_POS_LBL" resname="PRESENTATION_SETTINGS_PAGE_TITLE_POS_LBL" sap:sc="XFLD">
+        <source>Display position of page title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_AGENDA_FONT_SIZE_LBL" resname="PRESENTATION_SETTINGS_AGENDA_FONT_SIZE_LBL" sap:sc="XFLD">
+        <source>Agenda font size</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_HIDE_FOOTER_IMAGE_LBL" resname="PRESENTATION_SETTINGS_HIDE_FOOTER_IMAGE_LBL" sap:sc="XFLD">
+        <source>Hide Footer Image</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_HIDE_BREADCRUMB_LBL" resname="PRESENTATION_SETTINGS_HIDE_BREADCRUMB_LBL" sap:sc="XFLD">
+        <source>Hide Breadcrumbs</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_HIDE_FOOTER_COMPLETE_LBL" resname="PRESENTATION_SETTINGS_HIDE_FOOTER_COMPLETE_LBL" sap:sc="XFLD">
+        <source>Hide Footer</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_HIDE_FOOTER_WARNING_MESSAGE" resname="PRESENTATION_HIDE_FOOTER_WARNING_MESSAGE" sap:sc="XFLD">
+        <source>Hiding the footer may also hide the action bar.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_DATA_TITLE" resname="PRESENTATION_SETTINGS_DATA_TITLE" sap:sc="XFLD">
+        <source>Data Settings</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_SECTION_TITLE" resname="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_SECTION_TITLE" sap:sc="XFLD">
+        <source>Auto Refresh</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_TYPE_NONE" resname="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_TYPE_NONE" sap:sc="XMIT">
+        <source>None</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_TYPE_CUSTOM" resname="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_TYPE_CUSTOM" sap:sc="XMIT">
+        <source>Custom Interval</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_INTERVAL_LBL" resname="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_INTERVAL_LBL" sap:sc="XFLD">
+        <source>Interval</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_INTERVAL_MINUTES" resname="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_INTERVAL_MINUTES" sap:sc="XMIT">
+        <source>Minute(s)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_INTERVAL_HOURS" resname="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_INTERVAL_HOURS" sap:sc="XMIT">
+        <source>Hour(s)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_ZERO_VALUE_MSG" resname="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_ZERO_VALUE_MSG" sap:sc="XMSG">
+        <source>Enter a number greater than 0 to enable auto refresh</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_NO_VALUE_MSG" resname="PRESENTATION_SETTINGS_DATA_AUTO_REFRESH_NO_VALUE_MSG" sap:sc="XMSG">
+        <source>Enter a value</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_WIDGET_TITLE_DEFAULT" resname="SEARCH_OVERLAY_WIDGET_TITLE_DEFAULT" sap:sc="XFLD">
+        <source>Widget</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_PAGE_TITLE_DEFAULT" resname="SEARCH_OVERLAY_PAGE_TITLE_DEFAULT" sap:sc="XFLD">
+        <source>Page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_NO_RESULTS_FOUND" resname="SEARCH_OVERLAY_NO_RESULTS_FOUND" sap:sc="XFLD">
+        <source>No results found</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_LOCAL_RESULTS_TITLE" resname="SEARCH_OVERLAY_LOCAL_RESULTS_TITLE" sap:sc="XFLD">
+        <source>Results for this Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SEARCH_OVERLAY_GLOBAL_RESULTS_TITLE" resname="SEARCH_OVERLAY_GLOBAL_RESULTS_TITLE" sap:sc="XFLD">
+        <source>Global (<ph id="1">{0}</ph>)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SEARCH_OVERLAY_GLOBAL_BR_RESULTS_TITLE" resname="SEARCH_OVERLAY_GLOBAL_BR_RESULTS_TITLE" sap:sc="XFLD">
+        <source>Boardroom (<ph id="1">{0}</ph>)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_PLACEHOLDER_INPUT" resname="SEARCH_OVERLAY_PLACEHOLDER_INPUT" sap:sc="XFLD">
+        <source>Search</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_GLOBAL_MESSAGE_SEARCH_FAILED" resname="SEARCH_OVERLAY_GLOBAL_MESSAGE_SEARCH_FAILED" sap:sc="XFLD">
+        <source>Server search request failed</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SEARCH_OVERLAY_TOTAL_RESULT" resname="SEARCH_OVERLAY_TOTAL_RESULT" sap:sc="XFLD">
+        <source><ph id="1">{0}</ph> results</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SEARCH_OVERLAY_TOTAL_RESULT_TOPICS" resname="SEARCH_OVERLAY_TOTAL_RESULT_TOPICS" sap:sc="XFLD">
+        <source><ph id="1">{0}</ph> results (Topics)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SEARCH_OVERLAY_TOTAL_RESULT_PAGES" resname="SEARCH_OVERLAY_TOTAL_RESULT_PAGES" sap:sc="XFLD">
+        <source><ph id="1">{0}</ph> results (Pages)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SEARCH_OVERLAY_TOTAL_RESULT_TILES" resname="SEARCH_OVERLAY_TOTAL_RESULT_TILES" sap:sc="XFLD">
+        <source><ph id="1">{0}</ph> results (Tiles)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_LOAD_RESULTS" resname="SEARCH_OVERLAY_LOAD_RESULTS" sap:sc="XFLD">
+        <source>Load results</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_TOPIC_LEVEL_MENU" resname="SEARCH_OVERLAY_TOPIC_LEVEL_MENU" sap:sc="XFLD">
+        <source>Topic level</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_PAGE_LEVEL_MENU" resname="SEARCH_OVERLAY_PAGE_LEVEL_MENU" sap:sc="XFLD">
+        <source>Page level</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_TILE_LEVEL_MENU" resname="SEARCH_OVERLAY_TILE_LEVEL_MENU" sap:sc="XFLD">
+        <source>Tile level</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SEARCH_OVERLAY_LIMIT_MENU" resname="SEARCH_OVERLAY_LIMIT_MENU" sap:sc="XFLD">
+        <source><ph id="1">{0}</ph> results</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="SEARCH_OVERLAY_LOAD_MORE_RESULTS" resname="SEARCH_OVERLAY_LOAD_MORE_RESULTS" sap:sc="XFLD">
+        <source>Load results <ph id="1">{0}</ph>-<ph id="2">{1}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_PREF_AMOUNT_RESULTS" resname="SEARCH_OVERLAY_PREF_AMOUNT_RESULTS" sap:sc="XFLD">
+        <source>Amount of results</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_PREF_LEVEL_DISPLAY" resname="SEARCH_OVERLAY_PREF_LEVEL_DISPLAY" sap:sc="XFLD">
+        <source>Level of display</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_PREF_LIVE_SEARCH" resname="SEARCH_OVERLAY_PREF_LIVE_SEARCH" sap:sc="XFLD">
+        <source>Live Search</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="SEARCH_OVERLAY_PREF_LEVEL_AS_TYPE" resname="SEARCH_OVERLAY_PREF_LEVEL_AS_TYPE" sap:sc="XFLD">
+        <source>Level as result type</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_AGENDAITEM_DETAILS_BUTTON_TOOLTIP" resname="PRESENTATION_AGENDAITEM_DETAILS_BUTTON_TOOLTIP" sap:sc="XTOL">
+        <source>Toggle list</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_AGENDAITEM_CHILDTOPICS_LABEL" resname="PRESENTATION_AGENDAITEM_CHILDTOPICS_LABEL" sap:sc="XFLD">
+        <source><ph id="1">{0}</ph> topic(s)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CLOSE_LAYER_PANEL_TOOLTIP" resname="PRESENTATION_CLOSE_LAYER_PANEL_TOOLTIP" sap:sc="XTOL">
+        <source>Close Panel</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_TITLE" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_TITLE" sap:sc="XFLD">
+        <source>Invite Participants</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_ENDSHARING_TITLE" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_ENDSHARING_TITLE" sap:sc="XFLD">
+        <source>End Sharing</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_INPUT_LABEL" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_INPUT_LABEL" sap:sc="XFLD">
+        <source>Invite</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_ENDSHARING_INPUT_LABEL" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_ENDSHARING_INPUT_LABEL" sap:sc="XFLD">
+        <source>Additionally send to (optional)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_INPUT_PLACEHOLDER" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_INPUT_PLACEHOLDER" sap:sc="XFLD">
+        <source>Enter Email Address</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_INPUT_ERROR_MESSAGE" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_INPUT_ERROR_MESSAGE" sap:sc="XMSG">
+        <source>Please enter a valid email address</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_INPUT_DUPLICATE_PARTICIPANT_MESSAGE" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_INPUT_DUPLICATE_PARTICIPANT_MESSAGE" sap:sc="XMSG">
+        <source>Invite already sent</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_PARTICIPANTS_LABEL" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_PARTICIPANTS_LABEL" sap:sc="XFLD">
+        <source>Participants:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_NO_PARTICIPANTS_LABEL" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_NO_PARTICIPANTS_LABEL" sap:sc="XFLD">
+        <source>No participants added</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_SHARE_LINK_LABEL" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_SHARE_LINK_LABEL" sap:sc="XFLD">
+        <source>Share link</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_INVITE_BUTTON" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_INVITE_BUTTON" sap:sc="XBUT">
+        <source>Invite</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_OK_BUTTON" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_OK_BUTTON" sap:sc="XBUT">
+        <source>Ok</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_CANCEL_BUTTON" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_CANCEL_BUTTON" sap:sc="XBUT">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_COPY_BUTTON" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_COPY_BUTTON" sap:sc="XBUT">
+        <source>Copy</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_ADD_BUTTON" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_ADD_BUTTON" sap:sc="XBUT">
+        <source>Add</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_KEEP_DISCARD_HEADER" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_KEEP_DISCARD_HEADER" sap:sc="XFLD">
+        <source>What should happen with the Collaboration Board?</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_KEEP_BOARD" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_KEEP_BOARD" sap:sc="XFLD">
+        <source>Keep Collaboration Board</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_DIALOG_DISCARD_BOARD" resname="PRESENTATION_COLLABORATION_INVITE_DIALOG_DISCARD_BOARD" sap:sc="XFLD">
+        <source>Discard Collaboration Board</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_PANEL_TITLE" resname="PRESENTATION_COLLABORATION_PANEL_TITLE" sap:sc="XFLD">
+        <source>Digital Boardroom Collaboration</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_PANEL_DROPZONE_LABEL" resname="PRESENTATION_COLLABORATION_PANEL_DROPZONE_LABEL" sap:sc="XFLD">
+        <source>Drop tile here</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_SUCCESS" resname="PRESENTATION_COLLABORATION_INVITE_SUCCESS" sap:sc="XMSG">
+        <source>Invites sent successfully.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_ERROR" resname="PRESENTATION_COLLABORATION_INVITE_ERROR" sap:sc="XMSG">
+        <source>An error occured while sending the invites.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_NO_PARTICIPANTS" resname="PRESENTATION_COLLABORATION_INVITE_NO_PARTICIPANTS" sap:sc="XMSG">
+        <source>Please add participants to invite.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_CREATE_BOARD_ERROR" resname="PRESENTATION_COLLABORATION_CREATE_BOARD_ERROR" sap:sc="XMSG">
+        <source>Failed to create Collaboration Board.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_IMAGE_GENERATE_ERROR" resname="PRESENTATION_COLLABORATION_IMAGE_GENERATE_ERROR" sap:sc="XMSG">
+        <source>Image generation failed. Please try again.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_SHARE_LINK_COPY_SUCCESS" resname="PRESENTATION_COLLABORATION_SHARE_LINK_COPY_SUCCESS" sap:sc="XMSG">
+        <source>Share link copied successfully.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_SHARE_LINK_COPY_ERROR" resname="PRESENTATION_COLLABORATION_SHARE_LINK_COPY_ERROR" sap:sc="XMSG">
+        <source>Share link could not be copied.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_PLACE_CONTENT_SUCCESS" resname="PRESENTATION_COLLABORATION_PLACE_CONTENT_SUCCESS" sap:sc="XMSG">
+        <source>Content placement successful.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_PLACE_CONTENT_ERROR" resname="PRESENTATION_COLLABORATION_PLACE_CONTENT_ERROR" sap:sc="XMSG">
+        <source>Content placement failed. Please try again.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_INVITE_PARTICIPANTS_TOOLTIP" resname="PRESENTATION_COLLABORATION_INVITE_PARTICIPANTS_TOOLTIP" sap:sc="XTOL">
+        <source>Invite participants</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_DRAG_MODE_TOGGLE_TOOLTIP" resname="PRESENTATION_COLLABORATION_DRAG_MODE_TOGGLE_TOOLTIP" sap:sc="XTOL">
+        <source>Toggle dragging of tiles</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_DRAG_MODE_DISABLED" resname="PRESENTATION_COLLABORATION_DRAG_MODE_DISABLED" sap:sc="XMSG">
+        <source>Disabled dragging of tiles.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_COLLABORATION_DRAG_MODE_ENABLED" resname="PRESENTATION_COLLABORATION_DRAG_MODE_ENABLED" sap:sc="XMSG">
+        <source>Enabled dragging of tiles onto the collaboration board.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_RUUM_LISTRUUMS_ERROR" resname="PRESENTATION_RUUM_LISTRUUMS_ERROR" sap:sc="XMSG">
+        <source>Failed to retrieve list of Ruums. Please try again.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMPANEL_TITLE" resname="RUUMPANEL_TITLE" sap:sc="XMSG">
+        <source>My Ruums</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMPANEL_NO_UNSEEN_ACTIONS" resname="RUUMPANEL_NO_UNSEEN_ACTIONS" sap:sc="XMSG">
+        <source>You're all caught up</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMPANEL_NEW_MESSAGES" resname="RUUMPANEL_NEW_MESSAGES" sap:sc="XMSG">
+        <source>New Messages</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMPANEL_NEW_ATTACHMENTS" resname="RUUMPANEL_NEW_ATTACHMENTS" sap:sc="XMSG">
+        <source>New Attachments</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMPANEL_NEW_TASKS" resname="RUUMPANEL_NEW_TASKS" sap:sc="XMSG">
+        <source>New Tasks</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMPANEL_NEW_COMMENTS" resname="RUUMPANEL_NEW_COMMENTS" sap:sc="XMSG">
+        <source>New Comments</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="RUUMPANEL_LAST_CHANGED" resname="RUUMPANEL_LAST_CHANGED" sap:sc="XMSG">
+        <source>Last changed: <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMCREATOR_CREATE" resname="RUUMCREATOR_CREATE" sap:sc="XMSG">
+        <source>Create</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMCREATOR_NAME" resname="RUUMCREATOR_NAME" sap:sc="XMSG">
+        <source>Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMCREATOR_NAME_PLACEHOLDER" resname="RUUMCREATOR_NAME_PLACEHOLDER" sap:sc="XMSG">
+        <source>Enter a new Ruum name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMCREATOR_ATTACHMENT" resname="RUUMCREATOR_ATTACHMENT" sap:sc="XMSG">
+        <source>Attachment</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMCREATOR_TITLE_MISSING" resname="RUUMCREATOR_TITLE_MISSING" sap:sc="XMSG">
+        <source>Please enter a title for your new Ruum</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="RUUMCREATOR_CREATE_ERROR" resname="RUUMCREATOR_CREATE_ERROR" sap:sc="XMSG">
+        <source>An error occured while creating your new Ruum. Please try again.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_UPLOAD" resname="PRESENTATION_UPLOAD" sap:sc="XBUT">
+        <source>Upload</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_AGENDA_PREVIEW_TITLE" resname="PRESENTATION_AGENDA_PREVIEW_TITLE" sap:sc="XFLD">
+        <source>Agenda Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_AGENDA_PREVIEW_DATE" resname="PRESENTATION_AGENDA_PREVIEW_DATE" sap:sc="XFLD">
+        <source>Date</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_AGENDA_PREVIEW_LOCATION" resname="PRESENTATION_AGENDA_PREVIEW_LOCATION" sap:sc="XFLD">
+        <source>Location</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_AGENDA_PREVIEW_ITEM_TITLE" resname="PRESENTATION_AGENDA_PREVIEW_ITEM_TITLE" sap:sc="XFLD">
+        <source>Agenda Item Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_AGENDA_PREVIEW_PRESENTER" resname="PRESENTATION_AGENDA_PREVIEW_PRESENTER" sap:sc="XFLD">
+        <source>Presenter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_AGENDA_PREVIEW_TOPIC_NAME" resname="PRESENTATION_AGENDA_PREVIEW_TOPIC_NAME" sap:sc="XFLD">
+        <source>Topic Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_AGENDA_PREVIEW_COUNT" resname="PRESENTATION_AGENDA_PREVIEW_COUNT" sap:sc="XFLD">
+        <source>topics</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CONTEXT_PREVIEW_PARENT" resname="PRESENTATION_CONTEXT_PREVIEW_PARENT" sap:sc="XFLD">
+        <source>Parent Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CONTEXT_PREVIEW_LEAVE" resname="PRESENTATION_CONTEXT_PREVIEW_LEAVE" sap:sc="XFLD">
+        <source>Leave Presentation</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_CONTEXT_PREVIEW_ITEM" resname="PRESENTATION_CONTEXT_PREVIEW_ITEM" sap:sc="XFLD">
+        <source>Topic Label Example</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TREE_PREVIEW_TITLE" resname="PRESENTATION_TREE_PREVIEW_TITLE" sap:sc="XFLD">
+        <source>Presentation Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TREE_PREVIEW_ROOT" resname="PRESENTATION_TREE_PREVIEW_ROOT" sap:sc="XFLD">
+        <source>Root Topic Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TREE_PREVIEW_TOPIC" resname="PRESENTATION_TREE_PREVIEW_TOPIC" sap:sc="XFLD">
+        <source>Topic Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TREE_PREVIEW_ACTIVE" resname="PRESENTATION_TREE_PREVIEW_ACTIVE" sap:sc="XFLD">
+        <source>Active Topic Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TREE_PREVIEW_CHILD" resname="PRESENTATION_TREE_PREVIEW_CHILD" sap:sc="XFLD">
+        <source>Child Topic Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TREE_PREVIEW_CLOSE" resname="PRESENTATION_TREE_PREVIEW_CLOSE" sap:sc="XFLD">
+        <source>Close</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_FEED_PREVIEW_TITLE" resname="PRESENTATION_FEED_PREVIEW_TITLE" sap:sc="XFLD">
+        <source>RSS Feed</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_FEED_PREVIEW_SELECT" resname="PRESENTATION_FEED_PREVIEW_SELECT" sap:sc="XFLD">
+        <source>Feed Name</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_FEED_PREVIEW_DATE" resname="PRESENTATION_FEED_PREVIEW_DATE" sap:sc="XFLD">
+        <source>Date: Timestamp</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_FEED_PREVIEW_FEED_TITLE" resname="PRESENTATION_FEED_PREVIEW_FEED_TITLE" sap:sc="XFLD">
+        <source>Lorem ipsum dolor sit amet, consetetur sadipscing...</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_FEED_PREVIEW_FEED_MESSAGE" resname="PRESENTATION_FEED_PREVIEW_FEED_MESSAGE" sap:sc="XFLD">
+        <source>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam rat, sed diam volupta. At vero eos et...</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_FEED_PREVIEW_SOURCE" resname="PRESENTATION_FEED_PREVIEW_SOURCE" sap:sc="XFLD">
+        <source>Source: http://lorem.ipsum.dolor/sit/amet</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LAYER_PREVIEW_PAGE" resname="PRESENTATION_LAYER_PREVIEW_PAGE" sap:sc="XFLD">
+        <source>Page Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LAYER_PREVIEW_ACTIVE" resname="PRESENTATION_LAYER_PREVIEW_ACTIVE" sap:sc="XFLD">
+        <source>Active Page Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LAYER_PREVIEW_SEARCH" resname="PRESENTATION_LAYER_PREVIEW_SEARCH" sap:sc="XFLD">
+        <source>Search</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LAYER_PREVIEW_RSS" resname="PRESENTATION_LAYER_PREVIEW_RSS" sap:sc="XFLD">
+        <source>RSS Feed</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LAYER_PREVIEW_TWITTER" resname="PRESENTATION_LAYER_PREVIEW_TWITTER" sap:sc="XFLD">
+        <source>Twitter</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LAYER_PREVIEW_BACK" resname="PRESENTATION_LAYER_PREVIEW_BACK" sap:sc="XFLD">
+        <source>Back</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LAYER_PREVIEW_MAXIMIZE" resname="PRESENTATION_LAYER_PREVIEW_MAXIMIZE" sap:sc="XFLD">
+        <source>Maximize</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LAYER_PREVIEW_PIN" resname="PRESENTATION_LAYER_PREVIEW_PIN" sap:sc="XFLD">
+        <source>Unpin</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LAYER_PREVIEW_LEAVE" resname="PRESENTATION_LAYER_PREVIEW_LEAVE" sap:sc="XFLD">
+        <source>Leave</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_DEFAULT" resname="PRESENTATION_LANE_SETUP_DEFAULT" sap:sc="XFLD">
+        <source>Default</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_ONE_PAGE" resname="PRESENTATION_LANE_SETUP_ONE_PAGE" sap:sc="XFLD">
+        <source>1 Page + Preview</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_MANUAL_SETTING" resname="PRESENTATION_LANE_SETUP_MANUAL_SETTING" sap:sc="XFLD">
+        <source>Manual screen setting:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_DOUBLE_SPACE" resname="PRESENTATION_LANE_SETUP_DOUBLE_SPACE" sap:sc="XFLD">
+        <source>Enable double space between pages (multi screen setup)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_DOUBLE_SPACE_HELP_TEXT" resname="PRESENTATION_LANE_SETUP_DOUBLE_SPACE_HELP_TEXT" sap:sc="XFLD">
+        <source>Double space is not applicable with 1 page + preview</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_APPLY_BUTTON" resname="PRESENTATION_LANE_SETUP_APPLY_BUTTON" sap:sc="XBUT">
+        <source>Apply</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_CANCEL_BUTTON" resname="PRESENTATION_LANE_SETUP_CANCEL_BUTTON" sap:sc="XBUT">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_PAGES" resname="PRESENTATION_LANE_SETUP_PAGES" sap:sc="XFLD">
+        <source>Pages</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_TWO_PAGES" resname="PRESENTATION_LANE_SETUP_TWO_PAGES" sap:sc="XFLD">
+        <source>2 Pages</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_THREE_PAGES" resname="PRESENTATION_LANE_SETUP_THREE_PAGES" sap:sc="XFLD">
+        <source>3 Pages</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_LANE_SETUP_FOUR_PAGES" resname="PRESENTATION_LANE_SETUP_FOUR_PAGES" sap:sc="XFLD">
+        <source>4 Pages</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TOOLTIP_PREVIEW_LABEL_BIG" resname="PRESENTATION_TOOLTIP_PREVIEW_LABEL_BIG" sap:sc="XFLD">
+        <source>Label Big</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TOOLTIP_PREVIEW_VALUE_BIG" resname="PRESENTATION_TOOLTIP_PREVIEW_VALUE_BIG" sap:sc="XFLD">
+        <source>Value Big</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TOOLTIP_PREVIEW_LABEL" resname="PRESENTATION_TOOLTIP_PREVIEW_LABEL" sap:sc="XFLD">
+        <source>Label</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TOOLTIP_PREVIEW_VALUE" resname="PRESENTATION_TOOLTIP_PREVIEW_VALUE" sap:sc="XFLD">
+        <source>Value</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SEARCH_PREVIEW_TITLE" resname="PRESENTATION_SEARCH_PREVIEW_TITLE" sap:sc="XFLD">
+        <source>Search</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SEARCH_PREVIEW_TOPIC" resname="PRESENTATION_SEARCH_PREVIEW_TOPIC" sap:sc="XFLD">
+        <source>Topic Title(0)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SEARCH_PREVIEW_GLOBAL" resname="PRESENTATION_SEARCH_PREVIEW_GLOBAL" sap:sc="XFLD">
+        <source>Global(6)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SEARCH_PREVIEW_BOARDROOM" resname="PRESENTATION_SEARCH_PREVIEW_BOARDROOM" sap:sc="XFLD">
+        <source>Boardroom(1)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SEARCH_PREVIEW_RESULTS" resname="PRESENTATION_SEARCH_PREVIEW_RESULTS" sap:sc="XFLD">
+        <source>Results</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SEARCH_PREVIEW_TERM" resname="PRESENTATION_SEARCH_PREVIEW_TERM" sap:sc="XFLD">
+        <source>Search Term</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_SEARCH_PREVIEW_MORE" resname="PRESENTATION_SEARCH_PREVIEW_MORE" sap:sc="XFLD">
+        <source>Load results 6-11</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_PANEL_TITLE" resname="PRESENTATION_MEETING_MINUTES_PANEL_TITLE" sap:sc="XFLD">
+        <source>Meeting Minutes</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES" resname="PRESENTATION_MEETING_MINUTES" sap:sc="XFLD">
+        <source>Meeting Minutes</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_ADD_NEW_TOOLTIP" resname="PRESENTATION_MEETING_MINUTES_ADD_NEW_TOOLTIP" sap:sc="XTOL">
+        <source>Add New Meeting Minutes</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_CLOSE_PANEL_TOOLTIP" resname="PRESENTATION_MEETING_MINUTES_CLOSE_PANEL_TOOLTIP" sap:sc="XTOL">
+        <source>Close Meeting Minutes Board</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MAXIMIZE_TOOLTIP" resname="PRESENTATION_MEETING_MINUTES_MAXIMIZE_TOOLTIP" sap:sc="XTOL">
+        <source>Maximize</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MINIMIZE_TOOLTIP" resname="PRESENTATION_MEETING_MINUTES_MINIMIZE_TOOLTIP" sap:sc="XTOL">
+        <source>Minimize</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_SECTION_TOPIC_TITLE" resname="PRESENTATION_MEETING_MINUTES_SECTION_TOPIC_TITLE" sap:sc="XFLD">
+        <source>Topic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_SECTION_PAGE_TITLE" resname="PRESENTATION_MEETING_MINUTES_SECTION_PAGE_TITLE" sap:sc="XFLD">
+        <source>Page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_HEADER_TITLE" resname="PRESENTATION_MEETING_MINUTES_HEADER_TITLE" sap:sc="XFLD">
+        <source>Title</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_PUBLISH" resname="PRESENTATION_MEETING_MINUTES_PUBLISH" sap:sc="XFLD">
+        <source>Publish</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_DONE" resname="PRESENTATION_MEETING_MINUTES_DONE" sap:sc="XFLD">
+        <source>Done</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_ADD_SECTION" resname="PRESENTATION_MEETING_MINUTES_ADD_SECTION" sap:sc="XFLD">
+        <source>Add Section</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_ALL_PAGE_TEXT" resname="PRESENTATION_MEETING_MINUTES_ALL_PAGE_TEXT" sap:sc="XFLD">
+        <source>All pages</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_SECTION_DELETE" resname="PRESENTATION_MEETING_MINUTES_SECTION_DELETE" sap:sc="XFLD">
+        <source>Delete Section</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_SECTION_DUPLICATE" resname="PRESENTATION_MEETING_MINUTES_SECTION_DUPLICATE" sap:sc="XFLD">
+        <source>Duplicate Section</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_LAST_CHANGED" resname="PRESENTATION_MEETING_MINUTES_LAST_CHANGED" sap:sc="XFLD">
+        <source>last changed</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_SECTION_UNSAVED_STATUS" resname="PRESENTATION_MEETING_MINUTES_SECTION_UNSAVED_STATUS" sap:sc="XFLD">
+        <source>unsaved changes</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_SECTION_SAVED_STATUS" resname="PRESENTATION_MEETING_MINUTES_SECTION_SAVED_STATUS" sap:sc="XFLD">
+        <source>saved</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_SECTION_TEXT_PLACEHOLDER" resname="PRESENTATION_MEETING_MINUTES_SECTION_TEXT_PLACEHOLDER" sap:sc="XFLD">
+        <source>Write notes here.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_IS_PUBLISHED" resname="PRESENTATION_MEETING_MINUTES_IS_PUBLISHED" sap:sc="XFLD">
+        <source>is published.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_IS_NOT_PUBLISHED" resname="PRESENTATION_MEETING_MINUTES_IS_NOT_PUBLISHED" sap:sc="XFLD">
+        <source>is not published yet.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_UNPUBLISHED_CHANGES" resname="PRESENTATION_MEETING_MINUTES_UNPUBLISHED_CHANGES" sap:sc="XFLD">
+        <source>has unpublished changes.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_PUBLISHED_AND_UNPUBLISHED_CHANGES" resname="PRESENTATION_MEETING_MINUTES_PUBLISHED_AND_UNPUBLISHED_CHANGES" sap:sc="XFLD">
+        <source>is published but unpublished changes exist.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_PUBLISHED_VERSION" resname="PRESENTATION_MEETING_MINUTES_PUBLISHED_VERSION" sap:sc="XFLD">
+        <source>Published version</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_UNPUBLISHED_VERSION" resname="PRESENTATION_MEETING_MINUTES_UNPUBLISHED_VERSION" sap:sc="XFLD">
+        <source>Unpublished version</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_PUBLISHED_SUCCESS" resname="PRESENTATION_MEETING_MINUTES_PUBLISHED_SUCCESS" sap:sc="XMSG">
+        <source>MeetingMinutes published successfully</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_SAVED_SUCCESS" resname="PRESENTATION_MEETING_MINUTES_SAVED_SUCCESS" sap:sc="XMSG">
+        <source>MeetingMinutes saved successfully</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_EDIT" resname="PRESENTATION_MEETING_MINUTES_EDIT" sap:sc="XFLD">
+        <source>Edit</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_DELETE" resname="PRESENTATION_MEETING_MINUTES_DELETE" sap:sc="XFLD">
+        <source>Delete</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_TOPIC_DELETED" resname="PRESENTATION_MEETING_MINUTES_TOPIC_DELETED" sap:sc="XFLD">
+        <source>Topic deleted</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_PAGE_DELETED" resname="PRESENTATION_MEETING_MINUTES_PAGE_DELETED" sap:sc="XFLD">
+        <source>Page deleted</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MY_MEETING_MINUTES" resname="PRESENTATION_MY_MEETING_MINUTES" sap:sc="XFLD">
+        <source>My Meeting Minutes</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_ADD_TILE" resname="PRESENTATION_MEETING_MINUTES_ADD_TILE" sap:sc="XFLD">
+        <source>Add Meeting Minutes</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_PICKER_TITLE" resname="PRESENTATION_MEETING_MINUTES_PICKER_TITLE" sap:sc="XFLD">
+        <source>Show:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_EMPTY_STATE_TEXT" resname="PRESENTATION_MEETING_MINUTES_EMPTY_STATE_TEXT" sap:sc="XFLD">
+        <source>No Meeting Minutes have been added so far. Add Meeting Minutes by clicking the '+'.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_BOARDROOM_STRUCTURE_SORT" resname="PRESENTATION_MEETING_MINUTES_BOARDROOM_STRUCTURE_SORT" sap:sc="XFLD">
+        <source>Presentation structure</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MORE_ACTIONS_MENU" resname="PRESENTATION_MEETING_MINUTES_MORE_ACTIONS_MENU" sap:sc="XFLD">
+        <source>More actions</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_DELETE_DIALOG_TITLE" resname="PRESENTATION_MEETING_MINUTES_DELETE_DIALOG_TITLE" sap:sc="XFLD">
+        <source>Delete Meeting Minutes</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_DELETE_DIALOG_MESSAGE" resname="PRESENTATION_MEETING_MINUTES_DELETE_DIALOG_MESSAGE" sap:sc="XFLD">
+        <source>Are you sure you want to delete these Meeting Minutes?</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_DELETE_DIALOG_OK_BUTTON" resname="PRESENTATION_MEETING_MINUTES_DELETE_DIALOG_OK_BUTTON" sap:sc="XFLD">
+        <source>Delete</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_DELETE_DIALOG_CANCEL_BUTTON" resname="PRESENTATION_MEETING_MINUTES_DELETE_DIALOG_CANCEL_BUTTON" sap:sc="XFLD">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_HELP" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_HELP" sap:sc="XFLD">
+        <source>Formatting Help</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_BOLD" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_BOLD" sap:sc="XFLD">
+        <source>Bold</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_ITALIC" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_ITALIC" sap:sc="XFLD">
+        <source>Italic</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_HEADER" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_HEADER" sap:sc="XFLD">
+        <source>Header</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_BULLETEDLIST" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_BULLETEDLIST" sap:sc="XFLD">
+        <source>Bulleted List</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_HYPERLINK" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_HYPERLINK" sap:sc="XFLD">
+        <source>Hyperlink</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE" sap:sc="XFLD">
+        <source>Table</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_QUOTE" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_QUOTE" sap:sc="XFLD">
+        <source>Quote</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_SYNTAX_TITLE" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_SYNTAX_TITLE" sap:sc="XFLD">
+        <source>Syntax</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_TITLE" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_TITLE" sap:sc="XFLD">
+        <source>Example</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_SYNTAX_BOLD_ITALIC" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_SYNTAX_BOLD_ITALIC" sap:sc="XFLD">
+        <source>Digital Boardroom</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_BOLD_ITALIC" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_BOLD_ITALIC" sap:sc="XFLD">
+        <source>This is a <ph id="1">{0}</ph></source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_BULLETEDLIST_FIRSTITEM" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_BULLETEDLIST_FIRSTITEM" sap:sc="XFLD">
+        <source>* an item</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_BULLETEDLIST_SECONDITEM" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_BULLETEDLIST_SECONDITEM" sap:sc="XFLD">
+        <source>* another item</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_BULLETEDLIST_ASUBITEM" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_BULLETEDLIST_ASUBITEM" sap:sc="XFLD">
+        <source>* a subitem</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_BULLETEDLIST_THIRDITEM" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_BULLETEDLIST_THIRDITEM" sap:sc="XFLD">
+        <source>* item</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_HYPERLINK_TEXT" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_HYPERLINK_TEXT" sap:sc="XFLD">
+        <source>I am a link</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_TABLE_HEADER" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_TABLE_HEADER" sap:sc="XFLD">
+        <source>| Region |      City     | Revenue |</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_TABLE_ROW1" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_TABLE_ROW1" sap:sc="XFLD">
+        <source>| US       | New York | 1000       |</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_TABLE_ROW2" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_TABLE_ROW2" sap:sc="XFLD">
+        <source>| EMEA  | Berlin       | 2000       |</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE_COLUMN_ALIGNMENT" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE_COLUMN_ALIGNMENT" sap:sc="XFLD">
+        <source>Alignment:</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE_COLUMN_DEFAULT_ALIGNED" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE_COLUMN_DEFAULT_ALIGNED" sap:sc="XFLD">
+        <source>default</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE_COLUMN_CENTER_ALIGNED" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE_COLUMN_CENTER_ALIGNED" sap:sc="XFLD">
+        <source>centered</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE_COLUMN_RIGHT_ALIGNED" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE_COLUMN_RIGHT_ALIGNED" sap:sc="XFLD">
+        <source>right-aligned</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE_COLUMN_LEFT_ALIGNED" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_TABLE_COLUMN_LEFT_ALIGNED" sap:sc="XFLD">
+        <source>left-aligned</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_QUOTE" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_EXAMPLE_QUOTE" sap:sc="XFLD">
+        <source>&gt; This is a quote.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_MARKDOWN_TOOLTIP_INFO" resname="PRESENTATION_MEETING_MINUTES_MARKDOWN_TOOLTIP_INFO" sap:sc="XFLD">
+        <source>Press CTRL + Space to see formating options</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_MEETING_MINUTES_NAV_BUTTON_TOOLTIP" resname="PRESENTATION_MEETING_MINUTES_NAV_BUTTON_TOOLTIP" sap:sc="XFLD">
+        <source>Jump to page</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TREEVIEW_TREE_STRUCTURE_BUTTON" resname="PRESENTATION_TREEVIEW_TREE_STRUCTURE_BUTTON" sap:sc="XBUT">
+        <source>Tree Structure</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TREEVIEW_FEATURED_TOPICS_BUTTON" resname="PRESENTATION_TREEVIEW_FEATURED_TOPICS_BUTTON" sap:sc="XBUT">
+        <source>Featured Topics</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="PRESENTATION_TREEVIEW_FEATURED_TOPICS_HEADER" resname="PRESENTATION_TREEVIEW_FEATURED_TOPICS_HEADER" sap:sc="XFLD">
+        <source>Featured Topics (<ph id="1">{0}</ph>)</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_TREEVIEW_FEATURED_TOPICS_EMPTY_INFO" resname="PRESENTATION_TREEVIEW_FEATURED_TOPICS_EMPTY_INFO" sap:sc="XFLD">
+        <source>No featured topics available.</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_NO_UPDATE_AUTH" resname="PRESENTATION_NO_UPDATE_AUTH" sap:sc="XMSG">
+        <source>You can't edit this Digital Boardroom presentation with your current access permissions.</source>
+        <note annotates="source" from="Developer">Message to be shown when user attempts to edit a Digital Boardroom presentation without update authorization</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="NO_AUTHORIZATION" resname="NO_AUTHORIZATION" sap:sc="XMSG">
+        <source>No Authorization</source>
+        <note annotates="source" from="Developer">Title to be shown as page title when having no auth</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="DELETED" resname="DELETED" sap:sc="XMSG">
+        <source>Deleted</source>
+        <note annotates="source" from="Developer">Page title to be shown when the page has been deleted from the Story</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_UNDO_DATA_CHANGE" maxwidth="20" resname="PF_UNDO_DATA_CHANGE" sap:sc="XBUT" size-unit="char">
+        <source>Undo</source>
+        <note annotates="source" from="Developer">Text for the undo data change quick actions button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_REDO_DATA_CHANGE" maxwidth="20" resname="PF_REDO_DATA_CHANGE" sap:sc="XBUT" size-unit="char">
+        <source>Redo</source>
+        <note annotates="source" from="Developer">Text for the redo data change quick actions button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PF_CALCULATE_BTN" maxwidth="20" resname="PF_CALCULATE_BTN" sap:sc="XBUT" size-unit="char">
+        <source>Calculate</source>
+        <note annotates="source" from="Developer">Text for the calculate quick actions button</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_KEYPAD_OK_BUTTON" resname="PRESENTATION_KEYPAD_OK_BUTTON" sap:sc="XBUT">
+        <source>OK</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_KEYPAD_DELETE_ABBREVIATION_BUTTON" resname="PRESENTATION_KEYPAD_DELETE_ABBREVIATION_BUTTON" sap:sc="XBUT">
+        <source>Del</source>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PRESENTATION_KEYPAD_DELETE_BUTTON" resname="PRESENTATION_KEYPAD_DELETE_BUTTON" sap:sc="XTOL">
+        <source>Delete</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

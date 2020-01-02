@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-datawrangler.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="cfdc474c04d81e3ea71e85fcf293ebdc" form="base64">H4sIAAAAAAAAAF2QQWuDQBCF7/6KB56VjYlpWsghBClCmhQNNDcZ19EubHdlXQv99902Xtrrm2/me0yMa3U416fDtYhiNI3uVOodmUmTV9ak86y6/W6d51vRrpNs07fJasV5sts+9InYCZEJIR8p20RRfHupn59Qmt66DxDmiR38O3lcnCRIMsZ62JENOvIEZfAWTIMOWMuSAo/ZUKsZ3sKxd4o/GVpJNpMyQ1j4uXzvhdJDTSADGseA/KZg5+ziXPyLVVrnWProVB6Lc100RVVdKuxxvI//yfiv6lUzhcy7L9BAoXb4Dbs0+gbxk0kFPAEAAA==</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:59Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LICENSE_ERROR" resname="LICENSE_ERROR" sap:sc="XMSG">
+        <source>Cannot retrieve license information. Please try again later.</source>
+        <note annotates="source" from="Developer">Inform a user that Orca cannot open data in Wrangler because unable to retrieve licensing information. It is an application error that a user cannot correct</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

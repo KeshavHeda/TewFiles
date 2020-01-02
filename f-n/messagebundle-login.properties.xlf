@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-login.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="13f64ed45b88a9ab3881275963e25966" form="base64">H4sIAAAAAAAAAHWPTWuDQBCG7/srBrxWWU21NuBhEzdBulHRlaSnZeNHWLAr+EHov69NL0ltTzPPwPMyrwE8I3HOCKfIACHaSlljL/XQylF12pomVQX+ynU9fF6ZznNzNm27dk3fe2lM7GPsYFy+SttDyDjtWPgEtoPXAG/0PWDJPooFIxvKREyP6BcHOUmBaNl+jqocYNt2U/VfCI84o+huhwC+9STbktk55PulsyMRoyG6h9li3UVpaKRq6wrWcO07fYGyr6taj0q2g7V8ochpFpMDFZyeOHqgObAY6l7Lj3rppSTPj0kW/ngPNHupHIZr1/9dOYnFpuB8Hjd3cQluNdAXMiX7ur4BAAA=</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:56Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGIN_LABEL_NEW" maxwidth="120" resname="LOGIN_LABEL_NEW" sap:sc="XFLD" size-unit="char">
+        <source>SAP Analytics Cloud</source>
+        <note annotates="source" from="Developer">KEY=LOGIN_LABEL_NEW</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGIN_TITLE" maxwidth="120" resname="LOGIN_TITLE" sap:sc="XFLD" size-unit="char">
+        <source>SAP ORCA</source>
+        <note annotates="source" from="Developer">KEY=LOGIN_TITLE</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGIN_FAILED" maxwidth="120" resname="LOGIN_FAILED" sap:sc="XMSG" size-unit="char">
+        <source>Login failed : wrong credentials.</source>
+        <note annotates="source" from="Developer">KEY=LOGIN_FAILED</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="USERNAME_TEXT" maxwidth="120" resname="USERNAME_TEXT" sap:sc="XFLD" size-unit="char">
+        <source>Username</source>
+        <note annotates="source" from="Developer">KEY=USERNAME_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="PASSWORD_TEXT" maxwidth="120" resname="PASSWORD_TEXT" sap:sc="XFLD" size-unit="char">
+        <source>Password</source>
+        <note annotates="source" from="Developer">KEY=PASSWORD_TEXT</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="LOGON_BUTTON_TEXT" maxwidth="120" resname="LOGON_BUTTON_TEXT" sap:sc="XFLD" size-unit="char">
+        <source>Login</source>
+        <note annotates="source" from="Developer">KEY=LOGON_BUTTON_TEXT</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

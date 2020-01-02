@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="x-javajavascriptpropertyresourcebundle" original="/usr/sap/ljs/tew_prod_storage/tasks/Retrieve And Machine Translate_1163663229384068712/fpa-app/src/sap/fpa/ui/resources/i18n/messagebundle-jobqueue.properties" source-language="en">
+    <header>
+      <skl>
+        <internal-file crc="6e0cbd39b4fd08dd72da5bd0c95d8cb8" form="base64">H4sIAAAAAAAAAMWXXW/bNhSG7/MrCPQiLVCkHYYBQ4BdqLIcq5ClTKK7Fhgg0BJtcZBJT6SSGMP++w5JfTmOLAcrtosEcUy+z/niOeQbhGMnTAIHe1dXb77iKLhFWIhSsT3aiApVtBQkZ3yLVEHRH2KNSibV1Qr7gY+/pbE3j71kkeIoCrB/j35BMd1UVBYvislCPILUh4IZxQ2jZS4R4622RIqsS3r1OfqUJovot3Thz7yBdgL7PyxYTlEmynrH5YuUDSsVrTSgl0RrImmOBEdSEVVLg5j7AfbiNMEOXiUDzNwIoPWhXawpX/F79PPHW+QaMiooyWENWYsHsKaiRDEQV2xHtT9tnJCEryg3NDf2IMizFPs48IDi6k3Gpkl9LcfJuHToLL1O96+Pf6MQFk+q7kROyzHJZTTzgk5zqZceCWL6pEw+eZs/K2cTg9im+QxBeSxYVhhIQSRaAwGpim23tALvc0El4kIh+qTrqkfDjwfhauGo5uSBsNLUx5RnD7SSOh0jvn3x4sSPws67L3b5pKxUojqgTSV2jU/EyD+CV71DI0wc+3d3Xgz5n8fRskMnWnIisBbbB/bEjMtD+8yKPsbGjpMYD0/Wf2tSiu1RxB1MFUyOyRow08qoFHyrE9b6cTOZ1VrCn4+FGOjZvE5m8tO3Lo+427s+XFBHuquAPnSrnW0cI6y2NXXVctKOlpTXiHKlww+9TyenJFrEMrKCQDzyJlVGM3AS3Aq7Cye808qB3mPlkWv2jFHaCtCtuNCteKe/UwImhU4UNd/mdEPqUvWNHIYEjmIP0jt3VgE2c8IunzVLW9yPx2dAO7WnPO/aeVeB1r/er8alX1feypR0s+uccFZXFXhVHlBVc34xIl6FoR/eAaPZdo4h6yyjUm7qEjAbxpksIB8XcZKV63pJApxe5BxqAzXfar81v+kTzWo9ZB6ZgnbFEa0qUb2bJHtxHMXAtYrnmHld2QqWjGcv1d5zlv3nKdKWYpr4oasL0srBLDsHN+NWbP491dEVSdQULxO7fUn7SQ/oPjNtz3gF1o2W920HbrTtBBna8YOxo9qha3mN3kJctnVJqnfvdeOCViXRnlQw7vWNRdt4LWkmeH6tZY7NUODMSxH3XB3vEd6+hASXUzT5KlwywtsxfpGHsA6K+nLk0g+BCLtGmVNeWuIrvARkMsosRF1d5KhdeClzEa30mdWbRqCXJLRZ9xpo0lAHOf0JuAvGVTeUzJSFcyOgLT9/TcAHoo7/kxNF9ETvO7R+hkAr0hYs/BCnQeTMbBNuXhxa9TPsD2D/zc3NlC2nzCMc3e3VoaeFUQp/NxeSczsuocI1ZdArOjW4CmQF3I9MA6GkgmsUZGV3ZMTSwe4CzAitRLvlANFv9oxc3Mxbrhly+0psIWJ6AOUsIzCGh+k+aVbNw2gw9togHPm/po227oc0vzljSNM0Ecvs1WcS3U/CFt3dAruROhy05+DtbeJieHejOGH/WdNaXz+1qvUbhE/Z6niKmBnc4U/mMFye4IZszwgUC0FbyuE5m4FMVnDIV9koiAyCD0fCDOsUe+4i9F0n6Ia3M7bju1so9zRjm1eYmNx7rj/33XNW3v5u5uD3NpYfU+ACQ/XtVe9rn422kkEMjmxjegLVp5+MfpiuksGbEZESnvH5oV39P9k6fLhZg9s3bhjhdB6twtnA5sHqfwCK2Iya/xEAAA==</internal-file>
+      </skl>
+      <phase-group>
+        <phase company-name="SAP AG" date="2019-11-13T22:15:58Z" phase-name="file-creation" process-name="file-creation" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter"/>
+      </phase-group>
+      <tool tool-company="SAP AG" tool-id="urn:x-sap:sls-mlt:java-javascript:properties-converter" tool-name="TEW: Java and JavaScript .properties File Converter" tool-version="1.1.0"/>
+    </header>
+    <body>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="UTILITY_REFRESH_TOOLTIP" resname="UTILITY_REFRESH_TOOLTIP" sap:sc="XTOL">
+        <source>Refresh</source>
+        <note annotates="source" from="Developer">Tooltip for reloading the job list</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_SHOW_HIDE_TOOLTIP" resname="JOB_SHOW_HIDE_TOOLTIP" sap:sc="XTOL">
+        <source>Show/Hide columns</source>
+        <note annotates="source" from="Developer">Tooltip for showing/hiding fields in the jobs table</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_FILTER_STATUS_TOOLTIP" resname="JOB_FILTER_STATUS_TOOLTIP" sap:sc="XTOL">
+        <source>Filter by status</source>
+        <note annotates="source" from="Developer">Tooltip for filtering jobs table based on status</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_CREATED_TITLE" maxwidth="80" resname="JOB_CREATED_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>Created on</source>
+        <note annotates="source" from="Developer">Column header above creation time in job list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="JOB_NAME_TITLE" maxwidth="80" resname="JOB_NAME_TITLE" sap:sc="XTXT" size-unit="char">
+        <source><ph id="1">{0}</ph> Name</source>
+        <note annotates="source" from="Developer">Column header above job name in job list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_MODEL_TITLE" maxwidth="80" resname="JOB_MODEL_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>Model</source>
+        <note annotates="source" from="Developer">Column header above model in job list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_MODEL_DELETED" maxwidth="80" resname="JOB_MODEL_DELETED" sap:sc="XTXT" size-unit="char">
+        <source>Model unavailable</source>
+        <note annotates="source" from="Developer">Text shown in the model column if model on which job has been triggered does not exist</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_VERSION_TITLE" maxwidth="80" resname="JOB_VERSION_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>Version</source>
+        <note annotates="source" from="Developer">Column header above version in job list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_TRIGGERED_FROM_TITLE" maxwidth="80" resname="JOB_TRIGGERED_FROM_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>Story</source>
+        <note annotates="source" from="Developer">Column header above story from which a job was triggered in job list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_TRIGGERED_FROM_DELETED" maxwidth="80" resname="JOB_TRIGGERED_FROM_DELETED" sap:sc="XTXT" size-unit="char">
+        <source>Story unavailable</source>
+        <note annotates="source" from="Developer">Text shown in the story column if story from which job has been triggered does not exist</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_TRIGGERED_FROM_DELETED_TTIP" resname="JOB_TRIGGERED_FROM_DELETED_TTIP" sap:sc="XTOL">
+        <source>The story this job has been triggered from is no longer available.</source>
+        <note annotates="source" from="Developer">Tooltip shown in the story column if story from which job has been triggered does not exist</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_TRIGGERED_BY_TITLE" maxwidth="80" resname="JOB_TRIGGERED_BY_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>Triggered by</source>
+        <note annotates="source" from="Developer">Column header above user who triggered a job in job list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_TITLE" maxwidth="80" resname="JOB_STATUS_TITLE" sap:sc="XTXT" size-unit="char">
+        <source>Status</source>
+        <note annotates="source" from="Developer">Column header above status information in job list screen</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_LAST_STATUS_CHANGE" maxwidth="80" resname="JOB_LAST_STATUS_CHANGE" sap:sc="XTXT" size-unit="char">
+        <source>Last Status Change</source>
+        <note annotates="source" from="Developer">Menu entry for the last status changed column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_SHOW_RESTORE_DEFAULT" maxwidth="80" resname="JOB_SHOW_RESTORE_DEFAULT" sap:sc="XTXT" size-unit="char">
+        <source>Restore Default</source>
+        <note annotates="source" from="Developer">Menu entry in the show/hide menu to restore the default</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_QUEUED" maxwidth="30" resname="JOB_STATUS_QUEUED" sap:sc="XTXT" size-unit="char">
+        <source>pending</source>
+        <note annotates="source" from="Developer">Text shown for pending jobs in the status column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_RUNNING" maxwidth="30" resname="JOB_STATUS_RUNNING" sap:sc="XTXT" size-unit="char">
+        <source>running</source>
+        <note annotates="source" from="Developer">Text shown for currently running jobs in the status column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_SUCCESS" maxwidth="30" resname="JOB_STATUS_SUCCESS" sap:sc="XTXT" size-unit="char">
+        <source>successful</source>
+        <note annotates="source" from="Developer">Text shown for successfully finished jobs in the status column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_ERROR" maxwidth="30" resname="JOB_STATUS_ERROR" sap:sc="XTXT" size-unit="char">
+        <source>failed</source>
+        <note annotates="source" from="Developer">Text shown for failed jobs (jobs executed with an error) in the status column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="JOB_STATUS_CHANGE_SINCE" maxwidth="30" resname="JOB_STATUS_CHANGE_SINCE" sap:sc="XTXT" size-unit="char">
+        <source>since <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Text shown for duration since last status change in the status change column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="JOB_STATUS_CHANGE_AT" maxwidth="30" resname="JOB_STATUS_CHANGE_AT" sap:sc="XTXT" size-unit="char">
+        <source>at <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Text shown for time of last status change in the status change column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="JOB_STATUS_CHANGE_COMPLETED" maxwidth="30" resname="JOB_STATUS_CHANGE_COMPLETED" sap:sc="XTXT" size-unit="char">
+        <source>completed in <ph id="1">{0}</ph></source>
+        <note annotates="source" from="Developer">Text shown for completion time of successful job in the status change column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_CHANGE_SEC" maxwidth="10" resname="JOB_STATUS_CHANGE_SEC" sap:sc="XTXT" size-unit="char">
+        <source>s</source>
+        <note annotates="source" from="Developer">Term 's' (singular), used as parameter for 'second' in status change text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_CHANGE_SECS" maxwidth="10" resname="JOB_STATUS_CHANGE_SECS" sap:sc="XTXT" size-unit="char">
+        <source>s</source>
+        <note annotates="source" from="Developer">Term 's' (plural), used as parameter for 'seconds' in status change text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_CHANGE_MIN" maxwidth="10" resname="JOB_STATUS_CHANGE_MIN" sap:sc="XTXT" size-unit="char">
+        <source>min</source>
+        <note annotates="source" from="Developer">Term 'min' (singular), used as parameter for 'minute' in status change text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_CHANGE_MINS" maxwidth="10" resname="JOB_STATUS_CHANGE_MINS" sap:sc="XTXT" size-unit="char">
+        <source>min</source>
+        <note annotates="source" from="Developer">Term 'min' (plural), used as parameter for 'minutes' in status change text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_CHANGE_HOUR" maxwidth="10" resname="JOB_STATUS_CHANGE_HOUR" sap:sc="XTXT" size-unit="char">
+        <source>hour</source>
+        <note annotates="source" from="Developer">Term 'hour' (singular), used as parameter for 'hour' in status change text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_CHANGE_HOURS" maxwidth="10" resname="JOB_STATUS_CHANGE_HOURS" sap:sc="XTXT" size-unit="char">
+        <source>hours</source>
+        <note annotates="source" from="Developer">Term 'hours' (plural), used as parameter for 'hours' in status change text</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_HINT_LOADING" maxwidth="150" resname="JOB_HINT_LOADING" sap:sc="XTXT" size-unit="char">
+        <source>Refreshing Job List...</source>
+        <note annotates="source" from="Developer">Hint for the user on opening the job list that the job list data is currently loaded</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_HINT_NO_JOB" maxwidth="150" resname="JOB_HINT_NO_JOB" sap:sc="XTXT" size-unit="char">
+        <source>The job list is currently empty</source>
+        <note annotates="source" from="Developer">Hint for the user that the job list is currently empty</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_HINT_NO_MATCH" maxwidth="150" resname="JOB_HINT_NO_MATCH" sap:sc="XTXT" size-unit="char">
+        <source>No job matches your search</source>
+        <note annotates="source" from="Developer">Hint for the user that no job in the job list matches the search term</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_TOOLTIP_RUNNING" resname="JOB_STATUS_TOOLTIP_RUNNING" sap:sc="XTOL">
+        <source>The job is currently being processed.</source>
+        <note annotates="source" from="Developer">Tooltip shown for running progress indicator in status column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_TOOLTIP_SUCCESS" resname="JOB_STATUS_TOOLTIP_SUCCESS" sap:sc="XTOL">
+        <source>The job has been finished successfully.</source>
+        <note annotates="source" from="Developer">Tooltip shown for success icon in status column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="JOB_STATUS_TOOLTIP_QUEUED" resname="JOB_STATUS_TOOLTIP_QUEUED" sap:sc="XTOL">
+        <source>The job has been queued for processing.</source>
+        <note annotates="source" from="Developer">Tooltip shown for pending icon in status column</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_TECHNICAL_ERROR" resname="ERROR_TECHNICAL_ERROR" sap:sc="XTOL">
+        <source>A technical error occured.</source>
+        <note annotates="source" from="Developer">Tooltip text shown for error icon in the status column denoting that a generic technical error occured</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="x-urn:x-sap:sls-mlt:java-javascript:messageformat" id="ERROR_TECHNICAL_SPECIFIC" resname="ERROR_TECHNICAL_SPECIFIC" sap:sc="XTOL">
+        <source>A technical error occured:\n <ph id="1">{0}</ph>.</source>
+        <note annotates="source" from="Developer">Tooltip text shown for error icon in the status column denoting that a specific technical error occured</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_SESSION_IN_USE" resname="ERROR_SESSION_IN_USE" sap:sc="XTOL">
+        <source>Version already in use</source>
+        <note annotates="source" from="Developer">Tooltip text shown for error icon in the status column denoting that an error occured due to the version being in use</note>
+      </trans-unit>
+      <trans-unit xmlns:sap="urn:x-sap:sls-mlt" datatype="plaintext" id="ERROR_VERSION_NOT_FOUND" resname="ERROR_VERSION_NOT_FOUND" sap:sc="XTOL">
+        <source>Version unavailable</source>
+        <note annotates="source" from="Developer">Tooltip text shown for error icon in the status column denoting that an error occured due to the version being unavailable</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
